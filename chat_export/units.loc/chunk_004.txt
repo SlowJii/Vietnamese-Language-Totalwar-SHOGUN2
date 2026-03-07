@@ -1,0 +1,83 @@
+=== CHUNK 4/6 — units.loc.tsv ===
+(Dịch 80 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[248] Kihetai
+[249] Chosokabe Bow Samurai
+[250] Takeda Fire Cavalry
+[251] Armoured Corvette - Kasuga class
+[252] Admiral Heavy Bune
+[253] Tadakatsu's Tetsubo Warriors
+[254] Republican Infantry
+[255] Wooden Corvette - Kanrin Maru class
+[256] Bow Ki
+[257] Armoured Corvette - Kaiten class
+[258] Mounted Naginata
+[259] Copper plated Corvette - Kaiten class
+[260] Naginata Warrior Monk Hero
+[261] White Tiger Force
+[262] Hanzo's Shadows
+[263] Chosokabe Daikyu Samurai
+[264] Bow Cavalry
+[265] Ironclad - Kotetsu class
+[266] Chosokabe Bow Ashigaru
+[267] Tokugawa Kisho Ninja
+[268] Mori O Ataka Bune
+[270] Hattori Hanzo
+[271] Levy Garrison Infantry
+[272] Kisho Ninja
+[273] Yari Ashigaru
+[274] Uesugi Naginata Warrior Monk Hero
+[275] Shogitai
+[276] Imperial Infantry
+[277] Wooden Cannon
+[278] Takeda Nobukado
+[279] Attendants Large Ship
+[280] Bow Samurai
+[281] Armstrong Guns
+[282] Copper-plated Corvette - Kasuga class
+[283] Mori Bow Kobaya
+[284] Imperial Guard Cavalry
+[285] Revolver Cavalry
+[286] Imperial Guard Cavalry
+[287] Saigo Takamori
+[288] Red Bear Infantry
+[289] Bow Warrior Monks
+[290] Uesugi Bow Warrior Monks
+[291] Takeda Katsuyori
+[292] Kiyomasa’s Katana Cavalry
+[293] Bow Attendants
+[295] Torpedo boat - Chiyodagata class
+[296] Matchlock Kobaya
+[297] Ikko Ikki Naginata Warrior Monks Garrison
+[298] Kisho Ninja
+[299] Tadakatsu's Tetsubo Warriors
+[300] Bow Ki
+[302] Bow Ashigaru Garrison
+[303] Ishida Mitsunari
+[304] Yari Kachi
+[305] Foot Samurai
+[306] Hojo Tsunanari
+[307] Siege Tower Bune
+[308] Donderbuss Cavalry
+[309] Seigen's Swordmasters
+[311] Hojo Fire Rockets
+[312] Seigen's Swordmasters
+[313] Attendants Light Ship
+[314] Shinsengumi Police Force
+[315] Fire Bomb Kobaya
+[316] Uesugi Norimasa
+[317] Hojo Hand Mortars
+[318] Uesugi Marathon Monks
+[319] Yugekitai
+[320] Sengoku Bune
+[321] Yari Ashigaru Garrison
+[322] Yari Cavalry
+[323] Oda Yari Ashigaru
+[324] Mori Heavy Bune
+[325] Samurai Light Ship
+[326] Mori Cannon Bune
+[327] Mori Medium Bune
+[328] Sharpshooters
+[329] Shogunate Guard Infantry
+[330] White Tiger Force
+[331] Naginata Warrior Monk Cavalry

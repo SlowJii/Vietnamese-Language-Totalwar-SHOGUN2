@@ -1,0 +1,80 @@
+[0] Cảnh sát Kyoto
+[1] Takeda Katana Kỵ binh
+[2] Bộ binh thủy quân
+[3] Nữ tu chiến binh
+[4] Bộ binh tuyến
+[5] Bộ binh thủy quân
+[6] Khinh hạm bọc giáp - lớp Kaiyo Maru
+[7] Kỵ binh Hạng nhẹ
+[8] Anh hùng Katana
+[9] Pháo phòng thủ bờ biển
+[10] Thủy quân lục chiến Hoàng gia
+[11] Khinh hạm bọc đồng - lớp Kaiyo Maru
+[12] Matchlock Samurai
+[13] Yari Ashigaru
+[14] Naginata Warrior Monks
+[15] Naginata Attendants
+[16] Portuguese Tercos
+[17] Kisho Ninja
+[18] Portuguese Tercos
+[19] Hộ vệ hạm bọc đồng - lớp Kanko Maru
+[20] Tosa Xạ thủ
+[21] Thiết giáp hạm - lớp Roanoke
+[22] Tanegashima của Tokitaka
+[23] Anh hùng Katana
+[24] Samurai cưỡi ngựa
+[25] Thuyền buôn
+[26] Thuyền hải tặc trung
+[27] Ikko Ikki Bow Warrior Monks
+[28] Samurai bộ
+[29] Katana Kachi
+[30] Hộ vệ hạm gỗ - lớp Kaiten
+[31] Oda Nobunaga
+[32] Hộ vệ hạm bọc giáp - lớp Kanrin Maru
+[33] Chosokabe Motochika
+[34] Hộ vệ hạm gỗ - lớp Kanko Maru
+[35] Súng Gatling
+[36] Hattori Bandits
+[37] Anh hùng Tetsubo Warrior Monk
+[38] Xạ thủ thiện xạ
+[39] Thuyền Hạng nhẹ Attendants
+[40] Hộ vệ hạm gỗ - lớp Kasuga
+[41] Naginata Warrior Monk Kỵ binh
+[42] Kihetai
+[43] Katana Kỵ binh của Kiyomasa
+[44] Yari Samurai
+[45] Tanegashima của Tokitaka
+[46] Takeda Kỵ binh Hạng nhẹ
+[47] Pháo phòng thủ bờ biển
+[49] Hattori Bow Ashigaru
+[50] Anh hùng Ikko Ikki Naginata Warrior Monk
+[51] Yari Ashigaru
+[52] Cận vệ tối cao
+[53] Nihon Maru
+[54] Otomo Sorin
+[55] Anh hùng Shimazu Katana
+[56] Imported Matchlock Ashigaru
+[57] Cận vệ của Tướng quân
+[58] Shimazu Pháo thủ Hạng nặng
+[59] Thuyền lớn Attendants
+[60] Tên lửa
+[61] Ikko Ikki Marathon Monks
+[62] Cảnh sát Kyoto
+[63] Yari Kỵ binh
+[64] Kỵ binh Sabre
+[65] Date No-Dachi Samurai
+[66] Mori Matchlock Kobaya
+[67] Pháo thủ Hạng nặng
+[68] Ikko Ikki Matchlock Ashigaru
+[69] Mori Sengoku Bune
+[70] Hattori Yari Ashigaru
+[71] Matchlock Warrior Monks
+[72] Hộ vệ hạm bọc giáp - lớp Kasuga
+[73] Kobayakawa Hideaki
+[74] Bow Ronin
+[75] Đồn trú Spear Levy
+[76] Hatamoto của Tướng quân
+[77] Thiết giáp hạm - lớp Warrior
+[78] Naginata Samurai
+[79] Gozen's Hime Heroines
+[80] Katana Wako

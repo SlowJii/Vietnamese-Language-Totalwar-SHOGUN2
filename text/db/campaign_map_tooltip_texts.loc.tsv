@@ -1,0 +1,309 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_map_tooltip_texts.loc		
+campaign_map_tooltip_texts_tooltip_text_tltip_gempei_inspector_protect_armies_from_gempei_spy	Moving a junsatsushi into an army helps protect it from monomi and increases the loyalty of its general.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_metsuke_can_capture_and_trial	Metsuke can imprison enemy agents and put them on trial, sometimes even killing them in the process.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_navy_cannot_attack_this	Your fleet cannot attack this	true
+campaign_map_tooltip_texts_tooltip_text_tltip_this_not_trade_ship_how_to_create_trade_port	This fleet contains no trade ships. To create a trade route move one of your trade ships into this trade port. However, you can use this fleet to defend the post.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_navy_attack_army_bombard	An army belonging to another clan. Your fleet may bombard this target, thereby inflicting casualties.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_attack_target	Right-click to attack target	true
+campaign_map_tooltip_texts_tooltip_text_tltip_move_agent_inside_army_for_protection	Move your agent here for protection.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_agents_convert_population_to_national_religion	Move your agent here to start converting the population to your clan's own religion.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_rival_port_attributes	A port belonging to another clan. Ports can be military or trading ports and are used for trading, recruiting, repairing and replenishing navies.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_navy_cannot_attack_army	Your fleet cannot attack an army	true
+campaign_map_tooltip_texts_tooltip_text_tltip_monk_can_convert_agents	Religious agents can convert enemy agents, forcing them to retire and devote themselves to a faith.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_gempei_monk	One of your sou. He can incite revolts in rivals' provinces and may convince their agents to take up the spiritual life.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_agent_of_other_nation	An agent of another clan.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_ships_speed_up_armies_movement_02	Not only can ships carry your armies across the sea, but they are also much faster than marching. Send them across the coast close to your destination for a shortcut. A general will take command of a fleet when he boards it.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_veteran_attacks_boshin_veteran	A foreign veteran from another clan. Fighters and survivors, they should not be underestimated, even by equals.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_duel_target	Right-click to challenge target to a duel	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_trade_hamlet_non_player_gem	This area has a rich tradition of shipbuilding. This building adds bonuses to ships recruited within the province and increases income.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_blockade_port	Right-click to blockade in port	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_veteran_attacks_boshin_shinobi	A shinobi from another clan. Their dark art makes them a threat, but a foreign veteran is no stranger to violence and subterfuge.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_armies_lay_ambush	One of your armies. This army can lay an ambush.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_rival_town_development_chains	A town belonging to another clan.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_navy_attack_port_unoccupied_no_bombard	A port belonging to another clan. Your fleet may blockade this target, interrupting trade and ship construction.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_infiltrate_port_to_sabotage_assassinate	Successful sabotage will prevent the rival clan from using this port until it is repaired	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_attack_navy	Right-click to attack fleet	true
+campaign_map_tooltip_texts_tooltip_text_tltip_merge_fleets_to_improve_navies	Merge fleets to create a larger force, or to replenish a fleet with more experienced ships.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_attack_town	Right-click to attack town	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_occupy_port	Right-click to occupy port	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_steal_tech	Right-click to steal technology 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_left_clk_select	Left-click to select	true
+campaign_map_tooltip_texts_tooltip_text_tltip_rival_spies_potential_threat	This agent is a potential threat to your clan, and as such should be taken care of as soon as possible.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_town_boshin_geisha	Another clan's town. Your geisha can attempt to distract the local garrison.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_merge_armies_to_improve_armies	Merge armies to create a larger army or add experienced troops to an army.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_army_cannot_attack_navy	Your army cannot attack a fleet	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_attack_port	Right-click to attack port	true
+campaign_map_tooltip_texts_tooltip_text_tltip_left_clk_select_dbl_left_clk_view_his_details	Left-click to select, double left-click to show more details	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_shinobi_attacks_boshin_shinobi	A shinobi from another clan. Masters of subterfuge, other shinobi nevertheless know their tricks.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_attack_army	Right-click to attack army	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_geisha_attacks_boshin_ishinshishi_prey	An ishinshishi from another clan. These men are devoted to their cause and may only be enchanted by geisha of the same allegiance.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_enter_fort	Right-click to enter fort	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_enter_port	Right-click to enter port	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_shinsengumi_attacks_boshin_shinsengumi	A shinsengumi from another clan. It is regrettable that shinsengumi must act against their own, but duty prevails.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_missionaries	A missionary from another clan. Missionaries can perform religious conversion, and to a lesser extent, incite civil unrest.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_player_town_gempei_spy	Moving a monomi into a castle town helps protect it from sou, improves line of sight and reveals hidden armies and agents within the province.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_move_agent_into_army	Right-click to move your agent into this army	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_enter_city	Right-click to enter city	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_geisha_attacks_boshin_shinsengumi_prey	A shinsengumi from another clan. These men are devoted to their cause and may only be enchanted by geisha of the same allegiance.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_gempei_inspector	One of your junsatsushi. He spreads your clan's influence across Japan, bribes armies and pays rival agents to defect.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_navy_cannot_create_trade_routes	This fleet cannot create trade routes	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_enter	Right-click to enter	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_enter_town	Right-click to enter town	true
+campaign_map_tooltip_texts_tooltip_text_tltip_gempei_monk_attack_gempei_inspector_preferred	A junsatsushi from another clan. These men are burdened by responsibility and will gladly seek a sou's wise council.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_assassinate	Right-click to assassinate target	true
+campaign_map_tooltip_texts_tooltip_text_tltip_rival_region_capital	A provincial capital belonging to another clan.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_army_boshin_geisha	Another clan's army. Your geisha may attempt to distract it, thereby preventing movement, or enchant a general into joining her cause.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_navy_attack_town_bombard	A town belonging to another clan. Your fleet may bombard this target, thereby damaging it.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_player_town_gempei_monk	Moving a sou into a castle town helps protect it from junsatsushi and increases happiness in the province.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_navy_skills	One of your fleets. Use them to fight sea battles, transport your armies and blockade ports.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_metsuke_attack_ninja_preferred	Metsuke are particularly effective against geishas and ninjas and can imprison them and put them on trial. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_occupy_trade_post_generate_trade_route_defend	Occupying a trading post with a trade ship will generate a new trade route. You may want to defend your trade posts with armed ships as they are valuable and can come under attack. To get full value from the trade post, you must export the resources to other clans through trade agreements.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_ishinshishi_attacks_boshin_ishinshishi	An ishinshishi from another clan. Despite sharing Imperialist ideals, ishin shishi will not hesitate to strike each other down.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_gempei_monk_incite_rebellion	Sou can incite unrest in rival provinces, encouraging local dissidents to rebel against their masters.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_ishinshishi_attacks_boshin_shinsengumi_nemesis	A shinsengumi from another clan. The Shogun's hounds are committed to stamping out the ishin shishi threat.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_shinobi_attacks_boshin_veteran	A foreign veteran from another clan. Although no strangers to violence, shinobi may yet catch them off-guard.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_isolated_hamlet_player_gem	This area is famous for its monomi. Develop this building to add bonuses to monomi recruited within the province and increase its income. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_player_town_ninja	Move your ninja here to establish a spy network to increase line of sight and improve defence against religious agents.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_town_boshin_shinobi	Another clan's town. Your shinobi can attempt to sabotage local buildings.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_geisha_assassinate_missionary_preferred	Geishas and ninjas are particularly effective against religious agents.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_seduce_general	Your shirabyoshi may seduce rival generals into joining you. They may also distract armies regardless of there being a general present.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_geisha_attacks_boshin_veteran	A foreign veteran from another clan. These foreign gentlemen have a weakness for Japanese beauty.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_left_clk_select_dbl_left_clk_view_their_details	Left-click to select, double left-click to show more details	true
+campaign_map_tooltip_texts_tooltip_text_tltip_attack_this_resource_to_cause_damage	Attacking this resource will damage it, reducing its functionality until fully repaired.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_crafts_non_player	This area is famous for its craft goods. Having access to this resource enables the construction of advanced merchant buildings. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_boshin_ishinshishi	An ishin shishi from another clan. Ishin shishi can persuade enemy troops to join their cause, incite revolts in enemy cities or assassinate enemy characters.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_gold_player	This area is rich in gold resources. Develop this building to further increase your income.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_holy_player	This area is extremely enlightened. Develop this building to add bonuses to holy men recruited within the province. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_wood_player	This is a heavily wooded area. You must maintain a wood resource if you wish to construct higher level ports. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_geisha_attacks_boshin_shinobi_nemesis	A shinobi from another clan. These men survive by avoiding unwanted attention, even that of a charming woman.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_player_town_boshin_shinsengumi	Moving a shinsengumi into a town increases public order through repression. The greater the support for the Shogunate in a province, the greater the shinsengumi's effect.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_population_growth_pops_harbour_to_port	Once your province's population has grown large enough, this harbour will become a port and you will be able to build upon it.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_shinsengumi_attacks_boshin_shinobi_prey	A shinobi from another clan. They stand little chance against the shinsengumi's cunning and prowess.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_agent_cannot_act_against_armies	You cannot act against armies with this agent	true
+campaign_map_tooltip_texts_tooltip_text_tltip_monk_metsuke_preferred	Religious agents can convert enemy agents and are particularly effective against metsuke.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_gempei_spy	One of your monomi. He can spy, sabotage buildings and armies, and assassinate rival characters.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_ports_development_chains	One of your ports. Ports can be military or trading ports and are used for trading, recruiting, repairing and replenishing navies.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_wood_non_player_gem	This is a heavily wooded area. Having access to this resource enables the construction of advanced ports and castles. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_boshin_shinsengumi	A shinsengumi from another clan. Shinsengumi can coerce enemy troops into joining their cause, incite revolts in enemy cities and assassinate enemy characters.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_click_disembark	Right-click to disembark	true
+campaign_map_tooltip_texts_tooltip_text_tltip_player_town_boshin_ishinshishi	Moving an ishin shishi into a town increases public order. The more Imperial support there is in a province, the greater the ishin shishi's effect.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_towns_development_chains	One of your towns. You can construct and develop buildings here, all of which provide different effects and bonuses for your clan. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_gempei_monk	A sou from another clan. He can incite revolts in your provinces and may convince your agents to take up the spiritual life.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_ishinshishi_attacks_boshin_shinobi_prey	A shinobi from another clan. Their clandestine ways are no match for ishin shishi obsession.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_assassinate_gempei_inspector_nemesis	A junsatsuhi from another clan. These men are well-connected and understand monomi clandestine methods.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_merge_armies	Right-click to merge armies	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_move	Right-click to move	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_town_boshin_veteran	Another clan's town. Your foreign veteran can attempt to sabotage local buildings.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_ninjas_non_player	This area is famous for its ninjas. This building adds bonuses to ninjas recruited within the province.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_gempei_inspector_attack_gempei_spy_preferred	A monomi from another clan. These corrupt men are easily manipulated by a junsatushi.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_silk_non_player_gem	This area has a rich tradition of silk production. Having access to this resource enables the construction of palaces as well as increasing income. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_veteran_attacks_boshin_geisha_nemesis	A geisha from another clan. Being above matters of honour, they may not be challenged in single combat.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_assassinate_missionary	Missionaries can convert a population's faith, and to a lesser extent, incite rebellion.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_move_agent_to_rival_city_to_spy_sabotage_assassinate	Move your agent here to perform sabotage or carry out an assassination.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_agent_cannot_act_against_fleets	This agent cannot act against fleets	true
+campaign_map_tooltip_texts_tooltip_text_tltip_attack_this_resource_prevents_its_use	Attacking this resource will prevent the rival clan from being able to use it.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_raid	Right-click to raid trade route	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_boshin_shinsengumi	One of your shinsengumi. Shinsengumi can coerce enemy troops to join their cause, incite revolts in enemy cities and assassinate enemy characters. They may also instil discipline in their clan's troops and improve public order by subduing local dissidents.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_player_army_boshin_ishinshishi	Moving an ishin shishi into an army increases their charge bonus when in combat.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_ships_non_player	This area has a rich tradition of shipbuilding. This building adds bonuses to ships recruited within the province and increases income. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_agent_can_act_against_garrison	If there is an army here your agent will get an opportunity to spy or carry out an assassination.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_army_boshin_veteran	Another clan's army. Your foreign veteran may attempt to harass it, thereby causing casualties, or challenge a general to single combat.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_gempei_inspector_attack_gempei_dancer	A shirabyoshi from another clan. These women are entertainers, their services available for coin.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_gempei_spy	A monomi from another clan. He can spy, sabotage buildings and armies, and assassinate rival characters.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_move_agent_inside_navy_for_transport_protection	Move your agent into this fleet to transport them across the sea. He will be under their protection while travelling with them.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_agent_cannot_act_against_target	This agent cannot act against this target	true
+campaign_map_tooltip_texts_tooltip_text_tltip_assassinate_gempei_spy	A monomi from another clan. These men are masters of subterfuge but other monomi, of course, know their tricks.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_iron_non_player_gem	This area is rich in iron resources. Having access to this resource enables the construction of advanced military and blacksmith buildings. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_attack_trade_post_to_capture_it	A successful attack will allow you to occupy this trade post with trade ships	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_research_non_player	This area is famous for its wisdom. This building adds bonuses to metsuke recruited within the province and increases research rates.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_one_of_your_navy_with_bombard	One of your fleets. Use them to fight sea battles, blockade or assault ports,  transport your armies and bombard inland targets.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_state_academy_player_gem	This area is highly enlightened and the building here adds bonuses to mastery of the arts. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_ishinshishi_attacks_boshin_veteran_prey	A foreign veteran from another clan. Foreigners have corrupted the Japanese people, and the ishin shishi have sworn violent retribution.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_horses_non_player	This area is famous for its horses. This building increases the amount of horses that can be produced for trade and improves the charge bonus of cavalry.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_weapons_non_player	This area is renowned for its weapon making. This building adds armour and melee bonuses to units recruited within the province. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_seduce_gempei_inspector	A junsatsushi from another clan. These men are loyal but are not immune to a shirabyoshi's charms.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_merge_fleets	Right-click to merge fleets	true
+campaign_map_tooltip_texts_tooltip_text_tltip_gempei_monk_attack_gempei_monk	A sou from another clan. These men honour wisdom, but see clearly when it is put to furtive use.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_duel_general	Right-click to challenge the general to a duel	true
+campaign_map_tooltip_texts_tooltip_text_tltip_move_agent_to_army_for_protectection_and_discover_enemy_spies	Move your agent here to increase your army's movement speed and guard against enemy agent's attacks.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_boshin_ishinshishi	One of your ishin shishi. Ishin shishi can persuade enemy troops to join their cause, incite revolts in enemy cities and assassinate enemy characters. They may also instil fervour in their clan's troops and improve public order by rallying the populace.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_seduce_gempei_dancer	A shirabyoshi from another clan. Even she is not immune to another shirabyoshi's charms.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_player_army_boshin_shinsengumi	Moving a shinsengumi into an army improves the defensive capability of its troops.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_embark_ship_at_coast	Right-click to embark when the ship is at the coast	true
+campaign_map_tooltip_texts_tooltip_text_tltip_monk_incite_rebellion	Religious agents can incite revolts in enemy and rival provinces, creating unhappiness and possible rebellion.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_population_growth_pops_village_to_town	Once your province's population has grown large enough, this village will become a town and you will be able to build upon it.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_garrison_army_for_protection_and_public_order	Move your army here if it looks vulnerable to attack, or public order is becoming unstable.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_besiege_city	Right-click to besiege city	true
+campaign_map_tooltip_texts_tooltip_text_tltip_gempei_monk_attack_gempei_spy_nemesis	A monomi from another clan. These amoral men care little for a sou's wisdom.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_army_boshin_shinobi	Another clan's army. Your shinobi may attempt to sabotage the army, thereby causing casualties and preventing movement, or assassinate a general.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_size_of_army_displayed_on_flag	The size of this army is displayed by the bars on their flag. A whole bar represents one unit.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_must_break_siege_to_issue_order	You must break siege before you can issue an order to this army. You can do this by clicking on the 'Break Siege' button on the Battle Deployment panel.	true
+campaign_map_tooltip_texts_tooltip_text_tlttip_gempei_spy_help_army_movement	Moving a monomi into an army helps protect it from sou and improves the army's movement points.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_capture_port	Right-click capture port	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_iron_player	This area is rich in iron resources. You must maintain an iron resource if you wish to construct advanced sword dojos. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_boshin_shinobi	A shinobi from another clan. Shinobi can spy, sabotage enemy buildings and armies, and assassinate enemy characters.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_ninjas_player	This area is famous for its ninjas. Develop this building to add bonuses to ninjas recruited within the province. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_metsuke	A metsuke from another clan. Metsuke can bribe armies and cities and can capture enemy agents.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_player_town_boshin_veteran	Moving a foreign veteran into a town reduces local recruitment costs.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_silk_player_gem	This area has a rich tradition of silk production. Develop this building to increase income and maintain a silk resource for the construction of a palace.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_attack_navy_in_trade_post	Right-click to attack fleet in trade post	true
+campaign_map_tooltip_texts_tooltip_text_tltip_assassinate_rival_agent_assess_success_from_panel	Assassinate this agent to remove them as a threat. Assess your chance of success in the agent actions panel.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_metsuke_protect_armies_from_ninjas	Moving a metsuke into an army provides it with extra defence against ninjas and geishas and increases the loyalty of its general.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_monk_attack_ninja_nemesis	Religious agents can convert enemy agents, but ninjas and geishas have a strong defence against their abilities.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_navy_attack_town_no_bombard	A town belonging to another clan. Your fleet may not act upon this target.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_town_boshin_ishinshishi	Another clan's town. Your ishin shishi can attempt to incite a revolt here.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_gempei_monk_protect_armies_from_gempei_inspector	Moving a sou into an army helps protect it from junsatsushi and improves morale.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_missionaries	One of your missionaries. Missionaries can perform religious conversion, and to a lesser extent, incite civil unrest.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_railway_allied_agent_embark	A station belonging to a clan with whom you have military access. Your agent may travel by rail from here.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_boshin_geisha	A geisha from another clan. Geisha can distract enemy armies and garrisons with their art, as well as enchant rival agents to join their clan.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_attack_this_town_to_cause_damage	Attacking this town will damage it, reducing its functionality until fully repaired.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_garrison	Right-click to garrison	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_enter_port_wont_disembark	Right-click to enter port (will not automatically disembark)	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_gempei_inspector	A junsatsushi from another clan. Junsatsushi spread their clan's influence across Japan, can bribe armies and can pay agents to abandon their masters.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_resources_attributes	This farm produces food for your global food supply, which is essential to sustain the population of your castle towns. A province's fertility determines its wealth contribution towards the clan's estates.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_player_town_religious_agent	Move your agent here to increase happiness and resistance against bribery. Your agent will also start converting the populace to your clan's religion.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_wood_player_gem	This is a heavily wooded area. You must maintain a wood resource if you wish to build advanced ports and castles. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_player_army_boshin_geisha	Moving a geisha into an army will improve the troops' morale.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_move_into_army	Right-click to move into this army	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_monks	A monk from another clan. Monks can incite civil unrest, and to a lesser extent, perform religious conversion.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_left_clk_select_dbl_left_clk_view_generals_details	Left-click to select, double left-click to show more details	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_research	Right-click to research	true
+campaign_map_tooltip_texts_tooltip_text_tltip_infiltrate_port_spy_sabotage_damaged_ports_lose_attributes	Successful sabotage will prevent the rival clan from using this port until it is repaired.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_navy_cannot_attack_cities	Your fleet cannot attack cities	true
+campaign_map_tooltip_texts_tooltip_text_tltip_assassinate_geisha	Geishas are expert assassins and dangerous to your clan.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_assassinate_gempei_dancer_nemesis	A sihrabyoshi from another clan. These women know how to influence men, regardless of their intentions.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_geishas	A geisha from another clan. Geishas can assassinate enemy and rival characters and have a passive spying ability.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_town_boshin_shinsengumi	Another clan's town. Your shinsengumi can attempt to incite a revolt here.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_left_clk_select_dbl_left_clk_view_admirals_details	Left-click to select, double left-click to show more details	true
+campaign_map_tooltip_texts_tooltip_text_tltip_seduce_gempei_monk_nemesis	A sou from another clan. These pious men are not easily distracted by a shirabyoshi's charms.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_raid_trade_routes_for_cash_stay_on_route	Raid trade routes to steal money from other clans. Your army must stay on the trade route for one turn to carry out the raid.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_wood_non_player	This is a heavily wooded area. Having access to this resource enables the construction of higher level ports. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_gold_non_player	This area is rich in gold resources. This building increases income.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_holy_non_player	This area is extremely enlightened. This building adds bonuses to holy men recruited within the province. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_crafts_player	This area is famous for its craft goods. You must maintain a craft goods resource if you wish to construct advanced merchant buildings. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_shinsengumi_attacks_boshin_ishinshishi_prey	An ishinshishi from another clan. Putting an end to these imperial terrorists is the shinsengumi's true calling.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_geisha_assassinate_metsuke_nemesis	Metuskes are adept at defending against ninja and geisha actions.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_clk_on_port_coast_disembark	Disembark by clicking on a port or the coast	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_ninjas	A ninja from another clan. Ninjas can assassinate enemy and rival characters, sabotage buildings and armies and have a passive spying ability.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_boshin_veteran	A foreign veteran from another clan. Foreign veterans can harass enemy armies, sabotage buildings and challenge to single combat.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_enter_trade_post	Right-click to enter trade post	true
+campaign_map_tooltip_texts_tooltip_text_tltip_transport_agents_by_sea_to_preach_abroad	Move your agent onto a ship to carry him across the sea and spread his message abroad.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_player_town_boshin_shinobi	Moving a shinobi into a town increases provincial line-of-sight and reveals armies and agents hidden nearby.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_sail_new_theatre	Right-click to sail to a different theatre	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_blockade_in_port	Right-click to blockade port	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_agents	One of your agents.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_rival_navy_actions	A rival clan's fleet. They are used for sea battles, transporting armies and blockading ports.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_iron_non_player	This area is rich in iron resources. Having access to this resource enables the construction of advanced sword dojos. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_rival_navy_currently_docked	A rival clan's fleet. They are currently docked and may be replenishing or effecting repairs.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_beware_sunk_ships_lose_passengers	Be careful not to lose any ships carrying passengers in battle. If the ship sinks, so will the passengers, and you could lose an entire army!	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_gempei_dancer	A shirabyoshi from another clan. Shirabyoshi can seduce rivals' characters, and entertain your generals and provincial nobles.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_player_town_boshin_geisha	Moving a geisha into a town increases local economic growth.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_left_clk_select_dbl_left_clk_open_admirals_details	Left-click to select, double left-click to show more details	true
+campaign_map_tooltip_texts_tooltip_text_tltip_player_army_boshin_shinobi	Moving a shinobi into an army increases its campaign map movement rate.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_railway_allied_none_selected	A station belonging to a clan with whom you have military access. Your armies and agents may travel by rail from here.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_navy_cannot_attack_towns	Your fleet cannot attack towns	true
+campaign_map_tooltip_texts_tooltip_text_tltip_blockade_ports_to_halt_trade_and_start_war_02	Blockading this port is an act of war and will prevent the rival clan from using it for any existing trade routes.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_infiltrate_navy_to_spy_assassinate	Move your agent here to attempt an assassination against the rival fleet's general.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_boshin_veteran	One of your foreign veterans. Foreign veterans can harass enemy armies, sabotage buildings and challenge others to single combat. They can also help troops gain experience and reduce the cost of recruitment, when garrisoned.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_ninjas	One of your ninjas. Ninjas can assassinate enemy and rival characters, sabotage buildings and armies and have a passive spying ability.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_ishinshishi_attacks_boshin_geisha_nemesis	 A geisha from another clan. Such beauty will not distract an ishin shishi from his higher purpose.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_cannot_disembark	You cannot disembark here. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_attack_this_town_prevents_its_use	Attacking this town will prevent the rival clan from being able to use it.	true
+campaign_map_tooltip_texts_tooltip_text_tlttip_ninjas_help_army_movement	Ninjas act as a scouts when they are in an army, increasing movement on the map. They also increase the army's defence against religious agents.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_besiege_city_to_own_it_destroy_or_nurture	Besiege a city to claim it as your own. Then either develop it as part of your realm, or destroy its buildings, leaving it useless to any other clan.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_sea_trade_posts_unoccupied	Place trade ships here to transport the post's resources to your capital to trade on in agreements and sell the surplus to the domestic market.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_army_boshin_shinsengumi	Another clan's army. Your shinsengumi may coerce enemy troops to join them or assassinate a general.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_state_academy_non_player_gem	This area is highly enlightened and the building here adds bonuses to mastery of the arts. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_click_attack	Right-click to attack	true
+campaign_map_tooltip_texts_tooltip_text_tltip_place_agent_here_to_discover_enemy_spies	Place your agent here to guard against enemy agents.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_gempei_inspector_can_bribe	Junsatsushi can bribe armies, causing all or some of their numbers to defect to your clan.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_weapons_player	This area is renowned for its weapon making. Develop this building to add armour and melee bonuses to units recruited within the province. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_stone_player	This area has an abundance of stone resources. You must maintain a stone resource to enable the construction of higher level castles. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_horses_player	This area is famous for its horses. This building will increase the amount of horses you can produce for trade and improve the charge bonus of your cavalry.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_iron_player_gem	This area is rich in iron resources. You will have to maintain an iron resource if you wish to construct advanced military and blacksmith buildings. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_research_player	This area is famous for its wisdom. Develop this building to add bonuses to metsuke recruited within the province and increase your research rates.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_dancer_seduce_gempei_spy_preferred	A monomi from another clan. These depraved men are sadly vulnerable to being seduced by shirabyoshi.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_boshin_shinobi	One of your shinobi. Shinobi can spy, sabotage enemy buildings and armies, as well as assassinate other agents and generals. They may also scout for armies, increasing their movement range, and establish spy networks within provinces to detect hidden armies and agents.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_view_fleets_strength_on_their_flag	Before attacking, you can view the size a fleet by looking at the number of bars on their flag. A whole bar represents one ship.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_trade_route_used_for_import_export	This is a trade route. These are used for the import and export of trade	true
+campaign_map_tooltip_texts_tooltip_text_tltip_blockade_ports_to_start_war_and_halt_trade	Blockading this port is an act of war and will prevent the rival clan from using it for any existing trade routes.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_navy_attack_army_no_bombard	An army belonging to another clan. Your fleet may not act upon this target.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_navy_attack_port_unoccupied_bombard	A port belonging to another clan. Your fleet may blockade or bombard this target.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_shinsengumi_attacks_boshin_geisha_nemesis	A geisha from another clan. Such beauty will not distract shinsengumi from their duty.	true
+campaign_map_tooltip_texts_tooltip_text_province_specialities_stone_non_player	This area has an abundance of stone resources. Having access to this resource enables the construction of higher level castles. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_assassinate_ninja	Ninjas are expert assassins, spies and saboteurs and a threat to your clan.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_player_town_gempei_inspector	Moving a junsatsuchi into a castle town helps protect it from monomi and increases repression and tax income in the province.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_player_army_boshin_veteran	Moving a foreign veteran into an army will contribute to troop experience.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_ikko_monk_incite_rebellion	Ikko monks can incite revolts in enemy and rival provinces. If they successfully win a rebellion, the province will join the Ikko clan.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_navy_attack_town_settlement_bombard	A town belonging to another clan. Your fleet may bombard this target, thereby damaging buildings and inflicting casualties on any garrisoned units.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_ships_player	This area has a rich tradition of shipbuilding. Develop this building to add bonuses to ships recruited within the province and increase its trade income. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_non_player_army_boshin_ishinshishi	Another clan's army. Your ishin shishi may attempt to persuade enemy troops to join their cause or assassinate a general.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_assassinate_metsuke	Metuskes can bribe your own agents and are experts at spotting your hidden ninjas.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_embark	Right-click to embark	true
+campaign_map_tooltip_texts_tooltip_text_tltip_dock_here_to_replenish_repair_ships	Dock here to replenish your fleet or carry out repairs.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_assassinate_monk	Monks are excellent at inciting rebellion, and to a lesser extent, converting people's faith.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_veteran_attacks_boshin_shinsengumi	A shinsengumi from another clan. These men are keen warriors and a worthy match for any foreign veteran.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_railway_yours_none_selected	One of your stations. Your armies and agents may travel by rail from here.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_trade_ships_create_trade_posts_look_on_map	Trade ships are used to create trade by occupying trade posts. Use your radar to find these posts.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_navy_attack_port_occupied_bombard	A port belonging to another clan. Your fleet may assault this target, initiating a port battle; bombardment is only possible when the target port is unoccupied.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_geishas	One of your geishas. Geishas can assassinate enemy and rival characters and have a passive spying ability.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_railway_enemy_none_selected	A station belonging to another clan. Your armies and agents may not travel by rail from here. Raiding or sabotaging this station will prevent others from using it to their advantage.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_select_move_army_to_embark	Select and move army to embark	true
+campaign_map_tooltip_texts_tooltip_text_tltip_gempei_monk_attack_gempei_dancer_preferred	A shirabyoshi from another clan. Only a sou can save such women from their licentious ways.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_railway_enemy_army_embark	A station belonging to another clan. Your army may not travel by rail from here. Raiding or sabotaging this station will prevent others from using it to their advantage.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_army_from_another_nation	An army from another clan. They can attack your armies, besiege your cities and blockade your ports.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_railway_enemy_agent_embark	A station belonging to another clan. Your agent may not travel by rail from here.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_occupy_enemy_port_to_cause_damage	Move your army into this port to prevent the rival clan from using it, leaving it damaged so they have to spend time and money repairing it.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_dock_navy_in_port	Dock your fleet in a port	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_veteran_attacks_boshin_ishinshishi_nemesis	An ishinshishi from another clan. These men have a dogmatic hatred of foreigners and will not be easily overcome by them.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_left_clk_select_dbl_left_clk_open_details	Left-click to select, double left-click to show more details	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_assassinate_spy	Right-click to assassinate agent	true
+campaign_map_tooltip_texts_tooltip_text_tltip_left_clk_select_dbl_left_clk_view_details	Left-click to select, double left-click to show more details	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_seduce	Right-click to seduce target	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_navy_attack_port_multiple_options	A port belonging to another clan. This target may be bombarded from afar, blockaded or assaulted.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_operate_against_target	Right-click to operate against target	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_armies_skills	One of your armies. Use them to attack armies, besiege cities and blockade ports.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_entertain_player_army_gempei_dancer	Moving a shirabyoshi into an army helps protect it from monomi and increases the loyalty of its general.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_trade_hamlet_player_gem	This area has a rich tradition of shipbuilding. Develop this building to add bonuses to ships recruited within the province and increase its income.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_metsuke_attack_monk_nemesis	Metsuke can imprison enemies and put them on trial, but religious agents have a strong defence against them.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_metsuke	One of your metsuke. Metsuke can bribe armies and cities and can capture enemy agents.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_army_can_lay_ambush_here	Your army can lay an ambush here.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_carry_agent_overseas_on_this_ship	Place your agent onto a ship to transport him across the sea so he can carry out his nefarious schemes abroad!	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_player_town_geisha	Moving a geisha here will have no effect as they can only be used to assassinate and spy on other clans.	true
+campaign_map_tooltip_texts_tooltip_text_tltipt_gempei_inspector_can_request_allegiance	Junsatsushi can ask provinces and garrisons to join you, as long as local support for your family is strong.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_assassinate_general	Weaken this army by sabotaging it or assassinating its general.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_navy_attack_army_multiple_options	An army belonging to another clan. This target may be bombarded from afar or units may be disembarked to attack it.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_railway_allied_army_embark	A station belonging to a clan with whom you have military access. Your army may travel by rail from here.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_monk_protect_armies_from_metsuke	Moving a religious agent into an army provides it with extra defence against metsuke and increases the morale of its soldiers.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_gempei_inspector_attack_gempei_inspector	A junsatsushi from another clan. These men are loyal to their masters but recognise a good deal when it is offered.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_sail_here	Right-click to sail here	true
+campaign_map_tooltip_texts_tooltip_text_tltip_dock_port_to_replenish_repair_fleet	Dock your fleet in a port to replenish it and carry out repairs	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_gempei_dancer	One of your shirabyoshi. Shirabyoshi can seduce rivals' characters, and entertain your generals and provincial nobles.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_monk_can_demoralise_army	Religious agents can demoralise enemy and rival armies, reducing their skill and morale.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_attack_enemy_port_to_cause_damage	Attacking this port will damage it, reducing its functionality until fully repaired.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_province_specialities_isolated_hamlet_non_player_gem	This area is famous for its monomi. This building adds bonuses to monomi recruited within the province and increases income. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_railway_yours_agent_embark	One of your stations. Your agent may travel by rail from here.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_geisha_attacks_boshin_geisha	A geisha from another clan. These performers are immune to the charms of other geisha.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_region_capital_attributes	Your provincial capital. Construct buildings, manage the province and recruit armies here.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_monks	One of your monks. Monks can incite civil unrest, and to a lesser extent, perform religious conversion.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_agent_cannot_raid	This agent cannot raid trade routes	true
+campaign_map_tooltip_texts_tooltip_text_tltip_about_player_town_metsuke	Move your metsuke here to increase repression, tax income and improve defence against ninjas.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_assassinate_gempei_monk_preferred	A sou from another clan. These unworldly men are easy targets for the underhanded monomi.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_shinobi_attacks_boshin_shinsengumi_nemesis	A shinsengumi from another clan. These well-trained men know well how to counteract shinobi.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_right_clk_infiltrate_fleet	Right-click to infiltrate target fleet	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_shinsengumi_attacks_boshin_veteran	A foreign veteran from another clan. These gentlemen are a match for even the hardest shinsengumi.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_move_agent_here_to_sabotage	Move your agent here to perform sabotage. Anything damaged will be unusable until repaired.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_navy_attack_port_occupied_no_bombard	A port belonging to another clan. Your fleet may assault this target, initiating a port battle.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_one_of_your_boshin_geisha	One of your geisha. Geisha can distract enemy armies and garrisons with their art, as well as enchant rival agents to join their clan. They may also use their skills to inspire their clan's troops and entertain provincial nobles.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_raid_trade_routes_to_steal_money	Raiding trade routes will supply your clan with someone else's hard earned money.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_railway_yours_army_embark	One of your stations. Your army may travel by rail from here.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_shinobi_attacks_boshin_geisha_prey	A geisha from another clan. Civilians such as these stand little chance against shinobi.	true
+campaign_map_tooltip_texts_tooltip_text_tltipt_metsuke_can_bribe	Metsuke can bribe towns and armies, causing all or some of them to defect to your clan. 	true
+campaign_map_tooltip_texts_tooltip_text_tltip_entertain_player_town_gempei_dancer	Moving a shirabyoshi into a castle town helps protect it from monomi and increases provincial growth.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_rival_resource_attributes	A resource belonging to another clan. Resources are used for farming and trade with other clans.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_raid_trade_routes_for_cash_over_one_turn	Raiding trade routes will supply your clan with someone else's hard earned money. Your fleet must stay on the trade route for one turn to carry out the raid.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_ships_speed_up_armies_movement_along_coast	Not only can ships carry your armies across the sea, but they are also quicker than walking. Send them across the coast close to your destination for a shortcut. A general will take command of a fleet when he boards it.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_gempei_inspector_attack_gempei_monk_nemesis	A sou from another clan. These devout men will not readily give in to a junsatsushi's persuasions.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_navy_attack_town_multiple_options	An town belonging to another clan. This target may be bombarded from afar or units may be disembarked to attack it.	true
+campaign_map_tooltip_texts_tooltip_text_tltip_boshin_shinobi_attacks_boshin_ishinshishi_nemesis	An ishinshishi from another clan. Well-versed in subterfuge and espionage, they are true a challenge for shinobi. 	true

@@ -1,0 +1,33 @@
+key	text	tooltip
+#Loc;1;text/db/avatar_xp_rewards.loc		
+avatar_xp_rewards_onscreen_description_enemy_avatar_routed	Enemy avatar routed: %n xp	true
+avatar_xp_rewards_onscreen_description_rank_differential_modifier_positive	Rank differential bonus: %n%	true
+avatar_xp_rewards_onscreen_description_result_victory_heroic	Heroic victory: %n xp	true
+avatar_xp_rewards_onscreen_description_result_defeat_close	Close defeat: %n xp	true
+avatar_xp_rewards_onscreen_description_rank_differential_modifier_negative	Rank differential penalty: %n%	true
+avatar_xp_rewards_onscreen_description_pb_didnt_get_worst_kills_(once_only)	New personal best! Winning streak: %n xp	true
+avatar_xp_rewards_onscreen_description_result_defeat_valiant	Valiant defeat: %n xp	true
+avatar_xp_rewards_onscreen_description_pb_most_enemy_units_shattered	New personal best! Enemy units shattered: %n xp	true
+avatar_xp_rewards_onscreen_description_enemy_avatar_killed	Enemy avatar wounded: %n xp	true
+avatar_xp_rewards_onscreen_description_enemy_avatar_shattered	Enemy avatar shattered: %n xp	true
+avatar_xp_rewards_onscreen_description_result_draw	Draw: %n xp	true
+avatar_xp_rewards_onscreen_description_result_victory_close	Close victory: %n xp	true
+avatar_xp_rewards_onscreen_description_special_abilities_used_on_team	Special abilities used on team: %n xp	true
+avatar_xp_rewards_onscreen_description_battle_lost	Battle lost: %n xp	true
+avatar_xp_rewards_onscreen_description_pb_most_units_rallied	New personal best! Units rallied: %n xp	true
+avatar_xp_rewards_onscreen_description_pb_best_streak	New personal best! Winning streak: %n xp	true
+avatar_xp_rewards_onscreen_description_result_defeat_decisive	Decisive defeat: %n xp	true
+avatar_xp_rewards_onscreen_description_pb_most_kills	New personal best! Enemy troops killed: %n xp	true
+avatar_xp_rewards_onscreen_description_result_defeat_crushing	Crushing defeat: %n xp	true
+avatar_xp_rewards_onscreen_description_result_victory_pyrrhic	Pyrrhic victory: %n xp	true
+avatar_xp_rewards_onscreen_description_drop_in_bonus	Drop-in battle bonus: +100%xp	true
+avatar_xp_rewards_onscreen_description_pb_enemy_units_wiped_out	New personal best! Enemy units wiped out: %n xp	true
+avatar_xp_rewards_onscreen_description_battle_won	Battle won: %n xp	true
+avatar_xp_rewards_onscreen_description_result_victory_decisive	Decisive victory: %n xp	true
+avatar_xp_rewards_onscreen_description_pb_didnt_lose_(once_only)	New personal best! Didn't lose battle: %n xp	true
+avatar_xp_rewards_onscreen_description_most_enemy_units_routed_on_team	Most enemy units routed on team: %n xp	true
+avatar_xp_rewards_onscreen_description_got_an_achievement	Achievement: %n xp	true
+avatar_xp_rewards_onscreen_description_most_enemy_units_wiped_out_on_team	Most enemy units wiped out on team: %n xp	true
+avatar_xp_rewards_onscreen_description_pb_special_abilities_used	New personal best! Special abilites used: %n xp	true
+avatar_xp_rewards_onscreen_description_most_units_rallied_on_team	Most units rallied on team: %n xp	true
+avatar_xp_rewards_onscreen_description_most_kills_on_team	Most kills on team: %n xp	true

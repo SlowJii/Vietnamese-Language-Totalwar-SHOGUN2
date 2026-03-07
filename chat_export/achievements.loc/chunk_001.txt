@@ -1,0 +1,83 @@
+=== CHUNK 1/3 — achievements.loc.tsv ===
+(Dịch 80 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[0] Create a second avatar for use in avatar conquest mode.
+[1] Control all the provinces on the island of Kyushu in the campaign.
+[2] Oda Victory
+[3] Journey's End
+[4] Win 20 naval battles in multiplayer.
+[5] Sink an enemy ship by ramming. [Fall of the Samurai only]
+[6] Win a campaign as a Christian daimyo.
+[7] The Duellist
+[8] Stranglehold
+[9] Dishonoured Foe
+[10] Father of the Imperial Navy
+[11] Berserk Charge
+[12] Win 50 matchmade battles in multiplayer.
+[13] Win 25 matchmade battles in multiplayer.
+[14] Win a multiplayer battle using no ranged units in your army.
+[15] Swift and Deadly
+[16] Fight a drop-in battle.
+[17] Thy Will Be Done
+[18] Win a battle using an army composed entirely of hero units and your general.
+[19] Onna-Bugeisha
+[20] Play 10 multiplayer battles of any type.
+[21] Master of the Waves
+[22] Damn the Torpedoes
+[23] Achieve the ultimate goal and become Shogun in the grand campaign.
+[24] Complete all historical battles. [Fall of the Samurai only]
+[25] Win a campaign as the Chosokabe clan.
+[26] Sink an enemy ship with torpedoes. [Fall of the Samurai only]
+[27] Win a battle using an army composed of at least one of every class of unit (sword infantry, cavalry, archer, matchlock, spear, naginata).
+[28] Double Dragons
+[29] Successfully rally 5 units at once with one use of the general's rally ability.
+[30] The Iron Lady
+[31] Shimazu Victory
+[32] Servant of God
+[33] Win a campaign as the Takeda clan.
+[34] Spreading Like Wildfire
+[35] Obtain a unit of maximum rank in the grand campaign.
+[36] Win a campaign as the Hojo clan.
+[37] Serve with Honour
+[38] Uesugi Victory
+[39] A Promising Beginning
+[40] Win the Battle of Aizu after provoking all four hidden armies at once. [Fall of the Samurai only]
+[41] Hojo Victory
+[42] A Respectable Rule
+[43] Chase down and rout an enemy unit as it tries to escape the Battle of Toba-Fushimi. [Fall of the Samurai only]
+[44] Play a historical battle. [Fall of the Samurai only]
+[45] Win 10 siege battles as the attacker.
+[46] Win a campaign as the Shimazu clan.
+[47] Obtain a maximum level missionary.
+[48] Complete the Battle of Miyako Bay with the Kotetsu having taken less than 25% damage. [Fall of the Samurai only]
+[49] Be the first clan in the campaign to obtain gunpowder mastery.
+[50] Obtain a maximum level monk.
+[51] Win a campaign on legendary difficulty.
+[52] As the defender, recapture a tower.
+[53] Master Interrogator
+[54] Wolves of Mibu
+[55] Defeat a Fall of the Samurai army with a Shogun 2 army.
+[56] Requiem of the Dead
+[57] Against All Odds
+[58] Control all the trade posts on the campaign map at the same time.
+[59] Fear No Horseman
+[60] Famed Shogun
+[61] All Aboard!
+[62] Win a battle with British ships in your navy. [Fall of the Samurai only]
+[63] The Dragon of Japan
+[64] Date Victory
+[65] Win the Battle of Ueno without capturing any of the key temple buildings. [Fall of the Samurai only]
+[66] Win a multiplayer battle using no cavalry units (excluding the general) in your army.
+[67] Fearsome Commander of Men
+[68] Ezo Republic
+[69] Keep at least 4 ashigaru units for a whole battle without routing once.
+[70] Mori Victory
+[71] Exceptional Warriors
+[72] Gift-wrapped
+[73] United in Conquest
+[74] Win a multiplayer co-op campaign.
+[75] Win 10 siege battles as the defender.
+[76] Through the avatar system, get a veteran unit to level 4.
+[77] Win your first multiplayer battle.
+[78] Defeat a Shogun 2 army with a Fall of the Samurai army. [Fall of the Samurai only]
+[79] Uniter of Japan

@@ -1,0 +1,92 @@
+2026-03-01 21:30:53,516 [INFO] ✓ Đã kết nối Gemini API với model: gemini-2.5-flash-preview-04-17
+2026-03-01 21:30:53,518 [INFO] ✓ Đã load từ điển thuật ngữ: C:\Users\hoang\Desktop\Vietnamese-Language-Totalwar\translation_glossary.json
+2026-03-01 21:30:53,518 [INFO] ✓ Output dir: C:\Users\hoang\Desktop\Vietnamese-Language-Totalwar\text\db_vi
+2026-03-01 21:30:53,518 [INFO] 
+============================================================
+2026-03-01 21:30:53,518 [INFO] BẮT ĐẦU DỊCH: 1 file
+2026-03-01 21:30:53,518 [INFO] ============================================================
+
+2026-03-01 21:30:53,519 [INFO] [1/1] abilities.loc.tsv
+2026-03-01 21:30:53,519 [INFO] 
+============================================================
+2026-03-01 21:30:53,519 [INFO] Đang dịch: abilities.loc.tsv (nhóm: unit_descriptions)
+2026-03-01 21:30:53,520 [INFO] Output  : C:\Users\hoang\Desktop\Vietnamese-Language-Totalwar\text\db_vi\abilities.loc.tsv
+2026-03-01 21:30:53,521 [INFO] Tổng số dòng cần dịch: 21
+2026-03-01 21:30:53,521 [INFO]   Batch 1/1: dòng 1–21/21
+2026-03-01 21:30:54,325 [WARNING]   Lỗi API (lần 1/3): 404 models/gemini-2.5-flash-preview-04-17 is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-03-01 21:30:54,326 [INFO]   Chờ 10s rồi thử lại...
+2026-03-01 21:31:04,440 [WARNING]   Lỗi API (lần 2/3): 404 models/gemini-2.5-flash-preview-04-17 is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-03-01 21:31:04,441 [INFO]   Chờ 20s rồi thử lại...
+2026-03-01 21:34:52,927 [INFO] ✓ Kết nối Gemini API: gemini-2.0-flash
+2026-03-01 21:34:52,928 [INFO] ✓ Từ điển: C:\Users\hoang\Desktop\Vietnamese-Language-Totalwar\translation_glossary.json
+2026-03-01 21:34:52,928 [INFO] ✓ Output : C:\Users\hoang\Desktop\Vietnamese-Language-Totalwar\text\db_vi
+2026-03-01 21:34:52,928 [INFO] 
+============================================================
+2026-03-01 21:34:52,929 [INFO] BẮT ĐẦU: 1 file | Model: gemini-2.0-flash
+2026-03-01 21:34:52,929 [INFO] ============================================================
+
+2026-03-01 21:34:52,929 [INFO] [1/1] abilities.loc.tsv
+2026-03-01 21:34:52,929 [INFO] 
+============================================================
+2026-03-01 21:34:52,929 [INFO] Đang dịch : abilities.loc.tsv  (nhóm: unit_descriptions)
+2026-03-01 21:34:52,929 [INFO] Output    : C:\Users\hoang\Desktop\Vietnamese-Language-Totalwar\text\db_vi\abilities.loc.tsv
+2026-03-01 21:34:52,931 [INFO] Dòng cần dịch: 20
+2026-03-01 21:34:52,931 [INFO]   Batch 1/1: 1–20/20
+2026-03-01 21:34:52,932 [INFO] AFC is enabled with max remote calls: 10.
+2026-03-01 21:34:53,138 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-01 21:34:53,139 [WARNING]   Lỗi API (lần 1/3): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
+2026-03-01 21:34:53,140 [INFO]   Rate limit — chờ 60s...
+2026-03-01 21:35:53,140 [INFO] AFC is enabled with max remote calls: 10.
+2026-03-01 21:35:53,333 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-01 21:35:53,333 [WARNING]   Lỗi API (lần 2/3): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
+2026-03-01 21:35:53,333 [INFO]   Rate limit — chờ 60s...
+2026-03-01 21:36:53,344 [INFO] AFC is enabled with max remote calls: 10.
+2026-03-01 21:36:53,558 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-01 21:36:53,559 [WARNING]   Lỗi API (lần 3/3): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
+2026-03-01 21:36:53,560 [INFO]   Rate limit — chờ 60s...
+2026-03-01 21:55:06,876 [INFO] ✓ Kết nối Gemini API: gemini-1.5-flash
+2026-03-01 21:55:06,877 [INFO] ✓ Từ điển: C:\Users\hoang\Desktop\Vietnamese-Language-Totalwar\translation_glossary.json
+2026-03-01 21:55:06,877 [INFO] ✓ Output : C:\Users\hoang\Desktop\Vietnamese-Language-Totalwar\text\db_vi
+2026-03-01 21:55:06,878 [INFO] 
+============================================================
+2026-03-01 21:55:06,878 [INFO] BẮT ĐẦU: 1 file | Model: gemini-1.5-flash
+2026-03-01 21:55:06,878 [INFO] ============================================================
+
+2026-03-01 21:55:06,878 [INFO] [1/1] abilities.loc.tsv
+2026-03-01 21:55:06,879 [INFO] 
+============================================================
+2026-03-01 21:55:06,879 [INFO] Đang dịch : abilities.loc.tsv  (nhóm: unit_descriptions)
+2026-03-01 21:55:06,879 [INFO] Output    : C:\Users\hoang\Desktop\Vietnamese-Language-Totalwar\text\db_vi\abilities.loc.tsv
+2026-03-01 21:55:06,880 [INFO] Dòng cần dịch: 20
+2026-03-01 21:55:06,880 [INFO]   Batch 1/1: 1–20/20
+2026-03-01 21:55:06,881 [INFO] AFC is enabled with max remote calls: 10.
+2026-03-01 21:55:07,110 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-03-01 21:55:07,111 [WARNING]   Lỗi API (lần 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available mo
+2026-03-01 21:55:07,111 [INFO]   Chờ 10s rồi thử lại...
+2026-03-01 21:55:17,125 [INFO] AFC is enabled with max remote calls: 10.
+2026-03-01 21:55:17,325 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-03-01 21:55:17,326 [WARNING]   Lỗi API (lần 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available mo
+2026-03-01 21:55:17,326 [INFO]   Chờ 20s rồi thử lại...
+2026-03-01 23:42:53,465 [INFO] ✓ Kết nối Gemini API: gemini-2.0-flash
+2026-03-01 23:42:53,466 [INFO] ✓ Từ điển: C:\Users\hoang\Desktop\Vietnamese-Language-Totalwar\translation_glossary.json
+2026-03-01 23:42:53,466 [INFO] ✓ Output : C:\Users\hoang\Desktop\Vietnamese-Language-Totalwar\text\db_vi
+2026-03-01 23:42:53,466 [INFO] 
+============================================================
+2026-03-01 23:42:53,467 [INFO] BẮT ĐẦU: 1 file | Model: gemini-2.0-flash
+2026-03-01 23:42:53,467 [INFO] ============================================================
+
+2026-03-01 23:42:53,468 [INFO] [1/1] abilities.loc.tsv
+2026-03-01 23:42:53,468 [INFO] 
+============================================================
+2026-03-01 23:42:53,468 [INFO] Đang dịch : abilities.loc.tsv  (nhóm: unit_descriptions)
+2026-03-01 23:42:53,468 [INFO] Output    : C:\Users\hoang\Desktop\Vietnamese-Language-Totalwar\text\db_vi\abilities.loc.tsv
+2026-03-01 23:42:53,477 [INFO] Dòng cần dịch: 20
+2026-03-01 23:42:53,477 [INFO]   Batch 1/1: 1–20/20
+2026-03-01 23:42:53,478 [INFO] AFC is enabled with max remote calls: 10.
+2026-03-01 23:42:54,099 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-01 23:42:54,100 [WARNING]   Lỗi API (lần 1/3): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
+2026-03-01 23:42:54,101 [INFO]   Rate limit — chờ 60s...
+2026-03-01 23:43:54,108 [INFO] AFC is enabled with max remote calls: 10.
+2026-03-01 23:43:54,255 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-01 23:43:54,256 [WARNING]   Lỗi API (lần 2/3): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
+2026-03-01 23:43:54,257 [INFO]   Rate limit — chờ 60s...

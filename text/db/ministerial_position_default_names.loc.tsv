@@ -1,0 +1,5 @@
+key	text	tooltip
+#Loc;1;text/db/ministerial_position_default_names.loc		
+ministerial_position_default_names_default_name_governor_europegov_constitutional_monarchy	Governor of Europe	true
+ministerial_position_default_names_default_name_governor_europegov_absolute_monarchy	Governor of Europe	true
+ministerial_position_default_names_default_name_governor_europegov_republic	Governor of Europe	true

@@ -1,0 +1,704 @@
+key	text	tooltip
+#Loc;1;text/db/dilemmas.loc		
+dilemmas_localised_second_choice_title_d_bos_sakai_incident	Do Nothing	true
+dilemmas_localised_title_d_bos_emperor_foreign_medic	William Willis	true
+dilemmas_localised_second_choice_label_d_bountiful_harvest	Stockpiling will allow us to safeguard against crop failure in the near future whilst contributing to our clan's growth.	true
+dilemmas_localised_second_choice_title_d_jizamurai	Military Focus	true
+dilemmas_localised_first_choice_label_d_bos_sensosai	A wonderful idea; grand festivities will help ease the minds of the people, if only for a while.	true
+dilemmas_localised_first_choice_title_d_gem_eiga_monogatari	Procure Copies	true
+dilemmas_localised_second_choice_label_d_bos_koyosha_modern	They are right to be angry. We have lost sight of traditional ways and values through excessive modernisation. We must temper our rate of modernisation.	true
+dilemmas_localised_second_choice_title_d_omen_wind	Ignore the Omens	true
+dilemmas_localised_second_choice_title_s_nanban_trade_east	Decline Trade	true
+dilemmas_localised_second_choice_title_s_nanban_trade_west	Decline Trade	true
+dilemmas_localised_first_choice_label_d_bos_koyosha_western	Outrage! Do they not see how the people benefit from exposure to other cultures? These criminals must be brought to justice! 	true
+dilemmas_localised_second_choice_title_d_gem_miidera_plight	Refuse Aid	true
+dilemmas_localised_first_choice_label_s_nanban_trade_centre	We welcome the opportunity to engage in material and cultural exchange with the nanban. We will build them a trading post.	true
+dilemmas_localised_title_d_bos_treaty_france_initial	French Military Mission	true
+dilemmas_localised_first_choice_label_d_gem_miidera	In these trying times, all assistance is welcome. Dispatch an envoy to Miidera at once.	true
+dilemmas_localised_description_s_bos_promotion_post_battle	My lord, one of our valiant warriors has proved his mettle in securing this victory for the clan. It is our belief that his talents are wasted in the rank-and-file and that he will best serve the clan leading our forces in battle.	true
+dilemmas_localised_second_choice_label_d_three_legged_crow	Can Amaterasu be warning us of troubled times to come? We must remain cautious.	true
+dilemmas_localised_second_choice_title_d_bos_treaty_britain_initial	Defer	true
+dilemmas_localised_description_d_developmental_focus	Seeking to further the clan's mastery of the arts our retainers request guidance as to where they should focus their efforts.	true
+dilemmas_localised_first_choice_label_d_gem_enryakuji	In these trying times, all assistance is welcome. Dispatch an envoy to Enryakuji at once.	true
+dilemmas_localised_second_choice_label_d_bos_emperor_ronin	We currently have no need for their services, they will have to seek their fortune elsewhere.	true
+dilemmas_localised_first_choice_title_d_ronin_spears	Hire Them	true
+dilemmas_localised_first_choice_label_d_ronin_swords	We can exploit these masterless warriors to our own military ends. We will enlist them at once.	true
+dilemmas_localised_description_s_promotion_turn_start	My lord, the son of one of your most loyal subjects - a fine warrior, I am told -  desires to prove his worth to you and the clan. As such, he requests the opportunity to lead your glorious forces in battle.	true
+dilemmas_localised_first_choice_label_d_bos_western_science	Medical science benefits the lives of both civilians and the military alike. We should focus on western medicine.	true
+dilemmas_localised_second_choice_label_d_auxiliary_supplies	We cannot afford to make such an investment at this time. We must rely on our existing resources to equip the troops.	true
+dilemmas_localised_first_choice_label_d_desecration	We may have embraced Christianity, but we cannot allow such an affront towards those who practice the old beliefs. The nanban will answer for their behaviour.	true
+dilemmas_localised_title_d_gem_young_thief	The Young Thief	true
+dilemmas_localised_first_choice_label_d_intoxication	Heavy drinking is a base and shameful practice. All offenders will incur a fine and anyone behaving disgracefully will lose their head.	true
+dilemmas_localised_title_d_urban_migration	Urban Migration	true
+dilemmas_localised_first_choice_title_d_gem_omen_fire	Honour the Fire-God	true
+dilemmas_localised_first_choice_label_d_gem_hachiman_flock	Hachiman favours our war efforts and grants our warriors the blessings of Heaven!	true
+dilemmas_localised_first_choice_title_d_gem_justice	Exploit Situation	true
+dilemmas_localised_second_choice_label_d_misfortune_others	This is war, and there can be only one victor. We must maintain our superiority even if that means exploiting our enemy's misfortunes.	true
+dilemmas_localised_first_choice_title_d_bos_shogun_foreign_artillery_expert	Engage	true
+dilemmas_localised_description_d_gem_three_legged_gem_crow	As you sit in a secluded shrine to Amaterasu, contemplating matters of Heaven and Earth, a three-legged crow perches upon a branch before you.	true
+dilemmas_localised_description_d_gem_hachiman_flock	A flight of doves has been seen circling the capital, my lord. Hachiman's flock brings divine blessings upon our clan!	true
+dilemmas_localised_second_choice_title_d_bos_nanban_slavers	Intervene	true
+dilemmas_localised_second_choice_label_d_bos_shogun_province_security	Nonsense! The Imperialists hold no sway over our people, we will deal their discontent in due course.	true
+dilemmas_localised_second_choice_label_d_martial_priorities	We will bolster our defensive capabilities for the protection of our lands and our people.	true
+dilemmas_localised_second_choice_label_d_better_agent_monk	We have no need to further invest in the support of our monks for the time being. We decline the Ikko-Ikki's offer.	true
+dilemmas_localised_second_choice_label_d_bos_treaty_america_initial	We need time to consider the options. Inform them that - for the time being at least - we decline.	true
+dilemmas_localised_second_choice_title_d_bos_gaijin_trouble	Ignore the Issue	true
+dilemmas_localised_first_choice_label_s_adoption_young_heir	We must assure the future of our clan, and this man has proved his dedication to our cause. We will adopt him as heir.	true
+dilemmas_localised_description_d_better_agent_metsuke	The Shogunate's desire for order has resulted in their offer to bestow special authority upon our metsuke, as long as we are willing to offer tribute.	true
+dilemmas_localised_first_choice_label_d_gem_heiji_monogatari_minamoto	The truth regarding Taira treachery must be known to all. We will sponsor this man.	true
+dilemmas_localised_second_choice_title_d_bountiful_harvest	Stockpile	true
+dilemmas_localised_second_choice_label_d_jizamurai	In this time of war, we need as many able warriors in our ranks as possible; they will best serve the clan by fighting our enemies.	true
+dilemmas_localised_first_choice_label_d_gem_eiga_monogatari_fujiwara	A marvellous idea! See to it that each shirabyoshi is furnished with a copy.	true
+dilemmas_localised_second_choice_label_d_omen_wind	We have neither the time nor the money to squander on such superstitious frivolities.	true
+dilemmas_localised_second_choice_label_s_nanban_trade_east	We have no need to engage in trade with the nanban at this time. Perhaps at a later time?	true
+dilemmas_localised_second_choice_label_s_nanban_trade_west	We have no need to engage in trade with the nanban at this time. Perhaps at a later time?	true
+dilemmas_localised_title_bos_intro_3_dilemma_research_field	Setting Our Priorities	true
+dilemmas_localised_first_choice_label_d_gem_eiga_monogatari	Procure as you deem necessary; a shirabyoshi relies greatly on her repertoire, and there are important lessons to be learned from history.	true
+dilemmas_localised_first_choice_label_d_better_agent_ninja	The Hattori are indeed masters of ninjutsu; their knowledge of the art will help us to improve our own subterfuge capabilities. We accept their offer.	true
+dilemmas_localised_description_d_better_agent_ninja	My lord, a representative of the Hattori has approached us with a proposition. In return for a small tribute, they will be willing to share some of their expert knowledge of ninjutsu with us.	true
+dilemmas_localised_description_d_bos_emperor_foreign_medic	William Willis, a British physician residing in Japan, seeks temporary employment and is offering his services as medical officer.	true
+dilemmas_localised_second_choice_label_d_disgruntled_vassal	Insolence will not be tolerated. I will have his head on a spike!	true
+dilemmas_localised_second_choice_label_s_promotion_turn_start	This man’s eagerness to serve is admirable, but we do not require his services for the time being.	true
+dilemmas_localised_first_choice_title_d_bos_koyosha_western	Take Action	true
+dilemmas_localised_first_choice_title_d_gem_kofukuji	Request Aid	true
+dilemmas_localised_first_choice_title_s_nanban_trade_centre	Accept Trade	true
+dilemmas_localised_second_choice_label_d_conflict_beliefs_christian	We will not stoop to persecuting people for holding beliefs different from our own. Were we not once Buddhist ourselves?	true
+dilemmas_localised_second_choice_title_d_three_legged_crow	Amaterasu's Warning	true
+dilemmas_localised_second_choice_title_d_bos_treaty_american_repeat	Refuse	true
+dilemmas_localised_title_s_bos_promotion_post_battle	Fit for Command	true
+dilemmas_localised_first_choice_title_d_gem_enryakuji	Request Aid	true
+dilemmas_localised_second_choice_label_d_better_agent_metsuke	We need not invest further in the support of our metsuke for the time being. We must decline the shogun's offer.	true
+dilemmas_localised_first_choice_label_d_gem_omen_mountains	Deference will be shown to the great kami of the mountains; see to it that no expense is spared in the preparation of the appropriate rites and festivities.	true
+dilemmas_localised_title_d_bos_shogun_ronin	Ronin	true
+dilemmas_localised_first_choice_title_d_gem_miidera	Request Aid	true
+dilemmas_localised_description_d_bos_treaty_france_initial	We have been approached by the French. Staunch supporters of the Shogun, they have offered to establish a military mission here to improve our military potential and improve trade relations.\\n\\nBy accepting we forego the opportunity to establish a military mission with other western powers.	true
+dilemmas_localised_description_d_gem_omen_mountains	My lord! The monks speak of a rumbling deep beneath the mountains and believe this to be a sign sent by Oyamatsumi. They fear the wrath of the earth and beseech you to appease the mountain-god.	true
+dilemmas_localised_first_choice_label_d_bos_student_exchange	Here is a way to improve international relations and cultural exchange at the same time. We await word of their travels with baited breath!	true
+dilemmas_localised_description_d_bos_shogun_province_security	Public order in this province is low, and Imperialist insurgents have been attempting to capitalise on the situation in order to promote anti-Shogunate dissent. It could be wise to invest in additional policing.	true
+dilemmas_localised_first_choice_label_d_merchant_accession	The clan stands to benefit financially from these people. We will allow them to prosper, for now.	true
+dilemmas_localised_description_d_merchant_accession	In spite of their low social status, traders and merchants have gained substantial influence of late as our clan's efforts in this sphere have increased.	true
+dilemmas_localised_first_choice_label_d_gem_omen_fire	We will arrange a clan-wide chinka-sai at once; see to it that no expense is spared in the preparation of the rites and the festivities.	true
+dilemmas_localised_second_choice_title_d_bos_emperor_ronin	Turn Them Away	true
+dilemmas_localised_first_choice_label_d_omen_ocean	We will arrange shiomatsuri in all provinces that sit upon the Owatatsumi's waters. See to it that no expense is spared in the preparations of the rites and the festivities.	true
+dilemmas_localised_first_choice_title_d_desecration	Intervene	true
+dilemmas_localised_description_d_gem_heiji_monogatari_taira	A scholar seeks your endorsement, hoping to chronicle the events of the Heiji Rebellion, when Lord Kiyomori valiantly defended the cloistered Emperor against the ambitions of Minamoto warmongers.	true
+dilemmas_localised_first_choice_title_d_bos_western_science	Medicine	true
+dilemmas_localised_first_choice_label_d_bos_military_focus	We should work towards improving our armies.	true
+dilemmas_localised_first_choice_label_d_gem_heiji_monogatari_taira	Our just acts have brought the wrath of the Minamoto down upon us. Once the truth is known the loyalty of our people will be assured. We will sponsor his work.	true
+dilemmas_localised_description_d_bos_military_focus	Strength in numbers and troop variety will ensure that we can rise to any challenge. Our navy can provide invaluable support to our armies, landing troops behind enemy lines and bombarding from afar. We should decide where to focus our military might.	true
+dilemmas_localised_second_choice_title_s_meritorious_action	Do Nothing	true
+dilemmas_localised_description_d_omen_ocean	My lord! The monks speak of a gathering of great turtles upon our shores and believe this to be a sign sent by Owatatsumi. They fear ominous tides and beseech you to honour the sea-god.	true
+dilemmas_localised_first_choice_label_d_bos_shogun_foreign_artillery_expert	We need all the help we can get in this conflict. Pay the man, may he show us his artillery skills.	true
+dilemmas_localised_first_choice_label_d_gem_justice	Although deserving of death, his unscrupulous talents could be put to use against our enemies. Inform him that he will serve us or die… slowly.	true
+dilemmas_localised_first_choice_label_d_land_dispute	Justice must be served. The offender will be forcibly removed from the land and must return it to its rightful owner. If he resists, he will be executed.	true
+dilemmas_localised_second_choice_title_d_better_agent_monk	Decline Offer	true
+dilemmas_localised_first_choice_title_d_gem_heiji_monogatari_minamoto	Endorse Him	true
+dilemmas_localised_first_choice_label_d_gem_enryakuji_plight	The Enryakuji monks are valued friends. We will help fund their struggle.	true
+dilemmas_localised_second_choice_title_d_misfortune_others	Ignore their plight	true
+dilemmas_localised_first_choice_title_s_adoption_young_heir	Adopt him	true
+dilemmas_localised_title_d_gem_three_legged_gem_crow	Three-legged Crow	true
+dilemmas_localised_first_choice_title_d_bos_rangaku	Encourage	true
+dilemmas_localised_second_choice_title_d_bos_koyosha_modern	Appease	true
+dilemmas_localised_second_choice_title_d_bos_shogun_province_security	Ignore	true
+dilemmas_localised_first_choice_label_d_gem_omen_wind	We will arrange a clan-wide Fujin-sai at once; see to it that no expense is spared in the preparation of the appropriate rites and festivities.	true
+dilemmas_localised_second_choice_label_d_bos_sakai_incident	We cannot be held responsible for the consequences of foreign indiscretion, regardless of the severity.	true
+dilemmas_localised_title_d_wako_threat_korea	The Wako Threat	true
+dilemmas_localised_description_d_bos_treaty_britain_repeat	Once more, the British have offered to establish a military mission here to improve our military potential and improve trade relations. Should we decline again, I fear that they will not offer again.\\n\\nBy accepting we forego the opportunity to establish a military mission with other western powers.	true
+dilemmas_localised_title_d_gem_omen_mountains	Oyamatsumi's Warning	true
+dilemmas_localised_second_choice_label_d_conflict_beliefs_buddhist	There is no need for religious persecution; spiritual harmony can be achieved through discourse and understanding.	true
+dilemmas_localised_second_choice_title_d_developmental_focus	Civil Focus	true
+dilemmas_localised_second_choice_label_d_bos_treaty_britain_initial	We need time to consider the options. Inform them that - for the time being at least - we decline.	true
+dilemmas_localised_first_choice_title_d_ronin_swords	Hire Them	true
+dilemmas_localised_first_choice_label_d_ronin_spears	We can exploit these masterless warriors to our own military ends. We will enlist them at once.	true
+dilemmas_localised_description_d_wako_threat_china	An increasing amount of wako activity is compromising our trade with China. As we are operating without the approval of the Ming Emperor, we cannot expect China to take any steps towards resolving this issue.	true
+dilemmas_localised_second_choice_label_d_gem_miidera_plight	We can ill-afford to waste precious funds when so much is at stake.	true
+dilemmas_localised_title_d_bos_icarus_affair	The Icarus Affair	true
+dilemmas_localised_first_choice_title_d_intoxication	Severe Response	true
+dilemmas_localised_title_d_better_agent_ninja	Masters of Subterfuge	true
+dilemmas_localised_second_choice_title_d_auxiliary_supplies	Rely On Our Own	true
+dilemmas_localised_second_choice_label_d_ambitious_traders	Before looking to trade opportunities in far-away lands, we must concentrate on refining its practice within Japan.	true
+dilemmas_localised_second_choice_label_d_omen_fire	We have neither the time nor the money to squander on such superstitious frivolities.	true
+dilemmas_localised_title_s_disloyalty_major	Rumours of Treason	true
+dilemmas_localised_title_s_disloyalty_minor	Rumours of Disloyalty	true
+dilemmas_localised_first_choice_title_d_bos_sword_abolishment	Abolishment of Swords	true
+dilemmas_localised_title_d_bos_treaty_france_repeat	French Military Mission	true
+dilemmas_localised_first_choice_title_d_gem_todaiji	Request Aid	true
+dilemmas_localised_second_choice_title_d_bos_treaty_america_initial	Defer	true
+dilemmas_localised_second_choice_label_d_bos_gaijin_trouble	We cannot allow the concerns of a few locals to affect our good relations with the western powers. Take no action.	true
+dilemmas_localised_second_choice_title_d_martial_priorities	Defence Focus	true
+dilemmas_localised_title_d_merchant_accession	Merchant Accession	true
+dilemmas_localised_first_choice_title_d_gem_hachiman_flock	Warrior's Blessing	true
+dilemmas_localised_second_choice_label_d_imperial_new_year	We haven't the resources to spare given the more pressing matters of clan development and warfare at hand.	true
+dilemmas_localised_first_choice_title_d_bos_sensosai	Invest	true
+dilemmas_localised_second_choice_label_d_bos_nanban_slavers	Slavery is barbaric! We cannot stand idly by whilst such inhumanity persists on our shores.	true
+dilemmas_localised_title_d_omen_ocean	Owatatsumi's Warning	true
+dilemmas_localised_title_d_bos_military_focus	Military Focus	true
+dilemmas_localised_title_d_gem_heiji_monogatari_taira	The Heiji Monogatari	true
+dilemmas_localised_description_d_wako_threat_korea	The amount of wako activity in the vicinity of Tsushima island has increased dramatically. These acts of piracy have compromised our prolific trade links with Korea and should be stopped at the first opportunity.	true
+dilemmas_localised_first_choice_label_d_bos_rangaku	Western learning might benefit us greatly, even if we disapprove of the gaijin's crude and self-serving ways.	true
+dilemmas_localised_first_choice_title_d_better_agent_ninja	Accept Offer	true
+dilemmas_localised_first_choice_title_d_land_dispute	Justice	true
+dilemmas_localised_second_choice_title_d_disgruntled_vassal	Have Him Executed!	true
+dilemmas_localised_title_d_bos_treaty_britain_repeat	British Military Mission	true
+dilemmas_localised_first_choice_title_d_gem_enryakuji_plight	Offer Aid	true
+dilemmas_localised_first_choice_title_d_gem_omen_wind	Honour the Wind-God	true
+dilemmas_localised_title_s_bos_promotion_turn_start	Eager to Serve	true
+dilemmas_localised_first_choice_title_d_gem_omen_mountains	Honour the Mountain-God	true
+dilemmas_localised_title_d_wako_threat_china	The Wako Threat	true
+dilemmas_localised_description_d_bos_icarus_affair	Two crewmen from HMS Icarus, a British vessel moored at one of our trading ports, have been murdered by local anti-foreigner activists. The British are demanding we pay damages.	true
+dilemmas_localised_second_choice_label_d_developmental_focus	What good is military might without the infrastructure to support and exploit it? We will focus on administrative development.	true
+dilemmas_localised_second_choice_title_d_conflict_beliefs_buddhist	Allow Him to Preach	true
+dilemmas_localised_second_choice_title_d_conflict_beliefs_christian	Allow Him to Preach	true
+dilemmas_localised_second_choice_label_d_bos_treaty_american_repeat	We cannot accept. Convey our regrets to the United States ambassador.	true
+dilemmas_localised_first_choice_title_d_omen_ocean	Honour the Sea-God	true
+dilemmas_localised_first_choice_label_d_gem_kofukuji	In these trying times, all assistance is welcome. Dispatch an envoy to Kofukuji at once.	true
+dilemmas_localised_first_choice_title_d_bos_military_focus	Army Focus	true
+dilemmas_localised_first_choice_title_d_gem_heiji_monogatari_taira	Endorse Him	true
+dilemmas_localised_second_choice_label_s_meritorious_action	This man has done no more than carry out his duties; we expect no less from our subjects.	true
+dilemmas_localised_title_d_gem_hachiman_flock	Hachiman's Flock	true
+dilemmas_localised_second_choice_title_d_better_agent_metsuke	Decline Offer	true
+dilemmas_localised_first_choice_label_d_gem_todaiji	In these trying times, all assistance is welcome. Dispatch an envoy to Miidera at once.	true
+dilemmas_localised_first_choice_title_d_merchant_accession	Let Them Prosper	true
+dilemmas_localised_second_choice_title_d_ambitious_traders	Domestic Priority	true
+dilemmas_localised_first_choice_title_d_bos_student_exchange	Send Students Abroad	true
+dilemmas_localised_second_choice_title_d_omen_fire	Ignore the Omens	true
+dilemmas_localised_first_choice_label_d_bos_sword_abolishment	Agreed. See to it that none but those serving in the military may bear arms.	true
+dilemmas_localised_second_choice_title_d_imperial_new_year	Refuse tribute	true
+dilemmas_localised_title_d_master_swordsman	Sword Mastery	true
+dilemmas_localised_first_choice_title_d_gem_eiga_monogatari_fujiwara	Procure Copies	true
+dilemmas_localised_title_d_gem_developmental_focus	Developmental Focus	true
+dilemmas_localised_second_choice_title_s_promotion_turn_start	Do Not Enlist	true
+dilemmas_localised_first_choice_title_d_disgruntled_vassal	Acknowledge Him	true
+dilemmas_localised_description_d_imperial_new_year	The Imperial court is preparing for the new year's felicitations in honour of His Imperial Majesty. They seek tribute from his true and deferent lords so that due respect can be paid.	true
+dilemmas_localised_first_choice_title_d_better_agent_metsuke	Accept Offer	true
+dilemmas_localised_second_choice_label_d_gem_eiga_monogatari	Foolishness! To abide such a request would be to empower our rivals! We will hear no more about it.	true
+dilemmas_localised_second_choice_title_d_better_agent_ninja	Decline Offer	true
+dilemmas_localised_first_choice_label_d_gem_migrant_labourers	We will benefit from the additional workers. Allow them to settle.	true
+dilemmas_localised_second_choice_label_d_gem_kofukuji	We need no assistance from outsiders; we need only help ourselves! Dispatch a raiding party at once.	true
+dilemmas_localised_title_d_bos_guns_of_war	The Guns of War	true
+dilemmas_localised_second_choice_title_d_bos_student_exchange	Do Nothing	true
+dilemmas_localised_second_choice_title_d_gem_omen_mountains	Ignore the Omens	true
+dilemmas_localised_title_d_gem_nine_tailed_gem_fox	Nine-tailed Fox	true
+dilemmas_localised_title_d_nine_tailed_fox	Nine-tailed Fox	true
+dilemmas_localised_second_choice_title_d_gem_miidera	Sack Temple	true
+dilemmas_localised_second_choice_title_d_gem_eiga_monogatari_fujiwara	Refuse	true
+dilemmas_localised_second_choice_title_s_nanban_trade_centre	Decline Trade	true
+dilemmas_localised_description_d_omen_fire	My lord! The monks speak of raging fires that cannot be quelled and believe this to be a sign sent by Kagutsuchi. They fear that the fire-god is displeased with our people and beseech you to appease him with a chinka-sai.	true
+dilemmas_localised_first_choice_title_d_conflict_beliefs_christian	Execute Him!	true
+dilemmas_localised_first_choice_label_d_bos_treaty_american_repeat	Such a military understanding will be a great asset to our cause. We accept.	true
+dilemmas_localised_description_d_bos_treaty_american_repeat	Once more, the United States have offered to establish a military mission here to improve our military potential and improve trade relations. Should we decline again, I fear that they will not offer again.\\n\\nBy accepting we forego the opportunity to establish a military mission with other western powers.	true
+dilemmas_localised_first_choice_title_s_promotion_turn_start	Enlist Him	true
+dilemmas_localised_description_d_ambitious_traders	Merchants operating at our ports have proposed increased trade between our clan and foreign nations. They have requested permission to invest in overseas trade opportunities.	true
+dilemmas_localised_title_d_gem_enchantress	The Enchantress	true
+dilemmas_localised_title_d_monopoly	Monopoly	true
+dilemmas_localised_second_choice_title_d_bos_koyosha_western	Appease	true
+dilemmas_localised_title_d_bos_koyosha_modern	Koyosha	true
+dilemmas_localised_description_d_ronin_spears	Our forces have encountered a ronin band. Having lost their masters to the incessant warfare that has gripped the country, these yari samurai will fight for any daimyo willing to pay for their services. Left to their own devices, there is no telling what they might do.	true
+dilemmas_localised_second_choice_title_d_gem_heiji_monogatari_taira	Dismiss Him	true
+dilemmas_localised_second_choice_title_d_bos_icarus_affair	Do Nothing	true
+dilemmas_localised_first_choice_label_s_meritorious_action	We are grateful for this man's achievements; he shall be granted a fief for his efforts.	true
+dilemmas_localised_description_s_meritorious_action	This distinguished warrior has secured many victories for our clan since assuming the mantle of general. Such accomplishments surely deserve recognition?	true
+dilemmas_localised_second_choice_title_d_omen_ocean	Ignore the Omens	true
+dilemmas_localised_second_choice_title_d_bos_western_science	Industry	true
+dilemmas_localised_second_choice_label_d_wako_threat_china	We cannot spare the time nor the necessary resources for dealing with these petty pirates. We will leave them be, for the time being at least.	true
+dilemmas_localised_second_choice_title_d_desecration	Ignore	true
+dilemmas_localised_second_choice_title_d_bos_military_focus	Naval Focus	true
+dilemmas_localised_title_d_bos_western_exploitation	Unequal Treaties	true
+dilemmas_localised_second_choice_title_d_land_dispute	Extortion	true
+dilemmas_localised_title_d_otomo_western_knowledge	Western Knowledge	true
+dilemmas_localised_description_d_conflict_beliefs_buddhist	A man has been found openly proselytising his Christian beliefs to the enlightened of this province. We can ill-afford the risk of religious schism should his teachings begin to influence the people of the clan.	true
+dilemmas_localised_second_choice_title_d_merchant_accession	Repress Them	true
+dilemmas_localised_title_d_martial_priorities	Martial Priorities	true
+dilemmas_localised_title_d_bos_treaty_america_initial	United States Military Mission	true
+dilemmas_localised_second_choice_title_d_gem_enryakuji_plight	Refuse Aid	true
+dilemmas_localised_first_choice_title_s_promotion_post_battle	Promote Him	true
+dilemmas_localised_second_choice_label_d_bos_treaty_britain_repeat	We cannot accept. Convey our regrets to the British ambassador.	true
+dilemmas_localised_second_choice_title_s_adoption_young_heir	Do not adopt	true
+dilemmas_localised_second_choice_title_d_wako_threat_korea	Ignore Them	true
+dilemmas_localised_second_choice_label_d_gem_justice	We must do justice to those whom this man has wronged. Bring me his head!	true
+dilemmas_localised_title_d_heralding_spring	Heralding the Spring	true
+dilemmas_localised_second_choice_label_d_bos_shogun_foreign_artillery_expert	We have no need for his services.	true
+dilemmas_localised_title_d_auxiliary_supplies	Auxiliary Supplies	true
+dilemmas_localised_first_choice_title_d_bos_koyosha_modern	Take Action	true
+dilemmas_localised_second_choice_title_d_gem_eiga_monogatari	Refuse	true
+dilemmas_localised_title_d_bos_western_engineering	Western Engineering	true
+dilemmas_localised_description_d_bos_rangaku	My lord, a man with a passion for rangaku - learning born of our dealings with the Dutch - has been promoting western ideals and technology, believing them to be key to our national development.	true
+dilemmas_localised_title_d_conflict_beliefs_christian	Conflict of Beliefs	true
+dilemmas_localised_description_d_bos_sakai_incident	Disturbing news, my lord. Twelve French seamen have been murdered in Sakai, near Osaka. It falls under our jurisdiction, and the French are demanding we pay damages.	true
+dilemmas_localised_first_choice_label_d_bos_sakai_incident	We cannot afford to damage trade relations with the West for the sake of a few murderers. We will pay damages, see that the culprits are punished.	true
+dilemmas_localised_title_d_imperial_new_year	The Imperial New Year	true
+dilemmas_localised_first_choice_title_d_gem_migrant_labourers	Welcome Them	true
+dilemmas_localised_first_choice_label_d_bos_treaty_britain_initial	Such a military understanding will be a great asset to our cause. We accept.	true
+dilemmas_localised_title_d_omen_fire	Kagutsuchi's Warning	true
+dilemmas_localised_title_d_ambitious_traders	Ambitious Traders	true
+dilemmas_localised_description_d_bos_treaty_britain_initial	We have been approached by the British. Staunch supporters of the Emperor, they have offered to establish a military mission here to improve our military potential and improve trade relations.\\n\\nBy accepting we forego the opportunity to establish a military mission with other western powers.	true
+dilemmas_localised_second_choice_label_d_gem_miidera	We need no assistance from outsiders; we need only help ourselves! Dispatch a raiding party at once.	true
+dilemmas_localised_first_choice_label_d_gem_miidera_plight	The Miidera monks are valued friends. We will help fund their struggle.	true
+dilemmas_localised_second_choice_label_s_nanban_trade_centre	We have no need to engage in trade with the nanban at this time. Perhaps at a later time?	true
+dilemmas_localised_second_choice_label_d_bos_koyosha_western	They are right to be angry. Our constant dealings with the West has put our cultural identity in jeopardy. We must temper foreign relations.	true
+dilemmas_localised_description_d_gem_miidera_plight	My lord, we have received an envoy from the Miidera temple. Currently embroiled in a feud with their sister temple - Enryakuji - they have requested financial support and urge you to remember the assistance that they gave so willingly in the past.	true
+dilemmas_localised_title_d_disgruntled_vassal	The Disgruntled Vassal	true
+dilemmas_localised_second_choice_title_d_bos_sensosai	Ignore	true
+dilemmas_localised_second_choice_label_d_desecration	The clan has benefited greatly from our relations with the nanban and our embrace of Christianity; the concerns of the people pale by comparison.	true
+dilemmas_localised_title_d_conflict_beliefs_buddhist	Conflict of Beliefs	true
+dilemmas_localised_first_choice_title_d_bos_shogun_province_security	Invest	true
+dilemmas_localised_first_choice_title_d_auxiliary_supplies	Invest in Supplies	true
+dilemmas_localised_second_choice_label_d_bos_western_science	Improving the efficiency of industrial processes will benefit our economy. We should focus on western industrial science.	true
+dilemmas_localised_first_choice_label_s_promotion_post_battle	An army needs leadership if it is to wage war effectively. We will exercise his martial prowess to further our military objectives.	true
+dilemmas_localised_title_d_gem_family_dues	Family Dues	true
+dilemmas_localised_second_choice_label_d_bos_icarus_affair	We cannot be held responsible for the consequences of foreign indiscretion, regardless of the severity.	true
+dilemmas_localised_second_choice_title_d_wako_threat_china	Ignore Them	true
+dilemmas_localised_description_d_gem_todaiji	Yamato province is home to numerous prominent temples. One such temple is the Todaiji; commanding considerable wealth and home to proficient warrior monks, their support could greatly aid our cause. Alternatively, sacking the temple may provide a quick source of funds.	true
+dilemmas_localised_description_d_gem_kofukuji	Yamato province is home to numerous prominent temples. One such temple is the Kofukuji; commanding considerable wealth and home to proficient warrior monks, their support could greatly aid our cause. Alternatively, sacking the temple may provide a quick source of funds.	true
+dilemmas_localised_first_choice_title_d_martial_priorities	Attack Focus	true
+dilemmas_localised_first_choice_title_d_bos_treaty_america_initial	Accept	true
+dilemmas_localised_second_choice_label_s_adoption_young_heir	The clan's future is already assured; our son will come of age and he will lead our people admirably.	true
+dilemmas_localised_first_choice_label_d_bos_gaijin_trouble	The happiness of our subects is paramount. We must better police the gaijin here; any attempts to resist will be dealt with severely.	true
+dilemmas_localised_description_d_bos_gaijin_trouble	Foreign trade necessitates foreign contact. Westerners and their ways have caused numerous 'incidents' at one of our trade ports and the people are concerned. What would you have us do?	true
+dilemmas_localised_second_choice_title_d_ronin_swords	Ignore Them	true
+dilemmas_localised_second_choice_label_d_ronin_spears	We have no need to enlist the bandit remnants of fallen clans. Send them on their way.	true
+dilemmas_localised_second_choice_title_d_bos_treaty_britain_repeat	Refuse	true
+dilemmas_localised_title_d_bos_westerners_attacked	Anti-western Aggression	true
+dilemmas_localised_first_choice_label_d_bos_nanban_slavers	This is an unfortunate situation, but we cannot be seen to interfere with the affairs of foreigners.	true
+dilemmas_localised_second_choice_title_d_gem_hachiman_flock	Fisherman's Blessing	true
+dilemmas_localised_second_choice_title_d_bos_shogun_foreign_artillery_expert	Decline	true
+dilemmas_localised_description_d_bos_nanban_slavers	A Chinese man has appealed to us for aid. Having escaped from a nanban ship currently berthed in one of our harbours, he claims he and his companions were kidnapped for slavery and have been kept in appalling conditions.	true
+dilemmas_localised_second_choice_title_d_gem_justice	Execute Him	true
+dilemmas_localised_second_choice_label_d_wako_threat_korea	We cannot spare the time nor the necessary resources for dealing with these petty pirates. We will leave them be, for the time being at least.	true
+dilemmas_localised_second_choice_title_d_intoxication	Leniency	true
+dilemmas_localised_description_d_better_agent_monk	An emissary has been dispatched to us by the Ikko-Ikki monshu. In recognition of our devotion to Buddhist tradition and in return for some small compensation, the league is offering to support our monks in their work.	true
+dilemmas_localised_title_s_adoption_no_heir	Adoption Opportunity	true
+dilemmas_localised_title_d_bos_treaty_britain_initial	British Military Mission	true
+dilemmas_localised_first_choice_label_d_otomo_baptism	Our support for the nanban and their ways has made us strong. We will accept this honour.	true
+dilemmas_localised_first_choice_title_d_master_gunner	Employ Him	true
+dilemmas_localised_description_d_bos_sensosai	Hoping to ease tensions within our domain, elders have requested that we invest in this years Sensosai in honour of our noble ancestors.	true
+dilemmas_localised_title_d_better_agent_missionary	Divine Authority	true
+dilemmas_localised_first_choice_label_d_disgruntled_vassal	This man has worked hard and achieved much for his province and his clan. We acknowledge his efforts; he shall be rewarded.	true
+dilemmas_localised_second_choice_label_d_gem_three_legged_gem_crow	Can Amaterasu be warning us of troubled times to come? We must remain cautious.	true
+dilemmas_localised_description_d_disgruntled_vassal	A prominent retainer in this province has expressed his discontent that the centralisation of power has diminished his authority in the region.	true
+dilemmas_localised_title_d_bos_emperor_realm_divide	Realm Divide	true
+dilemmas_localised_description_d_misfortune_others	My lord, word has reached us that a rival clan has suffered following a terrible harvest. Their people are starving and their daimyo seeks aid from other clans. We may be at war, but does that mean that the toiling masses need suffer needlessly?	true
+dilemmas_localised_second_choice_label_d_better_agent_ninja	We need not invest further in the support of our ninja for the time being. We must decline the Hattori's offer.	true
+dilemmas_localised_second_choice_label_d_bos_rangaku	The foreigners have caused us much turmoil of late and we will not have their misconceptions cloud the people's minds. He must be silenced!	true
+dilemmas_localised_title_d_tribute_emperor	Imperial Tribute	true
+dilemmas_localised_first_choice_label_s_relief_effort	We cannot stand idle while our people suffer. We shall fully occupy ourselves in the reconstruction effort, for the good of all.	true
+dilemmas_localised_title_d_gem_miidera_plight	Plight of the Miidera Temple	true
+dilemmas_localised_description_s_nanban_trade_centre	Nanban traders have arrived at one of our ports, seeking permission to establish a trading post. Allowing this will give us access to new firearms. However, by doing so we run the risk of introducing undesirable nanban influences, such as Christianity, to the clan.	true
+dilemmas_localised_first_choice_label_d_conflict_beliefs_christian	We cannot have the hearts and minds of our peasants corrupted by these antithetical beliefs. He must be executed at once.	true
+dilemmas_localised_first_choice_title_d_bos_treaty_american_repeat	Accept	true
+dilemmas_localised_description_d_bos_koyosha_western	You will remember mention of the Koyosha, my lord. Angered at our dealings with the West, these militant isolationists have taken to indiscriminately murdering foreign traders throughout our ports.	true
+dilemmas_localised_description_d_conflict_beliefs_christian	A man has been found openly speaking of his Buddhist beliefs amongst the good Christian people of this province. We can ill-afford the risk of religious schism should his teachings begin to influence the people of the clan.	true
+dilemmas_localised_title_d_otomo_trade_venture_gift	A Gift of Guns	true
+dilemmas_localised_second_choice_label_d_land_dispute	The clan's best interests are paramount; we will allow him to keep the land and have it put to the best use - for a price.	true
+dilemmas_localised_first_choice_label_d_developmental_focus	The clan must have military superiority if we are to secure the shogunate. We will focus on military development.	true
+dilemmas_localised_description_d_bos_emperor_ronin	A band of samurai, loyal to the Emperor and eager to serve, are seeking employment.	true
+dilemmas_localised_second_choice_label_d_gem_omen_mountains	We have neither the time nor the money to squander on such superstitious frivolities.	true
+dilemmas_localised_description_d_gem_miidera	Yamashiro province is home to numerous prominent temples. One such temple is the Miidera - commanding considerable wealth and home to proficient warrior monks, their support could greatly aid our cause. Alternatively, sacking the temple may provide a quick source of funds.	true
+dilemmas_localised_second_choice_label_d_gem_enryakuji_plight	We can ill-afford to waste precious funds when so much is at stake.	true
+dilemmas_localised_title_d_bos_sakai_incident	The Sakai Incident	true
+dilemmas_localised_second_choice_label_s_bos_promotion_post_battle	This man’s ability is unquestionable, but we have no need of his services for the time being.	true
+dilemmas_localised_description_d_three_legged_crow	As you sit in a secluded shrine to Amaterasu, contemplating matters of Heaven and Earth, a three-legged crow perches upon a branch before you.	true
+dilemmas_localised_second_choice_label_d_merchant_accession	These upstarts should not presume to tamper with the balance of society. They must know their place; as such, their influence will be tempered.	true
+dilemmas_localised_second_choice_label_d_gem_todaiji	We need no assistance from outsiders; we need only help ourselves! Dispatch a raiding party at once.	true
+dilemmas_localised_description_d_intoxication	As the war effort escalates, an increasing number of drunken incidents are being reported as people seek solace in their cups from the many hardships it has brought.	true
+dilemmas_localised_title_d_bos_gaijin_trouble	Gaijin Trouble	true
+dilemmas_localised_second_choice_label_d_gem_eiga_monogatari_fujiwara	An interesting, if frivolous notion. There is no need; our present actions alone serve to promote our greatness.	true
+dilemmas_localised_second_choice_label_d_gem_heiji_monogatari_taira	Once we have rid ourselves of the Minamoto scourge once and for all the tale can then be chronicled, but not before.	true
+dilemmas_localised_second_choice_title_d_bos_treaty_france_initial	Defer	true
+dilemmas_localised_first_choice_title_s_meritorious_action	Acknowledge Him	true
+dilemmas_localised_second_choice_label_d_omen_ocean	We have neither the time nor the money to squander on such superstitious frivolities.	true
+dilemmas_localised_first_choice_label_s_promotion_turn_start	An army needs leadership if it is to wage war effectively. We will give him the chance to prove his worth.	true
+dilemmas_localised_description_d_desecration	The people of this province are distraught at the behaviour of nanban missionaries in the area, who have desecrated sacred sites devoted to Buddha and the kami.	true
+dilemmas_localised_description_d_bos_western_science	Despite the furore surrounding the opening of our ports to the West, we cannot deny the benefits of having access to their scientific knowledge.\\n\\nIn which field should we focus our research efforts?	true
+dilemmas_localised_second_choice_label_d_bos_military_focus	We should work towards improving our navies.	true
+dilemmas_localised_description_d_ronin_swords	Our forces have encountered a ronin band. Having lost their masters to the incessant warfare that has gripped the country, these katana samurai will fight for any daimyo willing to pay for their services. Left to their own devices, there is no telling what they might do.	true
+dilemmas_localised_first_choice_title_d_otomo_embassy	Send Embassy	true
+dilemmas_localised_title_d_bos_nanban_slavers	Nanban Slavers	true
+dilemmas_localised_title_s_nanban_trade_east	Nanban Trade	true
+dilemmas_localised_title_s_nanban_trade_west	Nanban Trade	true
+dilemmas_localised_title_d_omen_wind	Fujin's Warning	true
+dilemmas_localised_first_choice_label_d_better_agent_metsuke	The shogun's authority will enable our metsuke to dispense justice more effectively. We accept his offer.	true
+dilemmas_localised_title_d_jizamurai	Jizamurai	true
+dilemmas_localised_description_d_bountiful_harvest	Favourable weather conditions this year have led to an abundant harvest, so the clan has a surplus of agricultural produce.	true
+dilemmas_localised_first_choice_label_d_bos_western_economics	We should work towards boosting production.	true
+dilemmas_localised_second_choice_title_d_gem_kofukuji	Sack Temple	true
+dilemmas_localised_first_choice_title_d_master_archer	Employ Him	true
+dilemmas_localised_description_s_adoption_young_heir	Your only male heir is young and inexperienced, my lord. Might I be so bold as to suggest adopting this worthy general, that he might lead the clan in your stead should some misfortune befall you before your son comes of age?	true
+dilemmas_localised_second_choice_title_d_bos_emperor_foreign_medic	Decline	true
+dilemmas_localised_second_choice_label_d_bos_student_exchange	There are currently more pressing domestic issues needing our attention. Perhaps later?	true
+dilemmas_localised_second_choice_title_d_gem_three_legged_gem_crow	Amaterasu's Warning	true
+dilemmas_localised_first_choice_title_d_bos_sakai_incident	Compensate	true
+dilemmas_localised_title_d_misfortune_others	The Misfortune of Others	true
+dilemmas_localised_first_choice_title_s_relief_effort	Dispatch Aid	true
+dilemmas_localised_second_choice_title_d_ronin_spears	Ignore Them	true
+dilemmas_localised_second_choice_label_d_ronin_swords	We have no need to enlist the bandit remnants of fallen clans. Send them on their way.	true
+dilemmas_localised_title_d_better_agent_monk	Fervent Buddhists	true
+dilemmas_localised_first_choice_label_d_bos_koyosha_modern	Outrage! Do they not see how the people benefit from modernisation? These criminals must be hunted down! 	true
+dilemmas_localised_second_choice_title_d_bos_rangaku	Assassinate Him	true
+dilemmas_localised_description_d_gem_eiga_monogatari	A controversial request, my lord; our shirabyoshi seek to develop their repertoires through the Eiga Monogatari. The tale speaks highly of the Fujiwara, however, and its circulation will likely aid their cause.	true
+dilemmas_localised_description_d_bos_koyosha_modern	You will remember mention of the Koyosha, my lord. Angered at our attempts to modernise at the expense of the samurai class, these militant traditionalists have taken to indiscriminately murdering clan and government officials.	true
+dilemmas_localised_first_choice_title_d_otomo_baptism	Accept Baptism	true
+dilemmas_localised_first_choice_label_d_master_gunner	A chance at improving our newly-recruited gunmen cannot be ignored; this man will be employed at once.	true
+dilemmas_localised_description_d_gem_eiga_monogatari_fujiwara	My lord, the Eiga Monogatari chronicles the exploits of Fujiwara Michinaga some hundred years past. By educating our shirabyoshi we improve their repertoire and foster greater interest in our own exploits.	true
+dilemmas_localised_title_d_bos_treaty_american_repeat	United States Military Mission	true
+dilemmas_localised_second_choice_label_d_intoxication	Times of conflict are trying times indeed. The people must be allowed some leeway, as long as no criminal offence is committed.	true
+dilemmas_localised_first_choice_title_d_gem_miidera_plight	Offer Aid	true
+dilemmas_localised_first_choice_label_d_bos_shogun_province_security	A wise plan. We will invest in security at once.	true
+dilemmas_localised_title_d_bos_emperor_ronin	Ronin	true
+dilemmas_localised_description_d_bos_student_exchange	There is an opportunity to send some of our subjects abroad to study under western scholars.	true
+dilemmas_localised_first_choice_title_d_bos_treaty_britain_initial	Accept	true
+dilemmas_localised_first_choice_title_d_developmental_focus	Military Focus	true
+dilemmas_localised_second_choice_label_d_bos_treaty_france_initial	We need time to consider the options. Inform them that - for the time being at least - we decline.	true
+dilemmas_localised_second_choice_title_d_gem_todaiji	Sack Temple	true
+dilemmas_localised_first_choice_label_d_otomo_embassy	A sound proposal; we can only benefit from further interaction with the Church. We will dispatch an embassy at once.	true
+dilemmas_localised_title_d_three_legged_crow	Three-legged Crow	true
+dilemmas_localised_second_choice_title_s_bos_promotion_post_battle	Do Not Promote	true
+dilemmas_localised_description_d_auxiliary_supplies	Merchants serving our clan in neighbouring provinces have discovered an opportunity to procure a quantity of military equipment and supplies. Investment in this could prove beneficial to our war efforts.	true
+dilemmas_localised_title_d_bos_shogun_realm_divide	Realm Divide	true
+dilemmas_localised_first_choice_label_d_auxiliary_supplies	These additional supplies will allow us to effectively equip a considerable number of men. We will invest in this opportunity immediately.	true
+dilemmas_localised_second_choice_label_d_bos_sensosai	We haven't the resources to spare at this time. Public order will have to be dealt with by other means.	true
+dilemmas_localised_second_choice_label_d_bos_emperor_foreign_medic	We have no need for his services.	true
+dilemmas_localised_first_choice_title_d_bos_nanban_slavers	Do Nothing	true
+dilemmas_localised_second_choice_label_d_gem_hachiman_flock	Hachiman sends blessings that our fishermen might better reap the teeming seas!	true
+dilemmas_localised_description_d_gem_justice	My lord, our men have apprehended a notorious brigand who is guilty of violence against our subjects. He is awaiting sentence.	true
+dilemmas_localised_description_d_bos_shogun_foreign_artillery_expert	A French ordnance expert going by the name of Clateau is offering - for a price - to help improve our use of artillery.	true
+dilemmas_localised_title_s_meritorious_action	Meritorious Action	true
+dilemmas_localised_description_d_gem_enryakuji_plight	My lord, we have received an envoy from the Enryakuji temple. Currently embroiled in a feud with their sister temple - Miidera - they have requested financial support and urge you to remember the assistance that they gave so willingly in the past.	true
+dilemmas_localised_first_choice_label_d_bos_treaty_america_initial	Such a military understanding will be a great asset to our cause. We accept.	true
+dilemmas_localised_first_choice_title_d_bos_gaijin_trouble	Take Action	true
+dilemmas_localised_first_choice_label_d_martial_priorities	We will focus on attack so that we will have clear advantage over our enemies when pressing the offensive.	true
+dilemmas_localised_description_d_omen_wind	My lord! The monks speak of dark skies closing in above our lands and believe this to be an omen sent by Fujin. They fear a coming storm and beseech you to honour the wind-god.	true
+dilemmas_localised_description_s_nanban_trade_east	Nanban traders have arrived at one of our ports, seeking permission to establish a trading post. Allowing this will give us access to new firearms. However, by doing so we run the risk of introducing undesirable nanban influences, such as Christianity, to the clan.	true
+dilemmas_localised_description_s_nanban_trade_west	Nanban traders have arrived at one of our ports, seeking permission to establish a trading post. Allowing this will give us access to new firearms. However, by doing so we run the risk of introducing undesirable nanban influences, such as Christianity, to the clan.	true
+dilemmas_localised_title_d_bountiful_harvest	Bountiful Harvest	true
+dilemmas_localised_description_d_jizamurai	With so many provinces under our control, we have dominion over an increasing number of jizamurai. These minor land-holders are both excellent warriors and agricultural experts.	true
+dilemmas_localised_title_d_gem_warrior_tax	The Warrior's Plight	true
+dilemmas_localised_description_d_bos_treaty_america_initial	We have been approached by the United States. They have offered to establish a military mission here to improve our military potential and improve trade relations. \\n\\nBy accepting we forego the opportunity to establish a military mission with other western powers.	true
+dilemmas_localised_description_d_martial_priorities	In this time of conflict, our strategists are divided as to whether to invest the clan's military resources in the practice of either offensive or defensive techniques.	true
+dilemmas_localised_first_choice_label_d_master_archer	The chance of further improving our archers cannot be ignored; this man will be employed at once.	true
+dilemmas_localised_description_d_land_dispute	A landowner in this province has seized estates belonging to his neighbour. The victim demands justice, while the offending party claims that he will make better use of the soil for the good of the clan. 	true
+dilemmas_localised_first_choice_title_d_bos_western_economics	Production	true
+dilemmas_localised_first_choice_label_d_better_agent_monk	With the fervent support of the Ikko-Ikki, our monks will be better able to disseminate the Buddha's teachings amongst the people. We accept the league's offer.	true
+dilemmas_localised_second_choice_label_d_bos_guns_of_war	By concentrating on firearms training, we can ensure that we have the upper hand in battle.	true
+dilemmas_localised_second_choice_label_d_gem_heiji_monogatari_minamoto	The tale is not yet ended. Once our family stands victorious over the Taira…that will be an epic tale!	true
+dilemmas_localised_title_d_master_gunner	Nanban Firearms Expert	true
+dilemmas_localised_description_d_otomo_baptism	My lord! Our support for their religion has strengthened the ties between the clan and our Christian friends. As such, they have expressed their wish to have you baptised in their faith.	true
+dilemmas_localised_title_d_gem_kofukuji	Kofukuji	true
+dilemmas_localised_title_d_tribute_shogun	Tribute to the Shogun	true
+dilemmas_localised_first_choice_label_d_misfortune_others	Wars are to be won with spears and swords, not with rice. We will send aid to our noble foe and his people.	true
+dilemmas_localised_description_s_relief_effort	This province has recently been ravaged by the forces of nature. Many of our people have had their livelihoods ruined. The process of rebuilding all that was lost is an arduous affair.	true
+dilemmas_localised_second_choice_title_d_bos_western_engineering	Military	true
+dilemmas_localised_title_d_gem_eiga_monogatari	The Eiga Monogatari	true
+dilemmas_localised_first_choice_title_d_bos_shogun_ronin	Employ Them	true
+dilemmas_localised_title_d_bos_shogun_shinsengumi	The Newly-selected Corps	true
+dilemmas_localised_first_choice_title_bos_intro_3_dilemma_research_field	Civil	true
+dilemmas_localised_second_choice_label_d_gem_enchantress	It is a good thing that, despite the hardships of our time, our clansmen can find solace in beauty.	true
+dilemmas_localised_first_choice_label_d_master_swordsman	The chance of training finer swordsmen cannot be ignored; this man will be employed at once.	true
+dilemmas_localised_second_choice_title_d_gem_omen_fire	Ignore the Omens	true
+dilemmas_localised_second_choice_label_d_monopoly	Economic growth will be stifled as long as only a select few are allowed to hold the reins. Their power will be curbed.	true
+dilemmas_localised_first_choice_label_d_bos_emperor_ronin	They will have their chance to serve the Emperor, employ them at once.	true
+dilemmas_localised_second_choice_label_d_gem_nine_tailed_gem_fox	Inari's kitsune has come to bless our crops; a time of prosperity is at hand!	true
+dilemmas_localised_second_choice_label_d_nine_tailed_fox	Inari's kitsune has come to bless our crops; a time of prosperity is at hand!	true
+dilemmas_localised_second_choice_title_d_gem_omen_ocean	Ignore the Omens	true
+dilemmas_localised_second_choice_title_d_otomo_trade_venture_gift	Superlative Cannon	true
+dilemmas_localised_second_choice_label_d_bos_western_exploitation	By approaching them at this time we risk deterioration of important long-term relations with the West.	true
+dilemmas_localised_first_choice_label_d_three_legged_crow	Amaterasu approves of our clan's great undertakings! Yatagarasu has come to lead us to victory!	true
+dilemmas_localised_second_choice_label_d_otomo_western_knowledge	Our ability to master the arts is beyond question. We see no reason to pursue this course at this time.	true
+dilemmas_localised_description_d_francis_xavier	The nanban missionary Francis Xavier, having treated with other daimyo to propagate his Christian teachings in their domains, seeks permission for his missionaries to preach in ours.	true
+dilemmas_localised_second_choice_title_d_gem_family_dues	Ignore	true
+dilemmas_localised_first_choice_label_d_francis_xavier	This man must not be allowed to poison the people's spirits and sully ancient traditions with his false nanban teachings.	true
+dilemmas_localised_second_choice_label_d_gem_enryakuji	We need no assistance from outsiders; we need only help ourselves! Dispatch a raiding party at once.	true
+dilemmas_localised_second_choice_title_d_omen_mountains	Ignore the Omens	true
+dilemmas_localised_title_d_otomo_embassy	Embassy	true
+dilemmas_localised_first_choice_title_d_urban_migration	Encourage Migration	true
+dilemmas_localised_description_d_bos_shogun_realm_divide	Conflict has escalated, and our domain has grown strong serving the Shogun. A decision must now be made: how best to unify the people of Japan once and for all?	true
+dilemmas_localised_second_choice_title_s_matter_of_honour_major	Chance for Redemption	true
+dilemmas_localised_second_choice_title_s_matter_of_honour_minor	Deny Request	true
+dilemmas_localised_first_choice_title_d_gem_young_thief	Sympathise	true
+dilemmas_localised_first_choice_title_d_omen_wind	Honour the Wind-God	true
+dilemmas_localised_first_choice_title_s_nanban_trade_east	Accept Trade	true
+dilemmas_localised_first_choice_title_s_nanban_trade_west	Accept Trade	true
+dilemmas_localised_second_choice_title_s_adoption_no_heir	Do not adopt	true
+dilemmas_localised_first_choice_label_d_bountiful_harvest	We have indeed been blessed! No mouth will go unfed this year;  the surplus will be distributed amongst the peasants.	true
+dilemmas_localised_first_choice_title_d_jizamurai	Agrarian Focus	true
+dilemmas_localised_title_d_gem_justice	Justice	true
+dilemmas_localised_description_d_bos_western_economics	Despite the furore surrounding the opening of our ports to the West, we cannot deny the benefits of having access to their knowledge of economics.\\n\\nIn which area should we focus our research?	true
+dilemmas_localised_title_d_master_archer	Marksmanship	true
+dilemmas_localised_title_d_bos_shogun_foreign_artillery_expert	Clateau	true
+dilemmas_localised_second_choice_label_d_otomo_nanban_shipwreck	We have no need for any matchlocks at this time.	true
+dilemmas_localised_first_choice_label_s_bos_promotion_turn_start	An army needs leadership if it is to wage war effectively. We will give him the chance to prove his worth.	true
+dilemmas_localised_second_choice_title_d_bos_westerners_attacked	Deal With Them Personally	true
+dilemmas_localised_second_choice_label_d_heralding_spring	Diligence is insufficient. It is their duty to push themselves to their limits for the good of the clan.	true
+dilemmas_localised_second_choice_title_d_bos_emperor_realm_divide	Assume Personal Control	true
+dilemmas_localised_description_d_gem_warrior_tax	The leader of a warrior band from this province seeks an audience, my lord. He and his men are distraught at the court's increasing levies upon the bushidan.	true
+dilemmas_localised_description_d_master_cavalry	A renowned horseman has approached the clan, enticed by our reputation for optimum use of cavalry in the field. For a price, this master of horse and mounted combat has offered to help improve the skills of our cavalrymen.	true
+dilemmas_localised_first_choice_label_d_master_cavalry	A chance to field stronger cavalry cannot be ignored; this man will be employed at once.	true
+dilemmas_localised_first_choice_title_d_misfortune_others	Dispatch aid	true
+dilemmas_localised_second_choice_title_d_hachiman_flock	Fisherman's Blessing	true
+dilemmas_localised_second_choice_title_d_bos_guns_of_war	Firearms Focus	true
+dilemmas_localised_first_choice_label_s_disloyalty_major	He will commit seppuku immediately!	true
+dilemmas_localised_first_choice_label_s_disloyalty_minor	We will give him a chance to prove his loyalty to the clan and to preserve his honour by committing seppuku at once.	true
+dilemmas_localised_title_s_relief_effort	Relief Effort	true
+dilemmas_localised_first_choice_title_d_better_agent_monk	Accept Offer	true
+dilemmas_localised_description_d_bos_western_exploitation	I must speak with you, my lord. The unequal trade agreements established with the western powers have greatly harmed our economy; the people toil diligently, yet they receive little compensation. Is there nothing we can do?	true
+dilemmas_localised_second_choice_title_d_gem_heiji_monogatari_minamoto	Dismiss Him	true
+dilemmas_localised_title_d_otomo_baptism	Baptism	true
+dilemmas_localised_description_d_master_gunner	A gaijin claiming to be a master of matchlock weaponry is offering - for a price - to instruct our clan's warriors in the use of firearms.	true
+dilemmas_localised_second_choice_label_d_bos_western_engineering	Our war effort will benefit from a better understanding of military engineering.	true
+dilemmas_localised_description_d_tribute_emperor	The Emperor has commissioned the construction of a grand new palace and has requested contributions from all the great clans towards this glorious undertaking.	true
+dilemmas_localised_first_choice_title_d_bos_shogun_shinsengumi	Accept	true
+dilemmas_localised_description_d_better_agent_missionary	Impressed with our efforts to support Christianity across Japan, the Church has offered to grant us powers on behalf of the Pope himself, in return for tribute.  	true
+dilemmas_localised_first_choice_label_d_bos_treaty_france_repeat	Such a military understanding will be a great asset to our cause. We accept.	true
+dilemmas_localised_first_choice_title_d_bos_emperor_ronin	Employ Them	true
+dilemmas_localised_description_d_heralding_spring	Spring has come. The people have toiled throughout the winter to ensure that our coffers remain filled, reinforcing the strength of the clan.	true
+dilemmas_localised_second_choice_title_d_gem_enchantress	Acknowledge	true
+dilemmas_localised_title_d_bos_koyosha_western	Koyosha	true
+dilemmas_localised_first_choice_title_d_tribute_shogun	Pay Tribute	true
+dilemmas_localised_title_s_nanban_trade_centre	Nanban Trade	true
+dilemmas_localised_second_choice_label_d_gem_omen_fire	We have neither the time nor the money to squander on such superstitious frivolities.	true
+dilemmas_localised_title_d_gem_miidera	Miidera	true
+dilemmas_localised_second_choice_title_d_gem_nine_tailed_gem_fox	Farmer's Blessing	true
+dilemmas_localised_second_choice_title_d_nine_tailed_fox	Farmer's Blessing	true
+dilemmas_localised_description_d_gaijin_trouble	The awkward customs of the nanban have led to an increased number of undesirable and regrettable incidents in this province.	true
+dilemmas_localised_second_choice_title_d_otomo_western_knowledge	Decline	true
+dilemmas_localised_description_d_otomo_embassy	My lord, the Jesuit Alessandro Valignano has brought us a proposal. He believes we should send an embassy to the Pope. This is surely an opportunity to strengthen our relations with the Church.	true
+dilemmas_localised_first_choice_label_d_gaijin_trouble	Unrest is a small price to pay for the benefits of trade with the nanban. The people must deal with the matter themselves.	true
+dilemmas_localised_second_choice_label_d_gem_family_dues	Our time will not be wasted on such frivolities.	true
+dilemmas_localised_first_choice_title_d_three_legged_crow	Amaterasu's Blessing	true
+dilemmas_localised_title_d_desecration	Desecration	true
+dilemmas_localised_title_d_bos_western_science	Western Science	true
+dilemmas_localised_first_choice_label_d_urban_migration	There will always be peasants to till the land. Our clan will benefit from the increase in trade brought about by such migration.	true
+dilemmas_localised_second_choice_title_d_gem_enryakuji	Sack Temple	true
+dilemmas_localised_first_choice_label_d_gem_young_thief	It is impressive that this youth managed to inflitrate us beneath the guards' very noses! Release him to his family, and allow him as many supplies as he can carry.	true
+dilemmas_localised_description_d_monopoly	As trade opportunities grow in this province, merchants and artisans have established trade guilds to secure monopolies over their trades. Independent artisans and traders are being put out of business.	true
+dilemmas_localised_title_d_ronin_spears	Ronin	true
+dilemmas_localised_second_choice_label_d_bos_westerners_attacked	We will obtain written apologies from those involved; no harm was done, and we will not have our people submit to western justice.	true
+dilemmas_localised_first_choice_label_d_omen_wind	We will arrange a clan-wide Fujin-sai at once; see to it that no expense is spared in the preparation of the appropriate rites and festivities.	true
+dilemmas_localised_first_choice_label_s_nanban_trade_east	We welcome the opportunity to engage in material and cultural exchange with the nanban. We will build them a trading post.	true
+dilemmas_localised_first_choice_label_s_nanban_trade_west	We welcome the opportunity to engage in material and cultural exchange with the nanban. We will build them a trading post.	true
+dilemmas_localised_first_choice_title_d_bountiful_harvest	Distribute Surplus	true
+dilemmas_localised_first_choice_label_d_jizamurai	Their expertise in agrarian matters makes them invaluable to the economy; they will best serve their clan managing the land.	true
+dilemmas_localised_description_d_master_archer	A reputable marksman has approached the clan, offering his services so that we might extend our reputation for skill with the bow. This man's mastery of ranged fighting knows no equal; for a price, he has offered to improve the proficiency of our archers.	true
+dilemmas_localised_title_d_bos_western_economics	Western Economics	true
+dilemmas_localised_title_s_adoption_young_heir	Adoption Opportunity	true
+dilemmas_localised_second_choice_label_s_adoption_no_heir	We are not prepared to adopt this man into our family. Heirs will be forthcoming.	true
+dilemmas_localised_first_choice_label_d_imperial_new_year	In honour of His Majesty and of his divine authority, we will send offerings for this year's choga.	true
+dilemmas_localised_description_d_gem_migrant_labourers	My lord, an increasing number of labourers from neighbouring provinces are seeking to settle in your domain, hoping to escape the hardships imposed by their lords.	true
+dilemmas_localised_title_d_bos_rangaku	Rangaku	true
+dilemmas_localised_second_choice_label_d_tribute_emperor	The needs of the clan far outweigh those of the emperor. We will give no tribute.	true
+dilemmas_localised_description_d_bos_western_engineering	Despite the furore surrounding the opening of our ports to the West, we cannot deny the benefits of having access to their knowledge of engineering.\\n\\nIn which field should we focus our research?	true
+dilemmas_localised_second_choice_label_d_better_agent_missionary	We have no need to further invest in the support of our missionaries for the time being. We decline the Church's offer.	true
+dilemmas_localised_first_choice_title_s_bos_promotion_turn_start	Enlist Him	true
+dilemmas_localised_second_choice_title_d_heralding_spring	Push Them Harder	true
+dilemmas_localised_second_choice_label_d_bos_emperor_realm_divide	Enough of this! Never again will we submit to these so-called rulers. We must take the future into our own hands.	true
+dilemmas_localised_second_choice_title_d_bos_western_exploitation	Do Nothing	true
+dilemmas_localised_second_choice_label_d_otomo_trade_venture_gift	These cannon will help topple our enemies’ defences. We will take them.	true
+dilemmas_localised_second_choice_label_d_gem_omen_ocean	We have neither the time nor the money to squander on such superstitious frivolities.	true
+dilemmas_localised_title_d_land_dispute	Land Dispute	true
+dilemmas_localised_first_choice_label_d_omen_fire	We will arrange a clan-wide chinka-sai at once; see to it that no expense is spared in the preparation of the rites and the festivities.	true
+dilemmas_localised_first_choice_label_d_ambitious_traders	Increased trade with prosperous nations will in turn boost our clan's economic fortunes. The merchants will be given the proper concessions.	true
+dilemmas_localised_second_choice_title_d_bos_sword_abolishment	Do Nothing	true
+dilemmas_localised_title_d_gem_enryakuji_plight	Plight of the Enryakuji Temple	true
+dilemmas_localised_first_choice_label_bos_intro_3_dilemma_research_field	Despite tensions, conflict has yet to escalate; there may never be a better time to develop our infrastructure. We will seek the counsel of experts in civil technology.	true
+dilemmas_localised_second_choice_label_d_omen_mountains	We have neither the time nor the money to squander on such superstitious frivolities.	true
+dilemmas_localised_first_choice_title_d_master_swordsman	Employ Him	true
+dilemmas_localised_title_d_gem_eiga_monogatari_fujiwara	The Eiga Monogatari	true
+dilemmas_localised_second_choice_title_d_bos_shogun_realm_divide	Assume Personal Control	true
+dilemmas_localised_second_choice_label_s_matter_of_honour_major	He will be kept alive to make amends for his repeated failure. The dishonour will be his punishment.	true
+dilemmas_localised_second_choice_label_s_matter_of_honour_minor	A samurai cannot serve the clan if he is dead. He will be allowed to atone for his misdeeds through service to his lord.	true
+dilemmas_localised_second_choice_title_d_monopoly	Intervene	true
+dilemmas_localised_first_choice_label_d_conflict_beliefs_buddhist	We cannot allow the hearts and minds of our peasants corrupted by these antithetical beliefs. He must be executed at once.	true
+dilemmas_localised_title_s_promotion_post_battle	Fit for Command	true
+dilemmas_localised_title_d_gem_todaiji	Todaiji	true
+dilemmas_localised_first_choice_title_d_francis_xavier	Refuse Him	true
+dilemmas_localised_description_d_gem_family_dues	A noble in your service will be throwing a lavish feast in the family's honour within the month. He knows you are burdened by duty, but hopes that you will in some way be able to participate in the event.	true
+dilemmas_localised_title_d_gaijin_trouble	Gaijin Trouble	true
+dilemmas_localised_second_choice_title_d_gem_warrior_tax	Exploit Them	true
+dilemmas_localised_first_choice_label_d_gem_developmental_focus	We must have military superiority if we are to prevail over our enemies. We will focus on military development.	true
+dilemmas_localised_first_choice_title_d_master_cavalry	Employ Him	true
+dilemmas_localised_title_d_bos_student_exchange	Student Exchange	true
+dilemmas_localised_second_choice_label_d_gem_omen_wind	We have neither the time nor the money to squander on such superstitious frivolities.	true
+dilemmas_localised_description_d_bos_westerners_attacked	My lord, a group of westerners - guests within our realm - were attacked in the night by known Imperialist elements. Nobody was harmed, but great offence has been taken.	true
+dilemmas_localised_second_choice_title_d_otomo_nanban_shipwreck	Decline	true
+dilemmas_localised_first_choice_label_d_bos_shogun_ronin	They will have their chance to serve the Shogun; employ them at once.	true
+dilemmas_localised_second_choice_title_d_tribute_emperor	Refuse to Pay	true
+dilemmas_localised_title_d_ronin_swords	Ronin	true
+dilemmas_localised_description_d_bos_shogun_shinsengumi	Kondo Isami, head of the shinsengumi - staunch enforcers of the Shogun's will - is seeking to strengthen his ranks. He is appealing to Shogunate loyalists to assist in his recruitment drive.	true
+dilemmas_localised_first_choice_label_d_bos_shogun_shinsengumi	We will do whatever it takes to protect the Shogunate's interests. Let us assist him in his mission.	true
+dilemmas_localised_second_choice_title_d_better_agent_missionary	Decline Offer	true
+dilemmas_localised_first_choice_title_d_imperial_new_year	Send tribute	true
+dilemmas_localised_second_choice_label_d_hachiman_flock	Hachiman sends blessings that our fishermen might better reap the teeming seas!	true
+dilemmas_localised_title_d_intoxication	In Their Cups	true
+dilemmas_localised_description_d_bos_guns_of_war	Now, more than ever, we rely on guns to achieve victory on the battlefield. Both firearms and artillery have a major role to play in warfare, and we should exploit them to suit our military ends.	true
+dilemmas_localised_title_d_gem_migrant_labourers	Migrant Workforce	true
+dilemmas_localised_first_choice_title_d_omen_fire	Honour the Fire-God	true
+dilemmas_localised_first_choice_title_d_ambitious_traders	Foreign Priority	true
+dilemmas_localised_description_d_gem_nine_tailed_gem_fox	Whilst surveying our domain, an astonishing sight was observed outside a shrine to Inari; a nine-tailed fox, sitting sentinel-like beneath a torii.	true
+dilemmas_localised_description_d_nine_tailed_fox	Whilst surveying our domain, an astonishing sight was observed outside a shrine to Inari; a nine-tailed fox, sitting sentinel-like beneath a torii.	true
+dilemmas_localised_second_choice_label_d_bos_sword_abolishment	In troubled times such as these it is the right of all to bear arms in defence, to say nothing of tradition. We will take no such action.	true
+dilemmas_localised_description_d_tribute_shogun	The Shogun has demanded that, as a mark of dedication and of respect towards his supreme power, all great clans should pay tribute to the Shogunate.	true
+dilemmas_localised_description_d_gem_enchantress	My lord, one of our nobles speaks most favourably about a shirabyoshi who has recently entered into his service; by all accounts she is the most enchanting lady ever to have graced our lands.	true
+dilemmas_localised_first_choice_label_d_tribute_shogun	We are currently in no position to draw the ire of Kyoto. We will acquiesce to the shogun's request - for now.	true
+dilemmas_localised_description_d_bos_emperor_realm_divide	Conflict has escalated, and we have grown strong serving the Emperor. A decision must now be made: how best to unify the people of Japan once and for all?	true
+dilemmas_localised_first_choice_title_d_conflict_beliefs_buddhist	Execute Him!	true
+dilemmas_localised_description_s_promotion_post_battle	My lord, one of our valiant warriors has proved his mettle in securing this victory for the clan. It is our belief that his talents are wasted in the rank-and-file and that he will best serve the clan leading our forces in battle.	true
+dilemmas_localised_second_choice_label_d_bos_shogun_realm_divide	Enough of this! Never again will we submit to these so-called rulers. Let us take our people's future into our own hands.	true
+dilemmas_localised_description_s_adoption_no_heir	My lord, you are without a male heir. Should some misfortune befall you our great clan would be doomed to fall. This man has proved himself capable of great deeds; adopting him as your son will secure the clan's future whilst duly honouring his diligence.	true
+dilemmas_localised_title_d_master_cavalry	Great Horsemanship	true
+dilemmas_localised_description_d_otomo_western_knowledge	My lord, we should take advantage of our good relations with the western power, and use Jesuit advisors to help further our knowledge and skills.	true
+dilemmas_localised_first_choice_title_d_gaijin_trouble	Ignore the Issue	true
+dilemmas_localised_title_d_bos_sensosai	Sensosai	true
+dilemmas_localised_title_d_francis_xavier	Francis Xavier	true
+dilemmas_localised_first_choice_title_s_disloyalty_major	Order Seppuku	true
+dilemmas_localised_first_choice_title_s_disloyalty_minor	Order Seppuku	true
+dilemmas_localised_second_choice_label_d_gem_warrior_tax	They owe the court nothing; they are our subjects to tax as we see fit.	true
+dilemmas_localised_second_choice_title_d_gem_omen_wind	Ignore the Omens	true
+dilemmas_localised_first_choice_title_d_gem_developmental_focus	Military Focus	true
+dilemmas_localised_description_d_otomo_trade_venture_gift	Owing to our progressive trade policies, a Jesuit missionary within our nanban quarter has managed to broker an agreement between our clan and his masters. In return, he offers some fine weapons as a gift.	true
+dilemmas_localised_first_choice_title_d_bos_treaty_france_repeat	Accept	true
+dilemmas_localised_second_choice_label_d_bos_shogun_shinsengumi	Unfortunately, we haven't the means to assist the shinsengumi at the moment.	true
+dilemmas_localised_first_choice_label_d_bos_western_engineering	Construction and development will benefit from a better understanding of civil engineering.	true
+dilemmas_localised_description_d_gem_omen_wind	My lord! The monks speak of dark skies closing in above our lands and believe this to be an omen sent by Fujin. They fear a coming storm and beseech you to honour the wind-god.	true
+dilemmas_localised_first_choice_title_d_wako_threat_korea	Deal With Them!	true
+dilemmas_localised_first_choice_label_d_bos_treaty_britain_repeat	Such a military understanding will be a great asset to our cause. We accept.	true
+dilemmas_localised_description_d_hachiman_flock	A flight of doves has been seen circling the capital, my lord. Hachiman's flock brings divine blessings upon our clan!	true
+dilemmas_localised_first_choice_label_d_hachiman_flock	Hachiman favours our war efforts and grants our warriors the blessings of Heaven!	true
+dilemmas_localised_first_choice_title_d_bos_guns_of_war	Artillery Focus	true
+dilemmas_localised_second_choice_title_s_disloyalty_major	Chance for Redemption	true
+dilemmas_localised_second_choice_title_s_disloyalty_minor	Wait and See	true
+dilemmas_localised_first_choice_title_d_gem_nine_tailed_gem_fox	Warrior's Blessing	true
+dilemmas_localised_first_choice_title_d_nine_tailed_fox	Warrior's Blessing	true
+dilemmas_localised_second_choice_title_s_promotion_post_battle	Do Not Promote	true
+dilemmas_localised_first_choice_label_d_wako_threat_china	We will address this issue, lest our lucrative - if unsanctioned - trade deals suffer at the hands of the pirates.	true
+dilemmas_localised_second_choice_title_d_bos_treaty_france_repeat	Refuse	true
+dilemmas_localised_first_choice_title_d_bos_icarus_affair	Compensate	true
+dilemmas_localised_second_choice_label_d_tribute_shogun	Who are we, to be cowed by this petty charlatan? Before long, he will be brought to his knees before the might of our clan. 	true
+dilemmas_localised_first_choice_title_d_gem_enchantress	Employ Her	true
+dilemmas_localised_title_d_otomo_nanban_shipwreck	Nanban Shipwreck	true
+dilemmas_localised_second_choice_label_d_gem_young_thief	How is it that this thief, barely a man, gained access to our stores? Throw him back on the street and bring me the guard captain; dereliction of duty will not be tolerated!	true
+dilemmas_localised_title_d_bos_sword_abolishment	Haitorei	true
+dilemmas_localised_second_choice_label_d_urban_migration	Nothing good may be said for merchants and tinkerers; it is the hard work of the farmer class on which the clan thrives.	true
+dilemmas_localised_description_bos_intro_3_dilemma_research_field	Research is underway and we have been approached by numerous foreigners claiming to be experts in their field. We can exploit this to our advantage; should we seek to focus on civil or military development?	true
+dilemmas_localised_second_choice_title_d_gaijin_trouble	Punish the Gaijin	true
+dilemmas_localised_first_choice_label_d_gem_family_dues	Duty calls and time is precious, but we will honour his gesture towards the family with a modest contribution.	true
+dilemmas_localised_first_choice_title_d_otomo_western_knowledge	Hire Experts	true
+dilemmas_localised_description_d_bos_shogun_ronin	A band of samurai, loyal to the Shogun and eager to serve, are seeking employment.	true
+dilemmas_localised_title_d_bos_shogun_province_security	Security Matters	true
+dilemmas_localised_description_d_gem_developmental_focus	Seeking to further the clan's mastery of the arts our retainers request guidance as to where they should focus their efforts.	true
+dilemmas_localised_first_choice_label_d_bos_westerners_attacked	We will capture those responsible and hand them over to the westerners for punishment.	true
+dilemmas_localised_second_choice_label_d_gem_migrant_labourers	We have little use for another lord's disgruntled peasantry: satisfying our own people's needs is trying enough. Send them on their way.	true
+dilemmas_localised_second_choice_label_bos_intro_3_dilemma_research_field	This conflict has yet to escalate, but all-out war is inevitable. When that day comes we must have the advantage. We will seek the counsel of experts in military technology.	true
+dilemmas_localised_first_choice_label_d_wako_threat_korea	We must ensure that good trade relations with Korea are maintained. We will deal with the pirates at once.	true
+dilemmas_localised_second_choice_title_d_master_swordsman	Dismiss Him	true
+dilemmas_localised_first_choice_title_d_bos_treaty_britain_repeat	Accept	true
+dilemmas_localised_first_choice_title_d_bos_western_engineering	Civil	true
+dilemmas_localised_first_choice_title_d_monopoly	Exploit	true
+dilemmas_localised_title_s_promotion_turn_start	Eager to Serve	true
+dilemmas_localised_first_choice_label_d_bos_guns_of_war	Artillery allows us to strike our enemies from afar, leaving them vulnerable once we have closed in.	true
+dilemmas_localised_title_d_gem_omen_wind	Fujin's Warning	true
+dilemmas_localised_first_choice_title_d_wako_threat_china	Deal With Them!	true
+dilemmas_localised_first_choice_label_d_bos_icarus_affair	We cannot afford to damage trade relations with the West for the sake of a few murderers. We will pay damages and see that the culprits are punished.	true
+dilemmas_localised_description_d_gem_omen_ocean	My lord! The monks speak of a gathering of great turtles upon our shores and believe this to be a sign sent by Owatatsumi. They fear ominous tides and beseech you to honour the sea-god.	true
+dilemmas_localised_title_d_better_agent_metsuke	The Shogun's Authority	true
+dilemmas_localised_first_choice_label_d_gem_omen_ocean	We will arrange shiomatsuri in all provinces that sit upon the Owatatsumi's waters. See to it that no expense is spared in the preparations of the rites and the festivities.	true
+dilemmas_localised_first_choice_label_d_gem_nine_tailed_gem_fox	Inari favours our martial efforts and grants our warriors the blessings of heaven!	true
+dilemmas_localised_first_choice_label_d_nine_tailed_fox	Inari favours our martial efforts and grants our warriors the blessings of heaven!	true
+dilemmas_localised_second_choice_label_d_bos_shogun_ronin	We currently have no need for their services; they will have to seek their fortunes elsewhere.	true
+dilemmas_localised_first_choice_label_d_gem_enchantress	Her charms could serve to inspire our generals or manipulate our enemies. Employ her at once.	true
+dilemmas_localised_second_choice_label_s_promotion_post_battle	This man’s ability is unquestionable, but we have no need of his services for the time being.	true
+dilemmas_localised_second_choice_title_s_bos_promotion_turn_start	Do Not Enlist	true
+dilemmas_localised_second_choice_title_d_gem_young_thief	Reprimand Guards	true
+dilemmas_localised_second_choice_title_d_urban_migration	Prevent Migration	true
+dilemmas_localised_description_d_omen_mountains	My lord! The monks speak of a rumbling deep beneath the mountains and believe this to be a sign sent by Oyamatsumi. They fear the wrath of the earth and beseech you to appease the mountain-god.	true
+dilemmas_localised_first_choice_label_s_matter_of_honour_major	His continued violation of our clan's reputation ends here. Have him commit seppuku at once.	true
+dilemmas_localised_first_choice_label_s_matter_of_honour_minor	Honour and tradition must be maintained. He is to commit seppuku at once.	true
+dilemmas_localised_first_choice_label_d_omen_mountains	Deference will be shown to the great kami of the mountains; see to it that no expense is spared in the preparation of the appropriate rites and festivities.	true
+dilemmas_localised_first_choice_label_s_adoption_no_heir	We must assure the future of our clan, and this man has proved his dedication to our cause. We will adopt him as heir.	true
+dilemmas_localised_description_s_matter_of_honour_major	A disgrace to the clan, this man is not worthy to lead our armies in battle. His death is the only means by which the shame and dishonour he has brought upon the clan can be undone.	true
+dilemmas_localised_description_s_matter_of_honour_minor	One of your subjects has been disgraced after repeatedly failing to serve the clan to the best of his ability on the battlefield. As a matter of honour, he beseeches you to allow his immediate suicide.	true
+dilemmas_localised_description_d_bos_sword_abolishment	These are dark times, my lord. Murder abounds: murder of foreigners; murder over petty matters of class; murder for political ideals. It may be necessary to forbid the carrying of weapons amongst the people.	true
+dilemmas_localised_first_choice_title_d_heralding_spring	Reward Their Efforts	true
+dilemmas_localised_second_choice_title_d_francis_xavier	Grant Permission	true
+dilemmas_localised_first_choice_label_d_bos_emperor_realm_divide	The Emperor must lead his people to greatness. In his name, we will crush all who oppose us!	true
+dilemmas_localised_first_choice_title_d_gem_family_dues	Contribute	true
+dilemmas_localised_first_choice_label_d_otomo_western_knowledge	Western knowledge will keep us one step ahead of our rivals: send word to the nanban quarter at once!	true
+dilemmas_localised_first_choice_label_d_otomo_trade_venture_gift	These fine matchlocks are certainly a worthy addition to our arsenal. We will see to it that our troops receive the guns at once.	true
+dilemmas_localised_first_choice_title_d_bos_western_exploitation	Appeal to the Westerners	true
+dilemmas_localised_second_choice_title_d_master_cavalry	Dismiss Him	true
+dilemmas_localised_second_choice_title_d_gem_migrant_labourers	Refuse Them	true
+dilemmas_localised_first_choice_title_d_bos_westerners_attacked	Turn Them Over	true
+dilemmas_localised_first_choice_title_d_otomo_nanban_shipwreck	Obtain Matchlocks	true
+dilemmas_localised_first_choice_title_d_bos_emperor_foreign_medic	Employ	true
+dilemmas_localised_title_d_gem_omen_ocean	Owatatsumi's Warning	true
+dilemmas_localised_first_choice_title_d_hachiman_flock	Warrior's Blessing	true
+dilemmas_localised_second_choice_title_d_bos_shogun_shinsengumi	Decline	true
+dilemmas_localised_first_choice_title_d_better_agent_missionary	Accept Offer	true
+dilemmas_localised_second_choice_title_d_master_archer	Dismiss Him	true
+dilemmas_localised_second_choice_label_d_bos_western_economics	We should investigate improved methods of distribution.	true
+dilemmas_localised_first_choice_title_d_tribute_emperor	Pay Tribute	true
+dilemmas_localised_first_choice_title_d_bos_treaty_france_initial	Accept	true
+dilemmas_localised_second_choice_title_d_tribute_shogun	Refuse to Pay	true
+dilemmas_localised_second_choice_title_d_otomo_embassy	Decline Proposal	true
+dilemmas_localised_first_choice_label_s_bos_promotion_post_battle	An army needs leadership if it is to wage war effectively. We will exercise his martial prowess to further our military objectives.	true
+dilemmas_localised_description_d_master_swordsman	Our inclination towards the use of close quarters fighters in battle has led to a master of kenjutsu approaching the clan and offering to improve our infantry's swordsmanship - for a price.	true
+dilemmas_localised_description_d_gem_enryakuji	Yamashiro province is home to numerous prominent temples. One such temple is the Enryakuji; commanding considerable wealth and home to proficient warrior monks, their support could greatly aid our cause. Alternatively, sacking the temple may provide a quick source of funds.	true
+dilemmas_localised_second_choice_label_s_disloyalty_major	He may yet be of some use to us, so will be given the chance to redeem himself on this occasion.	true
+dilemmas_localised_second_choice_label_s_disloyalty_minor	It is too early to tell. In due course we shall see where his true loyalties lie; for now we will make use of his talents.	true
+dilemmas_localised_second_choice_label_d_gaijin_trouble	Such behaviour cannot go unpunished. We will expel the offending gaijin and take steps to ensure that this does not happen again.	true
+dilemmas_localised_second_choice_label_d_bos_treaty_france_repeat	We cannot accept. Convey our regrets to the French ambassador.	true
+dilemmas_localised_first_choice_label_d_bos_shogun_realm_divide	The Shogun must lead his people to greatness. In his name, we will crush all those who oppose us!	true
+dilemmas_localised_title_d_gem_omen_fire	Kagutsuchi's Warning	true
+dilemmas_localised_title_s_matter_of_honour_major	Death or Dishonour	true
+dilemmas_localised_title_s_matter_of_honour_minor	A Matter of Honour	true
+dilemmas_localised_first_choice_label_d_gem_three_legged_gem_crow	Amaterasu approves of our clan's great undertakings! Yatagarasu has come to lead us to victory!	true
+dilemmas_localised_title_d_omen_mountains	Oyamatsumi's Warning	true
+dilemmas_localised_second_choice_label_s_relief_effort	There are more pressing issues to attend to than the trivial problems faced by the peasantry.	true
+dilemmas_localised_description_s_bos_promotion_turn_start	My lord, the son of one of your most loyal subjects - a fine warrior, I am told -  desires to prove his worth to you and the clan. As such, he requests the opportunity to lead your glorious forces in battle.	true
+dilemmas_localised_second_choice_title_d_gem_developmental_focus	Civil Focus	true
+dilemmas_localised_second_choice_label_d_otomo_baptism	We have profited from the nanban, but a line must be drawn at such disregard for tradition and our ancestors.	true
+dilemmas_localised_second_choice_title_d_master_gunner	Dismiss Him	true
+dilemmas_localised_description_d_gem_heiji_monogatari_minamoto	A scholar seeks your endorsement, hoping to chronicle the events of the Heiji Rebellion, when Lord Yoshitomo sought to oust the corrupt cloistered Emperor but fell foul of Taira schemes.	true
+dilemmas_localised_first_choice_label_d_gem_warrior_tax	They owe the court nothing; they reside within our domain and their service to the clan is payment enough. We will see to it that they are no longer troubled by the court.	true
+dilemmas_localised_description_d_bos_treaty_france_repeat	Once more, the French have offered to establish a military mission here to improve our military potential and improve trade relations. Should we decline again, I fear that they will not offer again.\\n\\nBy accepting we forego the opportunity to establish a military mission with other western powers.	true
+dilemmas_localised_first_choice_label_d_bos_western_exploitation	This is a sad state of affairs. We will appeal to the westerners to improve the situation.	true
+dilemmas_localised_first_choice_title_d_otomo_trade_venture_gift	Fine Matchlocks	true
+dilemmas_localised_second_choice_title_d_bos_western_economics	Distribution	true
+dilemmas_localised_second_choice_label_d_master_archer	He demands too much for his services; our own sensei are more than adequate for the training of archers.	true
+dilemmas_localised_first_choice_label_d_bos_emperor_foreign_medic	We need all the help we can get in this conflict. Engage him, may his skills help keep our men alive.	true
+dilemmas_localised_description_s_disloyalty_major	If rumours regarding this man's loyalties are to be believed he is nothing but a traitor to the clan. Action must be taken, lest he be allowed to bring further shame upon or cause harm to the people.	true
+dilemmas_localised_description_s_disloyalty_minor	Rumours abound regarding this man's waning loyalty to us. We must be wary of such sedition lest it propagates and compromises the clan.	true
+dilemmas_localised_first_choice_label_d_better_agent_missionary	The Pope's divine authority will allow the word of God to be spread more effectively. We accept the Church's offer.	true
+dilemmas_localised_first_choice_label_d_tribute_emperor	The glory of Amaterasu's lineage must be honoured. See to it that the Emperor receives the tribute that he requires.	true
+dilemmas_localised_first_choice_title_s_bos_promotion_post_battle	Promote Him	true
+dilemmas_localised_second_choice_label_s_bos_promotion_turn_start	This man’s eagerness to serve is admirable, but we do not require his services for the time being.	true
+dilemmas_localised_title_d_gem_enryakuji	Enryakuji	true
+dilemmas_localised_first_choice_title_s_adoption_no_heir	Adopt him	true
+dilemmas_localised_title_d_hachiman_flock	Hachiman's Flock	true
+dilemmas_localised_first_choice_label_d_bos_treaty_france_initial	Such a military understanding will be a great asset to our cause. We accept.	true
+dilemmas_localised_first_choice_label_d_heralding_spring	In honour of their efforts and of the flowering of the cherry blossom, we will arrange festivities for the people.	true
+dilemmas_localised_first_choice_title_d_bos_emperor_realm_divide	Fight for the Emperor	true
+dilemmas_localised_title_d_developmental_focus	Developmental Focus	true
+dilemmas_localised_first_choice_title_d_gem_omen_ocean	Honour the Sea-God	true
+dilemmas_localised_second_choice_label_d_otomo_embassy	An interesting notion, but our resources are best directed at Japanese matters.	true
+dilemmas_localised_second_choice_label_d_francis_xavier	The benefits of improved relations with the nanban, and, by extension, an increase of trade in goods and knowledge, cannot be ignored.	true
+dilemmas_localised_description_d_gem_omen_fire	My lord! The monks speak of raging fires that cannot be quelled and believe this to be a sign sent by Kagutsuchi. They fear that the fire-god is displeased with our people and beseech you to appease him with a chinka-sai.	true
+dilemmas_localised_second_choice_title_d_bos_shogun_ronin	Turn Them Away	true
+dilemmas_localised_first_choice_title_d_bos_shogun_realm_divide	Fight for the Shogun	true
+dilemmas_localised_first_choice_title_s_matter_of_honour_major	Order Seppuku	true
+dilemmas_localised_first_choice_title_s_matter_of_honour_minor	Accept Request	true
+dilemmas_localised_description_d_urban_migration	The uncertainty of the harvest and the increasing profitability of the life of the artisan is driving people away from the land and into the towns.	true
+dilemmas_localised_description_d_gem_young_thief	A young man has been apprehended by the guards, my lord. He was caught stealing supplies from the quartermaster's stores; claiming that he sought only to provide for his impoverished family.	true
+dilemmas_localised_first_choice_title_d_omen_mountains	Honour the Mountain-God	true
+dilemmas_localised_second_choice_title_bos_intro_3_dilemma_research_field	Military	true
+dilemmas_localised_second_choice_label_d_master_swordsman	He demands too much for his services; our own sensei are more than capable of training our swordsmen.	true
+dilemmas_localised_first_choice_label_d_otomo_nanban_shipwreck	A fair price. Buy their stock and have them delivered to the dojo at once.	true
+dilemmas_localised_second_choice_title_d_otomo_baptism	Decline Baptism	true
+dilemmas_localised_second_choice_label_d_master_gunner	We have no need for this gaijin's extortionate services. Our men need only aim and fire; mastery will surely follow in time.	true
+dilemmas_localised_description_d_otomo_nanban_shipwreck	A nanban ship has been wrecked nearby. The survivors, seeking to buy safe passage home, are selling salvage. Among the items are matchlock guns, sufficient to equip a unit of samurai.	true
+dilemmas_localised_title_d_gem_heiji_monogatari_minamoto	The Heiji Monogatari	true
+dilemmas_localised_first_choice_title_d_gem_three_legged_gem_crow	Amaterasu's Blessing	true
+dilemmas_localised_first_choice_label_d_monopoly	As long as we are paid our dues, these trade guilds may continue as they please.	true
+dilemmas_localised_second_choice_label_d_master_cavalry	He demands too much for his services; our own sensei are more than adequate for our cavalry training needs.	true
+dilemmas_localised_second_choice_label_d_gem_developmental_focus	What good is military might without the infrastructure to support and exploit it? We will focus on administrative development.	true
+dilemmas_localised_first_choice_title_d_gem_warrior_tax	Exempt Them	true
+dilemmas_localised_second_choice_title_s_relief_effort	Ignore Their Plight	true

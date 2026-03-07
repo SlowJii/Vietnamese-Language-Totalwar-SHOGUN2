@@ -1,0 +1,1304 @@
+key	text	tooltip
+#Loc;1;text/db/ancillaries.loc		
+ancillaries_onscreen_name_s2anc_sp_bosh_servant_chef_noodle	Noodle Chef	true
+ancillaries_colour_text_s2anc_crime_ronin_kabukimono	"Gissa job! I could do that. No, really, I could do that. Go on, gissa job!"	true
+ancillaries_onscreen_name_mp_bosh_anc_french_naval_engineer	French Naval Engineer	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_schnell_henry	Henry Schnell	true
+ancillaries_onscreen_name_s2anc_legend_army_netsuke	Legendary Netsuke Carver	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_tiger_claws	Tiger Claws	true
+ancillaries_onscreen_name_s2anc_master_army_sojutsu	Sojutsu Master	true
+ancillaries_colour_text_mp_anc_supply_wagon	"Do not throw your bow when the arrows are gone!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_book_on_war	von Clausewitz's "On War"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_animal_dog	Hunting Dog	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_origami	Origami Master	true
+ancillaries_onscreen_name_s2anc_crime_yakuza_thug	Yakuza	true
+ancillaries_onscreen_name_s2anc_silly_time_tunnel_2	Doug Philips	true
+ancillaries_onscreen_name_s2anc_silly_time_tunnel_1	Tony Newman	true
+ancillaries_colour_text_s2anc_friend_mentor_figure	Even the mightiest man had to learn how to use his might from someone.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_pong	A little goes a long way.	true
+ancillaries_colour_text_s2anc_master_army_smith	All swords are dangerous: a master ensures that only the enemy needs worry about that danger.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_spencer	Spencer Repeating Rifle	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_fintry	Fintry-Kyle Escape Apparatus	true
+ancillaries_onscreen_name_mp_bosh_anc_groom	Groom	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_flag	Legendary Banner	true
+ancillaries_onscreen_name_s2anc_sp_bosh_music_flute_player	Flute Player	true
+ancillaries_colour_text_s2_anc_pdlc_monk_relic_shugendo	Not all mysteries need be understood.	true
+ancillaries_onscreen_name_s2anc_master_army_naginata	Naginatajutsu Master	true
+ancillaries_colour_text_s2anc_sp_bosh_samurai_rude	"Pass the rice, fatty, before you eat it all!"	true
+ancillaries_colour_text_mp_bosh_anc_enfield_musketoon	"Proven in combat, by the Confederate States of America, sir, among others."	true
+ancillaries_colour_text_s2anc_legend_army_kyudo	"Your bowstring, my lord. It is disharmonious."	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_go	There are strategies for everything, from love to conquest.	true
+ancillaries_onscreen_name_s2anc_legend_espionage_spy	Legendary Spy Master	true
+ancillaries_onscreen_name_s2anc_sp_bosh_servant_biwa	Biwa Player	true
+ancillaries_colour_text_s2anc_sp_bosh_ronin_xenophobe	"We will expel all the barbarians…by the sword if necessary!"	true
+ancillaries_onscreen_name_mp_anc_genpei_shirabyoshi_dancer	Shirabyoshi Dancer	true
+ancillaries_onscreen_name_s2anc_pet_monkey_2	Pet Monkey	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_tea	Master of the Tea Ceremony	true
+ancillaries_onscreen_name_mp_bosh_anc_unpracticed_gun_crews	Unpracticed Gun Crews	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_rich	Rich Merchant	true
+ancillaries_onscreen_name_mp_bosh_anc_spoiled_rations	Spoiled Rations	true
+ancillaries_colour_text_s2anc_sp_bosh_clock_myriad	Time is never wasted, only misspent.	true
+ancillaries_colour_text_s2anc_sp_bosh_book_king_james	"Learn what your enemy thinks, and you learn his weaknesses."	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_do	A warrior's chest may be pierced by a thousand arrows but, as long as his heart is true, what does it matter?	true
+ancillaries_colour_text_s2anc_sp_bosh_item_game_go	Every good player knows that victory is the precise application of strategy.	true
+ancillaries_onscreen_name_s2anc_navy_pearl_fisherman	Pearl Fisherman	true
+ancillaries_onscreen_name_s2anc_legend_arts_kabuki	Legendary Kabuki Master	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ed_the_cat	Edo Cat	true
+ancillaries_onscreen_name_mp_bosh_anc_gun_crew_drill	Gun Crew Drill	true
+ancillaries_onscreen_name_mp_anc_genpei_honourable_attendant	Honourable Attendant	true
+ancillaries_colour_text_s2anc_artefact_ninja_tanto	One cut, one death.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_item_rice	A hungry student listens only to his belly.	true
+ancillaries_colour_text_s2anc_sp_bosh_mistress_gorgeous	"No, I do not keep her for her wits!"	true
+ancillaries_onscreen_name_mp_bosh_anc_skittish_mounts	Skittish Mounts	true
+ancillaries_colour_text_s2anc_sp_bosh_item_game_chess	A game of kings, played by any man.	true
+ancillaries_colour_text_s2anc_sp_bosh_book_almanac	There is more to a farmers' world than rice.	true
+ancillaries_onscreen_name_s2anc_geisha_hot_springs	Onsen Geisha	true
+ancillaries_onscreen_name_s2anc_legend_army_bowyer	Legendary Bowyer	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_camera	Glass Plate Camera	true
+ancillaries_colour_text_mp_anc_straw_practice_dummy	The first cut is the deepest.	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_elephant	"But there are no elephants in Japan..."	true
+ancillaries_colour_text_s2anc_sp_bosh_book_pulp	"Sordid, lurid stuff, and funny. But it tells us a truth about the gaijin."	true
+ancillaries_colour_text_mp_bosh_anc_improved_breech_mechanism	Precision engineered for maximum efficiency.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_weapon_bisento	"Peaceful" does not mean "defenceless".	true
+ancillaries_onscreen_name_s2anc_artefact_legend_ninjato_1	Apocryphal Ninjato	true
+ancillaries_onscreen_name_s2anc_artefact_legend_ninjato_2	Apocryphal Shinobigatana	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_bombs	Flash Powder Bombs	true
+ancillaries_colour_text_s2anc_legend_army_naginata	"There is no art in slashing a man to pieces!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_scotch	Whisky	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_shuriken	Every ninja has his tricks.	true
+ancillaries_colour_text_mp_anc_european_horse_trader	A stud is always useful.	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_ninjato	A single thrust, and life is gone.	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_civil_secretary	Mandokoro	true
+ancillaries_onscreen_name_mp_anc_tetsu_bishi_caltrops	Tetsu-Bishi Caltrops	true
+ancillaries_colour_text_s2_anc_pdlc_general_bow_target_medium	Only an arrow's length separates archer and target.	true
+ancillaries_colour_text_s2anc_navy_pirate_nihon	A good eye for wind and wave can be profitable.	true
+ancillaries_onscreen_name_mp_anc_livestock_pestilence	Livestock Pestilence	true
+ancillaries_colour_text_s2anc_sp_bosh_item_poisons	"Do try the fish."	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_martini_henry	"A bit of a kick, but nothing a good man cannot handle."	true
+ancillaries_onscreen_name_s2anc_master_army_kobudo	Okinawan Kobudo Master	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_roches	Leon Roches	true
+ancillaries_onscreen_name_s2anc_household_chinese_courtier	Chinese Courtier	true
+ancillaries_onscreen_name_s2anc_chamberlain	Household Chamberlain	true
+ancillaries_onscreen_name_s2anc_crime_yakuza_boss	Kumicho	true
+ancillaries_colour_text_mp_anc_water_carrier	Battle gives a man a powerful thirst.	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_bow_practice	Gomuyumi	true
+ancillaries_colour_text_s2anc_sp_bosh_item_sword_bokken	Sword training is hardly ever wasted.	true
+ancillaries_colour_text_s2anc_navy_shipwreck_dutch	"Get off me, you miserable rice-nibbling bugger!"	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_item_bowl	Begging Bowl	true
+ancillaries_colour_text_mp_legendary_tenkagoken_sword	Some swords will seek out worthy hands.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_servant_bodyguard	Exceptional Bodyguard	true
+ancillaries_colour_text_mp_anc_camp_sickness	The wise man runs with caution when touching cloth.	true
+ancillaries_colour_text_mp_anc_untrained_fugu_cook	Nothing ventured over dinner, nothing gained.	true
+ancillaries_colour_text_mp_anc_lotus_sect_adherent	There are many paths to heaven.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_foreign_servant_uk	English Butler	true
+ancillaries_onscreen_name_s2anc_sp_bosh_servant_chef_french	French Chef	true
+ancillaries_onscreen_name_s2_anc_pdlc_shirabyoshi_hand_fan	Kawahori Hand Fan	true
+ancillaries_colour_text_mp_anc_mochiyari_gumi_spear_bearer	A samurai may need his weapon at any moment.	true
+ancillaries_colour_text_mp_anc_world_weary	The burden of a lifetime bends a man's back.	true
+ancillaries_colour_text_mp_anc_indefatigable	Truth flies on swift wings.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_wig_white	The White Bear is come!	true
+ancillaries_colour_text_s2anc_sp_bosh_item_flag_wig_wag	Orders are orders.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_zasu	Retiring from the world is not ignoring the world.	true
+ancillaries_colour_text_s2anc_sp_bosh_mummified_mermaid	"Real? Of course it's real!"	true
+ancillaries_onscreen_name_s2anc_legend_army_jujutsu	Legendary Jujutsu Master	true
+ancillaries_colour_text_mp_bosh_anc_garden_of_convalescence	A garden soothes the soul.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_servant_treasurers	Treasurer	true
+ancillaries_onscreen_name_s2anc_sp_bosh_uniform_sailor_cap	Sailor's Cap	true
+ancillaries_onscreen_name_mp_anc_uma_i_horse_doctor	Uma-I Horse Doctor	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_tea	Legendary Tea Master	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_pet_tiger	"Grrrr!"	true
+ancillaries_colour_text_mp_legendary_hachiman_crest	A noble sign brings terror to enemies' hearts.	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_governor_zuryo	Zuryo	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_brunton	Richard Henry Brunton	true
+ancillaries_onscreen_name_s2anc_master_army_iaijutsu	Iaijutsu Master	true
+ancillaries_colour_text_s2anc_household_groom	Only a fool looks after his sword yet neglects his horse.	true
+ancillaries_onscreen_name_s2anc_artefact_christian_reliquary	Reliquary	true
+ancillaries_colour_text_s2anc_master_army_gunmaker	Even with a gun, there is honour in making it well, and in adding refinement to the tools of war.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_wig_red	The Red Bear is come!	true
+ancillaries_onscreen_name_mp_anc_yumi_officer	Yumi Officer	true
+ancillaries_onscreen_name_mp_bosh_anc_bandit_horse_thieves	Bandit Horse Thieves	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_weapon_bayonet	Infantry Bayonet	true
+ancillaries_onscreen_name_s2anc_legend_arts_bunraku	Legendary Bunraku Puppeteer	true
+ancillaries_onscreen_name_s2anc_master_arts_kabuki	Kabuki Actor	true
+ancillaries_onscreen_name_mp_anc_european_gunsmith	European Gunsmith	true
+ancillaries_colour_text_s2anc_espionage_samurai_rude	"Pass the rice, fatty, before you eat it all!"	true
+ancillaries_colour_text_s2anc_samurai_killer	When swords are drawn, talk gives way to death.	true
+ancillaries_colour_text_s2anc_army_hero_horse	A good horse will carry a general into battle and think the sword no more fearsome than a butterfly.	true
+ancillaries_onscreen_name_s2anc_legend_army_yabusame	Legendary Yabusame Master	true
+ancillaries_onscreen_name_s2anc_master_arts_ceramics	Master Potter	true
+ancillaries_onscreen_name_s2anc_religion_christian_agent_2	Papal Agent	true
+ancillaries_colour_text_s2anc_sp_bosh_book_dickens	"Ah, the misfortune to be British..."	true
+ancillaries_onscreen_name_mp_anc_genpei_ichirai_hoshi	Ichirai Hoshi	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_deringer	Philadelphia Deringer	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_blowpipe	Nothing is what it seems.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_samurai_unlettered	Unlettered Samurai	true
+ancillaries_colour_text_mp_anc_target_range	A target stands; an enemy thinks.	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_volcanic	"I rarely miss with this!"	true
+ancillaries_colour_text_s2anc_madman_tengu	Mad as he may be, this crow knows he is a great swordsman.	true
+ancillaries_colour_text_s2anc_legend_army_kenjutsu	Bushido is a start to mastery.	true
+ancillaries_onscreen_name_mp_anc_sage_advisor	Sage Advisor	true
+ancillaries_colour_text_s2anc_sp_bosh_item_balloon	Up, up and away!	true
+ancillaries_onscreen_name_s2anc_pet_monkey	Pet Monkey	true
+ancillaries_onscreen_name_s2anc_government_merchant	Merchant	true
+ancillaries_onscreen_name_s2anc_madman_moon_rabbit	Moon Rabbit	true
+ancillaries_onscreen_name_mp_anc_ninja_jonin	Ninja Jonin	true
+ancillaries_onscreen_name_s2anc_artefact_christian_sword_1	Toledo Sword	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_chef_fugu	A brave man never thinks of the dangers when he eats fugu. His guard is down.	true
+ancillaries_colour_text_s2anc_sp_bosh_doctor_surgeon_jp	"I have little skill with wounds in the back. I cannot treat cowardice!"	true
+ancillaries_colour_text_s2anc_sp_bosh_burakumin	People in low places also have their uses.	true
+ancillaries_colour_text_s2anc_master_army_armourer	A man's best armour is courage, but good iron, cunningly worked, is an excellent addition.	true
+ancillaries_onscreen_name_mp_bosh_anc_european_horse_trader	European Horse Trader	true
+ancillaries_onscreen_name_s2anc_legend_army_kobudo	Legendary Kobudo Master	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_arms_uk	"British guns, sir, and some British guts, have given us an Empire!"	true
+ancillaries_colour_text_s2anc_espionage_assassin_chef_2	A brave man never thinks of the dangers when he eats fugu. His guard is down.	true
+ancillaries_colour_text_s2anc_espionage_assassin_chef_1	A man can die in many ways, but choking on a fish bone is truly unfortunate.	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_arms_us	"I guarantee my wares will bring down a charging heathen savage, sir, or your money back."	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_follower_miko_tea	Miko	true
+ancillaries_onscreen_name_s2anc_madman_kappa	Mad Old Man	true
+ancillaries_onscreen_name_s2anc_sp_bosh_servant_shogi_player	Shogi Champion	true
+ancillaries_colour_text_s2anc_master_army_yabusame	It is not enough to be a great horseman, or a great archer. The yabusame transcends both in search of the perfect shot.	true
+ancillaries_onscreen_name_s2anc_religion_christian_firebrand	Firebrand Preacher	true
+ancillaries_onscreen_name_s2anc_sp_bosh_servant_euro_waiter	German Waiter	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_poet_chinese	Kanshi Poet	true
+ancillaries_onscreen_name_s2anc_legend_army_gunmaker	Legendary Gun Maker	true
+ancillaries_colour_text_s2anc_legend_army_iaijutsu	The sword leaps from the scabbard, the master only guides it.	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_relic_buddha_gold	Golden Image of Buddha	true
+ancillaries_onscreen_name_mp_anc_sake_peddler	Sake Peddler	true
+ancillaries_colour_text_s2anc_sp_bosh_clock_marine	"Now there is time, there is no time left to admire the waves."	true
+ancillaries_onscreen_name_s2anc_master_army_bowyer	Master Bowyer	true
+ancillaries_colour_text_s2anc_sp_bosh_master_sojutsu	A spear looks simple, but to use it elegantly and with precision takes practice and dedication.	true
+ancillaries_colour_text_s2anc_friend_boyhood	Some friendships are not lightly cast aside.	true
+ancillaries_onscreen_name_mp_clan_anc_spear	Clan Specialism Retainer: Yari Training Network	true
+ancillaries_onscreen_name_s2anc_sp_bosh_doctor_euro	Doctor	true
+ancillaries_onscreen_name_s2anc_legend_army_armourer	Legendary Armourer	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_weapon_bo	Bo	true
+ancillaries_colour_text_s2_anc_pdlc_monk_relic_nembutsu	Words mean what words mean.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_follower_miko_spirit	Woman's wisdom should always be heeded.	true
+ancillaries_onscreen_name_s2anc_religion_christian_confessor	Christian Confessor	true
+ancillaries_onscreen_name_mp_anc_drill_square	Drill Square	true
+ancillaries_colour_text_s2anc_legend_arts_haiku	"Hmmm. Let me consider…"	true
+ancillaries_colour_text_mp_anc_bandit_horse_thieves	It's only theft if you are caught.	true
+ancillaries_colour_text_s2anc_artefact_ninja_disguise_4	"Oooh, you have got rough hands!"	true
+ancillaries_colour_text_s2anc_artefact_ninja_disguise_5	"Let them look in all the wrong places!"	true
+ancillaries_colour_text_s2anc_artefact_ninja_disguise_6	"Look, I'm not a squid, right?"	true
+ancillaries_colour_text_s2anc_artefact_ninja_disguise_1	"He went that way!"	true
+ancillaries_colour_text_s2anc_artefact_ninja_disguise_2	"I'm too drunk to be an assassin!"	true
+ancillaries_colour_text_s2anc_artefact_ninja_disguise_3	"I am a man of God!"	true
+ancillaries_onscreen_name_mp_anc_uma_jirushi_nobori_standard_bearer	Uma-Jirushi Nobori Standard-Bearer	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_thouars	Dupetit-Thouars	true
+ancillaries_colour_text_s2anc_sp_bosh_item_soap	"And the bubbles are fun too!"	true
+ancillaries_onscreen_name_s2anc_master_army_kenjutsu	Kenjutsu Master	true
+ancillaries_colour_text_s2anc_sp_bosh_ronin_unrepentent	"They took my horse and made him surrender."	true
+ancillaries_onscreen_name_mp_anc_blade_master	Blade Master	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_schnell_edward	Edward Schnell	true
+ancillaries_onscreen_name_s2anc_sp_bosh_binoculars_military	Military Binoculars	true
+ancillaries_colour_text_mp_anc_genpei_benkei	"Here is Benkei! None shall pass!"	true
+ancillaries_colour_text_s2anc_sp_bosh_item_wig_black	The Black Bear is come!	true
+ancillaries_colour_text_s2anc_sp_bosh_servant_biwa	Plinky-plunky-plinky-plunky-plunk.	true
+ancillaries_colour_text_s2anc_legend_espionage_spy	There are eyes and ears everywhere, but only one mind.	true
+ancillaries_colour_text_s2anc_master_army_kyudo	The art of the bow should never be neglected, for it lies at the heart of what it once was to be samurai.	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_tax_farmer	"Taxes, my lord, pay for brave warriors and carry swords and armour, and food and - and all other necessaries!"	true
+ancillaries_colour_text_s2anc_master_army_naginata	To hold a weapon is not difficult. To use it requires skill. To master it requires everything.	true
+ancillaries_colour_text_s2anc_sp_bosh_master_go	Go teaches the art of strategy, and this brilliant man is the embodiment of victory through cunning.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_samurai_rude	Unmannered Samurai	true
+ancillaries_onscreen_name_s2anc_espionage_samurai_show_off	Boastful Samurai	true
+ancillaries_onscreen_name_mp_anc_unbalanced_spears	Unbalanced Spears	true
+ancillaries_colour_text_mp_anc_expert_gun_instructor	Guns are useless in the hands of idiots.	true
+ancillaries_colour_text_s2anc_sp_bosh_foreign_journo	"We inform sir, and by doing so, form opinions in the capitals of the world."	true
+ancillaries_colour_text_mp_bosh_anc_yamabushi_guide	The sure-footed way is its own reward.	true
+ancillaries_colour_text_s2anc_pet_hunting_dog_gempei	For the huntsman, what else matters other than the chase?	true
+ancillaries_colour_text_s2anc_legend_arts_go	There are strategies to everything, from love to conquest.	true
+ancillaries_onscreen_name_s2anc_friend_mentor_figure	Oyabun	true
+ancillaries_colour_text_s2anc_legend_army_smith	"One day, I will make a perfect blade. One day…"	true
+ancillaries_onscreen_name_mp_anc_genpei_junsatsushi_inspector	Junsatsushi Inspector	true
+ancillaries_onscreen_name_s2anc_legend_army_sojutsu	Legendary Sojutsu Master	true
+ancillaries_onscreen_name_s2anc_sp_bosh_doctor_surgeon_euro	Surgeon	true
+ancillaries_onscreen_name_mp_anc_genpei_monomi_spy	Monomi Spy	true
+ancillaries_onscreen_name_s2anc_master_army_netsuke	Master Netsuke Carver	true
+ancillaries_colour_text_mp_anc_genpei_honourable_attendant	Technique and honour separate the warrior on the battlefield from the peasant in the rice field.	true
+ancillaries_onscreen_name_s2_anc_pdlc_ninja_disguise_monk	Komuso Disguise	true
+ancillaries_colour_text_mp_bosh_anc_gun_crew_drill	When you've few guns, make sure you fire often.	true
+ancillaries_onscreen_name_mp_bosh_anc_poor_bloodstock	Poor Bloodstock	true
+ancillaries_colour_text_s2anc_sp_bosh_mistress_discreet	"Shhhh! Walls have ears."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_book_almanac	Farmers' Almanac	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_us	"Americans, sir, respect achievement. And money."	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_tanto	Poisoned Tanto	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_item_rice	Sack of Rice	true
+ancillaries_colour_text_s2anc_sp_bosh_item_pipe_opium	Those who chase the dragon often become the prey.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_glover	Thomas Blake Glover	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_minie	Minie Muzzle-loading Rifle	true
+ancillaries_colour_text_s2anc_pet_monkey_2	"No, he is a Christian."	true
+ancillaries_onscreen_name_s2anc_army_hero_samurai	Heroic Samurai	true
+ancillaries_colour_text_s2anc_sp_bosh_item_navy_sextant	 To measure the stars is to diminish their grandeur.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_clock_myriad	Myriad Year Clock	true
+ancillaries_onscreen_name_mp_anc_trading_post	Trading Post	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_game_go	Go Board	true
+ancillaries_colour_text_s2anc_navy_pearl_fisherman	The man who reads the moods of the sea, and profits by his skill, has value above pearls to a naval commander.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_relic_dragon	There is wonder in all things of this world.	true
+ancillaries_colour_text_mp_bosh_clan_imperial	There is great honour in service to the Emperor.	true
+ancillaries_onscreen_name_mp_anc_hero_worshipping_boy	Hero-Worshipping Boy	true
+ancillaries_colour_text_s2anc_sp_bosh_foreign_tourist_2	"Swords? Swords are for English girls!"	true
+ancillaries_colour_text_s2anc_sp_bosh_master_jujutsu	Sometimes, the sword is a distraction to the warrior.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_kote	Legendary Kote	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_koto	Legendary Koto Player	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_poisons	Poison Collection	true
+ancillaries_colour_text_s2anc_sp_bosh_item_game_cricket	"I got my head stuck, and I still don't know what the cricket bat was for…"	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_civil_secretary	Words on paper do not kill, but change lives.	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_flashbomb	"...And like that, he's gone!"	true
+ancillaries_onscreen_name_mp_anc_loyal_fudai_shu_retainers	Loyal Fudai-Shu Retainers	true
+ancillaries_colour_text_s2anc_sp_bosh_sumo_wrestler_2	Who ate all the noodles?	true
+ancillaries_colour_text_s2anc_sp_bosh_sumo_wrestler_1	Sumo is the root of every martial art.	true
+ancillaries_colour_text_s2anc_artefact_ninja_bombs	"…And like that, he's gone!"	true
+ancillaries_onscreen_name_s2anc_legend_army_naginata	Legendary Naginatajutsu Master	true
+ancillaries_colour_text_s2anc_household_guard	An extra pair of eyes will spot the hidden enemy.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_elephant	Elephant Gun	true
+ancillaries_colour_text_s2anc_sp_bosh_modernist	"Rich country: strong army."	true
+ancillaries_onscreen_name_mp_anc_world_weary	World-Weary	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_brunet	Jules Brunet	true
+ancillaries_colour_text_s2anc_sumo_wrestler_1	Sumo is the root of every martial art.	true
+ancillaries_colour_text_s2anc_sumo_wrestler_2	Who ate all the noodles?	true
+ancillaries_onscreen_name_s2anc_artefact_go	Go Board	true
+ancillaries_onscreen_name_mp_anc_mochiyari_gumi_spear_bearer	Mochiyari Gumi Spear-Bearer	true
+ancillaries_onscreen_name_mp_anc_untrained_fugu_cook	Untrained Fugu Cook	true
+ancillaries_onscreen_name_mp_anc_lotus_sect_adherent	Lotus Sect Adherent	true
+ancillaries_colour_text_s2anc_artefact_banner_christian	No army that marches beneath the banner of Christ, blessed by the Holy Father, can ever suffer defeat!	true
+ancillaries_onscreen_name_mp_anc_wizened_monk	Wizened Monk	true
+ancillaries_onscreen_name_s2anc_artefact_gun_dutch	European Firelock	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_adams	Beaumont-Adams Revolver	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_glasses_smoked	Smoked Glass Spectacles	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_biwa	Legendary Biwa Player	true
+ancillaries_onscreen_name_mp_anc_cold_snap	Cold Snap	true
+ancillaries_colour_text_s2_anc_pdlc_monk_relic_painting	The image is an echo of a truth.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_item_bowl	The world will provide.	true
+ancillaries_onscreen_name_s2anc_navy_shipwreck_dutch	Shipwrecked European	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_follower_ronin	(Mostly) Reformed Ronin	true
+ancillaries_colour_text_s2_anc_pdlc_monk_pet_cricket	Enlightenment is a song, drifting on the evening breeze.	true
+ancillaries_colour_text_s2anc_chess_champion	Like a kyosha, we can only move forwards in life.	true
+ancillaries_onscreen_name_s2anc_mistress_gorgeous	Gorgeous Mistress	true
+ancillaries_onscreen_name_s2anc_religion_christian_notary	Church Notary	true
+ancillaries_onscreen_name_s2anc_sp_bosh_book_dickens	Dickens' "Little Dorrit"	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_mauser_71	"It is good enough for the German Imperial army, and so good enough for anyone!"	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_deringer	There is always a last defence.	true
+ancillaries_colour_text_s2anc_legend_army_yabusame	The horse gallops; the arrow flies; the master has done... nothing.	true
+ancillaries_colour_text_s2anc_master_arts_ceramics	The first step towards a perfect tea ceremony is a nice tea cup.	true
+ancillaries_onscreen_name_s2anc_musician_flute_lady	Flute Player	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_condom	French Letter	true
+ancillaries_onscreen_name_s2anc_sp_bosh_shinsengumi_yakuza	Disgraced Yakuza	true
+ancillaries_colour_text_s2anc_friend_drinker	A man who shares sake, and does not speak of what was spoken, should be held close.	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_suneate	The armour of a great hero, passed down the generations, is an honour to wear.	true
+ancillaries_colour_text_mp_bosh_anc_zori_tori_sandal_bearer	No task is humble if it is done well.	true
+ancillaries_onscreen_name_mp_anc_mouldy_feed_stocks	Mouldy Feed Stocks	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_wig_red	Shaguma	true
+ancillaries_onscreen_name_s2anc_master_army_gunmaker	Master Gun Maker	true
+ancillaries_colour_text_s2anc_artefact_christian_reliquary	Such a small thing, to hold so much Christian virtue.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_brunton	"I do not build BLOODY ENGLISH lighthouses!"	true
+ancillaries_colour_text_s2_anc_pdlc_general_governor_zuryo	Government is the only duty of the governor.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_bike_early	A most magnificent way to travel, other than the oil stains.	true
+ancillaries_onscreen_name_mp_anc_gosha_odosama_samurai_priest	Gosha Odosama Samurai Priest	true
+ancillaries_colour_text_s2anc_master_army_iaijutsu	To draw a sword and kill a man before he has blinked - that is skill.	true
+ancillaries_onscreen_name_s2anc_master_army_jujutsu	Jujutsu Master	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_follower_itako	Itako	true
+ancillaries_onscreen_name_mp_anc_steppe_horse_stud	Light Horse Stud	true
+ancillaries_colour_text_mp_anc_ninja_jonin	The hidden knife is no less deadly for being expected.	true
+ancillaries_onscreen_name_s2anc_master_army_armourer	Master Armourer	true
+ancillaries_onscreen_name_mp_bosh_anc_open_basketwork_quivers	Open Basketwork Quivers	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_follower_ninja	Disguised Ninja	true
+ancillaries_onscreen_name_s2anc_master_arts_bunraku	Bunraku Puppeteer	true
+ancillaries_onscreen_name_mp_anc_genpei_tajima_arrow_cutter	Tajima Arrow-Cutter	true
+ancillaries_onscreen_name_s2anc_navy_pirate_okinawa	Okinawan Pirate Captain	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_pet_cat	Cat	true
+ancillaries_onscreen_name_s2anc_legend_army_kenjutsu	Legendary Kenjutsu Master	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_balloon	Observation Balloon	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_volcanic	Volcanic Pistol	true
+ancillaries_onscreen_name_s2anc_madman_tengu	Sword Madman	true
+ancillaries_onscreen_name_mp_anc_way_of_the_ikko_ikki	Way of the Ikko Ikki	true
+ancillaries_onscreen_name_mp_clan_anc_horse	Clan Specialism Retainer: Cavalry Training Network	true
+ancillaries_onscreen_name_s2anc_navy_pirate_chinese	Chinese Pirate	true
+ancillaries_onscreen_name_s2anc_legend_army_iaijutsu	Legendary Iaijutsu Master	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_smith_parkes	"Her Majesty's Envoy Extraordinary, Minister Plenipotentiary and Consul-General in Japan, at your service."	true
+ancillaries_colour_text_s2_anc_pdlc_monk_relic_buddha_gold	Meaning is not measured in gold.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_clock_marine	Marine Chronometer	true
+ancillaries_colour_text_s2anc_legend_army_gunmaker	Wrought in iron, death comes from the flames.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_spy	Legendary Spy Master	true
+ancillaries_colour_text_s2_anc_pdlc_general_mii_dera	A monk remains a man, with a man's honour.	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_follower_noble	Noble Student	true
+ancillaries_onscreen_name_mp_clan_anc_sword	Clan Specialism Retainer: Sword Training Network	true
+ancillaries_colour_text_s2_anc_pdlc_monk_follower_miko_tea	Delicacy in all things, even a cup of tea.	true
+ancillaries_colour_text_s2anc_madman_kappa	"I am the Spirit of Dark and Lonely Water, ready to trap the unwary, the show-off, the fool…"	true
+ancillaries_colour_text_s2anc_sp_bosh_servant_shogi_player	Like a kyosha, we can only move forwards in life.	true
+ancillaries_colour_text_s2anc_artefact_buddhist_beads	Meditation helps.	true
+ancillaries_colour_text_s2anc_religion_christian_firebrand	"The living God and his Son will not be denied, even in this heathen land of devilry!"	true
+ancillaries_onscreen_name_s2anc_master_army_yabusame	Yabusame Master	true
+ancillaries_colour_text_s2anc_sp_bosh_doctor_jp	The palsy and the pox will kill a man as surely as any blade.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_snider	Snider Breech-loading Rifle	true
+ancillaries_onscreen_name_mp_bosh_anc_incorrect_calibration	Incorrect Calibration	true
+ancillaries_onscreen_name_mp_anc_genpei_enryakuji_fugitive	Enryakuji Fugitive	true
+ancillaries_colour_text_mp_anc_wavering_faith	Doubt gnaws at the even the smallest grain of faith.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_thouars	With the English on their doorstep, French admirals have every incentive to be good.	true
+ancillaries_colour_text_s2anc_master_army_kenjutsu	The way of sword is far more than killing an enemy. Killing is not even a beginning to mastery.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_dreyse	Dreyse Needle Gun	true
+ancillaries_onscreen_name_s2anc_artefact_geisha_fan	Bladed Fan	true
+ancillaries_colour_text_s2_anc_pdlc_general_governor	The word must be spoken for the deed to begin.	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_follower_komuso	Komuso	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_arms_fr	"British stodge, German stodge, or French panache: those are your choices!"	true
+ancillaries_colour_text_s2_anc_pdlc_shirabyoshi_ceremonial_drum	The heart beats faster in the presence of beauty.	true
+ancillaries_colour_text_s2anc_religion_christian_confessor	"Your sins are grievous, my son, but forgiveness of its children is the soul of the Church."	true
+ancillaries_colour_text_s2anc_legend_army_armourer	Armour must be cunningly made, or it is a dead weight.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_weapon_bo	"Would you deny a holy man his only support?"	true
+ancillaries_colour_text_s2anc_master_arts_haiku	Cherry blossom falls,/poetry on the Spring breeze:/Swords cease their clashing.	true
+ancillaries_onscreen_name_mp_anc_damp_powder	Damp Powder	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_claws	Tiger Claws	true
+ancillaries_colour_text_mp_bosh_anc_forage_parties	Peasants cannot hide everything.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_sword_bokken	Bokken	true
+ancillaries_colour_text_s2anc_crime_yakuza_boss	"They will do as I say, my lord. And we will profit by it."	true
+ancillaries_colour_text_s2anc_sp_bosh_item_fan_killer	"Is it warm in here?"	true
+ancillaries_colour_text_s2anc_sp_bosh_item_music_accordian	"It is the very latest fashion in the palaces of Europe."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mummified_mermaid	Mummified Mermaid	true
+ancillaries_onscreen_name_s2anc_mistress_dangerous	Ambitious Mistress	true
+ancillaries_onscreen_name_mp_anc_metsuke_inspector	Metsuke Inspector	true
+ancillaries_colour_text_s2anc_sp_bosh_geisha_o_shoku	To serve with supreme elegance is to put a man at his ease, and thereby breach his defences.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_flag_wig_wag	Wig-wag Flags	true
+ancillaries_onscreen_name_mp_anc_mark_of_fantacism	Mark of Fanaticism	true
+ancillaries_colour_text_s2anc_general_surgeon	"I have little skill with wounds in the back. I cannot treat cowardice!"	true
+ancillaries_colour_text_mp_bosh_anc_mouldy_feedstocks	A horse's speed is only a good as the oats it is fed.	true
+ancillaries_colour_text_s2anc_sp_bosh_servant_bodyguard	An extra pair of eyes will spot the hidden enemy.	true
+ancillaries_colour_text_s2anc_geisha_waitress	To serve with supreme elegance is to put a man at his ease, and thereby breach his defences.	true
+ancillaries_onscreen_name_mp_bosh_anc_veteran_corvette_crew	Veteran Corvette Crew	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_weapon_bisento	Bisento	true
+ancillaries_colour_text_s2anc_artefact_legend_ninjato_1	A single thrust, and life is gone.	true
+ancillaries_colour_text_s2anc_artefact_legend_ninjato_2	Life leaves easily when the shinobigatana calls.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_disguise_town	Townsman Disguise	true
+ancillaries_colour_text_s2anc_sp_bosh_item_chloroform_killer	"You won't feel a thing."	true
+ancillaries_colour_text_mp_bosh_anc_eager_lieutenant	"54 seconds: not bad. Not outstanding either! Again!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_book_pulp	Penny Dreadful	true
+ancillaries_colour_text_s2anc_sp_bosh_rail_telegraph	Words sent across the land bring action in their wake.	true
+ancillaries_onscreen_name_s2anc_artefact_legend_mask	Legendary Menpo	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_music_euphonium	Euphonium	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_ninja	Legendary Ninja Leader	true
+ancillaries_onscreen_name_mp_anc_straw_practice_dummy	Straw Practice Dummy	true
+ancillaries_onscreen_name_s2anc_ainu_servant	Ainu Servant	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_martini_henry	Martini-Henry Breechloader	true
+ancillaries_colour_text_mp_anc_livestock_pestilence	Dull eye and drooping ear speak eloquently of the suffering within.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_tanto	Poisoned Tanto	true
+ancillaries_colour_text_mp_legendary_heavenly_banner	When men lift their eyes to heaven, their hearts follow.	true
+ancillaries_colour_text_s2anc_mistress_shrew	"My love, you can do so much better…"	true
+ancillaries_colour_text_mp_anc_mounted_scout	Knowledge is better than rumour.	true
+ancillaries_colour_text_mp_anc_productive_rice_paddy	Wealth is a full rice bowl.	true
+ancillaries_onscreen_name_s2anc_navy_pirate_nihon	Pirate Captain	true
+ancillaries_colour_text_mp_anc_tetsu_bishi_caltrops	To cripple a horse is to stop the warrior.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_haiku	Legendary Haiku Poet	true
+ancillaries_onscreen_name_s2anc_sp_bosh_geisha_onsen	Onsen Geisha	true
+ancillaries_colour_text_mp_anc_famous_armoury	Warriors without swords are useless in war.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_do	Legendary Do	true
+ancillaries_colour_text_mp_bosh_anc_spoiled_rations	Food nourishes the spirit as well as the body.	true
+ancillaries_colour_text_mp_bosh_anc_muzzle_loading_muskets	Tried, tested and out-dated.	true
+ancillaries_colour_text_s2anc_sp_bosh_book_uncle_tom	"I begin to understand how little I understand these Americans…"	true
+ancillaries_onscreen_name_s2anc_artefact_mirror_moon	Mirror of the Moon People	true
+ancillaries_colour_text_s2anc_sp_bosh_animal_horse	A good horse will carry a general into battle and think the sword no more fearsome than a butterfly.	true
+ancillaries_colour_text_s2anc_sp_bosh_uniform_general	Clothes maketh the man.	true
+ancillaries_onscreen_name_mp_anc_skilled_weaponsmith	Skilled Weaponsmith	true
+ancillaries_colour_text_s2anc_sp_bosh_item_game_golf	"I find a nine iron persuasive."	true
+ancillaries_onscreen_name_mp_bosh_anc_livestock_pestilence	Livestock Pestilence	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mistress_gorgeous	Gorgeous Mistress	true
+ancillaries_colour_text_mp_bosh_anc_skittish_mounts	"YOU try standing still whilst someone fires a gun over your head!"	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_seiryutai	"We are the force of the Blue Dragon!"	true
+ancillaries_colour_text_s2anc_sp_bosh_mistress_europe_strict	Discipline comes in many forms.	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_civil_servant	Kuge	true
+ancillaries_onscreen_name_s2anc_artefact_legend_kote	Legendary Kote	true
+ancillaries_colour_text_s2anc_household_chinese_false	"That is not how we do it in China, my lord."	true
+ancillaries_colour_text_s2anc_sp_bosh_mistress_europe	Hair like sunlight, eyes like the unclouded sky…	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_descharmes	Every Frenchman has a cavalryman's heart.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_medical_chloroform	"You won't feel a thing."	true
+ancillaries_colour_text_s2anc_sp_bosh_uniform_admiral	A man should always dress smartly.	true
+ancillaries_onscreen_name_s2anc_master_army_smith	Master Bladesmith	true
+ancillaries_colour_text_mp_anc_iron_abumi_stirrups	placeholder text: iron abumi stirrups	true
+ancillaries_onscreen_name_s2anc_sp_bosh_music_drums	Taiko Drum Master	true
+ancillaries_onscreen_name_s2anc_sp_bosh_rail_guide	Bradshaw	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_disguise_fish	Incredible Disguise!	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_pong	Eau de Cologne	true
+ancillaries_colour_text_s2anc_master_espionage_ninja	I am not here. I have never been here. 	true
+ancillaries_colour_text_mp_legendary_dragonfly_cutting_spear	Everything can be perfected.	true
+ancillaries_colour_text_s2anc_crime_yakuza_thug	"My lord need only say the word, and the fish will be well fed…"	true
+ancillaries_colour_text_s2anc_sp_bosh_book_artillery_handbook	Make every shot count.	true
+ancillaries_onscreen_name_mp_anc_supply_wagon	Supply Wagon	true
+ancillaries_onscreen_name_mp_bosh_anc_famous_armoury	Famous Armoury	true
+ancillaries_onscreen_name_mp_anc_rennyos_teachings	Rennyo's Teachings	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_go	Legendary Go Player	true
+ancillaries_onscreen_name_mp_anc_gokamon_bodyguard	Gokamon Bodyguard	true
+ancillaries_onscreen_name_s2anc_legend_army_kyudo	Legendary Kyudo Master	true
+ancillaries_colour_text_mp_bosh_anc_practice_grounds	Nothing in battle should be a surprise.	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_relic_shugendo	Shugendo Texts	true
+ancillaries_colour_text_s2anc_household_astrologer	Much can be read of a man's heart, loyalties and destiny if one only has the skill to interpret the signs correctly.	true
+ancillaries_colour_text_mp_anc_yagyu_sword_instructor	"Do not cut at your enemy. Perfect the stroke!"	true
+ancillaries_colour_text_s2anc_sp_bosh_item_phonograph	"One day, I will carry one of these in my pocket!"	true
+ancillaries_onscreen_name_mp_bosh_anc_von_clausewitzs_on_war	von Clausewitz's "On War"	true
+ancillaries_onscreen_name_s2anc_legend_arts_haiku	Legendary Haiku Poet	true
+ancillaries_colour_text_mp_anc_drill_square	Drill is a battle without blood.	true
+ancillaries_onscreen_name_mp_bosh_anc_yumi_officer	Yumi Officer	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_umbrella_sword	Sword Umbrella	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_relic_nembutsu	Nembutsu Zen Text	true
+ancillaries_onscreen_name_mp_anc_lightweiught_gunjingura_war_saddle	Lightweight Gunjingura War Saddle	true
+ancillaries_colour_text_mp_anc_military_storehouse	Without stores, an army soon becomes a hungry mob.	true
+ancillaries_colour_text_s2anc_artefact_legend_cuirass	A warrior's chest may be pierced by a thousand arrows but, as long as his heart is true, what does it matter?	true
+ancillaries_onscreen_name_s2anc_sp_bosh_geisha_danna	Danna	true
+ancillaries_colour_text_s2anc_household_biwa_hoshi_1	Plinky-plunky-plinky-plunky-plunk.	true
+ancillaries_colour_text_s2anc_household_biwa_hoshi_2	"I will sing in praise of total war!"	true
+ancillaries_colour_text_s2anc_sp_bosh_foreign_tourist	"I say! How quaint! Is that a sword?"	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_disguise_ronin	"I'm too drunk to be an assassin!"	true
+ancillaries_onscreen_name_s2anc_mistress_fox	Foxy Mistress	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ronin_unrepentent	Unrepentant Ronin	true
+ancillaries_colour_text_mp_anc_blade_master	The sword must be one with the hand.	true
+ancillaries_colour_text_mp_bosh_anc_myopic_captain	"Oh, drat these spectacles! Was that a hit? Sergeant?"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_soap	French Soap	true
+ancillaries_colour_text_s2anc_sp_bosh_master_blade	All swords are dangerous: a master ensures that only the enemy needs worry about that danger.	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_disguise_1	Townsman Disguise	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_disguise_3	Monk Disguise	true
+ancillaries_colour_text_s2anc_sp_bosh_master_kyudo	The art of the bow should never be neglected, for it lies at the heart of what it once was to be samurai.	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_disguise_2	Ronin Disguise	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_disguise_5	Madman Disguise	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_disguise_4	Geisha Disguise	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_disguise_6	Incredible Disguise!	true
+ancillaries_onscreen_name_mp_anc_bandit_horse_thieves	Bandit Horse Thieves	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_menpo	The terrible visage of this battle mask is enough to strike fear into the heart of any foe.	true
+ancillaries_colour_text_mp_bosh_anc_light_infantry_officer	"At the double, men!"	true
+ancillaries_colour_text_mp_bosh_anc_muzzle_loading_carbine	The old ways are not always the best.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_shinsengumi_yakuza_2	Yakuza	true
+ancillaries_onscreen_name_mp_bosh_anc_mounted_scout	Mounted Scout	true
+ancillaries_onscreen_name_s2anc_espionage_assassin_chef_2	Fugu chef	true
+ancillaries_onscreen_name_s2anc_espionage_assassin_chef_1	Sushi chef	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_sandw_2	Smith & Wesson Army No.2	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mistress_ambitious_2	Over-ambitious Mistress	true
+ancillaries_colour_text_mp_anc_sake_peddler	Strong drink is a comfort to some, a tool for others.	true
+ancillaries_colour_text_s2anc_household_koto_hoshi_2	"Twang!"	true
+ancillaries_colour_text_s2anc_household_koto_hoshi_1	"Of course, my lord. Another song about blossoms. Right away."	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_sword	A sword acquires fame only in the hands of a worthy man.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_satow	Ernest Mason Satow	true
+ancillaries_colour_text_mp_anc_sage_advisor	"Do not look for wisdom. It will find you."	true
+ancillaries_colour_text_s2anc_legend_espionage_ninja	"Shhhh!"	true
+ancillaries_colour_text_mp_anc_yari_master	Even the simplest thing must be mastered.	true
+ancillaries_colour_text_s2anc_army_drummer	The beat of the drum echoes the heart.	true
+ancillaries_onscreen_name_mp_anc_target_range	Target Range	true
+ancillaries_colour_text_s2_anc_pdlc_monk_relic_heart_sutra	Understanding is at the centre of all.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_theodolite	Taxes and artillery bombardments rely on accurate land measurements.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_verny	Francois Leonce Verny	true
+ancillaries_onscreen_name_s2anc_sp_bosh_burakumin	Burakumin	true
+ancillaries_onscreen_name_s2anc_sp_bosh_doctor_surgeon_jp	Surgeon	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_skate	Plimpton Rocking Skate	true
+ancillaries_onscreen_name_s2anc_navy_pilot	Pilot	true
+ancillaries_colour_text_s2anc_artefact_chess	Not a game. War. Without blood.	true
+ancillaries_colour_text_mp_bosh_anc_raw_frigate_crew	"Don't you know your starboard from your larboard?"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_geisha_maiko	Maiko	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_gewehr_muzzleloader	"Bang!"	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_valkenburg	"I represent only the interests of the great United States of America, sir!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_go_2	Godokoro	true
+ancillaries_colour_text_mp_anc_yumi_officer	Men must be lead in battle.	true
+ancillaries_colour_text_mp_bosh_anc_british_naval_engineer	There are ironclad arguments as to why the Royal Navy rules the waves.	true
+ancillaries_colour_text_s2_anc_pdlc_general_bow_target_short	The target waits impatiently for the arrow.	true
+ancillaries_onscreen_name_mp_bosh_anc_rifled_barrels	Rifled Barrels	true
+ancillaries_colour_text_s2anc_artefact_myth_sword_amateratsu	Only the very greatest would contemplate drawing the sword of a goddess. Only a fool would stand against it.	true
+ancillaries_colour_text_mp_bosh_anc_blind_bow_sensei	When the heart is pure, the arrow finds a way.	true
+ancillaries_onscreen_name_s2anc_religion_christian_convert_2	Samurai Convert	true
+ancillaries_onscreen_name_s2anc_religion_christian_convert_3	Ashigaru Convert	true
+ancillaries_onscreen_name_s2anc_religion_christian_convert_1	Geisha Convert	true
+ancillaries_onscreen_name_s2anc_religion_christian_convert_4	Tea Master Convert	true
+ancillaries_onscreen_name_mp_anc_sticky_fingered_storemaster	Sticky-Fingered Storemaster	true
+ancillaries_colour_text_s2anc_pet_hunting_dog	For the huntsman, what else matters other than the chase?	true
+ancillaries_onscreen_name_mp_legendary_hachiman_crest	Legendary Item: Hachiman Crest	true
+ancillaries_colour_text_s2anc_sp_bosh_rail_builder_uk	"We invented trains. Why bother with any inferior imitations?"	true
+ancillaries_colour_text_s2anc_sp_bosh_rail_builder_us	"American ingenuity, sir, has conquered continents to build the world's greatest railroads!"	true
+ancillaries_onscreen_name_mp_bosh_anc_garden_of_convalescence	Garden of Convalescence	true
+ancillaries_colour_text_s2anc_sp_bosh_uniform_top_hat	"Do I look fat in this?"	true
+ancillaries_onscreen_name_mp_bosh_anc_blade_master	Blade Master	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_relic_fuji_rock	Rock from Fuji-san	true
+ancillaries_colour_text_mp_anc_blessed_kote_armoured_sleeves	Armour does not weaken the spirit.	true
+ancillaries_colour_text_mp_anc_genpei_ichirai_hoshi	"Fight ME!"	true
+ancillaries_colour_text_s2anc_sp_bosh_item_champagne	Expensive. Foreign. Interesting bubbles...	true
+ancillaries_colour_text_s2anc_artefact_legend_armour	Worn in battle by many great warriors, and sanctified by time, this is armour truly fit for a hero.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_book_20k	Jules Verne's "20,000 Leagues Under the Sea"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_optic_telescope	Telescope	true
+ancillaries_onscreen_name_s2anc_sp_bosh_game_shogi	Shogi Set	true
+ancillaries_colour_text_mp_bosh_anc_shinobi_informer	Secrets and lies travel in the same cart.	true
+ancillaries_colour_text_mp_anc_stricken_unholy_forge	The strongest steel will not serve in a worthless cause.	true
+ancillaries_onscreen_name_s2anc_artefact_banner_christian	Papal Flag	true
+ancillaries_colour_text_mp_anc_wizened_monk	"There is no enemy: defeat your own fears!"	true
+ancillaries_colour_text_mp_bosh_anc_unbalanced_spears	"Unbalanced? Nonsense! Next you'll be saying I'm unbalanced!"	true
+ancillaries_onscreen_name_mp_bosh_anc_forage_parties	Forage Parties	true
+ancillaries_onscreen_name_s2anc_sp_bosh_clock_watch	Pocket Watch	true
+ancillaries_colour_text_mp_anc_damp_powder	Rain, fog and water drive the devils from black powder	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_relic_painting	Sumi-e Brush Painting	true
+ancillaries_onscreen_name_mp_bosh_anc_scroll_of_inspirational_verse	Scroll of Inspirational verse	true
+ancillaries_colour_text_mp_bosh_anc_flogging_officer	"The men respect me for it."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_music_accordian	Accordion	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_adams	"It is the gun by which Her Majesty would wish to be shot!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_vicky	Portrait of Queen Victoria	true
+ancillaries_onscreen_name_mp_legendary_flawless_mount_okage	Legendary Item: Flawless Mount: 'Okage'	true
+ancillaries_colour_text_s2anc_religion_buddhist_monk	"So you see: there are no chop-sticks. There never were."	true
+ancillaries_onscreen_name_s2anc_artefact_myth_sword_spanish	Toledo Sword	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_game_cricket	Cricket Bat	true
+ancillaries_colour_text_mp_bosh_anc_fighting_captain	"Fire on the rise!"	true
+ancillaries_colour_text_s2anc_artefact_geisha_poison	"Do try the fish."	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_samurai_senior	Monchujo	true
+ancillaries_colour_text_s2anc_sp_bosh_item_slide_rule	There is cunning in counting accurately.	true
+ancillaries_colour_text_s2anc_sp_bosh_master_kenjutsu	The way of sword is far more than killing an enemy. Killing is not even a beginning to mastery.	true
+ancillaries_colour_text_s2anc_sp_bosh_master_ninjutsu	"I am not here. I have never been here."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_foreign_tourist_2	Scottish Tourist	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_haiku	"Hmmmm. Let me consider..."	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_springfield	The best in death dealing, furnished by American ingenuity.	true
+ancillaries_colour_text_s2anc_sp_bosh_geisha_onsen	"Just a little something I picked up on holiday…"	true
+ancillaries_onscreen_name_mp_bosh_anc_hero_worshipping_boy	Hero-Worshipping Boy	true
+ancillaries_onscreen_name_s2anc_sp_bosh_game_cards	Hanafuda Cards	true
+ancillaries_onscreen_name_s2anc_sp_bosh_modernist	Modernist	true
+ancillaries_colour_text_s2anc_ainu_servant	"He is no wajin, but his cured meats are indeed excellent!"	true
+ancillaries_colour_text_s2anc_sp_bosh_item_music_euphonium	Tiddly-pom-pom-pom.	true
+ancillaries_colour_text_s2anc_artefact_legend_mask	The terrible visage of this battle mask is enough to strike fear into the heart of any foe.	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_ninja	"Shhhh!"	true
+ancillaries_colour_text_s2anc_artefact_ninja_shuriken	Every ninja has his tricks.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_us	American Businessman	true
+ancillaries_onscreen_name_s2anc_sp_bosh_book_rights_of_man	Tom Paine's "Rights of Man"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mistress_discreet	Discreet Mistress	true
+ancillaries_colour_text_mp_anc_skilled_weaponsmith	The edge is where the moment is decided.	true
+ancillaries_colour_text_mp_bosh_anc_poor_bloodstock	"See what I mean? Too narrow across the withers."	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_arms_ger	"German know-how. German steel. German artillery. The best, naturally."	true
+ancillaries_colour_text_s2_anc_pdlc_ninja_disguise_monk	Poverty is sometimes the best concealment.	true
+ancillaries_colour_text_s2anc_artefact_legend_kote	Armour is prudent in times of strife.	true
+ancillaries_onscreen_name_s2anc_artefact_christian_psalter	Psalter	true
+ancillaries_colour_text_mp_anc_hero_worshipping_boy	Every boy needs his hero.	true
+ancillaries_onscreen_name_mp_bosh_anc_muzzle_loading_muskets	Muzzle-loading Muskets	true
+ancillaries_colour_text_mp_anc_trading_post	Trade is beneath a samurai; money is not.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_navy_sextant	Naval Sextant	true
+ancillaries_colour_text_s2anc_sp_bosh_master_iaijutsu	To draw a sword and kill a man before he has blinked - that is skill.	true
+ancillaries_colour_text_s2anc_army_hero_samurai	A samurai who saves his general, should be rewarded with the chance to repeat his gallantry.	true
+ancillaries_colour_text_mp_anc_forage_parties	Peasants cannot hide everything.	true
+ancillaries_colour_text_s2_anc_pdlc_shirabyoshi_tachi	Some things do cut like a woman's tongue.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_animal_horse	Favourite Mount	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_minie	"Simple, sturdy, and soldier-proof. Deadly, in the right hands, too."	true
+ancillaries_colour_text_s2anc_artefact_mirror_moon	A mirror reveals much to one who would search deep within with an unflinching gaze.	true
+ancillaries_onscreen_name_mp_bosh_anc_pedantic_gun_captain	Pedantic Gun Captain	true
+ancillaries_colour_text_s2anc_crime_yakuza_disgraced	A man who has turned against his own kind makes the best hunter when the time comes.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_razor	Cut-throat Razor	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_go	Meijin	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_tax_farmer	Tax Farmer	true
+ancillaries_onscreen_name_s2anc_master_army_kyudo	Kyudo Master	true
+ancillaries_colour_text_mp_bosh_anc_famous_armoury	Warriors without swords are useless in war.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_suzakutai	"We are the force of the Red Sparrow!"	true
+ancillaries_colour_text_s2anc_artefact_legend_helmet	Don't lose your head!	true
+ancillaries_onscreen_name_s2anc_artefact_legend_short_sword	Legendary Wakizashi	true
+ancillaries_onscreen_name_mp_anc_kacchu_mochi_armour_bearer	Kacchu-Mochi Armour-Bearer	true
+ancillaries_colour_text_s2anc_geisha_half_pay	The arts of flattery must be practiced, then may a client become comfortable.	true
+ancillaries_colour_text_mp_bosh_anc_cold_snap	Cold hands make strangers of familiar tasks.	true
+ancillaries_onscreen_name_s2anc_household_astrologer	Chinese Astrologer	true
+ancillaries_onscreen_name_s2anc_legend_army_smith	Legendary Bladesmith	true
+ancillaries_colour_text_mp_anc_genpei_junsatsushi_inspector	"Fools are always trapped by loyalty."	true
+ancillaries_colour_text_mp_anc_genpei_nasu_no_yoichi	A man cannot walk two paths at once. A choice lies at the start of every journey.	true
+ancillaries_onscreen_name_mp_anc_iron_abumi_stirrups	Iron Abumi Stirrups	true
+ancillaries_onscreen_name_mp_bosh_anc_yamabushi_guide	Yamabushi Guide	true
+ancillaries_onscreen_name_mp_bosh_anc_myopic_captain	Myopic Captain	true
+ancillaries_onscreen_name_s2anc_mistress_bodyguard	Soldier's Mistress	true
+ancillaries_onscreen_name_s2anc_army_hero_ashigaru	Heroic Ashigaru	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_vassal	Gokenin	true
+ancillaries_colour_text_mp_anc_scroll_of_inspirational_verse	"O! For a muse of fire…"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_kyudo	Kyudo Master	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_blade	Master Bladesmith	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_menpo	Legendary Menpo	true
+ancillaries_colour_text_s2anc_artefact_banner_warlord	The flag says: here stands a great warlord, the heir to great warlords! Strong as the storm! Fear his might!	true
+ancillaries_colour_text_mp_anc_wooden_practice_spears	placeholder text: wooden practice spears	true
+ancillaries_onscreen_name_s2anc_master_arts_haiku	Haiku Poet	true
+ancillaries_onscreen_name_mp_anc_military_storehouse	Military Storehouse	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_item_cup	Tea Cup	true
+ancillaries_colour_text_mp_bosh_anc_von_clausewitzs_on_war	War is the school of warriors.	true
+ancillaries_onscreen_name_s2_anc_pdlc_shirabyoshi_ceremonial_drum	Ceremonial Drum	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_disguise_ronin	Ronin Disguise	true
+ancillaries_colour_text_s2anc_artefact_legend_greaves	The armour of a great hero, passed down the generations, is an honour to wear.	true
+ancillaries_colour_text_s2anc_mistress_fox	"Cleverness, a witty tongue and a modicum of lust in one rather attractive kimono."	true
+ancillaries_colour_text_s2anc_sp_bosh_geisha_danna	"Remember who pays the rent."	true
+ancillaries_colour_text_s2_anc_pdlc_general_moon_carp	Pale as the uncanny dead, and the distant Moon in winter.	true
+ancillaries_colour_text_s2anc_sp_bosh_mistress_ambitious_2	"My love, you can do so much better..."	true
+ancillaries_colour_text_s2anc_artefact_cards	Some cards make their owners lucky.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_smith_parkes	Sir Harry Smith Parkes	true
+ancillaries_colour_text_mp_legendary_legendary_kabuto_of_ykok	Wisdom should be protected; protection is wisdom.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_sword	Legendary Wakizashi	true
+ancillaries_colour_text_s2anc_sp_bosh_item_microscope	No matter how small, the world has many surprises.	true
+ancillaries_onscreen_name_mp_bosh_anc_muzzle_loading_carbine	Muzzle-loading Carbine	true
+ancillaries_onscreen_name_s2anc_mistress_christian	Christian Mistress	true
+ancillaries_colour_text_s2anc_sp_bosh_shinsengumi_yakuza_2	"My lord need only say the word, and the fish will be well fed…"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_doctor_jp	Doctor	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_globe	Globe	true
+ancillaries_onscreen_name_s2anc_mistress_political	Discreet Mistress	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_disguise_monk	Monk Disguise	true
+ancillaries_onscreen_name_mp_bosh_anc_light_infantry_officer	Light Infantry Officer	true
+ancillaries_colour_text_s2anc_artefact_armour_spanish	A breastplate of the finest Spanish steel, worked by good Christians, can turn aside any blade or bullet.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_follower_noble	"Courage! Set aside a family to find true kin."	true
+ancillaries_onscreen_name_mp_bosh_anc_well_schooled_mounts	Well-schooled Mounts	true
+ancillaries_onscreen_name_s2anc_sp_bosh_uniform_snow_shoes	Snow Shoes	true
+ancillaries_colour_text_mp_bosh_anc_zen_like_silence	The calm heart does not beat like a drum.	true
+ancillaries_colour_text_mp_bosh_anc_open_basketwork_quivers	The arrow is no less important than the bow.	true
+ancillaries_colour_text_s2anc_artefact_armour_helmet	Plain gaijin steel has honesty, and honesty is usually fashionable.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_byakkotai	"We are the force of the White Tiger!"	true
+ancillaries_colour_text_s2anc_artefact_legend_bokken	Sword training is hardly ever wasted.	true
+ancillaries_colour_text_s2anc_sp_bosh_geisha_shamisen	Music soothes the warlike spirit.	true
+ancillaries_colour_text_s2anc_sp_bosh_geisha_maiko	Entertaining distractions are always welcome, perhaps more so when they disguise the assassin's blade.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_follower_itako	"Where we're going, we won't need eyes to see."	true
+ancillaries_colour_text_s2anc_sp_bosh_mistress_common	"Ooh! That's fancy, innit?"	true
+ancillaries_colour_text_s2anc_artefact_ninja_blowpipe	Nothing is what it seems.	true
+ancillaries_colour_text_mp_anc_way_of_the_ikko_ikki	The faith of the people is the strength of the people.	true
+ancillaries_onscreen_name_mp_anc_yari_master	Yari Master	true
+ancillaries_colour_text_mp_bosh_anc_experienced_gunboat_crew	Even a little ship well-handled can punch above its weight.	true
+ancillaries_colour_text_mp_bosh_anc_dreyse_needle_gun	The bullet is substantial. The needle is within the workings.	true
+ancillaries_colour_text_s2anc_sp_bosh_geisha_hangyoku	The arts of flattery must be practiced, then may a client become comfortable.	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_relic_heart_sutra	Heart Sutra Scroll	true
+ancillaries_colour_text_s2_anc_pdlc_monk_follower_ninja	Not everyone walks the path in honesty.	true
+ancillaries_onscreen_name_s2anc_samurai_7_3	Shichiroji	true
+ancillaries_onscreen_name_s2anc_samurai_7_2	Katayama Gorobei	true
+ancillaries_onscreen_name_s2anc_samurai_7_1	Shimada Kambei	true
+ancillaries_onscreen_name_s2anc_samurai_7_7	Kikuchiyo	true
+ancillaries_onscreen_name_s2anc_samurai_7_6	Kyuzo	true
+ancillaries_onscreen_name_s2anc_samurai_7_5	Okamoto Katsushiro	true
+ancillaries_onscreen_name_s2anc_samurai_7_4	Hayashida Heihachi	true
+ancillaries_onscreen_name_s2anc_army_drummer	Taiko Drum Master	true
+ancillaries_colour_text_s2anc_sp_bosh_book_20k	"The squid! The squid! That's the best bit!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_mauser_71	Mauser Infanterie-Gewehr 71	true
+ancillaries_onscreen_name_s2anc_household_treasurer	Treasurer	true
+ancillaries_colour_text_s2anc_artefact_legend_katana	To meet the sword's edge is the only true test of courage.	true
+ancillaries_colour_text_s2anc_mistress_gorgeous	"No, I do not keep her for her wits!"	true
+ancillaries_colour_text_s2anc_religion_christian_notary	Accurate records are the bedrock of the Church's power.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_optic_telescope	Even heaven's secrets are not safe.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_follower_ronin	“I am trying not to use my sword!”	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_duousequet	The French: no one stands in battle like a Frenchman.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_flag_semaphore	Semaphore Flags	true
+ancillaries_colour_text_s2anc_religion_christian_convert_4	"More tea, vicar?"	true
+ancillaries_onscreen_name_mp_bosh_anc_scratch_ironclad_crew	Scratch Ironclad Crew	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_model_1866	Fusil Modèle 1866	true
+ancillaries_colour_text_s2anc_religion_christian_convert_1	Rome is a long, long way away.	true
+ancillaries_colour_text_s2anc_religion_christian_convert_2	A sharp sword always helps the Word of God.	true
+ancillaries_colour_text_s2anc_religion_christian_convert_3	"The Father needs protection."	true
+ancillaries_colour_text_mp_anc_sticky_fingered_storemaster	"Ah! Those. Give me a day. I'll find some…"	true
+ancillaries_onscreen_name_s2_anc_pdlc_shirabyoshi_ceremonial_flute	Ceremonial Flute	true
+ancillaries_colour_text_mp_anc_gosha_odosama_samurai_priest	There is solace, even for the warrior.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_snuff	Snuff Box	true
+ancillaries_onscreen_name_mp_bosh_anc_british_naval_engineer	British Naval Engineer	true
+ancillaries_colour_text_mp_bosh_anc_rifled_barrels	Accuracy comes at a price.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_sabre_cav	A practical weapon for a practical man.	true
+ancillaries_onscreen_name_mp_bosh_anc_zori_tori_sandal_bearer	Zori Tori Sandal-Bearer	true
+ancillaries_onscreen_name_s2anc_pet_carp_2	Koi Carp	true
+ancillaries_onscreen_name_s2anc_pet_carp_1	Koi Carp	true
+ancillaries_colour_text_s2anc_government_rabblerouser	"The people, even the humblest of peasants, should not be denied because they are humble!"	true
+ancillaries_colour_text_s2anc_artefact_myth_sword_moon	Only the foolish would contemplate drawing the sword of the Moon. Only the greatest would stand against it.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_music_piano	Plinky-plinky-plonk.	true
+ancillaries_colour_text_s2anc_master_army_castle_mason	To take a stone, and reshape it, and keep the spirits of the place at peace, is to be a master of your craft.	true
+ancillaries_colour_text_mp_clan_anc_sword	The sword is the spirit of the samurai.	true
+ancillaries_onscreen_name_s2anc_artefact_buddhist_beads	Beads	true
+ancillaries_onscreen_name_s2anc_artefact_christian_holy_water	Jordan River Water	true
+ancillaries_colour_text_s2anc_artefact_christian_psalter	"Behold, thou art fair, my love…"	true
+ancillaries_colour_text_mp_bosh_anc_uma_i_horse_doctor	A horseman is only as good as his horse.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_disguise_geisha	Geisha Disguise	true
+ancillaries_onscreen_name_s2anc_armoured_war_dog	Armoured War Dog	true
+ancillaries_colour_text_mp_clan_anc_horse	Without a good seat, a horseman is useless.	true
+ancillaries_colour_text_s2anc_navy_pirate_chinese	"I will give these sons of Nihon a taste of their own medicine."	true
+ancillaries_colour_text_s2anc_sp_bosh_book_rights_of_man	"Paine-san: a gaijin with dangerous, alien... ideas…"	true
+ancillaries_colour_text_mp_anc_bad_omen	A man makes his own fate, sometimes.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_disguise_gaijin	Foreigner Disguise	true
+ancillaries_onscreen_name_mp_bosh_anc_artillery_officers_handbook	Artillery Officer's Handbook	true
+ancillaries_colour_text_s2_anc_pdlc_monk_item_lotus	Life's beauty is transitory, and always reborn.	true
+ancillaries_onscreen_name_s2anc_artefact_legend_naginata	Legendary Naginata	true
+ancillaries_onscreen_name_s2anc_government_merchant_2	Rich Merchant	true
+ancillaries_colour_text_s2anc_artefact_geisha_fan	"Is it warm in here?"	true
+ancillaries_colour_text_mp_bosh_anc_inexperienced_gunboat_crew	"Other side lads. 'The port is always left on the table', remember?"	true
+ancillaries_onscreen_name_mp_anc_genpei_nasu_no_yoichi	Naso no Yoichi	true
+ancillaries_colour_text_s2_anc_pdlc_monk_item_flute	Music speaks to the soul.	true
+ancillaries_onscreen_name_mp_bosh_anc_green_corvette_crew	Green Corvette Crew	true
+ancillaries_colour_text_mp_bosh_anc_incorrect_calibration	"100 yards short again!"	true
+ancillaries_onscreen_name_mp_anc_wavering_faith	Wavering Faith	true
+ancillaries_onscreen_name_s2_anc_bosh_hovercraft_eels	Hungarian Phrase Book	true
+ancillaries_colour_text_s2anc_sp_bosh_item_razor	A samurai should always be well groomed.	true
+ancillaries_onscreen_name_s2anc_crime_yakuza_disgraced	Disgraced Yakuza	true
+ancillaries_colour_text_mp_anc_shinobi_informer	Secrets and lies travel in the same cart.	true
+ancillaries_colour_text_mp_bosh_anc_pedantic_gun_captain	"All equipment to be correctly stowed BEFORE firing."	true
+ancillaries_colour_text_mp_clan_anc_bow	Training is never wasted in life.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_disguise_madman	Madman Disguise	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_suzakutai	Suzakutai	true
+ancillaries_onscreen_name_s2anc_artefact_legend_helmet	Legendary Kabuto	true
+ancillaries_onscreen_name_mp_anc_genpei_sou_monk	Sou Monk	true
+ancillaries_onscreen_name_mp_bosh_anc_elite_ironclad_crew	Elite Ironclad Crew	true
+ancillaries_colour_text_s2anc_musician_flute_lady	Music quiets the troubled heart.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_condom	Foreign contrivances to enjoyment have their uses.	true
+ancillaries_colour_text_mp_anc_mouldy_feed_stocks	A horse's speed is only a good as the oats it is fed.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_binocs_artillery	"They look close enough now."	true
+ancillaries_colour_text_mp_bosh_anc_crack_frigate_crew	Even a frigate is only as fast as her crew.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_game_bat	Baseball Bat	true
+ancillaries_onscreen_name_s2anc_sp_bosh_sumo_champion	Yokozuna	true
+ancillaries_colour_text_mp_bosh_anc_sticky_fingered_storemaster	"Ah! Those. Give me a day. I'll find some…"	true
+ancillaries_onscreen_name_mp_bosh_anc_flogging_officer	Flogging Officer	true
+ancillaries_onscreen_name_mp_anc_cavalry_officer	Cavalry Officer	true
+ancillaries_onscreen_name_mp_anc_portable_shrine	Mikoshi Portable Shrine	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_bike_early	Velocipede	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_french	French Businessman	true
+ancillaries_onscreen_name_mp_bosh_anc_monomi_spy	Monomi Spy	true
+ancillaries_colour_text_s2anc_samurai_2_swords	One way, two heavens, many dead.	true
+ancillaries_colour_text_s2anc_sp_bosh_servant_groom	Only a fool looks after his sword yet neglects his horse.	true
+ancillaries_onscreen_name_s2anc_legend_army_castle_mason	Legendary Mason	true
+ancillaries_colour_text_mp_bosh_anc_improved_gun_sights	Science removes the guesswork from gunnery.	true
+ancillaries_onscreen_name_mp_anc_stricken_unholy_forge	Stricken Unholy Forge	true
+ancillaries_onscreen_name_mp_bosh_anc_shinobi_informer	Shinobi Informer	true
+ancillaries_colour_text_s2anc_sp_bosh_game_shogi	Not a game. War. Without blood.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_katana	Legendary Katana	true
+ancillaries_onscreen_name_mp_bosh_anc_modern_supply_corps	Modern Supply Corps	true
+ancillaries_colour_text_s2anc_master_arts_bunraku	For the puppet to touch the audience's souls, the puppeteer must vanish.	true
+ancillaries_colour_text_mp_anc_genpei_tajima_arrow_cutter	"Tajima... cut through those [arrows]... with his whirling naginata, so that even the enemy looked on in admiration."	true
+ancillaries_colour_text_s2anc_navy_pirate_okinawa	"Honour? This is business!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_foreign_journo_4	French Literary Correspondent	true
+ancillaries_onscreen_name_s2anc_sp_bosh_foreign_journo_3	British Literary Correspondent	true
+ancillaries_onscreen_name_s2anc_sp_bosh_foreign_journo_2	War Correspondent	true
+ancillaries_colour_text_s2anc_sp_bosh_game_cards	Some cards make their owners lucky.	true
+ancillaries_colour_text_mp_bosh_anc_hero_worshipping_boy	Every boy needs his hero.	true
+ancillaries_colour_text_s2anc_master_army_jujutsu	Sometimes, the sword is a distraction to the warrior.	true
+ancillaries_colour_text_s2anc_household_doctor	The palsy and the pox will kill a man as surely as any blade.	true
+ancillaries_colour_text_mp_bosh_anc_uma_jirushi_nobori_standard_bearer	A banner, floating on the breeze, is a noble sight.	true
+ancillaries_onscreen_name_s2anc_religion_buddhist_monk	Wise Elder	true
+ancillaries_colour_text_mp_anc_shoguns_emissary	The blessings of heaven come in many forms.	true
+ancillaries_colour_text_mp_anc_open_basketwork_quivers	The arrow is no less important than the bow.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_vicky	"A woman! The British are truly an odd people!"	true
+ancillaries_onscreen_name_mp_bosh_anc_fighting_captain	Fighting Captain	true
+ancillaries_onscreen_name_s2anc_artefact_geisha_poison	Poison Collection	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mercenary_csa	Confederate Soldier of Fortune	true
+ancillaries_onscreen_name_s2anc_master_arts_go_2	Godokoro	true
+ancillaries_onscreen_name_s2anc_master_arts_go_1	Meijin	true
+ancillaries_colour_text_s2anc_household_mystic	There are always secrets, but there need be no mysteries for the truly enlightened.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_sumo_wrestler_2	Rikishi	true
+ancillaries_onscreen_name_s2anc_sp_bosh_sumo_wrestler_1	Sekitori	true
+ancillaries_onscreen_name_s2anc_household_guard	Exceptional Bodyguard	true
+ancillaries_onscreen_name_s2anc_legend_army_architect	Legendary Architect	true
+ancillaries_onscreen_name_mp_bosh_anc_experienced_gunboat_crew	Experienced Gunboat Crew	true
+ancillaries_onscreen_name_mp_legendary_masterwork_kote_armguards	Legendary Item: Masterwork Kote Armguards	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_kote	Armour is prudent in times of strife.	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_koto	"Twang!"	true
+ancillaries_onscreen_name_mp_bosh_anc_zen_like_silence	Zen-Like Silence	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_chanoine	Charles Chanoine	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_genbutai	Genbutai	true
+ancillaries_colour_text_mp_bosh_anc_well_schooled_mounts	Man and beast in perfect harmony.	true
+ancillaries_colour_text_s2anc_sp_bosh_uniform_snow_shoes	"A fool goes out in a blizzard."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_byakkotai	Byakkotai	true
+ancillaries_onscreen_name_s2anc_artefact_legend_bokken	Bokken	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_flashbomb	Flash Powder Bombs	true
+ancillaries_onscreen_name_s2anc_artefact_armour_helmet	Steel Morion	true
+ancillaries_colour_text_s2anc_pet_carp_2	"Bow down before Judge Fish!"	true
+ancillaries_colour_text_s2anc_pet_carp_1	In the breeding of fish, why should not perfection be attainable?	true
+ancillaries_colour_text_s2anc_sp_bosh_item_glasses_smoked	To tame the sun might be considered arrogance.	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_biwa	"I will sing in praise of total war!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_chef_sushi	Sushi Chef	true
+ancillaries_onscreen_name_s2_anc_pdlc_shirabyoshi_kimono	Heavenly Kimono	true
+ancillaries_colour_text_s2anc_sp_bosh_item_snuff	"Filthy stuff, but I enjoy it. Atishoo!"	true
+ancillaries_colour_text_s2_anc_pdlc_shirabyoshi_ceremonial_flute	Skilled lips bring many pleasures.	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_model_1866	"Do not accept inferior German products, monsieur!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_sabre_cav	Cavalry Sabre	true
+ancillaries_colour_text_s2anc_household_chef_noodle	Even the mightiest lord deserves some small comforts: the perfect meal being one of them.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_brunet	"Soon a reaction will take place, and the daimyos of the north have offered me to be its soul."	true
+ancillaries_onscreen_name_s2anc_sumo_wrestler_1	Sekitori	true
+ancillaries_onscreen_name_s2anc_sumo_wrestler_2	Rikishi	true
+ancillaries_colour_text_s2anc_mistress_tart	A lover of surpassing skill, for all her faults.	true
+ancillaries_colour_text_s2anc_hero_boy	Impressionable youth can have its uses.	true
+ancillaries_colour_text_s2anc_artefact_go	Every good player knows that victory is the precise application of strategy.	true
+ancillaries_colour_text_mp_anc_huntsmen	Men are the fiercest prey of all.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_gambler	Bakuto	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_little_tea_pot_2	Who benefits most? The drinker, or the cup that fulfils its purpose?	true
+ancillaries_onscreen_name_mp_anc_short_sighted_inspector	Short-Sighted Inspector	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_little_tea_pot_3	The porcelain cup and the tea master are one.	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_little_tea_pot_1	"More tea? Or better tea?"	true
+ancillaries_onscreen_name_s2anc_artefact_legend_katana	Legendary Katana	true
+ancillaries_colour_text_s2anc_geisha_dancer	Entertaining distractions are always welcome, perhaps more so when they disguise the assassin's blade.	true
+ancillaries_onscreen_name_s2anc_mistress_peasant	Common Mistress	true
+ancillaries_onscreen_name_s2anc_general_galloper	Battlefield Messenger	true
+ancillaries_onscreen_name_s2anc_artefact_christian_gun_1	Arquebus	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_schnell_edward	"French rubbish. Don't buy it."	true
+ancillaries_onscreen_name_mp_anc_ox_carts	Ox Carts	true
+ancillaries_colour_text_s2anc_espionage_chonin	A townsman knows how to find back alleys and secret ways, missing nothing as he walks the streets.	true
+ancillaries_colour_text_s2anc_sp_bosh_binoculars_military	An officer should know his enemy.	true
+ancillaries_colour_text_mp_anc_yabusami_master	Horse and bow can be in harmony.	true
+ancillaries_colour_text_s2anc_mistress_bodyguard	Even a bit of rough has uses, and hidden talents.	true
+ancillaries_colour_text_mp_bosh_anc_skilled_gun_captain	"Steady. Steady. Fire!"	true
+ancillaries_onscreen_name_mp_anc_scroll_of_inspirational_verse	Scroll of Inspirational verse	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_monk_enryaky_ji	Enryaku-ji Marathon Monk	true
+ancillaries_colour_text_mp_anc_geisha_poisoner	There can be mercy in a dish of tea.	true
+ancillaries_onscreen_name_mp_bosh_anc_unwaxed_cartridges	Unwaxed Cartridges	true
+ancillaries_colour_text_s2anc_army_hero_ashigaru	The commoner with courage should be kept close; he may show his worth again.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_glover	"May I present…this country's first steam locomotive…the Iron Duke, no less!"	true
+ancillaries_colour_text_s2anc_sp_bosh_binoculars_opera	The world, brought closer.	true
+ancillaries_colour_text_s2anc_mistress_political	"Shhhh! Walls have ears."	true
+ancillaries_colour_text_mp_anc_katana_of_the_pure_land	The cleansing stroke brings its own peace.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_globe	All the world, awaiting a conqueror!	true
+ancillaries_colour_text_s2anc_mistress_christian	"When you are without sin, come back with your stones!"	true
+ancillaries_onscreen_name_mp_bosh_anc_minie_muzzle_loading_rifle	Minie Muzzle-loading Rifle 	true
+ancillaries_onscreen_name_mp_anc_surgeon	Surgeon	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_relic_dragon	Dragon Scale	true
+ancillaries_onscreen_name_mp_anc_spoiled_rations	Spoiled Rations	true
+ancillaries_colour_text_mp_bosh_anc_overweight_infantry_officer	"Phew! I'll catch you up, men."	true
+ancillaries_onscreen_name_mp_bosh_clan_imperial	Clan Specialism Retainer: Imperial Training Network	true
+ancillaries_colour_text_s2anc_master_army_netsuke	Even a tiny thing can be perfect when it comes from the hands of a master.	true
+ancillaries_colour_text_s2anc_legend_army_sojutsu	The simple weapon is always the hardest to master.	true
+ancillaries_colour_text_s2anc_sp_bosh_doctor_surgeon_euro	"Be still, damn you! The leg is coming off!"	true
+ancillaries_colour_text_s2anc_household_jesuit	"White is black if the Church so orders it!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_banker_jr	British Merchant Banker	true
+ancillaries_colour_text_mp_anc_zen_like_silence	The calm heart does not beat like a drum.	true
+ancillaries_colour_text_mp_bosh_anc_skilled_weaponsmith	The edge is where the moment is decided.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_pipe_opium	Opium Pipe	true
+ancillaries_colour_text_mp_bosh_anc_snider_breech_loading_rifle	A good reliable weapon. As you'd expect from Her Majesty's Government.	true
+ancillaries_onscreen_name_s2anc_artefact_cards	Hanafuda Cards	true
+ancillaries_colour_text_s2anc_sp_bosh_servant_euro_waiter	"At once, mein herr!"	true
+ancillaries_colour_text_s2anc_armoured_war_dog	Grrrr!	true
+ancillaries_colour_text_mp_bosh_anc_livestock_pestilence	Dull eye and drooping ear speak eloquently of the suffering within.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_game_golf	Golf Clubs	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mistress_joro	Joro	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mistress_europe_strict	German Governess	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_civil_servant	"That is a courageous decision, my lord."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_seiryutai	Seiryutai	true
+ancillaries_colour_text_mp_bosh_anc_european_horse_trader	A stud is always useful.	true
+ancillaries_colour_text_s2anc_sp_bosh_iem_cigarillo	"I find they keep out the cold."	true
+ancillaries_onscreen_name_s2anc_artefact_myth_sword_moon	Sword of the Moon People	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_music_piano	Pianoforte	true
+ancillaries_onscreen_name_s2anc_master_army_castle_mason	Master Mason	true
+ancillaries_onscreen_name_mp_bosh_anc_uma_i_horse_doctor	Uma-I Horse Doctor	true
+ancillaries_onscreen_name_s2anc_sp_bosh_book_uncle_tom	Stowe's "Uncle Tom's Cabin"	true
+ancillaries_colour_text_mp_anc_uma_jirushi_nobori_standard_bearer	A banner, floating on the breeze, is a noble sight.	true
+ancillaries_colour_text_mp_anc_gokamon_bodyguard	A man at your back forestalls many problems.	true
+ancillaries_colour_text_mp_anc_rennyos_teachings	There is little wisdom in bringing pain to others, yet much in avoiding pain.	true
+ancillaries_colour_text_mp_anc_genpei_sou_monk	"Ignore all earthly beauty. It fades."	true
+ancillaries_onscreen_name_mp_bosh_anc_practice_grounds	Practice Grounds	true
+ancillaries_colour_text_s2anc_artefact_legend_naginata	To cut to the heart of the matter in one stroke, that is the great thing.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_item_beads	From calm, all things grow.	true
+ancillaries_colour_text_s2anc_sp_bosh_doctor_euro	"My patients, sir, survive or I will know the reason why!"	true
+ancillaries_colour_text_mp_clan_anc_spear	"It's not a pointed stick! It's a spear!"	true
+ancillaries_colour_text_s2anc_sp_bosh_rail_guide	One day, Japan will have its Crewe!	true
+ancillaries_colour_text_mp_bosh_anc_military_storehouse	Without stores, an army soon becomes a hungry mob.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_absinthe	"The Green Fairy"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_japan_industry	Industrialist	true
+ancillaries_onscreen_name_mp_legendary_dragonfly_cutting_spear	Legendary Item: Dragonfly Cutting Spear	true
+ancillaries_onscreen_name_mp_bosh_anc_inexperienced_gunboat_crew	Inexperienced Gunboat Crew	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_follower_miko_spirit	Miko	true
+ancillaries_onscreen_name_s2anc_master_espionage_ninja	Ninjutsu Master	true
+ancillaries_colour_text_mp_legendary_hideous_menpo_mask	The God of Battles should show a hard face to the world.	true
+ancillaries_colour_text_s2anc_legend_army_castle_mason	Castle walls are more than stones piled one on another. There is an art to it.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_weapon_bayonet	Many problems can be solved with cold steel.	true
+ancillaries_colour_text_s2anc_legend_arts_bunraku	There is no puppeteer.	true
+ancillaries_onscreen_name_s2anc_samurai_2_swords	Niten Ichi-ryu Duellist	true
+ancillaries_colour_text_mp_anc_metsuke_inspector	"You're nicked, my old beauty!"	true
+ancillaries_colour_text_s2anc_mistress_dangerous	"And what, my love, is wrong with thinking of yourself?"	true
+ancillaries_onscreen_name_s2anc_army_hero_horse	Favourite Mount	true
+ancillaries_colour_text_mp_anc_practice_grounds	Nothing in battle should be a surprise.	true
+ancillaries_colour_text_mp_anc_mark_of_fantacism	An honest faith armours an honest soul.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_armour	Legendary O-Yoroi	true
+ancillaries_onscreen_name_s2anc_sp_bosh_geisha_o_shoku	O-shaku	true
+ancillaries_colour_text_mp_anc_uma_i_horse_doctor	A horseman is only as good as his horse.	true
+ancillaries_colour_text_s2anc_legend_army_jujutsu	"I do not need to fight to know that your school is clearly inferior."	true
+ancillaries_colour_text_s2anc_madman_kodama	"You mind my leaves!"	true
+ancillaries_colour_text_mp_anc_cavalry_officer	Men, like horses, need a firm hand.	true
+ancillaries_colour_text_mp_anc_portable_shrine	The pure heart beats louder than any war drum.	true
+ancillaries_onscreen_name_s2anc_household_groom	Groom	true
+ancillaries_colour_text_mp_bosh_anc_monomi_spy	"You ain't seen me, right?"	true
+ancillaries_onscreen_name_mp_bosh_anc_crack_frigate_crew	Crack Frigate Crew	true
+ancillaries_onscreen_name_s2anc_household_doctor	Doctor	true
+ancillaries_colour_text_s2anc_government_merchant	"I never presume, my lord, but I do keep correct tally."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_chef_fugu	Fugu Chef	true
+ancillaries_colour_text_s2anc_master_arts_go_1	Go teaches the art of strategy, and this brilliant man is the embodiment of victory through cunning.	true
+ancillaries_colour_text_s2anc_master_arts_go_2	"Do not think of a strategy. Be a strategy."	true
+ancillaries_onscreen_name_mp_anc_productive_rice_paddy	Productive Rice Paddy	true
+ancillaries_onscreen_name_mp_anc_mounted_scout	Mounted Scout	true
+ancillaries_onscreen_name_mp_bosh_anc_uma_jirushi_nobori_standard_bearer	Uma-Jirushi Nobori Standard-Bearer	true
+ancillaries_onscreen_name_mp_legendary_heavenly_banner	Legendary Item: Heavenly Banner	true
+ancillaries_onscreen_name_s2anc_mistress_shrew	Over-ambitious Mistress	true
+ancillaries_onscreen_name_mp_anc_open_basketwork_quivers	Open Basketwork Quivers	true
+ancillaries_onscreen_name_s2anc_navy_gaijin_1	Spanish Gaijin Sailor	true
+ancillaries_onscreen_name_s2anc_navy_gaijin_2	Dutch Gaijin Seamaster	true
+ancillaries_colour_text_s2anc_crime_gambler	"All men gamble, with their lives, their loves and their loyalties. The trick is to profit by it."	true
+ancillaries_colour_text_mp_bosh_anc_yari_master	Even the simplest thing must be mastered.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_lone_arranger	Lone Arranger	true
+ancillaries_colour_text_s2anc_sp_bosh_foreign_journo_3	"I'm from 'The Thunderer', don't you know!"	true
+ancillaries_colour_text_s2anc_sp_bosh_foreign_journo_2	"My readers, sir, will marvel over their breakfasts as they learn of your valorous exploits!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_rail_telegraph	Telegraph Key	true
+ancillaries_colour_text_s2anc_sp_bosh_foreign_journo_4	"Poouffe!"	true
+ancillaries_onscreen_name_mp_bosh_anc_eager_lieutenant	Eager Lieutenant	true
+ancillaries_colour_text_mp_anc_infantry_officer	The mob is not an army.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_chloroform_killer	Bottle of Chloroform	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_musketoon	"Proven in combat, by the Confederate States, among others."	true
+ancillaries_colour_text_s2anc_sp_bosh_item_scotch	"These Scotsmen must be a fierce, warrior folk!"	true
+ancillaries_colour_text_s2anc_navy_pilot	To read the waves, clouds and breeze is to be valuable.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_skate	Speed, excitement and, on occasion, a broken limb!	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_bow_target_long	Omato	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_bow_target_medium	Mato	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_verny	A coastal fort is an unsinkable ship.	true
+ancillaries_onscreen_name_mp_bosh_anc_raw_frigate_crew	Raw Frigate Crew	true
+ancillaries_onscreen_name_s2anc_artefact_chess	Shogi Set	true
+ancillaries_onscreen_name_s2anc_household_mystic	Mystic	true
+ancillaries_colour_text_s2anc_sp_bosh_item_camera	"Look at the birdy!"	true
+ancillaries_colour_text_mp_legendary_masterwork_kote_armguards	The wise man seeks out the very best of everything.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_satow	"Respect and Harmony."	true
+ancillaries_onscreen_name_s2anc_legend_espionage_ninja	Legendary Ninja Leader	true
+ancillaries_onscreen_name_s2anc_master_army_architect	Castle Architect	true
+ancillaries_onscreen_name_mp_bosh_anc_improved_breech_mechanism	Improved Breech Mechanism	true
+ancillaries_colour_text_s2anc_sp_bosh_servant_chef_french	"I would not feed this muck to Englishmen!"	true
+ancillaries_onscreen_name_mp_bosh_anc_mochiyari_gumi_spear_bearer	Mochiyari Gumi Spear-Bearer	true
+ancillaries_colour_text_s2anc_sp_bosh_samurai_boast	"This is a sword! Your blade - ha! - I would not scrape out a peasants' dungheap with it!"	true
+ancillaries_onscreen_name_s2anc_hero_boy	Hero-worshipping Boy 	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_lancaster	"This, sir, will stop a man, or make a tiger rethink his menu!"	true
+ancillaries_onscreen_name_mp_anc_blessed_kote_armoured_sleeves	Blessed Kote Armoured Sleeves	true
+ancillaries_colour_text_mp_anc_short_sighted_inspector	Sometimes looking is not the same as seeing.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mistress_foxy	Foxy Mistress	true
+ancillaries_colour_text_s2_anc_pdlc_monk_relic_fuji_rock	All Japan is hallowed.	true
+ancillaries_colour_text_mp_bosh_anc_blade_master	The sword must be one with the hand.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_messelot	Edouard Messelot	true
+ancillaries_colour_text_mp_anc_inspiring_orator	Words can move a man's heart to sorrow, or anger.	true
+ancillaries_onscreen_name_s2anc_artefact_legend_armour	Legendary O-Yoroi	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_zasu	Zasu	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_champagne	Champagne	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_roches	"The Japanese are disposed towards us as well as to other foreigners; whatever will be the material development of English power in this country, they run to us alone for reforms."	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_chef_sushi	A man can die in many ways, but choking on a fish bone is truly unfortunate.	true
+ancillaries_colour_text_s2_anc_pdlc_shirabyoshi_kimono	Eerily beautiful, and as entrancing as moonlight in a lover’s eyes.	true
+ancillaries_colour_text_s2anc_religion_buddhist_nun	There are many paths to Buddha.	true
+ancillaries_colour_text_s2anc_chamberlain	"My lord's lands and affairs need careful tending. There is honour in serving faithfully."	true
+ancillaries_onscreen_name_s2anc_artefact_myth_sword_amateratsu	Sword of Amaterasu	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_bow_target_short	Makiwara	true
+ancillaries_onscreen_name_mp_legendary_tenkagoken_sword	Legendary Item: Tenkagoken Sword	true
+ancillaries_onscreen_name_mp_bosh_anc_blind_bow_sensei	Blind Bow Sensei	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_spencer	"It works well, sir, in persuadin' 'ornery folk to leave you and yours alone!"	true
+ancillaries_onscreen_name_s2anc_espionage_chonin	Chonin	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_matchlock	There is comfort in the traditional.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_fintry	"Gentlemen should exercise caution and wear stout-sided boots when using the Fintry-Kyle Escape Apparatus. Ladies, children, servants and those of a nervous disposition should be strongly encouraged to seek other means of hurried egress."	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_flag	The flag says: here stands a great warlord, the heir to great warlords! Strong as the storm! Fear his might!	true
+ancillaries_colour_text_mp_bosh_anc_groom	Only a fool looks after his sword yet neglects his horse.	true
+ancillaries_onscreen_name_mp_anc_geisha_poisoner	Geisha Poisoner	true
+ancillaries_onscreen_name_mp_bosh_anc_enfield_musketoon	Enfield Musketoon	true
+ancillaries_colour_text_mp_bosh_anc_unwaxed_cartridges	...click!...	true
+ancillaries_colour_text_mp_bosh_anc_foul_bottom	"A foul bottom? How dare you sir?!"	true
+ancillaries_onscreen_name_mp_anc_yabusami_master	Yabusami Master	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ronin_xenophobe	Xenophobic Ronin	true
+ancillaries_onscreen_name_s2anc_household_biwa_hoshi_1	Biwa Player	true
+ancillaries_colour_text_s2anc_general_galloper	A general must have his orders obeyed, otherwise bravery will be wasted.	true
+ancillaries_onscreen_name_s2anc_household_biwa_hoshi_2	Legendary Biwa Player	true
+ancillaries_colour_text_s2anc_master_army_sojutsu	A spear looks simple, but to use it elegantly and with precision takes practice and dedication.	true
+ancillaries_colour_text_s2anc_sp_bosh_book_on_war	War is the school of warriors.	true
+ancillaries_colour_text_s2anc_sp_bosh_servant_chef_noodle	Even the mightiest lord deserves some small comforts: the perfect meal being one of them.	true
+ancillaries_colour_text_mp_bosh_anc_french_naval_engineer	"A Frenchman, sir, builds a ship with a soul. Any Anglo-Saxon idiot can make an ironclad."	true
+ancillaries_colour_text_s2anc_legend_army_netsuke	In small things lies great perfection.	true
+ancillaries_colour_text_s2anc_mistress_peasant	"Ooh! That's fancy, innit?"	true
+ancillaries_colour_text_s2anc_silly_time_tunnel_2	"...somewhere along the infinite corridors of time..."	true
+ancillaries_colour_text_mp_bosh_anc_yumi_officer	Men must be lead in battle.	true
+ancillaries_colour_text_s2anc_silly_time_tunnel_1	"...lost in the swirling maze of past and future ages..."	true
+ancillaries_colour_text_mp_anc_blind_bow_sensei	When the heart is pure, the arrow finds a way.	true
+ancillaries_colour_text_s2anc_artefact_christian_gun_1	"I find it a very persuasive argument."	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_banker_jr	There is alchemy in London, to transform paper into gold.	true
+ancillaries_onscreen_name_s2anc_household_koto_hoshi_2	Legendary Koto Player	true
+ancillaries_onscreen_name_s2anc_household_jesuit	Jesuit	true
+ancillaries_onscreen_name_s2anc_household_koto_hoshi_1	Koto Player	true
+ancillaries_colour_text_s2_anc_pdlc_monk_follower_yamahoshi	On a mountain, a man sees further.	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_colt_navy	It is a powerful thing to hold six lives in one hand.	true
+ancillaries_onscreen_name_s2anc_general_taiko_drummer	Master Drummer	true
+ancillaries_colour_text_mp_legendary_kawari_kabuto_helm	What use a general's brains if they are splashed to the winds?	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_game_chess	Ivory Chess Set	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_rich	"Trade, my lord, is beneath your dignity, but wealth is never dishonourable."	true
+ancillaries_colour_text_s2anc_sumo_champion	"I challenge you. And now you will fail!" 	true
+ancillaries_colour_text_mp_bosh_anc_unpracticed_gun_crews	"Gun practice, Lieutenant? Not today, I have a headache."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_binoculars_opera	Opera Glasses	true
+ancillaries_colour_text_mp_anc_surgeon	"Brave wounds mend the quickest!"	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_governor	Kami	true
+ancillaries_colour_text_mp_anc_spoiled_rations	Food nourishes the spirit as well as the body.	true
+ancillaries_onscreen_name_mp_anc_katana_of_the_pure_land	Katana of the Pure Land	true
+ancillaries_onscreen_name_s2anc_sp_bosh_book_king_james	King James Bible	true
+ancillaries_colour_text_mp_bosh_anc_minie_muzzle_loading_rifle	Simple, sturdy and soldier-proof. Deadly, in the right hands, too.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_kabuto	Legendary Kabuto	true
+ancillaries_colour_text_s2anc_sp_bosh_item_food_bovril	A cow in a bottle! What will these foreigners think of next?	true
+ancillaries_colour_text_s2anc_legend_arts_tea_ceremony	"Drink. Be at peace."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_geisha_hangyoku	Hangyoku	true
+ancillaries_onscreen_name_mp_bosh_anc_dreyse_needle_gun	Dreyse Needle Gun	true
+ancillaries_colour_text_mp_anc_loyal_fudai_shu_retainers	Loyalty reflects well on the one who gives it.	true
+ancillaries_colour_text_mp_bosh_anc_modern_supply_corps	Victory can be decided on the pages of a ledger.	true
+ancillaries_colour_text_s2anc_samurai_7_2	"How'd you like to kill thirty bandits?"	true
+ancillaries_colour_text_s2anc_samurai_7_3	"If you can’t run in a war then it’s already over."	true
+ancillaries_colour_text_s2anc_samurai_7_1	A wise samurai does not always need to draw his sword, or see others fight, to know the outcome.	true
+ancillaries_colour_text_s2anc_samurai_7_6	"If it had been a real sword, you would be dead."	true
+ancillaries_colour_text_s2anc_samurai_7_7	"I can't kill a lot with one sword!"	true
+ancillaries_colour_text_s2anc_samurai_7_4	"I'm Hayashida Heihachi, a fencer of the Wood Cut School."	true
+ancillaries_colour_text_s2anc_samurai_7_5	"No sir, my decision has been made. I'll follow you, sir."	true
+ancillaries_colour_text_s2anc_sp_bosh_mercenary_csa	"I will fight damn Yankees wherever they may be found, sir!"	true
+ancillaries_colour_text_s2anc_sp_bosh_item_pen	Elegance sometimes gives way to convenience.	true
+ancillaries_onscreen_name_mp_anc_shoguns_emissary	Shogun's Emissary	true
+ancillaries_onscreen_name_s2anc_sp_bosh_geisha_shamisen	Shamisen	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mistress_common	Common Mistress	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_blowpipe	Blowpipe	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_jujutsu	Jujutsu Master	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_french	"A Frenchman, sir, mixes business with passion!"	true
+ancillaries_colour_text_s2anc_sp_bosh_item_flag_semaphore	A battlefleet obeys orders. Fishermen drift.	true
+ancillaries_onscreen_name_mp_bosh_anc_sticky_fingered_storemaster	Sticky-Fingered Storemaster	true
+ancillaries_colour_text_mp_bosh_anc_scratch_ironclad_crew	"Take that man's name!"	true
+ancillaries_colour_text_s2anc_sp_bosh_item_game_bat	A good firm swing is always an answer.	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_civil_judge	Samurai-dokoro	true
+ancillaries_colour_text_s2anc_sp_bosh_sumo_champion	"I challenge you. And now you will fail!"	true
+ancillaries_colour_text_mp_anc_zori_tori_sandal_bearer	No task is humble if it is done well.	true
+ancillaries_onscreen_name_mp_anc_garden_of_convalescence	Garden of Convalescence	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_binocs_artillery	Artillery Binoculars	true
+ancillaries_colour_text_s2anc_artefact_gun_dutch	Anything from the far side of the world, even the strange  "Low Countries", grants power.	true
+ancillaries_colour_text_mp_bosh_anc_elite_ironclad_crew	"Neatly done, Lieutenant. Carry on."	true
+ancillaries_colour_text_mp_anc_cold_snap	Cold hands make strangers of familiar tasks.	true
+ancillaries_onscreen_name_s2anc_government_rabblerouser	Buddhist Rabblerouser	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_katana	To meet the sword's edge is the only true test of courage.	true
+ancillaries_colour_text_s2anc_household_treasurer	Money matters.	true
+ancillaries_onscreen_name_mp_bosh_anc_improved_gun_sights	Improved Gun Sights	true
+ancillaries_onscreen_name_s2anc_master_arts_calligrapher	Master Calligrapher	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_duousequet	Charles Albert Dubousquet	true
+ancillaries_onscreen_name_s2anc_sp_bosh_servant_groom	Groom	true
+ancillaries_colour_text_s2anc_sp_bosh_naval_builder_uk	"There are ironclad arguments as to why the Royal Navy rules the waves."	true
+ancillaries_colour_text_s2_anc_pdlc_monk_item_cup	Quench the raging fires within.	true
+ancillaries_colour_text_s2anc_government_merchant_2	"Trade, my lord, is beneath your dignity, but wealth is never dishonourable."	true
+ancillaries_colour_text_mp_anc_unbalanced_spears	"Unbalanced? Nonsense! Next you'll be saying I'm unbalanced!"	true
+ancillaries_colour_text_s2anc_espionage_samurai_show_off	"This is a sword! Your blade - ha! - I would not scrape out a peasants' dungheap with it!"	true
+ancillaries_onscreen_name_s2anc_artefact_legend_greaves	Legendary Suneate	true
+ancillaries_onscreen_name_s2anc_legend_arts_go	Legendary Go Player	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_moon_carp	Moon Carp	true
+ancillaries_colour_text_mp_bosh_anc_artillery_officers_handbook	Make every shot count.	true
+ancillaries_onscreen_name_s2anc_pet_hunting_dog_gempei	Hunting Dog	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_item_lotus	Cherry Blossom	true
+ancillaries_onscreen_name_s2anc_sp_bosh_foreign_journo	European Journalist	true
+ancillaries_onscreen_name_mp_anc_expert_gun_instructor	Expert Gun Instructor	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_disguise_madman	"Let them look in all the wrong places!"	true
+ancillaries_onscreen_name_s2anc_master_arts_tea_ceremony	Master of the Tea Ceremony	true
+ancillaries_onscreen_name_mp_anc_shinobi_informer	Shinobi Informer	true
+ancillaries_onscreen_name_mp_clan_anc_bow	Clan Specialism Retainer: Yumi Training Network	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_mech_puppet	Karakuri Ningyo	true
+ancillaries_colour_text_s2anc_madman_christian	"Flagellation! That's what! Whip some faith into the little bleeders!"	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_vassal	"As you wish it, my lord!"	true
+ancillaries_colour_text_s2_anc_bosh_hovercraft_eels	Ore no hobaakurafuto unagi ippai aru!	true
+ancillaries_onscreen_name_mp_anc_wooden_practice_spears	Wooden Practice Spears	true
+ancillaries_onscreen_name_s2anc_artefact_banner_warlord	Legendary Banner	true
+ancillaries_colour_text_mp_bosh_anc_green_corvette_crew	"Is there an able-bodied seaman anywhere on this ship?!"	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_item_flute	Shakuhachi	true
+ancillaries_onscreen_name_s2anc_artefact_legend_bokken_2	Suburi Bokken	true
+ancillaries_onscreen_name_s2anc_artefact_legend_bokken_3	Bokken	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_wig_black	Koguma	true
+ancillaries_onscreen_name_mp_anc_genpei_benkei	Benkei	true
+ancillaries_colour_text_s2anc_legend_arts_calligrapher	To capture a thought, a moment, on paper: that is power.	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_disguise_geisha	"Oooh, you have got rough hands!"	true
+ancillaries_colour_text_s2anc_artefact_christian_holy_water	The holiest of water may convert many a heathen.	true
+ancillaries_colour_text_s2anc_sp_bosh_uniform_naval_uk	"It was a gift."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_hand_warmer	Hand Warmer	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_disguise_monk	"I am a man of god!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_naval_builder_fr	French Naval Engineer	true
+ancillaries_onscreen_name_s2anc_artefact_armour_spanish	Christian Breastplate	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_disguise_gaijin	"I'm from Swansea, look you!"	true
+ancillaries_onscreen_name_mp_anc_bad_omen	Bad Omen	true
+ancillaries_onscreen_name_mp_legendary_legendary_kabuto_of_ykok	Legendary Item: Legendary Kabuto of The Shogun	true
+ancillaries_colour_text_mp_anc_genpei_monomi_spy	"You ain't seen me, right?"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_microscope	Microscope	true
+ancillaries_onscreen_name_mp_bosh_anc_overweight_infantry_officer	Overweight Infantry Officer	true
+ancillaries_colour_text_s2anc_sp_bosh_item_prussian_spikey_hat	Gaijin fear a man with the refined taste to wear one of these.	true
+ancillaries_onscreen_name_mp_anc_forage_parties	Forage Parties	true
+ancillaries_onscreen_name_s2_anc_pdlc_shirabyoshi_tachi	Tachi	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_iaijutsu	Iaijutsu Master	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_spy	There are eyes and ears everywhere, but only one mind.	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_mii_dera	Mii-dera Monk	true
+ancillaries_onscreen_name_s2anc_religion_christian_agent	Inquisitor	true
+ancillaries_onscreen_name_mp_bosh_anc_snider_breech_loading_rifle	Snider Breech-loading Rifle	true
+ancillaries_onscreen_name_mp_bosh_anc_skilled_weaponsmith	Skilled Weaponsmith	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_game_tennis	Tennis Racket	true
+ancillaries_onscreen_name_mp_anc_zen_like_silence	Zen-Like Silence	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_arms_ger	German Gunmaker's Agent	true
+ancillaries_colour_text_s2_anc_pdlc_general_weapon_yoroi_toshi	Against some daggers, armour is no defence.	true
+ancillaries_colour_text_s2_anc_pdlc_general_poet_nihon	The poem waits for the right pen.	true
+ancillaries_colour_text_mp_anc_yamabushi_guide	The sure-footed way is its own reward.	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_dreyse	"The bullet is substantial; the needle is within the workings."	true
+ancillaries_colour_text_s2_anc_pdlc_monk_follower_komuso	Listen to the music, not the player of the music.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_arms_fr	French Gunmaker's Agent	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_governor	Kokushi	true
+ancillaries_onscreen_name_s2anc_geisha_dancer	Maiko	true
+ancillaries_colour_text_s2anc_sp_bosh_mistress_soldier	Even a bit of rough has uses, and hidden talents.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_medical_stethoscope	"Say 'Ahhhh!'"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_foreign_botanist	Kew Gardens Botanist	true
+ancillaries_colour_text_s2_anc_pdlc_general_monk_enryaky_ji	A man puts aside much to become a monk, but never honour.	true
+ancillaries_colour_text_s2anc_artefact_legend_short_sword	A sword acquires fame only in the hands of a worthy man.	true
+ancillaries_onscreen_name_mp_bosh_anc_skilled_gun_captain	Skilled Gun Captain	true
+ancillaries_colour_text_mp_anc_kacchu_mochi_armour_bearer	There is honour in serving well.	true
+ancillaries_colour_text_mp_bosh_clan_shogunate	Tradition and honour are everything.	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_snider	"A good reliable weapon, as you'd expect from Her Majesty's Government."	true
+ancillaries_onscreen_name_mp_bosh_anc_cold_snap	Cold Snap	true
+ancillaries_colour_text_mp_anc_ox_carts	Cruel as summer, glinting goads stab, draft oxen bellow, doom rumbles on.	true
+ancillaries_colour_text_s2anc_espionage_samurai_rude_2	"I listen. I learn. I look after the master."	true
+ancillaries_onscreen_name_s2anc_geisha_half_pay	Hangyoku	true
+ancillaries_colour_text_mp_anc_genpei_enryakuji_fugitive	"Fall upon the enemy with the flames of Enryakuji in your hearts!"	true
+ancillaries_colour_text_s2anc_sp_bosh_clock_watch	"Once, I measured my life by the fall of blossoms…"	true
+ancillaries_colour_text_mp_bosh_anc_scroll_of_inspirational_verse	"O! For a muse of fire…"	true
+ancillaries_colour_text_s2anc_sp_bosh_shinsengumi_yakuza	A man who has turned against his own kind makes the best hunter when the time comes.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_suneate	Legendary Suneate	true
+ancillaries_onscreen_name_s2anc_friend_drinker	Drinking Companion	true
+ancillaries_onscreen_name_mp_anc_huntsmen	Huntsmen	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_gambler	"All men gamble, with their lives, their loves and their loyalties. The trick is to profit by it."	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_little_tea_pot_3	Meijin	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_little_tea_pot_2	Wabi-suki	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_little_tea_pot_1	Chanoyusha	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_weapon_dagger	Kaiken	true
+ancillaries_onscreen_name_s2anc_chess_champion	Shogi Champion	true
+ancillaries_onscreen_name_mp_bosh_anc_unbalanced_spears	Unbalanced Spears	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_pet_cricket	Pet Cricket	true
+ancillaries_onscreen_name_s2anc_mistress_tart	Joro	true
+ancillaries_onscreen_name_s2anc_household_chef_noodle	Noodle Chef	true
+ancillaries_onscreen_name_s2anc_sp_bosh_servant_euro_chef_pastry	Austrian Pastry Chef	true
+ancillaries_colour_text_s2anc_legend_army_architect	Cunning and mastery wrought in stone.	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_shuriken	Shuriken	true
+ancillaries_colour_text_s2_anc_pdlc_monk_pet_cat	Unlike men, cats are true to their own nature.	true
+ancillaries_onscreen_name_mp_legendary_masterwork_do_maru_armour	Legendary Item: Masterwork Do-Maru Armour	true
+ancillaries_colour_text_s2anc_sp_bosh_item_navy_diving	"Imagine! The bottom of the sea!"	true
+ancillaries_colour_text_mp_legendary_flawless_mount_okage	The noble steed demands a noble master.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_chanoine	Only decent boots do more than duty and glory in making men march.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_genbutai	"We are the force of the Black Turtle!"	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_samurai_senior	Honourable men bring honour to their master.	true
+ancillaries_colour_text_s2anc_artefact_myth_sword_spanish	A blade from distant Spain is exotic and deadly, and a mark of the gaijin King's favour.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_slide_rule	Slide Rule	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_kenjutsu	Kenjutsu Master	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_ninjutsu	Ninjutsu Master	true
+ancillaries_onscreen_name_mp_bosh_anc_kacchu_mochi_armour_bearer	Kacchu-Mochi Armour-Bearer	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_springfield	Springfield Model 1871	true
+ancillaries_colour_text_mp_anc_steppe_horse_stud	Careful husbandry always improves the breed.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_pen	Fountain Pen	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_gewehr_muzzleloader	Gewehr Muzzle-loading Smoothbore	true
+ancillaries_onscreen_name_mp_anc_european_horse_trader	European Horse Trader	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_shuriken	Shuriken	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_valkenburg	Robert Bruce Van Valkenburg	true
+ancillaries_colour_text_s2anc_sp_bosh_master_go_2	"Do not think of a strategy. Be a strategy."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_ninjato	Apocryphal Ninjato	true
+ancillaries_onscreen_name_mp_anc_infantry_officer	Infantry Officer	true
+ancillaries_onscreen_name_s2anc_legend_arts_tea_ceremony	Legendary Tea Master	true
+ancillaries_colour_text_s2anc_sp_bosh_lone_arranger	"Hi-ho, Silver!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_food_bovril	Meat Extract	true
+ancillaries_onscreen_name_mp_bosh_anc_yari_master	Yari Master	true
+ancillaries_colour_text_s2anc_geisha_hot_springs	"Just a little something I picked up on holiday…"	true
+ancillaries_colour_text_s2anc_legend_army_bowyer	From the hands of the master, a bow always shoots true.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_theodolite	Surveyor's Theodolite	true
+ancillaries_onscreen_name_s2anc_crime_gambler	Bakuto	true
+ancillaries_colour_text_s2anc_navy_gaijin_1	"His Most Catholic Majesty has no idea that I even exist, my lord."	true
+ancillaries_colour_text_s2anc_navy_gaijin_2	"I'll wager those hands have never strangled a porpentine in a tropical storm, arrrr!"	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_armour	Worn in battle by many great warriors, and sanctified by time, this is armour truly fit for a hero.	true
+ancillaries_onscreen_name_mp_anc_practice_grounds	Practice Grounds	true
+ancillaries_colour_text_s2anc_master_arts_calligrapher	The perfect brush stroke is worth a lifetime's skill.	true
+ancillaries_colour_text_s2anc_sp_bosh_foreign_servant_uk	"Certainly, sir…"	true
+ancillaries_colour_text_s2_anc_pdlc_shirabyoshi_hand_fan	Hiding a treacherous smile is sensible, not coy.	true
+ancillaries_onscreen_name_mp_anc_camp_sickness	Camp Sickness	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_wig_white	Haguma	true
+ancillaries_onscreen_name_mp_anc_indefatigable	Relentless	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_civil_judge	A man is weighed and found wanting; another goes free. This is law.	true
+ancillaries_onscreen_name_s2anc_pet_hunting_dog	Hunting Dog	true
+ancillaries_colour_text_s2anc_household_chinese_courtier	"Confucius has much to say on everything, my lord."	true
+ancillaries_colour_text_s2anc_master_army_kobudo	In the right hands, everything is a weapon to fear.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_rail_builder_us	American Railroad Engineer	true
+ancillaries_colour_text_s2_anc_pdlc_general_bow_practice	A thousand days of archery practice is a good start.	true
+ancillaries_onscreen_name_mp_anc_zori_tori_sandal_bearer	Zori Tori Sandal-Bearer	true
+ancillaries_onscreen_name_s2anc_sp_bosh_uniform_top_hat	Silk Top Hat	true
+ancillaries_onscreen_name_s2anc_madman_kodama	Mad Old Man	true
+ancillaries_onscreen_name_mp_anc_water_carrier	Water Carrier	true
+ancillaries_colour_text_mp_anc_garden_of_convalescence	A garden soothes the soul.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_rail_builder_uk	British Railway Engineer	true
+ancillaries_onscreen_name_s2anc_madman_christian	Mad Old Christian	true
+ancillaries_colour_text_s2anc_sp_bosh_item_mech_puppet	"Click-click-clickety-whirr-click."	true
+ancillaries_colour_text_s2anc_master_arts_tea_ceremony	Fire. Water. Tea. A bowl. A sip. One perfect moment.	true
+ancillaries_colour_text_s2anc_artefact_legend_bokken_2	Serious sword training is rarely wasted.	true
+ancillaries_colour_text_s2anc_artefact_legend_bokken_3	Chastisement comes in many forms.	true
+ancillaries_colour_text_s2anc_sp_bosh_music_flute_player	Music quiets the troubled heart.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_umbrella_sword	"Mrs Peel, we're needed!"	true
+ancillaries_onscreen_name_mp_legendary_hideous_menpo_mask	Legendary Item: Hideous Menpo Mask	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_japan_industry	"One day, Japan will be modern."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_naval_builder_uk	British Naval Engineer	true
+ancillaries_colour_text_s2anc_sp_bosh_item_absinthe	Absinthe makes the heart grow fonder.	true
+ancillaries_onscreen_name_mp_bosh_anc_military_storehouse	Military Storehouse	true
+ancillaries_colour_text_mp_anc_lightweiught_gunjingura_war_saddle	Speed comes more readily to the rider with a comfortable seat.	true
+ancillaries_colour_text_s2anc_sp_bosh_animal_dog	For the huntsman, what else matters other than the chase?	true
+ancillaries_colour_text_s2anc_artefact_ninja_tiger_claws	The tiger climbs, and rends, as he will.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_schnell_henry	"British rubbish. Don't buy it."	true
+ancillaries_onscreen_name_s2anc_artefact_legend_cuirass	Legendary Do	true
+ancillaries_onscreen_name_s2anc_crime_ronin_kabukimono	Kabukimono	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_item_beads	Meditation Beads	true
+ancillaries_colour_text_s2_anc_pdlc_monk_origami	"See how the tree becomes the image of enlightenment."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_foreign_tourist	English Tourist	true
+ancillaries_colour_text_s2anc_sp_bosh_mistress_joro	A lover of surpassing skill, for all her faults.	true
+ancillaries_colour_text_s2anc_sp_bosh_ed_the_cat	"This are serious retainer."	true
+ancillaries_colour_text_s2anc_legend_arts_kabuki	In one gesture, a world of emotion…	true
+ancillaries_colour_text_s2anc_sp_bosh_item_hand_warmer	Gentlemen appreciate warm hands.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_uniform_naval_uk	British Sailor Uniform	true
+ancillaries_colour_text_s2anc_sp_bosh_naval_builder_fr	"A Frenchman, sir, builds a ship with a soul. Any Anglo-Saxon idiot can make an ironclad."	true
+ancillaries_colour_text_mp_bosh_anc_mounted_scout	Knowledge is better than rumour.	true
+ancillaries_onscreen_name_s2anc_legend_arts_calligrapher	Legendary Calligrapher	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_sandw_2	"Mr Smith and Mrs Wesson and their six lead offspring guarantee your life."	true
+ancillaries_colour_text_s2anc_sp_bosh_master_tea	Fire. Water. Tea. A bowl. A sip. One perfect moment.	true
+ancillaries_colour_text_mp_anc_genpei_shirabyoshi_dancer	Lust and loathing are two sides of the same coin.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_iem_cigarillo	Cigarillos	true
+ancillaries_colour_text_s2anc_sp_bosh_item_game_tennis	A game of princes, played by lesser men.	true
+ancillaries_colour_text_s2anc_general_taiko_drummer	At the soul of a drumbeat is the sound of man's heart.	true
+ancillaries_onscreen_name_mp_legendary_kawari_kabuto_helm	Legendary Item: Kawari Kabuto Helm	true
+ancillaries_colour_text_s2anc_religion_christian_agent	Fear is the key.	true
+ancillaries_onscreen_name_s2anc_household_chinese_false	Chinese Courtier	true
+ancillaries_colour_text_s2_anc_pdlc_general_poet_chinese	In a moment of stillness: poetry.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_colt_navy	Colt .36 Navy Revolver	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_medical_chloroform	Bottle of Chloroform	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_follower_yamahoshi	Yamahoshi	true
+ancillaries_onscreen_name_s2anc_sp_bosh_uniform_admiral	Admiral's Uniform	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mistress_europe	Gaijin Lady	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_descharmes	Leon Descharmes	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_kabuto	Don't lose your head!	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_prussian_spikey_hat	Prussian Spiked Helmet	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_governor	Authority is the spirit of government.	true
+ancillaries_onscreen_name_s2anc_sumo_champion	Yokozuna	true
+ancillaries_colour_text_s2anc_legend_army_kobudo	Moderation in war is imbecility.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_arms_us	American Gunmaker's Agent	true
+ancillaries_onscreen_name_s2anc_sp_bosh_uniform_general	General's Uniform	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_arms_uk	British Gunmaker's Agent	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mistress_soldier	Soldier's Mistress	true
+ancillaries_onscreen_name_mp_bosh_anc_foul_bottom	Foul Bottom	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_medical_stethoscope	Stethoscope	true
+ancillaries_colour_text_s2anc_sp_bosh_foreign_botanist	Japan is a land of wonders.	true
+ancillaries_onscreen_name_s2anc_espionage_samurai_rude_2	Unlettered Samurai	true
+ancillaries_onscreen_name_mp_bosh_clan_shogunate	Clan Specialism Retainer: Shogunate Training Network	true
+ancillaries_onscreen_name_mp_anc_yagyu_sword_instructor	Yagyu Sword Instructor	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_phonograph	Phonograph	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_matchlock	Tanegashima Matchlock	true
+ancillaries_onscreen_name_mp_anc_blind_bow_sensei	Blind Bow Sensei	true
+ancillaries_colour_text_s2anc_sp_bosh_music_drums	The beat of the drum echoes the heart.	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_weapon_yoroi_toshi	Yoroi Toshi	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_disguise_fish	"Look, I'm not a squid, right?"	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_poet_nihon	Waka Poet	true
+ancillaries_colour_text_s2anc_master_army_bowyer	The bow that is made with care will not fail, and will always shoot true.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_book_artillery_handbook	Artillery Officer's Handbook	true
+ancillaries_onscreen_name_mp_anc_yamabushi_guide	Yamabushi Guide	true
+ancillaries_onscreen_name_s2anc_friend_boyhood	Boyhood Companion	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_sojutsu	Sojutsu Master	true
+ancillaries_colour_text_s2anc_religion_christian_agent_2	Some men serve by watching from the shadows.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_weapon_dagger	The wise man does not set aside all defence.	true
+ancillaries_onscreen_name_mp_anc_inspiring_orator	Inspiring Orator	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_messelot	Every Frenchman understands "la gloire".	true
+ancillaries_colour_text_s2anc_sp_bosh_mistress_foxy	"Cleverness, a witty tongue and a modicum of lust in one rather attractive kimono."	true
+ancillaries_onscreen_name_s2anc_general_surgeon	Surgeon	true
+ancillaries_onscreen_name_mp_bosh_anc_mouldy_feedstocks	Mouldy Feed Stocks	true
+ancillaries_colour_text_s2anc_master_arts_kabuki	The real tragedy is that all performances must one day end in silence.	true
+ancillaries_colour_text_mp_bosh_anc_bandit_horse_thieves	It's only theft if you are caught.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_samurai_boast	Boastful Samurai	true
+ancillaries_onscreen_name_s2anc_samurai_killer	Duellist	true
+ancillaries_colour_text_mp_bosh_anc_mochiyari_gumi_spear_bearer	A samurai may need his weapon at any moment.	true
+ancillaries_onscreen_name_s2anc_geisha_waitress	O-shoku	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_lancaster	Lancaster Pistol	true
+ancillaries_onscreen_name_s2anc_espionage_samurai_rude	Unmannered Samurai	true
+ancillaries_colour_text_mp_anc_european_gunsmith	The smell is sulphurous, the results: astounding!	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_claws	The tiger climbs, and rends, as he will.	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_pet_tiger	Pet Tiger	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_tea	"Drink. Be at peace."	true
+ancillaries_colour_text_s2anc_sp_bosh_servant_treasurers	Money matters.	true
+ancillaries_colour_text_s2anc_sp_bosh_uniform_sailor_cap	There should be decorum in all things.	true
+ancillaries_onscreen_name_s2anc_religion_buddhist_nun	Nun	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_fan_killer	Bladed Fan	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_tanto	One cut, one death.	true
+ancillaries_colour_text_s2anc_artefact_christian_sword_1	A man of God should not be an unarmed fool.	true
+ancillaries_colour_text_s2_anc_pdlc_general_bow_target_long	The sincere shot flies true, and strikes the mark.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_navy_diving	Diving Suit	true
+ancillaries_onscreen_name_mp_anc_famous_armoury	Famous Armoury	true
+ancillaries_colour_text_mp_bosh_anc_kacchu_mochi_armour_bearer	There is honour in serving well.	true
+ancillaries_colour_text_s2anc_madman_moon_rabbit	"Rice cakes? Rice cakes? Rice! Cakes! That's all you ever want!"	true
+ancillaries_colour_text_s2anc_pet_monkey	"Ooo-ooo-Eeeek!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_musketoon	Enfield Musketoon	true
+ancillaries_colour_text_mp_bosh_anc_veteran_corvette_crew	A good crew is as one with their ship.	true
+ancillaries_colour_text_s2anc_master_army_architect	There is much cunning in laying out a fortress, and in encouraging an attacker ever on to his doom.	true
+ancillaries_colour_text_s2anc_sp_bosh_servant_euro_chef_pastry	"The croissant? French? Bah. In name only."	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_disguise_town	"He went that way!"	true
+ancillaries_colour_text_mp_legendary_masterwork_do_maru_armour	Sometimes age adds to the worthiness of a thing.	true
+ancillaries_colour_text_s2anc_sp_bosh_samurai_unlettered	"I listen. I learn. I look after the master."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_blowpipe	Blowpipe	true

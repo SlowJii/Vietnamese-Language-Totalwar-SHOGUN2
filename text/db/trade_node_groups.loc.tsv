@@ -1,0 +1,9 @@
+key	text	tooltip
+#Loc;1;text/db/trade_node_groups.loc		
+trade_node_groups_display_name_eur_black_sea	Black Sea	true
+trade_node_groups_display_name_eur_africa	Africa	true
+trade_node_groups_display_name_eur_south_america	South America	true
+trade_node_groups_display_name_eur_mediterranean	Mediterranean	true
+trade_node_groups_display_name_placeholder_group	placeholder group	true
+trade_node_groups_display_name_eur_north_america	North America	true
+trade_node_groups_display_name_eur_india	India	true

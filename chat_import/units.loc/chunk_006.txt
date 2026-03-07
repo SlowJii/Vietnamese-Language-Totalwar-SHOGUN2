@@ -1,0 +1,20 @@
+[412] Anh hùng Samurai cưỡi ngựa
+[413] Súng Gatling
+[414] Đồn trú Bow Levy
+[415] Oda Bow Ashigaru
+[416] Tên lửa
+[417] Date Masamune
+[418] Thiết giáp hạm - lớp Warrior
+[419] Otomo Matchlock Ashigaru
+[420] Onna Bushi
+[421] Levy Infantry
+[422] Katana Samurai
+[423] Naginata Samurai
+[424] Katana Kỵ binh
+[425] Thiết giáp hạm - lớp L’ocean
+[426] Bow Kỵ binh
+[427] Pháo phòng thủ bờ biển
+[428] Mori Nihon Maru
+[429] Ikko Ikki Yari Ashigaru
+[430] Cận vệ của Hóa thân
+[431] Tosa Xạ thủ

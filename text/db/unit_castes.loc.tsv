@@ -1,0 +1,11 @@
+key	text	tooltip
+#Loc;1;text/db/unit_castes.loc		
+unit_castes_localised_name_samurai	Samurai	true
+unit_castes_localised_name_generic	Generic	true
+unit_castes_localised_name_monk_hero	Monk Hero	true
+unit_castes_localised_name_ashigaru	Ashigaru	true
+unit_castes_localised_name_traditional	Traditional	true
+unit_castes_localised_name_naval	Ship	true
+unit_castes_localised_name_modern	Modern	true
+unit_castes_localised_name_samurai_hero	Samurai Hero	true
+unit_castes_localised_name_female_hero	Female Hero	true

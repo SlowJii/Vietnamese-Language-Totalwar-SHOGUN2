@@ -1,0 +1,83 @@
+=== CHUNK 2/3 — achievements.loc.tsv ===
+(Dịch 80 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[80] Japan Torn Asunder
+[81] Belligerent Admiral
+[82] Playing as the Satsuma, construct a trade district and trade with a foreign power within the same campaign. [Fall of the Samurai only]
+[83] Gateway to the West
+[84] Hard Pounding
+[85] Man the Defences
+[86] Capture all provinces on the avatar campaign map.
+[87] One Hundred Sacks of Rice
+[88] Battlefield Dominance
+[89] Heroic Warriors
+[90] Win a multiplayer battle using no spear units in your army.
+[91] Defeat a Creative Assembly staff member in battle, or anyone else who has gained this achievement.
+[92] Capture 15 provinces on the avatar campaign map.
+[93] Eradicate the Ikko-Ikki
+[94] Collect 10,000 heads of enemy soldiers.
+[95] Perfect Ten
+[96] Agent Provocateur
+[97] Win a campaign as the Uesugi clan.
+[98] Join a multiplayer clan in Shogun 2.
+[99] Win a campaign on normal difficulty.
+[100] Castle-stormer
+[101] Win a campaign as the Oda clan.
+[102] Your clan holds 5 provinces simultaneously on the multiplayer clan campaign map.
+[103] Win a multiplayer head to head campaign despite giving the other player 10,000 koku.
+[104] Obtain a maximum level agent of each type. [Fall of the Samurai only]
+[105] Win a defensive siege battle with the lady of the house, the Onna Bushi, as your general. (Single Player Only)
+[106] Experienced Taisho
+[107] There Can Be Only One
+[108] Path of the Leader
+[109] Glittering Grand Cities
+[110] Carve a Path
+[111] Inspiring Counterattack
+[112] Wipe out the Ikko-Ikki in the campaign.
+[113] Complete the Battle of Hakodate without any Imperial units being routed. [Fall of the Samurai only]
+[114] Hereditary Honour
+[115] Win 200 multiplayer battles of any type.
+[116] Living for Battle
+[117] Win a campaign on easy difficulty.
+[118] Holder of Shikoku
+[119] Be the first clan in the campaign to master the art of epic architecture.
+[120] Towering Inferno
+[121] Uphill Struggle
+[122] Skilled Warrior
+[123] Win 25 land battles.
+[124] Carry out a bombardment with a French ironclad in your navy. [Fall of the Samurai only]  
+[125] One Rule Under God
+[126] Bringer of Death
+[127] Claw of the Tiger
+[128] Unnecessary Force
+[129] Swathed in Fire
+[130] Win a multiplayer battle losing less than 15% of your starting troops.
+[131] L'Ocean is Mine!
+[132] Spend the maximum number of points in your avatar's skill tree.
+[133] Achieve the ultimate accolade and obtain rank 1 on the multiplayer Shogun Ladder.
+[134] Max out any "Fall of the Samurai" avatar skill tree, by spending a skill point in each skill within a single skill tree.
+[135] Legendary Force
+[136] Divine Right
+[137] Summer Son
+[138] Balanced Attacker
+[139] Military Might
+[140] Eradicate the Hattori
+[141] Win a multiplayer head to head campaign.
+[142] Obtain a maximum level general in the campaign.
+[143] Declare your independence and complete a campaign. [Fall of the Samurai only]
+[144] Win a campaign on legendary difficulty playing as either the Aizu, the Jozai or the Nagaoka. [Fall of the Samurai only]
+[145] The Gathering Storm
+[146] Obtain 100 fame within 50 turns.
+[147] Commander of Commoners
+[148] Sink a nanban trade ship or the flagship vessel the Nihon Maru during a naval battle.
+[149] Gift your co-op partner an army or navy.
+[150] Win a campaign as the Mori clan.
+[151] Agent of the Stealthy Blade
+[152] Stubborn Pursuer of Victory
+[153] Hero of the Shogunate
+[154] Forged in the Hottest Flame
+[155] Be the first clan in the campaign to master the art of Shih.
+[156] Wipe out the Hattori clan in the campaign.
+[157] Advanced Firearms
+[158] Elusive Strike Force
+[159] Personally earn 20 clan tokens.

@@ -1,0 +1,176 @@
+key	text	tooltip
+#Loc;1;text/db/unit_abilities.loc		
+unit_abilities_info_card_tooltip_text_flaming_arrows_ability	This unit can fire flaming arrows for a short period of time. Flaming arrows have a greater damage effect and can set fire to flammable objects. Flaming arrows don't function in wet weather.	true
+unit_abilities_info_card_tooltip_text_faster_rowing	This increases a ship's rowing speed and lasts considerably longer than the battle speed ability.	true
+unit_abilities_button_tooltip_text_square_formation	Toggle spear square formation||This defensive formation is especially effective against cavalry charges.||While in this formation, the unit will be immobile and vulnerable to ranged attacks.	true
+unit_abilities_info_card_tooltip_text_plug_bayonets	Provide melee bonuses, particularly against charging units, but prevent further firing once fixed	true
+unit_abilities_bullet_text_whistling_arrows_ability	Whistling Arrows	true
+unit_abilities_button_tooltip_text_light_infantry_behaviour	Toggle light infantry behaviour||Light infantry behaviour orders your troops to spread out and find cover.||This is very effective if your troops are under artillery fire.	true
+unit_abilities_info_card_tooltip_text_rapid_volley	Temporarily increases a unit's rate of fire.	true
+unit_abilities_info_card_tooltip_text_rally	This unit can rally troops within his area of influence.	true
+unit_abilities_info_card_tooltip_text_kisho_training	This unit can be deployed outside of the deployment zone.	true
+unit_abilities_info_card_tooltip_text_rapid_advance	Increases a unit's movement speed and charge bonus for a short period of time. 	true
+unit_abilities_button_tooltip_text_artillery_accuracy_boost	Targeted Fire||This increases accuracy for a short amount of time.||Once activated, there will be a cooling off period before the ability can be used again.	true
+unit_abilities_bullet_text_diamond_formation	Diamond Formation	true
+unit_abilities_info_card_tooltip_text_socket_bayonets	Provide melee bonuses, particularly against charging units.	true
+unit_abilities_info_card_tooltip_text_active_hiding	This unit can become extremely stealthy for a short period of time, remaining hidden even when running. 	true
+unit_abilities_bullet_text_battle_speed_naval	Battle Speed	true
+unit_abilities_bullet_text_ram_naval	Ramming	true
+unit_abilities_info_card_tooltip_text_tower_flaming_arrows	This tower can fire flaming arrows for a short period of time. Flaming arrows have a greater damage effect and can set fire to flammable objects.	true
+unit_abilities_info_card_tooltip_text_warcry	Warcry heavily demoralises up to four nearby enemy units, slowing them down and affecting their defence ability for a short time. 	true
+unit_abilities_info_card_tooltip_text_shrapnel_shot	This shell explodes mid-air, sending deadly metal fragments down upon targeted enemy units. Once activated, there will be a cooling-off period before the ability can be used again.	true
+unit_abilities_button_tooltip_text_battle_speed_naval	Battle speed||This increases a ship's rowing speed for a short period of time.||Once activated, there will be a cooling off period before the ability can be used again.	true
+unit_abilities_info_card_tooltip_text_banzai	This unit can enter into a frenzied state for a short period of time, temporarily increasing its speed, charge and melee attacks, and making it unbreakable. 	true
+unit_abilities_info_card_tooltip_text_range_effect	This temporarily increases a unit's firing range. 	true
+unit_abilities_button_tooltip_text_ram_naval	Ramming||This temporarily increases a ship's speed but decreases its manoeuvrability and switches off its avoidance capability.	true
+unit_abilities_info_card_tooltip_text_flaming_arrows_extreme_range_ability	This unit can fire flaming arrows for a short period of time. Flaming arrows have a greater damage effect and can set fire to flammable objects. Flaming arrows don't function in wet weather.	true
+unit_abilities_info_card_tooltip_text_heroic_assault	This ability improves the morale and movement speed, and reduces the fatigue of nearby friendly units.	true
+unit_abilities_bullet_text_blinding_grenade	Blinding Grenades	true
+unit_abilities_bullet_text_whistling_arrows	Whistling Arrows	true
+unit_abilities_bullet_text_anti_rally	Anti-rally	true
+unit_abilities_info_card_tooltip_text_tower_suppression_fire	This ability increases reload rate but lowers accuracy. Enemy units hit by suppression fire are slowed and suffer a morale penalty.	true
+unit_abilities_info_card_tooltip_text_inspire_unit	This unit can choose to inspire a single unit for a short period of time, boosting their morale and greatly improving their marksmanship and melee skills.	true
+unit_abilities_info_card_tooltip_text_rally_position	This general can declare a rally position for withdrawing and routing units to pull back to, and reinforcing units to move towards.	true
+unit_abilities_bullet_text_fire_and_advance	Fire and Advance Drill	true
+unit_abilities_bullet_text_ganbatte	Ganbatte	true
+unit_abilities_button_tooltip_text_anti_rally	Anti-rally	true
+unit_abilities_info_card_tooltip_text_wooden_stakes	Sharpened stakes can be used to deter enemy cavalry charges	true
+unit_abilities_info_card_tooltip_text_whistling_arrows_extreme_range_ability	Whistling arrows have an unsettling effect on both enemy and friendly troops, reducing their morale and combat ability for a short period when they fly over them.	true
+unit_abilities_bullet_text_suppression_fire	Suppression Fire	true
+unit_abilities_bullet_text_socket_bayonets	Socket Bayonet	true
+unit_abilities_button_tooltip_text_diamond_formation	Toggle diamond formation||Diamond formation allows your cavalry to change direction in a much more timely manner.||It also provides your cavalry units with a charge bonus.	true
+unit_abilities_button_tooltip_text_we_stand_and_fight	Stand and Fight!||This greatly increases the general's area of influence, further increasing his morale boost of units within his area and increasing their melee attack and firing rate.||While activated, he cannot use his other abilities and is immobile and vulnerable to attack. 	true
+unit_abilities_bullet_text_stand_firm	Hold Firm	true
+unit_abilities_bullet_text_tower_rapid_volley	Rapid Volley	true
+unit_abilities_bullet_text_pavisse_deployable	Screens	true
+unit_abilities_bullet_text_cantabrian_circle	Swooping Crane 	true
+unit_abilities_bullet_text_kneel_fire_ability	Kneel Fire	true
+unit_abilities_info_card_tooltip_text_pike_square_formation	The yari square is an immobile solid square of men presenting a wall of yari on all sides to deter cavalry attack.	true
+unit_abilities_button_tooltip_text_overcharge_engine	Overheat Engine||This temporarily increases a ship's speed but also the chance that its engine will explode.	true
+unit_abilities_info_card_tooltip_text_whistling_arrows_naval	Whistling arrows have an unsettling effect on both enemy and friendly crews, reducing their morale and combat ability for a short period when they fly over them.	true
+unit_abilities_button_tooltip_text_encourage_fleet	Encourage Fleet||Some command ships can encourage other vessels within their area of influence, increasing their melee attack, reload skill and accuracy.||Once this ability has been activated, you will have to wait a while before using it again.	true
+unit_abilities_bullet_text_light_infantry_behaviour	Light Infantry Tactics	true
+unit_abilities_button_tooltip_text_whistling_arrows_ability	Whistling Arrows||Whistling arrows have a fearsome sound, adversely affecting the morale, melee attack and firing rate of all troops they fly over, friend or foe.||Once this ability has been activated, you will have to wait a while before using it again.	true
+unit_abilities_button_tooltip_text_kneel_fire_ability	Kneel Fire||This ability works when the unit is stationary.|| The first rank of this unit will kneel to allow the first two ranks to fire simultaneously.	true
+unit_abilities_info_card_tooltip_text_wedge_formation	Trained to charge in a wedge formation in order to better penetrate enemy formations	true
+unit_abilities_bullet_text_flaming_arrows_long_range_ability	Flaming Arrows	true
+unit_abilities_info_card_tooltip_text_warcry_naval	Warcry heavily demoralises up to seven nearby enemy units, slowing them down and affecting their defence ability for a short time. 	true
+unit_abilities_bullet_text_square_formation	Spear Square Formation	true
+unit_abilities_button_tooltip_text_kill_zone	Kill Zone||This ability improves the accuracy of this unit.||The firing arc is also reduced.	true
+unit_abilities_bullet_text_we_stand_and_fight	Stand and Fight	true
+unit_abilities_bullet_text_encourage_fleet	Encourage Fleet	true
+unit_abilities_bullet_text_artillery_accuracy_boost	Increased Accuracy	true
+unit_abilities_info_card_tooltip_text_flaming_arrows_naval	This unit can fire flaming arrows for a short period of time. Flaming arrows have a greater damage effect and can set fire to flammable objects. Flaming arrows don't function in wet weather.	true
+unit_abilities_button_tooltip_text_stand_firm	Hold Firm||This greatly increases defence ability and stops morale from dropping, making the unit, and up to three nearby units, unbreakable for a short time.||While activated, the units affected will have reduced speed.||Once this ability has been activated, you will have to wait a while before using it again.	true
+unit_abilities_button_tooltip_text_tower_rapid_volley	Rapid Volley||Temporarily increases a towers rate of fire.	true
+unit_abilities_bullet_text_rank_fire	Fire by Rank	true
+unit_abilities_button_tooltip_text_flaming_arrows_long_range_ability	Flaming Arrows||Flaming arrows are more powerful than normal arrows and can also cause flammable objects to catch fire, but are unusable in wet weather.||Once activated, there will be a cooling off period before the ability can be used again.	true
+unit_abilities_button_tooltip_text_ganbatte	Ganbatte||This ability greatly increases the general's area of influence, further boosting the morale of units and increasing their melee attack and rate of fire.	true
+unit_abilities_bullet_text_wedge_formation	Wedge Formation	true
+unit_abilities_button_tooltip_text_fire_and_advance	Toggle fire and advance mode||Fire and advance provides constant covering fire whilst still advancing on the enemy.||Due to the complicated nature of reloading and moving through the forward lines, fire in advance is a very slow moving advancing technique.	true
+unit_abilities_bullet_text_kill_zone	Kill Zone	true
+unit_abilities_button_tooltip_text_wedge_formation	Toggle wedge formation||Wedge formation improves the penetration of enemy lines, but will kill less enemies.	true
+unit_abilities_info_card_tooltip_text_encourage_fleet	Some command ships can encourage other vessels within their area of influence, increasing their melee attack, reload skill and accuracy.	true
+unit_abilities_info_card_tooltip_text_banzai_naval	This crew can enter into a frenzied state for a short period of time, temporarily increasing their morale, attack and defensive capabilities, making them unbreakable.	true
+unit_abilities_button_tooltip_text_suppression_fire	Suppression Fire||This ability reduces accuracy and improves reload rate.||Enemy units hit whilst it is active will be slowed down and suffer a morale penalty.	true
+unit_abilities_button_tooltip_text_rank_fire	Toggle ranked fire ability||This forms a unit into rank from front to rear, each rank kneeling to reload and allowing those behind a clear field of fire.||While in this formation, they take longer to form up and fire.	true
+unit_abilities_button_tooltip_text_blinding_grenade	Blinding Grenades||Blinding grenades disorientate the enemy, reducing their melee attacks, movement speed and drastically affecting their missile accuracy.	true
+unit_abilities_button_tooltip_text_cantabrian_circle	Swooping Crane||This arranges a cavalry unit into a moving, circular formation, enabling them to fire a constant rate of missiles at the enemy.||Because they are constantly moving, the horses will lose stamina while the ability is active.	true
+unit_abilities_bullet_text_overcharge_engine	Overheat Engine 	true
+unit_abilities_button_tooltip_text_whistling_arrows	Whistling Arrows||Whistling arrows have a fearsome sound, adversely affecting the morale, melee attack and firing rate of all troops they fly over, friend or foe.||Once this ability has been activated, you will have to wait a while before using it again.	true
+unit_abilities_button_tooltip_text_range_effect	Increased Range||For a short time, this increases the firing range of a unit.||Once activated, there will be a cooling off period before the ability can be used again.	true
+unit_abilities_button_tooltip_text_rapid_advance	Rapid Advance||This increases a unit's speed and charge bonus for a short period of time.||Once activated, there will be a cooling off period before the ability can be used again.	true
+unit_abilities_button_tooltip_text_active_hiding	Stealth||For a short duration, this enables a unit to hide on any ground type and remain hidden even while running.||While activated, it also provides a bonus to charge and melee attacks.	true
+unit_abilities_bullet_text_warcry	Warcry	true
+unit_abilities_button_tooltip_text_tower_faster_firing	Faster Firing||This tower can briefly increase it's rate of fire	true
+unit_abilities_button_tooltip_text_rally	Rally||This unit can rally troops within its area of influence, shown by the red circle.||All non-routing units within will receive a morale boost, while it will rally routing units. ||Once this ability has been activated, you will have to wait a while before using it again.	true
+unit_abilities_button_tooltip_text_flaming_arrows_ability	Flaming Arrows||Flaming arrows are more powerful than normal arrows and can also cause flammable objects to catch fire, but are unusable in wet weather.||Once activated, there will be a cooling off period before the ability can be used again.	true
+unit_abilities_bullet_text_banzai	Banzai	true
+unit_abilities_bullet_text_wooden_stakes	Stakes	true
+unit_abilities_button_tooltip_text_plug_bayonets	Toggle plug bayonets||Fixing bayonets allows units to engage in melee attacks.||Once plug bayonets are fixed the units can no longer fire their weapons.	true
+unit_abilities_button_tooltip_text_ring_bayonets	Toggle ring bayonets||Fixing bayonets allows units to engage in melee attacks.||Ring bayonets allow units to continue firing after fixing bayonet. ||Due to their design, ring bayonets slow the reload times of your units.This makes for deadly close range combat.	true
+unit_abilities_button_tooltip_text_tower_flaming_arrows	Fire Arrows||This tower can fire flaming arrows for a short period of time. Flaming arrows have a greater damage effect and can set fire to flammable objects.	true
+unit_abilities_button_tooltip_text_faster_rowing	Faster rowing||This increases a ship's rowing speed and lasts considerably longer than the battle speed ability.	true
+unit_abilities_bullet_text_tower_faster_firing	Increased Firing Speed	true
+unit_abilities_bullet_text_flaming_arrows_ability	Flaming Arrows	true
+unit_abilities_button_tooltip_text_banzai	Banzai||This temporarily gives the unit unbreakable morale, plus an increase in movement speed and melee and charge attacks.||Once it has finished, the unit's speed, charge and melee attacks are greatly reduced for a short time.	true
+unit_abilities_bullet_text_pike_wall_formation	Yari Wall	true
+unit_abilities_bullet_text_flaming_arrows_naval	Flaming Arrows	true
+unit_abilities_info_card_tooltip_text_artillery_accuracy_boost	This unit can increase its shooting accuracy for a short period of time.  	true
+unit_abilities_bullet_text_faster_reload_naval	Fast Reload	true
+unit_abilities_button_tooltip_text_rapid_volley	Rapid Volley||This increases a unit's rate of fire for a short period of time.||Once activated, there will be a cooling off period before the ability can be used again.	true
+unit_abilities_bullet_text_kisho_training	Kisho Training	true
+unit_abilities_info_card_tooltip_text_light_infantry_behaviour	Spreading out to find cover helps to reduce casualties	true
+unit_abilities_button_tooltip_text_shrapnel_shot	Shrapnel Shot ||This shell explodes mid-air, sending deadly metal fragments down upon targeted enemy units.|| Once activated, there will be a cooling-off period before the ability can be used again.	true
+unit_abilities_button_tooltip_text_pike_wall_formation	Toggle yari wall formation||This formation is effective against head on cavalry charges.||However, it is vulnerable to flanking manoeuvres.	true
+unit_abilities_button_tooltip_text_warcry	Warcry||This affects up to four nearby enemy units, heavily reducing their morale, melee defence and speed.||Once this ability has been activated, you will have to wait a while before using it again.	true
+unit_abilities_info_card_tooltip_text_rally_naval	This ship can rally others within its area of influence.	true
+unit_abilities_bullet_text_warcry_naval	Warcry	true
+unit_abilities_info_card_tooltip_text_battle_speed_naval	This increases a ship's rowing speed for a short period of time.	true
+unit_abilities_button_tooltip_text_faster_reload_naval	Fast Reload||This increases reload skill for a short amount of time.||Once complete, reload skill is reduced for a short time.	true
+unit_abilities_info_card_tooltip_text_square_formation	The spear square is an immobile solid square of men presenting a wall of spears on all sides to deter cavalry attack	true
+unit_abilities_bullet_text_rally_position	Regroup Position 	true
+unit_abilities_info_card_tooltip_text_faster_reload_naval	This increases the reload skill of a ship's crew for a short period of time.	true
+unit_abilities_button_tooltip_text_rally_naval	Rally||This ship can rally crews within its area of influence, shown by the red circle.||All non-routing ships will receive a morale boost, while it will rally routing ships. ||Once this ability has been activated, you will have to wait a while before using it again.	true
+unit_abilities_button_tooltip_text_tower_suppression_fire	Suppression Fire||This ability reduces accuracy and improves reload rate.||Enemy units hit whilst it is active will be slowed down and suffer a morale penalty.	true
+unit_abilities_bullet_text_whistling_arrows_extreme_range_ability	Whistling Arrows	true
+unit_abilities_info_card_tooltip_text_pike_wall_formation	A tight-packed formation presenting a wall of yari to the front to deter enemy cavalry attack	true
+unit_abilities_bullet_text_banzai_naval	Banzai	true
+unit_abilities_bullet_text_rally_naval	Rally	true
+unit_abilities_bullet_text_shrapnel_shot	Shrapnel Shot	true
+unit_abilities_button_tooltip_text_heroic_assault	Heroic Assault.||This boosts the morale and movement speed of nearby friendly units.||It also reduces their fatigue.	true
+unit_abilities_info_card_tooltip_text_ram_naval	This ship can ram others, causing damage to both the enemy and itself.	true
+unit_abilities_button_tooltip_text_inspire_unit	Inspire||Left-click this button, then left-click on a unit to inspire them.||This unit can choose to inspire a single unit for a short period of time, boosting their morale and greatly improving their marksmanship and melee skills.||Once this ability has been activated, you will have to wait a while before using it again.	true
+unit_abilities_bullet_text_rapid_advance	Rapid Advance	true
+unit_abilities_info_card_tooltip_text_diamond_formation	An evolution of the wedge formation, the diamond formation is even more effective at disrupting enemy formations	true
+unit_abilities_bullet_text_heroic_assault	Heroic Assault	true
+unit_abilities_bullet_text_active_hiding	Stealth	true
+unit_abilities_bullet_text_rally	Rally	true
+unit_abilities_info_card_tooltip_text_tower_faster_firing	This tower can briefly increase it's rate of fire	true
+unit_abilities_button_tooltip_text_rally_position	Regroup Position||Left-click on this button, then left-click on the area of the battlefield where you want reinforcing or routing units to fall back to.||If you click outside of your general's area of influence he will automatically ride into range before placing the marker.	true
+unit_abilities_button_tooltip_text_wooden_stakes	Deploy Stakes||Deploying stakes provides a very effective barrier against cavalry charges.||Once deployed, stakes remain in place until the end of a battle, protecting the flanks of the army from cavalry attacks.	true
+unit_abilities_bullet_text_plug_bayonets	Plug Bayonet	true
+unit_abilities_info_card_tooltip_text_anti_rally	Rally ability negatively affects morale of enemy units.	true
+unit_abilities_bullet_text_tower_suppression_fire	Suppression Fire	true
+unit_abilities_button_tooltip_text_whistling_arrows_extreme_range_ability	Whistling Arrows||Whistling arrows have a fearsome sound, adversely affecting the morale, melee attack and firing rate of all troops they fly over, friend or foe.||Once this ability has been activated, you will have to wait a while before using it again.	true
+unit_abilities_bullet_text_faster_rowing	Faster Rowing	true
+unit_abilities_button_tooltip_text_flaming_arrows_extreme_range_ability	Flaming Arrows||Flaming arrows are more powerful than normal arrows and can also cause flammable objects to catch fire, but are unusable in wet weather.||Once activated, there will be a cooling off period before the ability can be used again.	true
+unit_abilities_bullet_text_rapid_volley	Rapid Volley	true
+unit_abilities_button_tooltip_text_second_wind	Second Wind||This reduces fatigue of the activating unit and affects up to three units within its area of influence.||Once this ability has been activated, you will have to wait a while before using it again.	true
+unit_abilities_button_tooltip_text_flaming_arrows_naval	Flaming Arrows||Flaming arrows are more powerful than normal arrows and can also cause flammable objects to catch fire, but are unusable in wet weather.||Once activated, there will be a cooling off period before the ability can be used again.	true
+unit_abilities_button_tooltip_text_whistling_arrows_naval	Whistling Arrows||Whistling arrows have a fearsome sound, adversely affecting the morale, melee attack and firing rate of all crews they fly over, friend or foe.||Once this ability has been activated, you will have to wait a while before using it again.	true
+unit_abilities_button_tooltip_text_artillery_rof_boost	Barrage||This increases the rate of fire for a short time.|| Once activated, there will be a cooling off period before the ability can be used again.	true
+unit_abilities_button_tooltip_text_pike_square_formation	Toggle spear square formation||This defensive formation is especially effective against cavalry charges.||While in this formation, the unit will be immobile and vulnerable to ranged attacks.	true
+unit_abilities_info_card_tooltip_text_overcharge_engine	This increases a ship's speed for a short period of time.	true
+unit_abilities_bullet_text_second_wind	Second Wind	true
+unit_abilities_button_tooltip_text_warcry_naval	Warcry||This affects up to seven nearby enemy units, heavily reducing their morale, melee defence and speed.||Once this ability has been activated, you will have to wait a while before using it again.	true
+unit_abilities_info_card_tooltip_text_we_stand_and_fight	The general dismounts and forms up with his bodyguard around him. All friendly units within a large area have their melee attack, firing rate and morale greatly increased, but the general himself is left immobile and vulnerable until the ability is deactivated.	true
+unit_abilities_info_card_tooltip_text_whistling_arrows_long_range_ability	Whistling arrows have an unsettling effect on both enemy and friendly troops, reducing their morale and combat ability for a short period when they fly over them.	true
+unit_abilities_bullet_text_artillery_rof_boost	Rate of Fire	true
+unit_abilities_info_card_tooltip_text_whistling_arrows_ability	Whistling arrows have an unsettling effect on both enemy and friendly troops, reducing their morale and combat ability for a short period when they fly over them.	true
+unit_abilities_bullet_text_bamboo_wall	Bamboo Wall 	true
+unit_abilities_info_card_tooltip_text_kill_zone	This ability reduces this unit’s firing arc but greatly increases its accuracy.	true
+unit_abilities_info_card_tooltip_text_tower_rapid_volley	Temporarily increases a towers rate of fire.	true
+unit_abilities_info_card_tooltip_text_stand_firm	This temporarily increases defence ability and stops morale from dropping, making the unit, and up to three nearby units, unbreakable for a short time. 	true
+unit_abilities_bullet_text_range_effect	Increased Range	true
+unit_abilities_info_card_tooltip_text_pavisse_deployable	A shield that can be erected during the deployment phase when you are defending. It impedes the movement of enemies, and blocks enemy projectiles.	true
+unit_abilities_info_card_tooltip_text_kneel_fire_ability	The first rank of this unit will kneel to allow the first two ranks to fire simultaneously.	true
+unit_abilities_bullet_text_tower_flaming_arrows	Fire Arrows	true
+unit_abilities_bullet_text_whistling_arrows_naval	Whistling Arrows	true
+unit_abilities_info_card_tooltip_text_rank_fire	Will fire by rank from front to rear, each rank kneeling to reload and allowing those behind a clear field of fire.	true
+unit_abilities_info_card_tooltip_text_whistling_arrows	Whistling arrows have an unsettling effect on both enemy and friendly troops, reducing their morale and combat ability for a short period when they fly over them.	true
+unit_abilities_info_card_tooltip_text_bamboo_wall	A large wall that can be erected during the deployment phase. It blocks the movement of enemies and protects against cavalry charges. 	true
+unit_abilities_bullet_text_flaming_arrows_extreme_range_ability	Flaming Arrows	true
+unit_abilities_info_card_tooltip_text_blinding_grenade	This unit can use blinding grenades to disorientate the enemy, affecting their speed, combat ability and missile accuracy. 	true
+unit_abilities_info_card_tooltip_text_flaming_arrows_long_range_ability	This unit can fire flaming arrows for a short period of time. Flaming arrows have a greater damage effect and can set fire to flammable objects. Flaming arrows don't function in wet weather.	true
+unit_abilities_info_card_tooltip_text_suppression_fire	This ability increases reload rate but lowers accuracy. Enemy units hit by suppression fire are slowed and suffer a morale penalty.	true
+unit_abilities_button_tooltip_text_banzai_naval	Banzai||This temporarily gives the crew unbreakable morale, plus an increase in attack and defensive capabilities.	true
+unit_abilities_button_tooltip_text_whistling_arrows_long_range_ability	Whistling Arrows||Whistling arrows have a fearsome sound, adversely affecting the morale, melee attack and firing rate of all troops they fly over, friend or foe.||Once this ability has been activated, you will have to wait a while before using it again.	true
+unit_abilities_info_card_tooltip_text_cantabrian_circle	This unit can arrange itself into a moving circular formation, harrassing the enemy with a constant rate of fire.	true
+unit_abilities_bullet_text_pike_square_formation	Yari Square Formation	true
+unit_abilities_info_card_tooltip_text_fire_and_advance	This unit can advance by rank, claiming ground whilst maintaining a steady rate of fire	true
+unit_abilities_bullet_text_inspire_unit	Inspire Unit	true
+unit_abilities_info_card_tooltip_text_artillery_rof_boost	This unit can increase its firing rate for a short period of time. 	true
+unit_abilities_bullet_text_whistling_arrows_long_range_ability	Whistling Arrows	true
+unit_abilities_info_card_tooltip_text_ganbatte	This ability allows the general to encourage a single unit for a short period of time, further boosting their morale and greatly improving their accuracy and melee skills.	true
+unit_abilities_info_card_tooltip_text_second_wind	This restores a portion of nearby units' stamina, allowing them to fight longer and harder.	true

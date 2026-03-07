@@ -1,0 +1,7 @@
+key	text	tooltip
+#Loc;1;text/db/region_groups.loc		
+region_groups_localised_name_AI_nanban_port_far_east	fe	true
+region_groups_localised_name_AI_nanban_port_far_west	fw	true
+region_groups_localised_name_AI_nanban_port_centre	c	true
+region_groups_localised_name_AI_nanban_port_east	e	true
+region_groups_localised_name_AI_nanban_port_west	w	true

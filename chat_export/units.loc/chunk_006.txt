@@ -1,0 +1,23 @@
+=== CHUNK 6/6 — units.loc.tsv ===
+(Dịch 20 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[412] Mounted Samurai Hero
+[413] Gatling Guns
+[414] Bow Levy Garrison
+[415] Oda Bow Ashigaru
+[416] Fire Rockets
+[417] Date Masamune
+[418] Ironclad - Warrior class
+[419] Otomo Matchlock Ashigaru
+[420] Onna Bushi
+[421] Levy Infantry
+[422] Katana Samurai
+[423] Naginata Samurai
+[424] Katana Cavalry
+[425] Ironclad - L’ocean class
+[426] Bow Cavalry
+[427] Coastal Guns
+[428] Mori Nihon Maru
+[429] Ikko Ikki Yari Ashigaru
+[430] Avatar's Bodyguard
+[431] Tosa Riflemen

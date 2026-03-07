@@ -1,0 +1,5 @@
+key	text	tooltip
+#Loc;1;text/db/battlefield_deployable_siege_items.loc		
+battlefield_deployable_siege_items_string_ladder	Ladders	true
+battlefield_deployable_siege_items_string_petardier	Petardier	true
+battlefield_deployable_siege_items_string_sap_point	Sap Point	true

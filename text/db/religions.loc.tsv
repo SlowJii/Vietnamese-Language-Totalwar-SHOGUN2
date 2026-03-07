@@ -1,0 +1,19 @@
+key	text	tooltip
+#Loc;1;text/db/religions.loc		
+religions_onscreen_inf_bos_shogunate	Pro-Shogun	true
+religions_onscreen_rel_ikko	Ikko	true
+religions_onscreen_rel_sikh	Sikh	true
+religions_onscreen_inf_bos_imperial	Pro-Emperor	true
+religions_onscreen_inf_gem_fujiwara	Fujiwara	true
+religions_onscreen_inf_gem_minamoto	Minamoto	true
+religions_onscreen_rel_hindu	Hinduism	true
+religions_onscreen_inf_gem_neutral	Neutral	true
+religions_onscreen_rel_nonconformist	Nonconformism	true
+religions_onscreen_rel_protestant	Protestantism	true
+religions_onscreen_rel_animist	Animism	true
+religions_onscreen_rel_islamic	Islam	true
+religions_onscreen_inf_gem_taira	Taira	true
+religions_onscreen_rel_buddhist	Shinto-Buddhism	true
+religions_onscreen_inf_bos_self	Independent	true
+religions_onscreen_rel_orthodox	Orthodox	true
+religions_onscreen_rel_catholic	Christianity	true

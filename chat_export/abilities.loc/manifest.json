@@ -1,0 +1,220 @@
+{
+  "filename": "abilities.loc.tsv",
+  "category": "unit_descriptions",
+  "header_lines": [
+    "key\ttext\ttooltip",
+    "#Loc;1;text/db/abilities.loc\t\t"
+  ],
+  "rows": [
+    {
+      "key": "abilities_effect_text_can_hunt_down",
+      "text": "Can apprehend and trial other agents.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_sabotage",
+      "text": "Can undertake sabotage missions.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_exchange",
+      "text": "Can merge with other pieces.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_distract_garrison",
+      "text": "PLACEHOLDER Can distract garrisons.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_research",
+      "text": "Can research technologies.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_attack_land",
+      "text": "Can instigate land battles.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_spy",
+      "text": "Can undertake spying missions.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_build_fort",
+      "text": "Can construct fort.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_assassinate",
+      "text": "Can undertake assassination missions.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_convert_character",
+      "text": "Can convert enemy agents.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_seduce",
+      "text": "Can seduce enemy characters.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_attack_naval",
+      "text": "Can instigate naval battles.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_convert",
+      "text": "Enables religious conversion.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_Can_Hide_In_Woods",
+      "text": "Enables hiding on the battlefield.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_demoralise_army",
+      "text": "Can demoralize enemy armies",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_build_religious",
+      "text": "Can construct mission.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_receive_duel",
+      "text": "Can receive a duel challenge.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_bribe",
+      "text": "Can bribe enemy characters and castles.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_duel",
+      "text": "Enables duelling challenges.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_sabotage_army",
+      "text": "Can sabotage an army.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "abilities_effect_text_can_incite_revolt",
+      "text": "Can incite a religious revolt in enemy territory.",
+      "tooltip": "true",
+      "empty": false
+    }
+  ],
+  "translatable": [
+    {
+      "row_index": 0,
+      "text": "Can apprehend and trial other agents."
+    },
+    {
+      "row_index": 1,
+      "text": "Can undertake sabotage missions."
+    },
+    {
+      "row_index": 2,
+      "text": "Can merge with other pieces."
+    },
+    {
+      "row_index": 4,
+      "text": "Can research technologies."
+    },
+    {
+      "row_index": 5,
+      "text": "Can instigate land battles."
+    },
+    {
+      "row_index": 6,
+      "text": "Can undertake spying missions."
+    },
+    {
+      "row_index": 7,
+      "text": "Can construct fort."
+    },
+    {
+      "row_index": 8,
+      "text": "Can undertake assassination missions."
+    },
+    {
+      "row_index": 9,
+      "text": "Can convert enemy agents."
+    },
+    {
+      "row_index": 10,
+      "text": "Can seduce enemy characters."
+    },
+    {
+      "row_index": 11,
+      "text": "Can instigate naval battles."
+    },
+    {
+      "row_index": 12,
+      "text": "Enables religious conversion."
+    },
+    {
+      "row_index": 13,
+      "text": "Enables hiding on the battlefield."
+    },
+    {
+      "row_index": 14,
+      "text": "Can demoralize enemy armies"
+    },
+    {
+      "row_index": 15,
+      "text": "Can construct mission."
+    },
+    {
+      "row_index": 16,
+      "text": "Can receive a duel challenge."
+    },
+    {
+      "row_index": 17,
+      "text": "Can bribe enemy characters and castles."
+    },
+    {
+      "row_index": 18,
+      "text": "Enables duelling challenges."
+    },
+    {
+      "row_index": 19,
+      "text": "Can sabotage an army."
+    },
+    {
+      "row_index": 20,
+      "text": "Can incite a religious revolt in enemy territory."
+    }
+  ],
+  "total_chunks": 1,
+  "chunk_size": 80
+}

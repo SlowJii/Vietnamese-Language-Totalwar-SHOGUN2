@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/db/battle_types.loc		
+battle_types_onscreen_siege	Siege Battle	true
+battle_types_onscreen_naval	Naval Battle	true
+battle_types_onscreen_capture_point	Capture Point Battle	true
+battle_types_onscreen_classic	Land Battle	true
+battle_types_onscreen_campaign_battle	Campaign Battle	true
+battle_types_onscreen_Tutorial	Tutorial	true
+battle_types_onscreen_historic	Scenario Battle	true
+battle_types_onscreen_napoleon_historic	Historical Napoleon Battle	true

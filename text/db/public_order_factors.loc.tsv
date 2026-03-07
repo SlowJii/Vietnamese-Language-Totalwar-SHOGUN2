@@ -1,0 +1,72 @@
+key	text	tooltip
+#Loc;1;text/db/public_order_factors.loc		
+public_order_factors_positive_tooltip_population_growth_base	Subsistence agriculture: %S||This is the background level of food production in the province.	true
+public_order_factors_positive_tooltip_population_growth_taxes	Tax burden: %S||To counter this, simply lower taxes.||You can do this on the Finances panel.	true
+public_order_factors_negative_tooltip_happiness_daimyo_honour	Dishonourable Daimyo: %S||Your daimyo's dishonourable ways have brought shame upon the people.||Restore his honour to improve happiness in the province.	true
+public_order_factors_positive_tooltip_happiness_local_modernisation	Modernisation: %S ||The people in this province are satisfied by your efforts to modernise clan infrastructure.	true
+public_order_factors_positive_tooltip_happiness_non_state_allegiance_unrest	Non-clan allegiance: %S	true
+public_order_factors_positive_tooltip_repression_buildings	Castle (Repression): %S||Increase repression in your province by upgrading the castle.	true
+public_order_factors_positive_tooltip_repression_military_crackdown	Military crackdown (Repression): %S||Recent suppression of the rebels has reduced the appetite for more bloodshed.||This allows you time to rebuild the province and fix any damage that may have been caused during the rebellion.	true
+public_order_factors_positive_tooltip_happiness_food_shortage	Food shortages: %S	true
+public_order_factors_negative_tooltip_happiness_charactersjap_boshin	Characters: %S||Enemy characters are causing unrest in this province; deploy agents to deal with them.	true
+public_order_factors_positive_tooltip_happiness_daimyo_honour	Daimyo honour: %S||Your daimyo's honorable reputation has filled the people with pride and joy.	true
+public_order_factors_negative_tooltip_happiness_non_state_allegiance_unrest	Non-clan allegiance: %S||Counter this by converting this region to your clan's allegiance.	true
+public_order_factors_negative_tooltip_happiness_local_modernisation	Modernisation: %S ||Traditionalists in this province are angered at your endeavours to modernise clan infrastructure.	true
+public_order_factors_positive_tooltip_population_growth_ports	Ports: %S||Increase this factor by developing your fishing ports.	true
+public_order_factors_positive_tooltip_repression_buildingsjap_boshin	Castle (Repression): %S||Increase repression in your province by upgrading the castle.	true
+public_order_factors_positive_tooltip_happiness_charactersjap_boshin	Characters: %S||Your own (or allied) characters are agitating against opposition elements in the settlement, improving your control over the province.	true
+public_order_factors_negative_tooltip_happiness_food_shortage	Food shortages: %S||Construct and improve new farms to increase food supplies.	true
+public_order_factors_positive_tooltip_population_growth_technologies	Mastery of the Arts: %S||Increase this factor by mastering arts	true
+public_order_factors_positive_tooltip_happiness_war	War fervour: %S	true
+public_order_factors_negative_tooltip_happiness_devastation	Devastation: %S||Repair damaged buildings in the province to improve happiness.	true
+public_order_factors_negative_tooltip_happiness_resistance	Resistance to invaders: %S||Some of the population remain loyal to the former clan.||This will reduce over time. Garrison more troops in the area to increase repression, or exempt the region from tax.||You can do this on the province details panel.	true
+public_order_factors_negative_tooltip_happiness_allegiance	Religious unrest: %S||Counter this by converting this province to your clan's religion.	true
+public_order_factors_positive_tooltip_happiness_global_modernisation	Samurai: %S ||Samurai across your domain are satisfied by your adherence to traditional values.	true
+public_order_factors_positive_tooltip_repression_characters	Characters (Repression): %S||This is from characters embedded in the settlement.	true
+public_order_factors_positive_tooltip_happiness_resistance	Resistance to invaders: %S	true
+public_order_factors_negative_tooltip_happiness_global_modernisation	Samurai: %S ||Samurai across your domain are angered by your disregard for traditional values.	true
+public_order_factors_positive_tooltip_happiness_allegiance	Religious happiness: %S||Increase this by converting this province to your clan's religion.	true
+public_order_factors_negative_tooltip_happiness_characters	Characters: %S||Enemy characters are causing unrest in this province; use a metsuke agent to root them out.	true
+public_order_factors_negative_tooltip_happiness_gov_typejap_boshin	Clan Development: %S	true
+public_order_factors_negative_tooltip_happiness_bankruptcy	Bankruptcy:%S||You have recently gone bankrupt. Ensure your income is greater than your costs.||Raise taxes and reduce standing armies to balance your budget.	true
+public_order_factors_positive_tooltip_happiness_characters	Characters: %S||Your own (or allied) characters are agitating against opposition elements in the settlement, improving your control over the province.	true
+public_order_factors_positive_tooltip_happiness_gov_typejap_boshin	Clan Development: %S	true
+public_order_factors_positive_tooltip_happiness_bankruptcy	Bankruptcy:%S||You have recently gone bankrupt. Ensure your income is greater than your costs.||Raise taxes and reduce standing armies to balance your budget.	true
+public_order_factors_negative_tooltip_happiness_war	War weariness (enemy raids): %S||War weariness is a result of enemy rampaging in our province.	true
+public_order_factors_positive_tooltip_happiness_devastation	Devastation: %S	true
+public_order_factors_positive_tooltip_repression_charactersjap_boshin	Characters (Repression): %S||This is from characters embedded in the settlement or present in the province.	true
+public_order_factors_negative_tooltip_happiness_reform	Clamour for reform: %S ||As your nation becomes more advanced and educated, your population will demand political change.	true
+public_order_factors_positive_tooltip_happiness_non_state_religion_unrest	Non-clan religion: %S	true
+public_order_factors_positive_tooltip_happiness_culture	Culture: %S ||Increase this by developing your cultural buildings such as Sake Dens.	true
+public_order_factors_positive_tooltip_happiness_reform	Political change: %S||Political changes have had a positive effect on public order.	true
+public_order_factors_positive_tooltip_repression_events	Events (Repression): %S	true
+public_order_factors_positive_tooltip_repression_policing	Castle (Repression): %S||Increase repression in your province by upgrading the castle.	true
+public_order_factors_positive_tooltip_repression_gov_type	Clan rule (Repression): %S	true
+public_order_factors_negative_tooltip_happiness_events	Recent events: %S||Disasters and other events have a negative effect on happiness.	true
+public_order_factors_positive_tooltip_repression_garrison	Garrisoned forces (Repression): %S||Improve this factor by increasing the garrison size in your settlement.	true
+public_order_factors_negative_tooltip_happiness_non_state_religion_unrest	Non-clan religion: %S||Counter this by converting this region to your clan's religion.	true
+public_order_factors_negative_tooltip_happiness_culture	Cultural differences: %S	true
+public_order_factors_positive_tooltip_happiness_events	Recent events: %S	true
+public_order_factors_positive_tooltip_population_growth_food_shortages	Food shortages: %S||Increase food production by building or upgrading current farm buildings. ||Research into agricultural technologies will also be beneficial.	true
+public_order_factors_positive_tooltip_population_growth_happiness	Happiness: %S	true
+public_order_factors_negative_tooltip_happiness_culturejap_boshin	Cultural differences: %S	true
+public_order_factors_positive_tooltip_happiness_tax_rate	Tax burden: %S||To lessen the tax burden on your population simply lower taxes.||You can do this on the Finance panel.	true
+public_order_factors_negative_tooltip_happiness_gov_type	Mastery of Arts: %S	true
+public_order_factors_positive_tooltip_happiness_industrialisation	Disaster: %S||The people in this province are distraught at the recent natural disaster.	true
+public_order_factors_negative_tooltip_happiness_gentlemen	Characters: %S||Enemy characters are causing unrest in this province; deploy agents to deal with them.	true
+public_order_factors_negative_tooltip_happiness_religion	Religious unrest: %S||Counter this by converting this province to your clan's religion.	true
+public_order_factors_positive_tooltip_population_growth_buildings	Agriculture: %S||Increase this by developing your farms and mastering arts.	true
+public_order_factors_positive_tooltip_happiness_buildings	Buildings: %S||Buildings in this province have helped improve happiness amongst the populace.	true
+public_order_factors_positive_tooltip_happiness_gov_type	Mastery of the Arts: %S	true
+public_order_factors_negative_tooltip_happiness_tax_rate	Tax burden: %S||To lessen the tax burden on your population simply lower taxes.||You can do this on the Finance panel.	true
+public_order_factors_negative_tooltip_population_growth_migration	Emigration: %S||Unhappiness drives people to seek a better life elsewhere.	true
+public_order_factors_positive_tooltip_population_growth_military	Devastation by armies: %S||Ensure there are no enemy armies inside your provinces.	true
+public_order_factors_positive_tooltip_happiness_religion	Religious happiness: %S||Increase this by converting this province to your clan's religion.	true
+public_order_factors_positive_tooltip_happiness_gentlemen	Characters: %S||Your own (or allied) characters are agitating against opposition elements in the settlement, improving your control over the province.	true
+public_order_factors_negative_tooltip_population_growth_happiness	Unhappiness: %S	true
+public_order_factors_positive_tooltip_happiness_culturejap_boshin	Culture: %S ||Increase this by developing your cultural buildings such as Sake Dens.	true
+public_order_factors_negative_tooltip_happiness_industrialisation	Disaster: %S||The people in this province are distraught at the recent natural disaster.	true
+public_order_factors_positive_tooltip_population_growth_unrest	Unrest	true
+public_order_factors_negative_tooltip_happiness_buildings	Buildings: %S||Buildings in this province are causing unrest amongst the populace	true
+public_order_factors_positive_tooltip_population_growth_policies	Policies	true
+public_order_factors_positive_tooltip_population_growth_migration	Immigration: %S||Unhappiness drives people to seek a better life elsewhere.	true

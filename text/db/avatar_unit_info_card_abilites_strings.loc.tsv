@@ -1,0 +1,29 @@
+key	text	tooltip
+#Loc;1;text/db/avatar_unit_info_card_abilites_strings.loc		
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_fire_by_rank	Fire By Rank Ability. \\n \\n A more efficient firing drill.	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_rapid_volley	Rapid Volley Ability. \\n \\n When active, greatly increases reload rate for a short period.	true
+avatar_unit_info_card_abilites_strings_localised_string_mod_stamina	Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_rally	Rally Ability. \\n \\n When activated, the rally ability will restore nearby routing units to order (shattered units are not affected). \\n \\n Units nearby which aren't routing will receive a morale bonus whilst rally is active.	true
+avatar_unit_info_card_abilites_strings_localised_string_mod_distance_to_spot_enemies	Improved Spotting Range. \\n \\n The range at which this unit spot hidden enemies is increased.	true
+avatar_unit_info_card_abilites_strings_localised_string_mod_melee_penalty_vs_spears	No Penalty Versus Spears. \\n \\n Your avatar and his bodyguard ignore the penalty suffered by all other cavalry units when attacking enemies armed with spears.	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_snipe	Snipe Ability. \\n \\n If hidden already, the unit can shoot without betraying its position. \\n \\n Only works whilst stationary.	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_scare_enemies	Scare Nearby Enemies. \\n \\n Enemies close to the unit will suffer a morale penalty. \\n \\n This effect is always active.	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_guerilla_deployment	Kisho Training. \\n \\n During the deployment phase, this unit is able to deploy outside of the deployment area. \\n \\n May not deploy too close to a key building.	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_armour_piercing_melee	Armour Penetration. \\n \\n Melee attacks penetrate armour.	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_fire_arrows	Enable Fire Arrows.  \\n \\n When activated, fire arrows increase the lethality of this unit's shots and can also ignite wooden buildings.	true
+avatar_unit_info_card_abilites_strings_localised_string_mod_missile_damage	Increased Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_assassinate	Stealth Ability. \\n \\n When activated, this ability allows the unit to remain hidden whilst running for a short period.	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_armour_piercing_arrows	Armour-Piercing Arrows. \\n \\n Your avatar and his bodyguard shoot bodkin-style arrows designed to penetrate armour. \\n	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_pavise	Pavise. \\n \\n During the deployment phase, the unit can deploy a fixed barrier to shelter behind.	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_banzai	Banzai Ability. \\n \\n When activated, boosts the unit's melee attack and charge bonus, and gives them unbreakable morale for a short time.	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_blind_grenades	Blinding Grenades. \\n \\n Blinding grenades temporarily disable the target unit.	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_bamboo_wall	Bamboo Wall. \\n \\n During the deployment phase, the unit can deploy a fixed barrier to shelter from cavalry behind.	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_warcry	Enable Warcry Ability. \\n \\n When activated, reduces the morale, melee defence and movement speed of enemy units close to the unit.	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_inspire	Inspire Ability. \\n \\n When activated, allows the unit to boost the morale, melee attack and accuracy of a single unit.	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_stand_and_fight	Stand and Fight Ability. \\n \\n When activated, your avatar will dismount to encourage units near to him, boosting their morale, melee attack and reload speed. \\n \\n The ability will remain active until cancelled. \\n \\n Your avatar is unable to move whilst Stand and Fight is active.	true
+avatar_unit_info_card_abilites_strings_localised_string_mod_replenishment_rate	Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_avatar_increased_bodyguard_unit	Increased Avatar Bodyguard Unit Size. \\n \\n The number of men in your avatar's personal guard is increased. \\n	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_avatar_bow	Avatar Bow. \\n \\n Your avatar and his bodyguard can shoot bows from horseback. \\n	true
+avatar_unit_info_card_abilites_strings_localised_string_mod_unit_speed	Improved Speed. \\n \\n Increased unit movement speed.	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_whistling_arrows	Whistling Arrows. \\n \\n When activated, whistling arrows reduce the morale, melee attack and reload speed of enemy units targeted by them.	true
+avatar_unit_info_card_abilites_strings_localised_string_enable_ability_cantabrian_circle	Swooping Crane Ability. \\n \\n When this ability is activated, the unit will wheel in a circular formation maintaining a steady fire on the target unit.	true

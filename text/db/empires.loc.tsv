@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/db/empires.loc		
+empires_onscreen_russian_empire	Russian Empire	true
+empires_onscreen_english_empire	English Empire	true
+empires_onscreen_ottoman_empire	Ottoman Empire	true
+empires_onscreen_indian_empire	Indian Empire	true
+empires_onscreen_german_empire	German Empire	true
+empires_onscreen_holy_roman_empire	Holy Roman Empire	true

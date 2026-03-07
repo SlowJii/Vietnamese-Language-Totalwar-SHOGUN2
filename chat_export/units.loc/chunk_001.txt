@@ -1,0 +1,83 @@
+=== CHUNK 1/6 — units.loc.tsv ===
+(Dịch 80 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[0] Kyoto Police
+[1] Takeda Katana Cavalry
+[2] Infanterie de marine
+[3] Warrior Nuns
+[4] Line Infantry
+[5] Infanterie de marine
+[6] Armoured Frigate - Kaiyo Maru class
+[7] Light Cavalry
+[8] Katana Hero
+[9] Coastal Guns
+[10] Royal Marines
+[11] Copper plated Frigate - Kaiyo Maru class
+[12] Matchlock Samurai
+[13] Yari Ashigaru
+[14] Naginata Warrior Monks
+[15] Naginata Attendants
+[16] Portuguese Tercos
+[17] Kisho Ninja
+[18] Portuguese Tercos
+[19] Copper plated Corvette - Kanko Maru class
+[20] Tosa Riflemen
+[21] Ironclad - Roanoke class
+[22] Tokitaka’s Tanegashima
+[23] Katana Hero
+[24] Mounted Samurai
+[25] Trade Ship
+[26] Pirate Medium Ship
+[27] Ikko Ikki Bow Warrior Monks
+[28] Foot Samurai
+[29] Katana Kachi
+[30] Wooden Corvette - Kaiten class
+[31] Oda Nobunaga
+[32] Armoured Corvette - Kanrin Maru class
+[33] Chosokabe Motochika
+[34] Wooden Corvette - Kanko Maru class
+[35] Gatling Gun
+[36] Hattori Bandits
+[37] Tetsubo Warrior Monk Hero
+[38] Sharpshooters
+[39] Attendants Light Ship
+[40] Wooden Corvette - Kasuga class
+[41] Naginata Warrior Monk Cavalry
+[42] Kihetai
+[43] Kiyomasa’s Katana Cavalry
+[44] Yari Samurai
+[45] Tokitaka’s Tanegashima
+[46] Takeda Light Cavalry
+[47] Coastal Guns
+[49] Hattori Bow Ashigaru
+[50] Ikko Ikki Naginata Warrior Monk Hero
+[51] Yari Ashigaru
+[52] Great Guard
+[53] Nihon Maru
+[54] Otomo Sorin
+[55] Shimazu Katana Hero
+[56] Imported Matchlock Ashigaru
+[57] General's Bodyguard
+[58] Shimazu Heavy Gunners
+[59] Attendants Large Ship
+[60] Fire Rockets
+[61] Ikko Ikki Marathon Monks
+[62] Kyoto Police
+[63] Yari Cavalry
+[64] Sabre Cavalry
+[65] Date No-Dachi Samurai
+[66] Mori Matchlock Kobaya
+[67] Heavy Gunners
+[68] Ikko Ikki Matchlock Ashigaru
+[69] Mori Sengoku Bune
+[70] Hattori Yari Ashigaru
+[71] Matchlock Warrior Monks
+[72] Armoured Corvette - Kasuga class
+[73] Kobayakawa Hideaki
+[74] Bow Ronin
+[75] Spear Levy Garrison
+[76] General's Hatamoto
+[77] Ironclad - Warrior class
+[78] Naginata Samurai
+[79] Gozen's Hime Heroines
+[80] Katana Wako

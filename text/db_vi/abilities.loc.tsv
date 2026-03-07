@@ -1,0 +1,23 @@
+key	text	tooltip
+#Loc;1;text/db/abilities.loc		
+abilities_effect_text_can_hunt_down	Có thể bắt giữ và xét xử các đặc vụ khác.	true
+abilities_effect_text_can_sabotage	Có thể thực hiện nhiệm vụ phá hoại.	true
+abilities_effect_text_can_exchange	Có thể hợp nhất với các đơn vị khác.	true
+abilities_effect_text_can_distract_garrison	PLACEHOLDER Can distract garrisons.	true
+abilities_effect_text_can_research	Có thể nghiên cứu công nghệ.	true
+abilities_effect_text_can_attack_land	Có thể khởi phát trận đánh trên bộ.	true
+abilities_effect_text_can_spy	Có thể thực hiện nhiệm vụ do thám.	true
+abilities_effect_text_can_build_fort	Có thể xây dựng pháo đài.	true
+abilities_effect_text_can_assassinate	Có thể thực hiện nhiệm vụ ám sát.	true
+abilities_effect_text_can_convert_character	Có thể chiêu mộ đặc vụ của kẻ địch.	true
+abilities_effect_text_can_seduce	Có thể quyến rũ nhân vật của kẻ địch.	true
+abilities_effect_text_can_attack_naval	Có thể khởi phát trận hải chiến.	true
+abilities_effect_text_can_convert	Cho phép cải đạo tôn giáo.	true
+abilities_effect_text_Can_Hide_In_Woods	Cho phép ẩn nấp trên chiến trường.	true
+abilities_effect_text_can_demoralise_army	Có thể làm suy giảm sĩ khí quân đội địch.	true
+abilities_effect_text_can_build_religious	Có thể xây dựng nhiệm vụ.	true
+abilities_effect_text_can_receive_duel	Có thể nhận lời thách đấu tay đôi.	true
+abilities_effect_text_can_bribe	Có thể hối lộ nhân vật và lâu đài của kẻ địch.	true
+abilities_effect_text_can_duel	Cho phép thách đấu tay đôi.	true
+abilities_effect_text_can_sabotage_army	Có thể phá hoại một đạo quân.	true
+abilities_effect_text_can_incite_revolt	Có thể kích động nổi dậy tôn giáo trong lãnh thổ kẻ địch.	true

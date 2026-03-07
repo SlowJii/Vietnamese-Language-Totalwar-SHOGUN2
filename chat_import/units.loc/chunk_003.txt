@@ -1,0 +1,80 @@
+[164] Lực lượng Chu Tước
+[165] O Ataka Bune
+[166] Tây dương Pháo
+[167] Red Seal Ship
+[168] Thiết giáp hạm - lớp Kotetsu
+[169] Parrott Guns
+[170] Wako Raiders
+[171] Thuyền trung Samurai
+[172] Oda Long Yari Ashigaru
+[173] Yabusame Kỵ binh của Yoritomo
+[174] Tích lịch xa
+[175] Hộ vệ hạm bọc giáp - lớp Kanko Maru
+[176] Yari Ashigaru
+[177] Hỏa kỵ binh
+[178] Pháo phòng thủ bờ biển
+[179] Bow Warrior Monks
+[182] Uesugi Warrior Monks
+[183] Bộ binh Cận vệ Hoàng gia
+[184] Matchlock Kobaya
+[185] Anh hùng nữ Onna Bushi
+[186] Matchlock Kachi
+[187] Spear Levy
+[188] Yari Kachi
+[189] Yari Ki
+[190] Gozen's Hime Heroines
+[191] Thuyền Hạng nhẹ Samurai
+[192] Hattori Matchlock Samurai
+[193] Đao kỵ binh
+[194] Hattori Katana Samurai
+[195] Pháo phòng thủ bờ biển
+[196] Cận vệ của Hóa thân
+[197] Nanban Trade Ship
+[198] Hattori Matchlock Ashigaru
+[199] Cận vệ tối cao
+[200] Naginata Warrior Monks
+[201] Shimazu Katana Samurai
+[202] Sengoku Bune
+[203] Chosokabe Bow Hero
+[204] Thuyền trung Firebomb
+[205] Lực lượng Thanh Long
+[206] Bộ binh Bạch Hùng
+[207] Súng Gatling
+[208] Anh hùng nữ Onna Bushi
+[209] Naginata Attendants
+[210] Bộ binh Cận vệ Cộng hòa
+[211] Kỵ binh Sabre
+[212] Thuyền trung Samurai
+[213] Pháo hạm - lớp Chiyodagata
+[214] Khinh hạm gỗ - lớp Kaiyo Maru
+[215] Lực lượng Thanh Long
+[216] Samurai cưỡi ngựa
+[217] Otomo Matchlock Kobaya
+[218] Tokugawa Pháo thủ cưỡi ngựa
+[220] Nữ tu chiến binh
+[221] O Ataka Bune
+[223] Onna Bushi
+[224] Kỵ binh Carbine
+[225] Shogitai
+[226] Wako Medium Bune
+[227] Date Bulletproof Samurai
+[228] Ikko Ikki Bow Ashigaru
+[229] Khinh hạm gỗ - lớp Kaiyo Maru
+[230] Thiết giáp hạm - lớp L’ocean
+[231] Ikko Ikki Naginata Warrior Monks
+[232] Bộ binh Hồng Hùng
+[233] Cannon Bune
+[234] Medium Bune
+[235] Pháo gỗ
+[236] Ikko Ikki Matchlock Warrior Monks
+[237] Naginata Warrior Monks
+[238] Samurai Retainers
+[239] Bandits
+[240] Otomo Matchlock Samurai
+[241] Armstrong Guns
+[242] Thủy quân lục chiến Hoàng gia
+[243] Oda Matchlock Ashigaru
+[244] Dojo Hỏa cầu thủ
+[245] Hojo Hỏa cầu thủ
+[246] Bow Levy
+[247] No-Dachi Samurai

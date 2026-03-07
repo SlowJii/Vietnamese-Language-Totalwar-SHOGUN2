@@ -1,0 +1,58 @@
+key	text	tooltip
+#Loc;1;text/db/aide_de_camp_speeches.loc		
+aide_de_camp_speeches_text_adc_enemy_gates_captured	The gates are ours!	true
+aide_de_camp_speeches_text_adc_enemy_walls_breached	The walls are destroyed! Into the breach!	true
+aide_de_camp_speeches_text_adc_enemy_reinforcements	Beware! Enemy reinforcements have arrived my lord!	true
+aide_de_camp_speeches_text_adc_own_tower_lost	The enemy have taken a tower!	true
+aide_de_camp_speeches_text_adc_own_unit_lost	Our entire unit has perished, my lord!	true
+aide_de_camp_speeches_text_adc_own_ship_lost	Our ship has been destroyed! All hands are lost!	true
+aide_de_camp_speeches_text_adc_enemy_has_gatling_guns	My Lord; the enemy army contains the deadly gatling gun weapon	true
+aide_de_camp_speeches_text_adc_own_tower_destroyed	Our tower has fallen to their fire!	true
+aide_de_camp_speeches_text_adc_own_allied_hidden_unit_spotted	The enemy has discovered our ally's hidden troops!	true
+aide_de_camp_speeches_text_adc_own_fort_about_to_be_captured	Sir! We cannot hold this position much longer!	true
+aide_de_camp_speeches_text_adc_own_ship_boom	Our ship has exploded!	true
+aide_de_camp_speeches_text_adc_enemy_tower_captured	We have captured their tower, my lord!	true
+aide_de_camp_speeches_text_adc_own_gates_lost	Our gate has fallen to the enemy!	true
+aide_de_camp_speeches_text_adc_own_general_attacked	Our general is in grave danger, my lord!	true
+aide_de_camp_speeches_text_adc_torpedo_near	Beware! A torpedo approaches our fleet	true
+aide_de_camp_speeches_text_adc_enemy_allied_general_killed	The enemy has lost a vital ally, my lord!	true
+aide_de_camp_speeches_text_adc_enemy_fort_getting_captured	Onwards, sir, onwards, the fort is falling!	true
+aide_de_camp_speeches_text_adc_own_admiral_attacked	Our general is under threat, my lord! He is too important to lose!	true
+aide_de_camp_speeches_text_adc_enemy_general_killed	My lord, their general has fallen! A cutting blow!	true
+aide_de_camp_speeches_text_adc_own_ship_surrendered	One of our ships has chosen dishonour, my lord!	true
+aide_de_camp_speeches_text_adc_own_naval_bombardment	Sir! The enemy have called in a bombardment. It may target our position!	true
+aide_de_camp_speeches_text_adc_own_unit_out_of_ammo	One of our units have used all its ammunition, my lord.	true
+aide_de_camp_speeches_text_adc_enemy_tower_destroyed	Our weapons made short work of their tower!	true
+aide_de_camp_speeches_text_adc_enemy_admiral_killed	Their general has fallen! A devastating loss for the enemy!	true
+aide_de_camp_speeches_text_adc_losing	All hope is failing, my lord! The battle is almost done!	true
+aide_de_camp_speeches_text_adc_weather_rain	The weather looks ominous, my lord! We should be wary of misfires.	true
+aide_de_camp_speeches_text_adc_own_general_injured	Our general has been injured, my lord! He lives, but must leave the battle!	true
+aide_de_camp_speeches_text_adc_allied_general_killed	Our ally has fallen to the enemy my lord! A terrible loss!	true
+aide_de_camp_speeches_text_adc_own_unit_suppressed	One of our units is under suppression fire!	true
+aide_de_camp_speeches_text_adc_enemy_ally_destroyed	Their ally has abandoned them! Now we have them!	true
+aide_de_camp_speeches_text_adc_enemy_captured_strategic_point	They now control a key position, my lord!	true
+aide_de_camp_speeches_text_adc_own_ship_being_boarded	Here they come! Prepare to repel boarders!	true
+aide_de_camp_speeches_text_adc_allied_fleet_destroyed	Bah! Our esteemed ally has turned about, leaving us to the mercy of our foes!	true
+aide_de_camp_speeches_text_adc_own_ship_within_coastal_battery	Beware! Our ship is in range of a coastal battery	true
+aide_de_camp_speeches_text_adc_enemy_hidden_unit_spotted	Hidden units, my lord, treacherously meant to ambush us!	true
+aide_de_camp_speeches_text_adc_building_captured	We have captured a building, my lord!	true
+aide_de_camp_speeches_text_adc_own_ship_routed	One of our ships is withdrawing!	true
+aide_de_camp_speeches_text_adc_own_hidden_unit_spotted	Our hidden units have been discovered my lord!	true
+aide_de_camp_speeches_text_adc_own_unit_routed	Our men are running from the battlefield: a shameful display!	true
+aide_de_camp_speeches_text_adc_own_unit_exhausted	The men are fatigued, my lord, and some must rest!	true
+aide_de_camp_speeches_text_adc_winning	My lord, a glorious victory will soon be yours!	true
+aide_de_camp_speeches_text_adc_own_ally_destroyed	My lord! Our ally has fled, abandoning us to the enemy!	true
+aide_de_camp_speeches_text_adc_own_ally_attacked	Our allies are under attack!	true
+aide_de_camp_speeches_text_adc_player_is_attacker	My Lord, a friendly reminder that you are the attacker	true
+aide_de_camp_speeches_text_adc_own_general_killed	This is a black day! Our general has fallen , my lord.	true
+aide_de_camp_speeches_text_adc_own_admiral_killed	Our general has fallen, my lord! Our men are shaken by this terrible event!	true
+aide_de_camp_speeches_text_adc_own_unit_line_of_sight_obstructed	We cannot see our targets but will try to hit them	true
+aide_de_camp_speeches_text_adc_own_walls_breached	Our walls crumble under the pounding of their weapons!	true
+aide_de_camp_speeches_text_adc_own_reinforcements	Reinforcements have arrived!	true
+aide_de_camp_speeches_text_adc_own_ship_demasted	One of our ships has lost its sails! It may not last much longer in such a state!	true
+aide_de_camp_speeches_text_adc_enemy_fort_about_to_be_captured	The fort is but moments from being ours, sir!	true
+aide_de_camp_speeches_text_adc_player_is_defender	My Lord, a friendly reminder that you are the defender	true
+aide_de_camp_speeches_text_adc_enemy_naval_bombardment	Naval bombardment incoming!	true
+aide_de_camp_speeches_text_adc_own_fort_getting_captured	Sir, our defences are breached and failing!	true
+aide_de_camp_speeches_text_adc_own_ship_on_fire	Fire! One of our ships has been set ablaze!	true
+aide_de_camp_speeches_text_adc_enemy_captured_building	They have captured a building, my lord!	true

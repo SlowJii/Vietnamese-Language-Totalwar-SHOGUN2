@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/db/trade_details.loc		
+trade_details_onscreen_text_route_age	Long term trading partner.\nTrading with a country for a long time gradually increases the value of your trade route. Each turn, a small stability bonus is added to your income from each route. If the trade agreement is cancelled, this bonus income is lost	true
+trade_details_onscreen_text_other_goods	Other goods	true

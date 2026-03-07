@@ -1,0 +1,803 @@
+key	text	tooltip
+#Loc;1;text/db/diplomacy_strings.loc		
+diplomacy_strings_string_current_treaty_protectorate_of_non_player	Vassal of :	true
+diplomacy_strings_string_iga_ninja_reject_angry_demand_single_payment	We do not give others gold, only steel. And in darkness.	true
+diplomacy_strings_string_uesugi_acknowledge_accept	Our prayers have been answered. This is good.	true
+diplomacy_strings_string_takeda_receive_unfriendly	My horse needs exercise, so be quick about your business here!	true
+diplomacy_strings_string_uesugi_acknowledge_reject	Our prayers go unanswered then. Such is the will of heaven.	true
+diplomacy_strings_string_chosokabe_reject_angry_demand_single_payment	So, you think the Chosokabe so stupid that they will agree to any theft, no matter how prettily phrased?	true
+diplomacy_strings_string_japanese_generic_monarchy_cancel_alliance	In time, all friendships fade. The time has come to end our alliance.	true
+diplomacy_strings_string_tokugawa_offer_demand_peace	The sword must be sheathed. The voices of reasonable men should be heard.	true
+diplomacy_strings_string_Taira_generic_reject_angry_1	This offer is a bad joke! Do you think the Taira have are weak scribes to be so insulted?	true
+diplomacy_strings_string_current_treaty_payments_receiving	Regular payment, receiving: %d (turns remaining: %d)	true
+diplomacy_strings_string_date_reject_offer_marriage	A well-intentioned offer, but such a marriage is not possible for we Date.	true
+diplomacy_strings_string_relationship_very_friendly	Very friendly	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_cancel_alliance_03	Our alliance has served its purpose, and now we are done. There is little more to say.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_cancel_alliance_02	So our alliance is over. We are not enemies, perhaps, but we are no longer friends.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_cancel_alliance_05	All things have a season, and winter has come to our alliance. It is ended as you say.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_cancel_alliance_04	Sometimes the blossom falls on a still lake, and sometimes on a grave.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_cancel_alliance_06	It will be as you say. Our alliance will no longer cause fear in our rivals.	true
+diplomacy_strings_string_negotiation_temp_generic_reject_1	I regret that we cannot agree to such terms.	true
+diplomacy_strings_string_Fujiwara_receive_friendly	Welcome! The Fujiwara pride themselves on remembering friends, and on honouring them.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_unfriendly	Against all reason, we agree. We are not friends, but we are not enemies. That will have to suffice.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_protectorate	There is no honour in your offer. There is little honour in you. We will never be your slaves!	true
+diplomacy_strings_string_shimazu_reject_demand_single_payment	We Shimazu are not merchants or peasants. Take your greed elsewhere.	true
+diplomacy_strings_string_current_treaty_war_would_be_dishonourable	Declaring war on this clan will harm all other diplomatic relations (turns remaining: %d)	true
+diplomacy_strings_string_shimazu_reject_angry_offer_regular_payment	Shimazu blood and honour are not bought and sold. Be careful what you say next!	true
+diplomacy_strings_string_date_reject_demand_hostage	No. There are no members of the Date clan who would be suitable for such an honour.	true
+diplomacy_strings_string_mori_reject_offer_marriage	That particular ship will remain unlaunched.	true
+diplomacy_strings_string_negotiation_temp_generic_accept_1	I believe we can agree to your proposal.	true
+diplomacy_strings_string_Minamoto_too_many_counters	Be silent now. You have babbled your nonsense into Minamoto ears until we are weary. We are done.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_acknowledge_counter_reject_06	So we are done, then. So much for talking. I expressed concerns to His Majesty about just this outcome…	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_acknowledge_counter_reject_02	This is unfortunate. And I have know ladies discussing kimonos act with more decisiveness.	true
+diplomacy_strings_string_mori_offer_demand_alliance	At sea, all men learn the value of friends.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_unfriendly_10	Cast your words upon the breeze. Perhaps they will drift past my ears.	true
+diplomacy_strings_string_chosokabe_acknowledge_war	Honest, open war is better than mealy-mouthed peace. We will erect a monument to you, afterwards.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_single_payment	Stuffing a pig's mouth once only makes it return for another meal. You will have no gold.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_unfriendly_08	Say what you must, but my heart tells me not to listen with hope.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_unfriendly_09	I will hear your words, although I do not expect to profit from them.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_unfriendly_06	Speak, then, and do so with despatch. I have other pressing business with my stewards.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_unfriendly_07	I will listen to what you say, but it had better be good!	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_unfriendly_04	Speak your pretty speech, but do not imagine for one moment that words alone will sway our opinions.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_unfriendly_05	I will listen, but my heart tells me that your words may not be entirely helpful to our cause.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_unfriendly_02	I have weapons that need polishing. Speak quickly, so that I may be about something useful today.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_unfriendly_03	When a tiger growls at your door you listen, but you do not invite it to take tea. Speak.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_accept_hostile_02	I will carry the shame of our acceptance. The Shogun's reputation will remain intact.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_offer_demand_trade_02	Trade is beneath Imperial dignity, but allowing our merchants to work would be sensible.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_accept_hostile_03	The Shogunate must agree with your proposal. For now.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_accept_hostile_01	Even though you are lower than a snake's belly we accept this offer. The dishonour is mine alone.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_friendly	Please consider this offer carefully, so we may prosper together in friendship.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_hostage_03	Your offer of a hostage shows a realistic grasp of ideas. This will do much to avoid unpleasantness.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_hostage_02	Very well, we will give a home to one of your family. As long as treaties are honoured, of course…	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_hostage_06	Very well. We will take a hostage, and you will remember that their life is in your hands.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_hostage_05	You recognise the reality of your position. Good. The hostage will be treated with respect.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_hostage_04	To give up one of your own shows much sincerity. It is a good thing.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_reject_offer_marriage_02	An arranged marriage. I do not think this would work. The Emperor must maintain Imperial dignity.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_offer_marriage_05	Perhaps you would consider a marriage. Such a thing would do much to foster good relations.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_accept_friendly_01	A proposal as straight and true as an arrow's shaft! The Shogunate accepts your offer.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_accept_friendly_02	Your words are entirely sensible. I gladly accept on the Shogunate's behalf.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_military_access_02	Such a thing will never happen! March elsewhere-- to Hell, preferably-- but not into our lands!	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_military_access_03	No! The very stones of our land would hurl themselves at your unwashed and uncouth soldiers!	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_accept_08	It is good to talk to a respectful and respected man, and to reach agreement in that fashion.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_accept_09	My thanks for your words, and for your agreement.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_accept_06	Excellent. Your good sense does your clan credit.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_reject_06	Very well. We finish on a note of disagreement. Sometimes such things are meant to be.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_accept_07	Your skills as a diplomat do your clan much credit.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_accept_04	We have an agreement then. Honourable men can always find a way.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_reject_04	Long have we talked, and with honesty. Your decision demonstrates sincerity.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_accept_05	Good. We are in agreement. Such is the way of the world when honest men speak.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_reject_05	So we cannot reach agreement. At least you have spoken with commendable honesty.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_accept_02	This is a good end to an honourable meeting of warriors. My thanks for your sincerity.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_reject_02	Very well. I shall report your rejection. You are honest in your decision, and we respect that.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_accept_03	A good ending for our talk, then. Diplomacy can, and has, achieved much!	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_reject_03	Your decision is a courageous one, but I will carry word of it to my clan.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_hostile	Speak carefully, for my sword is ready to take your head!	true
+diplomacy_strings_string_uesugi_not_interested_in_further_discussion	If you will forgive me, I must withdraw. It is time to pray, not bandy further words with you.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_offer_single_payment_02	Your money would be a stain on our honour, and we will not take it.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_offer_single_payment_03	Your money? No. The stolen wealth of others is best returned to its rightful owners!	true
+diplomacy_strings_string_date_reject_angry_offer_demand_peace	There can be no peace. We are fighters, not old women!	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_accept_10	My thanks for your wisdom, and for this agreement.	true
+diplomacy_strings_string_takeda_acknowledge_reject	This is a sad turn of events. We Takeda do not like failure.	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_demand_peace	Enough brave men have died. It is time to discuss an end to the fighting.	true
+diplomacy_strings_string_mori_reject_angry_offer_demand_trade	We Mori have better things to do than act as your shipping agents! 	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_reject_demand_military_access_02	Sadly, I do not think the Shogun would want his peace disturbed by the marching of your men.	true
+diplomacy_strings_string_Fujiwara_reject_offer_demand_peace	This is not the time to speak of peace. The sword of the Fujiwara has been drawn and it will not rest!	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_friendly	A proposal as straight and true as an arrow's shaft! My lord will accept. May good fortune favour us all.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_war	Ah! It is good to have open disagreement! We will put words aside: war it is!	true
+diplomacy_strings_string_uesugi_reject_offer_demand_alliance	Such an thing would be built on insecure and weak foundations. It would not stand long against the wind.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_accept_neutral_07	I accept on behalf of my Shogun. There: it is done. 	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_offer_regular_payment	So! You think us whores, then, to be bought by your gold. No, that is not the way of things. 	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_approach_very_friendly_09	The Shogun sends his best wishes, and hopes that we may reach further agreement.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_approach_very_friendly_08	I bear greetings, and the Shogun's offer. Perhaps you will listen with wisdom and friendship.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_approach_very_friendly_02	Recognising your worth, the Shogun sends greetings, and instructs me to make you an offer.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_2	Your offer is worthy, but that does not make it acceptable.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_1	My heart is heavy. Such an offer cannot be accepted.	true
+diplomacy_strings_string_takeda_cancel_trade	Trade is not an honourable way to live. Therefore our arrangements must come to an end.	true
+diplomacy_strings_string_Taira_offer_demand_alliance	Surely your enemies would quake to know you are an ally of the Taira. Accept our formal friendship and all will be well.	true
+diplomacy_strings_string_Taira_offer_single_payment	The wise courtier knows that a gift can often smooth the way between friends. Please, accept this measure of Taira esteem.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_offer_demand_alliance	An alliance! I see foaming madness has not entirely left your clan, then! But, no.	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_demand_trade	Trade would surely bring benefits to both our clans.	true
+diplomacy_strings_string_uesugi_reject_offer_regular_payment	Piety and honour are not bought and sold at the marketplace!	true
+diplomacy_strings_string_japanese_generic_monarchy_too_many_counters_02	You have talked and talked, and now it is my turn: no. To all your proposals.	true
+diplomacy_strings_string_japanese_generic_monarchy_too_many_counters_03	I have listened patiently, so I will be brief now: no, no and no. Your thoughts have no clarity.	true
+diplomacy_strings_string_japanese_generic_monarchy_too_many_counters_04	And now I have listened for long enough. You have talked and talked, and said very little of worth. We are done.	true
+diplomacy_strings_string_japanese_generic_monarchy_too_many_counters_05	Your arguments have been weak and confused, your offers likewise, and I am finished here.	true
+diplomacy_strings_string_japanese_generic_monarchy_too_many_counters_06	It is time to end these discussions. You have talked and talked, but without real meaning. We are done.	true
+diplomacy_strings_string_Minamoto_reject_angry_demand_single_payment	You will have nothing. We Minamoto do not pay for peace. Our swords guarantee our peace.	true
+diplomacy_strings_string_Taira_acknowledge_marriage	A marriage can bring only honour to both our families. The House of Taira welcomes you.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_neutral	Welcome! I am here to listen and to seek a worthy outcome to our discussions.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_approach_unfriendly_08	I speak at the court's behest. Its honour is indeed great, to send a proposal to such as you.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_approach_unfriendly_05	I have come in search of wisdom in response to His Majesty's proposal. I hope this is not a vain exercise.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_approach_unfriendly_04	His Majesty sends greetings. He also sends a noble proposal. You should listen.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_friendly_10	It is good to speak with you, my friend. I have a proposal that may profit us both greatly!	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_reject_angry_demand_hostage_01	Imperial flesh and blood are not traded like cattle! There will be no hostage!	true
+diplomacy_strings_string_ikko_ikki_acknowledge_war	War it is, then! You will be cast into the mud and trampled under our feet!	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_friendly_06	Our greetings to you. In a spirit of friendship, we are keen to know your mind concerning this proposal.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_friendly_07	I come bearing friendly greetings, and a friendly proposal. Will you listen to my words?	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_friendly_04	It is always an honour to speak with you, and I anticipate your wise agreement today.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_friendly_05	I have come with a proposal and, sure of your reasonable response, wish to put it to you.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_friendly_02	Greetings, noble friend. I have come with a proposal from my lord that should also meet with your approval.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_friendly_03	My honoured friend, I bring a proposal that should meet with your approval.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_friendly_08	My duty here is born of friendship, my words of the perilous times we live in.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_friendly_09	I offer only further friendship, made plain in the words that I speak here today.	true
+diplomacy_strings_string_ikko_ikki_accept_friendly	A proposal as straight and true as an arrow's shaft! We accept. May good fortune favour us all.	true
+diplomacy_strings_string_uesugi_offer_demand_alliance	The deepest roots are the strongest. An alliance would surely strengthen us both.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_offer_single_payment	Do not presume so much! Your gold is dishonourable, and we will not take it.	true
+diplomacy_strings_string_japanese_generic_monarchy_war_09	We are now at war. I say one thing more: die. Die soon. Die at our hands.	true
+diplomacy_strings_string_japanese_generic_monarchy_war_08	Enough talk! War is now the only way. I wish you an honourable death!	true
+diplomacy_strings_string_japanese_generic_monarchy_war_03	We are done with talk. The next time we meet the clash of swords will be our eloquent arguments.	true
+diplomacy_strings_string_japanese_generic_monarchy_war_02	We are at war. Good! An honest battle is always better than polite chit-chat!	true
+diplomacy_strings_string_shimazu_reject_offer_hostage	We Shimazu are choosy about our guests. We do not want your whelps.	true
+diplomacy_strings_string_japanese_generic_monarchy_war_05	Talking is done. The sword is now drawn. We will have war!	true
+diplomacy_strings_string_japanese_generic_monarchy_war_04	Today the talking ends. Words will be stillborn in your dead mouth. There is war between us.	true
+diplomacy_strings_string_japanese_generic_monarchy_war_07	I say this: say your farewells. Death is coming. We are now at war.	true
+diplomacy_strings_string_japanese_generic_monarchy_war_06	The time for meaningless talk is done! The time for action is upon us. War has come!	true
+diplomacy_strings_string_iga_ninja_reject_angry_offer_demand_alliance	To what end would the Hattori want you as allies? Target practice, perhaps?	true
+diplomacy_strings_string_ikko_ikki_receive_hostile	Speak carefully, for you walk along the edge of a volcano!	true
+diplomacy_strings_string_date_reject_demand_military_access	We cannot allow that. Our warriors would, rightly, not suffer such shame in silence.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_cancel_trade	Very well, you trade goods were not what our people wanted anyway. I am sure your cheap geegaws will sell elsewhere.	true
+diplomacy_strings_string_japanese_generic_monarchy_war_10	We are at war, and there is an end to our talk. You may go now, and prepare your soul.	true
+diplomacy_strings_string_chosokabe_offer_demand_trade	You can surely see that trade brings both profit and friendship.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_single_payment_02	Ah! You are a clan of merchants then! Well, my lord does not deal with merchants, or pay them without reason!	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_single_payment_03	A fool leaves meat outside his door in the hope the wolves will go away. You think us fools, then.	true
+diplomacy_strings_string_chosokabe_offer_demand_peace	Perhaps it is time to talk of peace. There is honour in peace made with strength.	true
+diplomacy_strings_string_date_acknowledge_marriage	You gain much from our bloodline! Fortunately, the Date clan is also stronger as a result of this marriage.	true
+diplomacy_strings_string_shimazu_not_interested_in_further_discussion	Your clan may encourage mindless gossip, but we Shimazu have better things to do.	true
+diplomacy_strings_string_takeda_reject_demand_military_access	Sadly, we must refuse. The presence of your men, strangers, would frighten our horses.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_hostile_04	I speak to you today with reluctance. Try to listen carefully, and I will try to forget who you are.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_hostile_05	I am here to put a proposal to you, rather than take your head. Would that it were the latter…	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_hostile_06	Do you notice a peculiar smell? No? Ah… I am here to put a proposal to you.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_hostile_07	I would normally be happier treating with a leper, but I am ordered to put a proposal to you…	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_hostile_02	A wise man would listen to my words. Of course, wisdom may be in short supply among your kind.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_hostile_03	My lord commands me to speak, and I obey, although I would sooner treat with ice-hearted demons.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_hostile_08	Is this the best you can do for an envoy? Pah! Very well, listen to my words, and think before you reply!	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_hostile_09	I did not come here to bandy pleasantries. I came, as ordered, to make you an offer.	true
+diplomacy_strings_string_Taira_accept_very_friendly	There is much to celebrate here. The Taira always appreciate honest dealings!	true
+diplomacy_strings_string_takeda_reject_angry_offer_demand_alliance	Why should the Takeda clan lose strength and honour by shackling themselves to you?	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_hostile_10	You are known to be without honour, but these times make for strange meetings. Listen, then.	true
+diplomacy_strings_string_Minamoto_reject_angry_offer_single_payment	We Minamoto are not court lackeys! We cannot be bought like cheap dancing girls!	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_counter_accept_03	It is good to reach an accord. Let us hope it does not melt away like winter's snows.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_counter_reject_03	So we have failed to reach accord. This is honest, at least.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_counter_accept_02	Careful deliberation has brought welcome agreement after all.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_counter_reject_02	This is unfortunate. And I have known fish-wives make up their minds with more despatch!	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_counter_accept_05	So we are agreed, then. Your final offer has brought us to a good conclusion.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_counter_reject_05	So we have failed. Much talking has done little, save allow the tea to grow cold.	true
+diplomacy_strings_string_uesugi_reject_angry_demand_military_access	The spirits would be most displeased by such an intrusion.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_counter_accept_04	We have talked long, and discussed many things. In the end, wisdom has prevailed, as it should.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_counter_reject_04	We have talked, and know each others' hearts better. For now then, we go our separate ways.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_counter_accept_06	We accept. Your offer is not what we looked for, but it is an acceptable arrangement.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_counter_reject_06	So we are done, then. So much for talking. I warned my lord that this might be the outcome…	true
+diplomacy_strings_string_ikko_ikki_reject_demand_protectorate	We will never be your slaves and servants. Find others to bow to you.	true
+diplomacy_strings_string_tokugawa_acknowledge_counter_reject	We Tokugawa can talk all day, if needs must. But this is pointless. I will withdraw.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_protectorate	The open hand of friendship can quickly grasp the sword of oppression: we must refuse your offer.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_cancel_trade_02	Regretfully, the Shogun now forbids his merchants from trading with your merchants.	true
+diplomacy_strings_string_ikko_ikki_reject_angry_demand_protectorate	A rotten fish still stinks, even when dressed in the finest silk. Why would we want to be your slaves?	true
+diplomacy_strings_string_tokugawa_generic_reject_2	On behalf of the Tokugawa, I must regretfully decline.	true
+diplomacy_strings_string_Fujiwara_approach_friendly	We would have dealings with you, as your honesty and worth mirror that of the Fujiwara clan.	true
+diplomacy_strings_string_takeda_war	We will have war. You will soon be trampled into the dust.	true
+diplomacy_strings_string_chosokabe_reject_angry_offer_demand_peace	We are not stupid. Why have peace when you still have breath to ask for it?	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_demand_peace_03	I offer this: peace, a simple end to war before our peoples are gone, like blossom on the breeze.	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_demand_peace_02	An honourable peace. That is all I offer. It is a good offer, honestly made.	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_demand_trade_02	Trade is beneath a warrior's dignity, but allowing our merchants to work would be sensible.	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_demand_trade_03	Townsmen have their uses, but only when they are allowed to trade. What say you?	true
+diplomacy_strings_string_tokugawa_reject_angry_demand_military_access	The needs of diplomacy prevent me from expressing my disdain for this idea with the proper force.	true
+diplomacy_strings_string_state_gift	May this gift strengthen relations between us.	true
+diplomacy_strings_string_offer_or_demand_trade_access	Trade agreement	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_hostage_04	Do not be a fool. Why would I trust a child of ours near the beasts in your household?	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_hostage_05	A hostage? You think our situation that bad? Well, it is not. You cannot have a hostage!	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_hostage_06	I would sooner cut off my swordarm and give you that than see you take a hostage!	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_hostage_02	No. No. No. Our sons and daughters would die of shame if housed in your hovels.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_hostage_03	I do not think so. It is well known that you can barely bring up your own whelps, let alone look after the children of others!	true
+diplomacy_strings_string_shimazu_reject_angry_demand_hostage	A single Shimazu hostage? Not even so much as a single drop of Shimazu blood! No!	true
+diplomacy_strings_string_uesugi_war	Many will have cause to rue this day. We will pray for your souls for what you have done.	true
+diplomacy_strings_string_oda_cancel_military_access	We must ask you not to send your armies across Oda lands. Their presence interferes in the work of our own glorious generals.	true
+diplomacy_strings_string_hojo_acknowledge_war	Very well, let it be war. My profound condolences to your widows-to-be.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_reject	This is most unfortunate. I hope that you will have no cause to regret this decision.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_accept	A most satisfactory end to our discussions. Our thanks. 	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_receive_unfriendly_02	I have other court duties, you know. Speak quickly, so that I may be about something useful today.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_receive_unfriendly_06	Speak, then, and do so with despatch. I have other pressing business with court officials.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_regular_payment_03	You are a clan of leeches then, content to suck any lifeblood! It will not happen today. 	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_regular_payment_02	If all the demons in Hell came to our gates they would not see a single coin from us, so why should you?	true
+diplomacy_strings_string_Minamoto_reject_angry_demand_protectorate	The House of Minamoto does not bow to anyone, except the Emperor!	true
+diplomacy_strings_string_iga_ninja_acknowledge_war	So be it! Now you will learn to fear the shadows!	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_reject_demand_military_access_02	Sadly, I do not think the Emperor would want his peace disturbed by the marching of your men.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_cancel_military_access_02	Your troops disturb the dignity of the Shogunate. It is time for them to leave our lands.	true
+diplomacy_strings_string_iga_ninja_receive_hostile	What do you want? Speak, if you value your tongue!	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_unfriendly_09	Despite your reputation, I have come with an offer. Listen, then, and consider.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_unfriendly_08	I speak on my lord's part. His honour is indeed deep, to send a proposal to such as you.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_unfriendly_03	I will start with honesty: I would not choose to be here. But here I am, and I will speak.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_unfriendly_02	Let us speak briefly, so that I may be gone. There is a peculiar smell around here…	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_unfriendly_05	I have come in search of wisdom in response to my lord's proposal. I hope this is not a vain exercise.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_unfriendly_04	My lord sends greetings. In this he is too generous. He also sends a proposal. You should listen.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_unfriendly_07	I will say what I must, and then listen to your reply. But no more than that.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_unfriendly_06	I doubt that we can reach agreement with such as you, but I must try. Listen carefully.	true
+diplomacy_strings_string_Fujiwara_reject_demand_protectorate	You are mistaken. Fujiwara pride, and history, would never allow such a thing.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_unfriendly_10	We have heard that you have-- native cunning. Perhaps this will serve in place of wisdom as you listen to my words.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_cancel_military_access	Very well, we will no longer march across your lands. We hope your safety will not suffer.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_trade_06	Perhaps trade would benefit you, but it is not in our interests at the moment.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_peace_02	Peace is indeed a thing to be cherished, but not just yet.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_trade_05	I have heard that your goods are not of the finest quality. So, no, there will be no trade.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_peace_03	We shall have peace, but not today. Perhaps in a hundred years, or when we are all dead. But not now.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_trade_04	I have seen your lands' goods. I have heard of your markets. We want nothing of either.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_peace_04	The war goes on. There can be no peace with you. Why should we want it?	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_trade_03	No. Our townsfolk are, sadly, quite set in their ways, and unlikely to buy your shoddy goods.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_peace_05	Peace is difficult to grasp when one's hands are slippery with blood.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_trade_02	Trade with your merchants might well offend our merchants, so we decline your offer.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_peace_06	There can be no peace. Not yet. I do not say "never", but I do say "not now".	true
+diplomacy_strings_string_tokugawa_acknowledge_cancel_trade	Your wisdom is deep indeed, if you cast aside any link with the Tokugawa clan.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_1_10	I am saddened that I must refuse your offer. I had hoped for agreement.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_2_10	Ah! The blossom withers on the tree. I cannot agree to this.	true
+diplomacy_strings_string_japanese_generic_monarchy_demand_player_must_become_vassal	It is time to show your inner strength, and recognise truth: you cannot go on alone. Now is the time to accept you must be our vassal.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_generic_reject_angry_1_04	All your words disguised only an insult to the Shogunate, not a sincere offer. And insulted, we refuse you anything.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_1_08	Your words are indeed persuasive, but not quite enough to sway my heart and mind.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_2_08	Perhaps I am at fault, but I do not think your offer is acceptable.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_1_09	Some blossoms are treasured and remembered forever. Others simply fall. Your offer is one of the latter.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_2_09	I will speak in plain, soldier's terms: I do not accept your proposal.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_1_04	Our talk has been interesting but we cannot agree to anything at this time. 	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_2_04	Our talk has been largely… pointless. I will not say wasted, even though it ends with no agreement.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_1_05	I have considered your words. I must tell you that your proposal is rejected.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_2_05	I will speak plainly. You offer is not acceptable. Our response, then, is a simple "no".	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_1_06	Your offer is not acceptable, in principle or in detail. My apologies for such bluntness.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_2_06	I do not need to think on your words for long. No. Your offer is not what we want.	true
+diplomacy_strings_string_hojo_demand_hostage	Let us put matters on a firm footing: provide us with a hostage, as guarantee of your good behaviour.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_1_07	Your offer does little for my clan. Our harmony would be lessened by accepting.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_2_07	This offer is interesting but, in honesty, I cannot accept it.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_1_02	On my lord's behalf, I will decline this offer. I will not trouble him with the decision.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_2_02	Such an offer would not be acceptable to my lord. I will not bring the matter to his attention.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_1_03	I am sure your offer is sincere, and so my rejection must be equally sincere.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_2_03	This proposal is quite interesting, but it is not right for me to accept it at this time.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_hostage_05	I will not countenance such an act. You cannot have a hostage.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_hostage_04	A hostage, is that what you ask. Well, you cannot have one. There, it is said.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_hostage_06	I will not agree to giving up one of our own to your tender care.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_hostage_03	I am afraid I must refuse. Our children are not rice sacks to be shipped hither and thither.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_hostage_02	Sadly, none of our children would be suitable to be part of your household.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_cancel_trade_02	Regretfully, Imperial edicts now forbid your merchants from further trade.	true
+diplomacy_strings_string_offer_or_demand_military_access_indefinite	Military access: indefinite	true
+diplomacy_strings_string_date_reject_demand_single_payment	Ha! So you would rob us and call it diplomacy?	true
+diplomacy_strings_string_mori_cancel_alliance	The tide and winds have changed. We can no longer be allies.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_friendly	Welcome, noble friend! There is much to discuss for our mutual benefit!	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_cancel_trade_03	Very well. Trade is not a fit subject for warriors to discuss anyway. It is over.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_cancel_trade_02	The trade was welcomed by our people, but so be it. Your merchants were largely unwashed and will not be missed.	true
+diplomacy_strings_string_oda_approach_hostile	You would be wise to listen, for our generals ache to send you a different message!	true
+diplomacy_strings_string_chosokabe_reject_demand_protectorate	We will not be ruled by other men. Chosokabe honour has meaning, or it is nothing.	true
+diplomacy_strings_string_japanese_generic_monarchy_too_many_counters	You have offered much, but with little sense to your proposals. We have no more time now.	true
+diplomacy_strings_string_Minamoto_reject_angry_demand_hostage	Minamoto flesh is not bought and sold in the market! There will be no hostage for you!	true
+diplomacy_strings_string_relationship_neutral	Indifferent	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_accept_very_friendly_02	Ah! Men like you should be serving His Majesty! We have an agreement, and honest friendship!	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_acknowledge_marriage_01	May this marriage further strengthen the bonds of loyalty to the Emperor.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_acknowledge_marriage_03	A marriage is a sign of the sincerity in all our hearts. We agree.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_acknowledge_marriage_02	Marriage should be a time of happiness. Let this one increase the happiness and trust in all our hearts.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_acknowledge_marriage_05	A marriage is a welcome sign of better times to come. I wish the couple much joy.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_acknowledge_marriage_04	This marriage should do much to ease any difficulties between you and the Imperial Court.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_acknowledge_marriage_06	Politics and the marriage bed: they are a start towards better things, I trust.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_offer_regular_payment_03	We will not be paid off like common labourers! We still have honour!	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_offer_regular_payment_02	You may measure honour in gold, but we do not. We are not your servants, paid to do your bidding.	true
+diplomacy_strings_string_shimazu_acknowledge_cancel_military_access	That is a pity. Your lands were honoured by the mere presence of Shimazu armies.	true
+diplomacy_strings_string_current_treaty_alliance_honour_turns	Prematurely ending this alliance will lower your daimyo's honour (turns remaining: %d)	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_counter_reject	It seems little is pleasing to you, then. Our talks must now conclude.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_counter_accept	There is much wisdom in your decision, and in your long deliberations. 	true
+diplomacy_strings_string_oda_offer_marriage	We honour you with the offer of marriage. It is a great thing, to be part of the Oda family.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_offer_demand_alliance_02	I would sooner cast myself into the sea to be eaten by crabs than agree to an alliance with you.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_offer_demand_alliance_03	An alliance? A thousand years of laughter are not enough for that idea!	true
+diplomacy_strings_string_hojo_reject_angry_demand_marriage	No Hojo marriage bed will ever be soiled by one of your whelps!	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_reject_offer_regular_payment_04	We do not care to be thought of as cheap foreigners, to be bought off for a handful of coins.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_reject_offer_regular_payment_02	No. I do not think the Shogun would accept payment, like some tradesman. 	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_reject_angry_demand_marriage_06	Ha! Never. The Shogun's children will marry dung collectors before they consider any of your whelps!	true
+diplomacy_strings_string_hojo_cancel_military_access	Our lands have been unquiet with your troops in them. We cannot allow this to continue.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_reject_angry_demand_marriage_01	I must tell you that the Shogun would sooner see a leatherworker wed to one of his own.	true
+diplomacy_strings_string_Minamoto_reject_angry_demand_regular_payment	Ha! You are a court fool to ask this! You will not have one rusty nail from Minamoto lands!	true
+diplomacy_strings_string_japanese_generic_monarchy_demand_player_must_become_vassal_03	Understand this: times are changing, and you would be well advised to seek a protector. We could be your protectors.	true
+diplomacy_strings_string_japanese_generic_monarchy_demand_player_must_become_vassal_02	I will be plain: your future is bleak without a protector. Become a vassal of my lord, and secure your well-being.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_friendly_10	In a spirit of friendship, speak of your terms, and I will answer presently.	true
+diplomacy_strings_string_takeda_acknowledge_cancel_alliance	So we have come to a parting of the ways, as all men do.	true
+diplomacy_strings_string_ikko_ikki_reject_offer_demand_peace	Peace? It is peace you want? We do not see the need for your peace!	true
+diplomacy_strings_string_uesugi_reject_angry_offer_regular_payment	You insult us! We are not merchants, or peasants to be paid in scraps from your bowl!	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_cancel_military_access_03	I am sure you have your reasons for this refusal. I hope they are worth our inconvenience.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_friendly_07	Welcome. Be seated, and tell me of the concerns that bring you here.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_cancel_military_access_02	Very well. Our troops will have to march further. They will be toughened by the experience.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_friendly_06	My friend, welcome. Come, speak your wisdom, and I will give your words due consideration.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_friendly_05	So, my friend, of what do you wish to talk?	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_friendly_04	A friend is always welcome, especially in these times of trouble. Come, let us talk.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_friendly_03	There is always a welcome for you, and a receptive audience for your ideas.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_cancel_military_access_06	We will respect your decision. Our soldiers will be sad. They enjoyed many pleasures in your lands.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_friendly_02	Greetings! It is always good to see honest friends, come to take tea and talk of many things.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_cancel_military_access_05	I appreciate candour. It is honest to say that you no longer wish friends to visit.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_cancel_military_access_04	This is an unfortunate day. Our troops much enjoyed the beauty of your lands. They will be saddened.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_friendly_09	Speak, and I will listen. If I can help, I will try to do so.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_friendly_08	Let me listen to your offer, and answer as best I may.	true
+diplomacy_strings_string_chosokabe_reject_offer_demand_peace	No, we are not so simple as to want peace just yet.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_reject_offer_marriage_02	An arranged marriage. I do not think this would work. The Shogun is quite particular about his relatives.	true
+diplomacy_strings_string_current_treaty_war_would_be_dishonourable_continuous	Declaring war on this clan will harm all other diplomatic relations	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_reject_angry_demand_single_payment_02	Ah! You are a clan of merchants then! Well, the Emperor does not deal with merchants, ever!	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_unfriendly_08	I would prefer the word of a gentleman, but I must take yours. I will agree to your terms.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_unfriendly_09	I will accept your terms. My heart tells me that you are false, but we shall see.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_unfriendly_04	My heart is full of foreboding that this will be an evil thing, but I accept.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_unfriendly_05	I accept your terms, although it is an ill-done act. I hope no further ill comes of it.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_unfriendly_06	An end to this tittle-tattle! The deal is done. Do not look for anything more.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_unfriendly_07	Enough! Your words are wearisome, but I accept your proposal. 	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_unfriendly_02	I do not care for you or yours, but I will persuade my lord to agree. That must be enough.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_unfriendly_03	I still have reservations, but I will tell my lord that we have reached agreement here today.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_unfriendly	Time and honour are both being wasted. What do you want?	true
+diplomacy_strings_string_Taira_demand_regular_payment	A regular contribution to the treasury of the House of Taira would show that intelligence is not lacking in your family.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_unfriendly_10	I accept your offer. See to it that you honour your side of the bargain!	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_single_payment_06	Within your breasts beat the hearts of merchants, not warriors. But you cannot buy us.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_single_payment_05	Our honour does not have a price. Yours… may have.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_single_payment_04	A magnificent sum, to be sure, but my lord prizes his honour above all monetary gain.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_single_payment_03	No. Your gold would be better spent on buying a lesson in good manners.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_single_payment_02	Nothing of ours is for sale.	true
+diplomacy_strings_string_relationship_hostile	Hostile	true
+diplomacy_strings_string_tokugawa_too_many_counters	I am ashamed that I have been unable to comprehend your intentions, as you have been so confused in your diplomacy.	true
+diplomacy_strings_string_shimazu_reject_demand_protectorate	You ask that the Shimazu prostrate themselves? Begone! 	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_peace	Peace? You talk of peace? This is not a time of peace, but of war!	true
+diplomacy_strings_string_offer_or_demand_protectorate	Become Vassal	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_acknowledge_reject_03	Your decision is a courageous one, but I will carry word back to the Imperial Court.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_acknowledge_accept_01	A most satisfactory end to our discussions. I express His Majesty's thanks for him.	true
+diplomacy_strings_string_offer_or_demand_break_trade	Break Trade Agreement:	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_offer_demand_peace	Peace? Are you so tired and womanly that you need peace? Bah! No!	true
+diplomacy_strings_string_iga_ninja_receive_unfriendly	Why have you come? Why should the Hattori listen to your words?	true
+diplomacy_strings_string_negotiation_temp_placeholder	placeholder	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_neutral	Perhaps you could consider this offer: agreement between us could prove fruitful.	true
+diplomacy_strings_string_oda_demand_regular_payment	Consider this a guarantee of the good will of the Oda clan, nothing more.	true
+diplomacy_strings_string_current_treaty_giving_military_access_turns	Grants military access (turns remaining: %d)	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_hostile	You would be wise to consider this offer, as the world is a hostile place to those without friends.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_acknowledge_marriage_02	Marriage should be a time of happiness. Let this one increase the happiness and trust between us.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_acknowledge_marriage_03	A marriage is a sign of the sincerity in all our hearts. We agree.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_acknowledge_marriage_01	May this marriage further strengthen the bond between us.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_acknowledge_marriage_04	This marriage should do much to ease any difficulties between us.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_neutral_10	My words are an offer from my lord's generous heart. Listen, and consider it with care.	true
+diplomacy_strings_string_oda_counter_accept	Our ancestors are undoubted concerned, but we agree.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_protectorate_03	No, no, no. We are not so foolish as to let wild dogs guard our children.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_protectorate_02	Expecting us to lay bare our necks to your blade is insulting. This we will never do!	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_accept_very_friendly_02	Your people are blessed to be served by you. We have an agreement, and honest friendship!	true
+diplomacy_strings_string_mori_receive_hostile	Speak, but with care. Mori tolerance is not famous.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_neutral_03	I have a proposal. If you listen, you may profit. If you do not, well, we will not suffer.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_neutral_02	I have come to make an open and honest offer. You will either accept it or not. What say you?	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_neutral_07	My lord sends me to know your mind on some trifling matters. 	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_neutral_06	Greetings. I am sent today to carry a proposal to you and to carry away your hopefully wise response.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_neutral_05	I come with greetings, and would know your mind on a matter of some importance.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_neutral_04	I bear greetings, and a proposal. A wise man might listen to both.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_neutral_09	My words today carry the weight of my lord's honour. Listen with care.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_neutral_08	I am sent so that we may avoid unfortunate misunderstandings.	true
+diplomacy_strings_string_mori_reject_offer_regular_payment	We are not pirates, who can be bought off with gold and shiny gifts.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_offer_demand_trade	No. We will not trade. I doubt that even foreign devils would willingly trade with your kind. 	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_protectorate_02	No, we cannot. The friend who will not leave is soon regarded as no friend at all.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_protectorate_03	Sadly, we must decline the honour of sheltering behind your warriors. We have weapons of our own.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_reject_angry_demand_marriage_06	Ha! Never. The Imperial children will marry dung collectors before we consider any of your whelps!	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_reject_angry_demand_marriage_01	I cannot think of any rational reason why one of your family should be allowed to marry so far above their station.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_counter_accept_02	Your words have merit, and I am sure the Shogun will approve. I accept your counter-proposal.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_reject_angry_demand_marriage_03	Why on earth would we link the Imperial family to anyone so far beneath them in blood and honour?	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_reject_offer_regular_payment_02	No. I do not think the Emperor would sell his dignity, like some tradesman. 	true
+diplomacy_strings_string_Taira_reject_offer_demand_alliance	An alliance may seem worthy to you, but the House of Taira sees little profit in such an arrangement.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_acknowledge_cancel_alliance_01	Our alliance is ended. The next time we meet may be with guns and swords rather than tea cups.	true
+diplomacy_strings_string_hojo_reject_offer_demand_alliance	Such an alliance would be built without foundations. It would collapse in the merest breeze.	true
+diplomacy_strings_string_oda_demand_player_must_become_vassal	The Oda offer you strength, and protection. You need do only one thing: bow your head and become a vassal.	true
+diplomacy_strings_string_mori_acknowledge_war	Good. War is a worthy pursuit for Mori men, even against such as you.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_trade	We cannot do this: you have nothing that our people could possibly desire.	true
+diplomacy_strings_string_chosokabe_receive_friendly	Welcome! And what would you ask of the Chosokabe?	true
+diplomacy_strings_string_Taira_offer_marriage	We offer you marriage, a union with the House of Taira: such an elevation should not be lightly refused.	true
+diplomacy_strings_string_Fujiwara_generic_reject_1	This is unfortunate. We Fujiwara could not accept such an offer.	true
+diplomacy_strings_string_Fujiwara_generic_reject_2	While what you suggest has merits, we Fujiwara cannout accept it.	true
+diplomacy_strings_string_hojo_reject_angry_demand_hostage	We will not give even one of our people into your tender care. You must think us foolish indeed!	true
+diplomacy_strings_string_shimazu_acknowledge_war	Very well. I will drink to a Shimazu victory, then!	true
+diplomacy_strings_string_japanese_generic_monarchy_cancel_military_access	The spirits of our lands are unquiet. We can no longer allow your armies to disturb their tranquillity.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_hostage_02	We do not give our children over to the likes of you. Ever.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_hostage_03	A hostage? No. You will have no one, no beast, no rock, not even a grain of rice to hold.	true
+diplomacy_strings_string_oda_acknowledge_reject	So, a "no", then, even to us, the famed Oda. Interesting…	true
+diplomacy_strings_string_iga_ninja_acknowledge_hostage	The Hattori understand such things. The matter will be arranged.	true
+diplomacy_strings_string_ikko_ikki_cancel_military_access	Your armies must never enter our lands again. They offend the people, the spirits and the heavens!	true
+diplomacy_strings_string_current_treaty_payments_paying	Regular payment, giving: %d (turns remaining: %d)	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_very_friendly_10	Truly, my friend, your arguments have won the day! I accept your offer.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_approach_neutral_09	My words today carry the weight of the Shogunate's authority. Listen with care.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_approach_neutral_07	The Shogun sends me to deal with you on some trifling matters. 	true
+diplomacy_strings_string_oda_reject_angry_demand_military_access	Our forebears took these lands with their courage and blood. You do not get to stroll around in them!	true
+diplomacy_strings_string_shimazu_reject_demand_marriage	For centuries, the Shimazu have married appropriately. Why would that change now?	true
+diplomacy_strings_string_iga_ninja_accept_hostile	I would as soon drive a tanto into your heart, but this agreement must be accepted.	true
+diplomacy_strings_string_offer_or_demand_marriage	Marriage:	true
+diplomacy_strings_string_takeda_reject_offer_demand_peace	Horse dung. My profound apologies! Surprise makes me too honest on occasion!	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_very_friendly_04	Let me be the first to express agreement with what is proposed. This is an auspicious day!	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_very_friendly_05	I accept! Your terms are even-handed and fair, your words respectful and becoming to your honour.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_very_friendly_06	So, the deal is done. Excellent! We march on in friendship, to the consternation of our rivals!	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_very_friendly_07	Our rivals will tremble when they hear of this agreement, my friend! Excellent!	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_very_friendly_02	Your lord is blessed to be served by men like you. We have an agreement, and honest friendship!	true
+diplomacy_strings_string_date_reject_angry_demand_protectorate	We are our own masters! Do not be foolish and confuse negotiating with weakness.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_very_friendly_03	And so we have an agreement! When friendship and statecraft meet, how could it be otherwise?	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_very_friendly_08	How could I refuse such an offer from a friend such as you? I cannot!	true
+diplomacy_strings_string_current_treaty_at_war	At War	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_very_friendly_09	Ah, your diplomatic skills match your worth in friendship! We gladly accept.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_regular_payment_03	Ah! So you are brigands then, demanding money! Hmm. Brigands are crucified in our lands.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_regular_payment_02	I had not realised you were short of money, but we cannot help.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_approach_neutral_10	My words are an offer from the Shogun's noble heart. Listen, and consider it with care.	true
+diplomacy_strings_string_tokugawa_reject_offer_hostage	A guest, no matter how gracious, would not be welcome at the moment.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_marriage_03	A marriage is a sign of the sincerity in all our hearts. We agree.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_marriage_02	Marriage should be a time of happiness. Let this one increase the happiness and trust in both our lands.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_marriage_06	Politics and the marriage bed: they are a start towards better things, I trust.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_marriage_05	A marriage is a welcome sign of better times to come. I wish the couple much joy.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_marriage_04	This marriage should do much to ease any difficulties between our clans.	true
+diplomacy_strings_string_mori_receive_unfriendly	I would prefer to feed you to crabs, but speak.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_hostile_10	I would sooner take the word of a fox, but I must agree.	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_marriage_05	Perhaps you would consider a marriage between our clans. Such a thing would do much to foster good relations.	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_marriage_04	There is merit in one idea, that could bind us closer: what say you to an arranged marriage?	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_marriage_06	I propose a marriage. It is a simple thing, an honest thing, and could do much good for us all.	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_marriage_03	I suggest a suitable marriage is possible. It would do much to improve attitudes on both sides.	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_marriage_02	A marriage between our families would benefit us all, for it would be a sign of trust between us.	true
+diplomacy_strings_string_oda_accept_unfriendly	Very well. Do you want the door opening, or will you slither under it?	true
+diplomacy_strings_string_Minamoto_reject_demand_single_payment	Minamoto gold will stay in Minamoto strongrooms. We do not meekly hand it to robbers.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_hostile_07	We have reached agreement. Let us speak no more. I would bathe and get your stink off my flesh.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_hostile_06	I see that we have no choice but to accept, though it makes my heart ache to do it.	true
+diplomacy_strings_string_oda_reject_demand_protectorate	Our warriors are not yet so weak that we must give in to your demands.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_hostile_05	I can see vile treachery in your heart even as I say this: we agree. Bah!	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_hostile_04	My stomach troubles me. I… I…  I agree. See that you keep your word!	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_hostile_03	I am sure my lord will be angry, but we must agree with your proposal. For now.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_hostile_02	I will carry the shame of our acceptance. My lord's reputation will remain intact.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_hostile_09	Any shame for accepting this agreement will be on my head. Any shame for breaking it, on yours!	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_hostile_08	Your proposal is, at best, disrespectful, but I will accept it. See that you abide by what you have said!	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_demand_player_must_become_vassal_02	I will be plain: your future is bleak without a protector. Become an Imperial vassal, and secure your future.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_state_gift	A proposal as straight and true as an arrow's shaft! My lord will accept. May good fortune favour us all.	true
+diplomacy_strings_string_date_reject_offer_demand_peace	No. You still live.	true
+diplomacy_strings_string_takeda_cancel_alliance	It is time for us to ride along our own roads, and leave you to your path.	true
+diplomacy_strings_string_Fujiwara_accept_very_friendly	You are a blessing to your family, and to the Fujiwara. We accept whole-heartedly.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_offer_demand_peace_02	Peace? We shall have peace when you are in the grave, and not a moment before!	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_offer_demand_peace_03	Peace is not for the likes of you. Peace is for honourable, honest men. 	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_offer_demand_peace_06	Peace! With you and yours? Never, as long as I can draw a sword and ride a horse!	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_neutral	We have reached agreement, then, although the sake has unfortunately run out and we cannot celebrate.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_offer_demand_peace_04	You may want peace, Heaven may want peace. But the land will have peace when your corpses feed the crows!	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_offer_demand_trade_03	Trade? Trade? No warrior speaks of trade! And with the likes of you? Even merchants go elsewhere!	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_offer_demand_peace_05	Peace will not come while your heart beats! 	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_offer_demand_trade_02	Why would we want anything that you or your unwashed kind have touched? There will be no trade!	true
+diplomacy_strings_string_japanese_generic_monarchy_demand_hostage_06	We must be prudent, and have some guarantee of your behaviour. We need a hostage.	true
+diplomacy_strings_string_japanese_generic_monarchy_demand_hostage_05	We require a guarantee of your future prudence. One of your own, as a hostage, would be adequate.	true
+diplomacy_strings_string_japanese_generic_monarchy_demand_hostage_04	I will speak simply and clearly: we require a hostage, so that your actions will not be unwise.	true
+diplomacy_strings_string_japanese_generic_monarchy_demand_hostage_03	Today, I suggest this: give us a hostage, that we can know your behaviour is honest.	true
+diplomacy_strings_string_japanese_generic_monarchy_demand_hostage_02	A member of your family would, I think, make a most excellent guarantee against future misunderstandings.	true
+diplomacy_strings_string_offer_or_demand_peace	Peace treaty	true
+diplomacy_strings_string_date_war	We welcome war. Our warriors yearn for it, as you will shortly discover.	true
+diplomacy_strings_string_chosokabe_acknowledge_marriage	This marriage honours you and strengthens the Chosokabe!	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_cancel_military_access_01	The spirits of Japan are unquiet. We can no longer allow your armies to disturb our tranquility.	true
+diplomacy_strings_string_japanese_generic_monarchy_demand_regular_payment_02	Trifling regular contributions to our treasury would significantly increase the respect for you that we hold in our hearts.	true
+diplomacy_strings_string_japanese_generic_monarchy_demand_regular_payment_03	I am sure that you will understand the wisdom of making regular "contributions" to our treasury…	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_demand_player_must_become_vassal_02	I will be plain: your future is bleak without a protector. Become a vassal of the Shogunate, and secure your well-being.	true
+diplomacy_strings_string_Taira_acknowledge_accept	Our discussions are complete, and most satisfactory. And now, court business requires my attention…	true
+diplomacy_strings_string_Taira_acknowledge_reject	I see. The House of Taira truly hopes that you will not live to regret this decision.	true
+diplomacy_strings_string_ikko_ikki_accept_hostile	We accept, even though you are lower than a snake's belly.	true
+diplomacy_strings_string_date_reject_angry_demand_military_access	Never! Date lands are not your drill grounds!	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_marriage_04	A marriage offer? Now there is an interesting idea, but a completely impractical one. No.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_marriage_06	Ha! Never. My lord's children will marry dung collectors before they consider any of your whelps!	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_marriage_05	While such a marriage would undoubtedly reflect well on your clan, it is not suitable.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_marriage_05	What spirit of madness makes you suggest such a thing? Your mind and soul are truly ill.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_marriage_06	No. I think not. We prefer that our children marry well.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_marriage_04	A kind offer, but I am sure we wanted our children to marry someone - well, cleaner for a start!	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_marriage_03	Why on earth would we want to marry into a family of pigs?	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_marriage_02	This is unacceptable. For a start, it is well known that your people are not blessed by a surfeit of good looks.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_marriage_02	An arranged marriage. I do not think this would work. My lord is quite particular about his relatives.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_marriage_03	I do not think this is appropriate. Marriages work best when they are between equals.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_regular_payment_06	Ah! You mistake us for men of greed, not honour. We will not take your money.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_regular_payment_05	We will not be your kept women, paid off in coin to suit your whims.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_regular_payment_04	We do not care to be thought of as cheap ashigaru, to be bought off for a handful of coins.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_regular_payment_03	While gold has its uses, paying us off like common brigands is not one of them.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_regular_payment_02	No. I do not think my lord would accept payment, like some tradesman. 	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_generic_reject_angry_1_05	You must think His Majesty's servants are simple. I will only reply: "no".	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_generic_reject_angry_1_04	All your words are a disguised insult to the Chrysanthemum Throne, not a sincere offer. 	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_generic_reject_angry_1_03	This proposal is quite interesting, but completely out of the question as far as His Majesty is concerned.	true
+diplomacy_strings_string_mori_war	You will wish you had drowned rather than have a war against the Mori!	true
+diplomacy_strings_string_japanese_generic_monarchy_demand_military_access	It would demonstrate wisdom and strength if you allowed our armies passage.	true
+diplomacy_strings_string_date_reject_offer_single_payment	Date honour is not bought with a handful of coins.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_offer_demand	We should discuss matters of mutual interest, so that all may profit and flourish as a result.	true
+diplomacy_strings_string_japanese_generic_monarchy_not_interested_in_further_discussion_08	We have talked too long! Anyone would think us peasant women, bartering over fish! Enough!	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_approach_neutral_10	My words are an offer from His Majesty's generous heart. Listen, and consider it with care.	true
+diplomacy_strings_string_japanese_generic_monarchy_not_interested_in_further_discussion_09	My mind is dulled with words. We will stop now.	true
+diplomacy_strings_string_Fujiwara_reject_demand_military_access	Our Fujiwara ancestors would not sleep peacefully with your troops tramping across our hallowed lands.	true
+diplomacy_strings_string_japanese_generic_monarchy_not_interested_in_further_discussion_02	We have talked and talked, and decided nothing, save that these talks are now concluded.	true
+diplomacy_strings_string_japanese_generic_monarchy_not_interested_in_further_discussion_03	I grow weary with talk. Perhaps on another occasion we may speak with better results.	true
+diplomacy_strings_string_japanese_generic_monarchy_not_interested_in_further_discussion_04	Your talk wearies me. Perhaps after a few months of rest I might feel like listening again.	true
+diplomacy_strings_string_japanese_generic_monarchy_not_interested_in_further_discussion_05	The day grows old, and I would be at supper. We have talked enough.	true
+diplomacy_strings_string_japanese_generic_monarchy_not_interested_in_further_discussion_06	Enough of talk! It is obvious that, for now, we cannot reach agreement.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_hostage_02	One of yours as a hostage? Is it housetrained? I think not, on balance.	true
+diplomacy_strings_string_japanese_generic_monarchy_not_interested_in_further_discussion_07	We have talked the day away. We will not agree, and an end to discussions seems a wise move.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_hostage_03	No, I do not think we want anyone from your family in our house.	true
+diplomacy_strings_string_mori_reject_offer_demand_peace	You are wise to seek peace, but unfortunate in seeking it from us. We Mori see no need for peace.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_marriage_02	I can answer this immediately: a marriage between our families would not be appropriate.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_marriage_03	I will answer: no. Our sons and daughters are not traded for petty advantage with you.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_marriage_04	A marriage, you say? Perhaps not. I fear none of our eligible youngsters would be entirely happy with the idea.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_marriage_05	I must respectfully decline the offer. Marriage to one of your family does not sit well with our plans.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_marriage_06	I do not think a suitable partner could be found, so: no.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_hostile	My lord will accept, even though you are lower than a snake's belly. I will carry the dishonour of this decision for him.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_approach_unfriendly_04	The Shogun sends greetings. In this he is too generous. He also sends a proposal. You should listen.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_approach_unfriendly_05	I have come in search of wisdom in response to this proposal. I hope this is not a vain exercise.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_approach_unfriendly_08	I speak on the Shogunate's behalf, an honour indeed. So perhaps you should listen.	true
+diplomacy_strings_string_mori_reject_angry_demand_protectorate	You must think us simple fisherfolk, to ask such a thing. We Mori are not noted for our even tempers.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_approach_neutral_07	The Emperor would know your mind on some trifling matters. 	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_approach_neutral_09	My words today carry the weight of Imperial authority. Listen with care.	true
+diplomacy_strings_string_japanese_generic_monarchy_not_interested_in_further_discussion_10	Even the chattering tengu eventually stops talking! We should do the same, and end our discussion.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_alliance_02	I do not think an alliance with you would be in everyone's best interests at this time.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_alliance_03	An alliance? It is interesting that you think that way, but we do not.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_alliance_06	With all possible respect: no. We will not be allies.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_alliance_04	No, no. An alliance with you would be entirely unthinkable... unsuitable… un… un… unbecoming.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_alliance_05	While an alliance is undoubtedly in your interests, I judge it not to be so for us.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_accept_unfriendly_03	I still have reservations, but I will tell the Shogun that we have an agreement.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_accept_unfriendly_02	I do not care for you or yours, but I will persuade the Shogun to agree. That must be enough.	true
+diplomacy_strings_string_tokugawa_acknowledge_war	So, diplomacy has failed. Very well, swords will make our arguments most eloquently!	true
+diplomacy_strings_string_shimazu_cancel_alliance	It is time for our alliance to end. You must recognise that you were never the equals of the Shimazu in honour or blood.	true
+diplomacy_strings_string_hojo_reject_demand_protectorate	We cannot do such a thing. The very stones of our land would cry out against it.	true
+diplomacy_strings_string_oda_reject_offer_demand_hostage	No, we do not send Oda sons and daughters into captivity.	true
+diplomacy_strings_string_hojo_reject_angry_demand_military_access	Never! Hojo lands and honour are not yours to trample as you see fit!	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_generic_reject_1_07	Your offer does little for the Shogunate. Our harmony would be lessened by accepting.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_generic_reject_1_02	On the Shogun's behalf, I will decline this offer. I will not trouble him with the decision.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_generic_reject_2_02	Such an offer would not be acceptable to the Shogun. I will not bring the matter to his attention.	true
+diplomacy_strings_string_Fujiwara_cancel_trade	My heart is heavy, but the Fujiwara no longer see any profit in trading with you.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_approach_hostile_03	His Majesty commands me speak, and I obey, although I would sooner treat with ice-hearted demons.	true
+diplomacy_strings_string_Minamoto_reject_angry_demand_marriage	The Minamoto do not pimp their sons and daughters to the likes of you. There will be no marriage.	true
+diplomacy_strings_string_hojo_reject_offer_single_payment	No. Gifts honour the giver, but not in this case. 	true
+diplomacy_strings_string_current_treaty_giving_military_access_indefinite	Grants military access (indefinite)	true
+diplomacy_strings_string_Minamoto_receive_hostile	I will listen, but my Minamoto heart aches to see your blood spilled.	true
+diplomacy_strings_string_Fujiwara_accept_friendly	The Fujiwara are honoured and pleased to accept this offer. May fortune favour our future dealings.	true
+diplomacy_strings_string_relationship_unfriendly	Unfriendly	true
+diplomacy_strings_string_hojo_war	The Hojo have nevered feared war. They will not start now.	true
+diplomacy_strings_string_tokugawa_receive_neutral	Let us speak, then, as near-equals. This pleasing fiction will ease our talks!	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_marriage	We offer a marriage. Let this be a sign of better times to come.	true
+diplomacy_strings_string_uesugi_acknowledge_war	We will pray for your dead. For your many dead.	true
+diplomacy_strings_string_oda_acknowledge_cancel_alliance	The alliance is ended. In future, we will rely on Oda generals!	true
+diplomacy_strings_string_Minamoto_acknowledge_war	Good! The House of Minamoto welcomes open, honest war with you!	true
+diplomacy_strings_string_ikko_ikki_not_interested_in_further_discussion	Like all nobles, you have talked and said nothing. This is ended.	true
+diplomacy_strings_string_Minamoto_demand_military_access	You would be wise to allow Minamoto armies to march across your lands.	true
+diplomacy_strings_string_shimazu_offer_demand_alliance	We offer you an alliance, a great honour for any lesser clan. 	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_reject_angry_demand_single_payment_02	Ah! You are a clan of merchants then! Well, the Shogunate does not deal with merchants, or pay them without reason!	true
+diplomacy_strings_string_shimazu_demand_military_access	What clan would not be honoured to have Shimazu warriors in their lands?	true
+diplomacy_strings_string_takeda_acknowledge_war	Excellent! Our warriors have long prepared for the day when they would ride you down!	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_accept_friendly_01	A proposal as straight and true as an arrow's shaft! The Emperor will accept.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_accept_friendly_02	Your words are entirely sensible. I gladly accept on the Emperor's behalf.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_very_friendly	Welcome indeed, my honourable friend! What shall we discuss, in the hope of mutual profit?	true
+diplomacy_strings_string_uesugi_approach_very_friendly	Greetings, friend. Long have you been in our prayers.	true
+diplomacy_strings_string_chosokabe_offer_marriage	We offer the hand of a Chosokabe in marriage. What more could anyone want for his family?	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_marriage	Unfortunately, marriage to one of your, ah, brood would not be appropriate.	true
+diplomacy_strings_string_offer_or_demand_military_access_5_turns	Military access: 5 turns	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_neutral_02	So, we are in agreement then. Honesty and respect have informed our dealings.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_neutral_03	This is acceptable. When honest men deal honestly with each other, we can reach agreement.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_neutral_04	An acceptable offer. It is good to speak plainly, is it not?	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_neutral_05	Your words are acceptable, and we are in agreement. There is no more.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_neutral_06	No more talk! The deal is done. Let us leave matters here, and go our separate ways.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_neutral_07	I accept on behalf of my clan. There: it is done. 	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_neutral_08	Your terms are acceptable. Let us see what the future brings.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_neutral_09	Talk no more. Your offer will be accepted. Be glad of what you have achieved today.	true
+diplomacy_strings_string_offer_or_demand_alliance	Military alliance	true
+diplomacy_strings_string_Minamoto_reject_offer_hostage	Thank you, but no: we do not want your whelp cluttering up a Minamoto palace.	true
+diplomacy_strings_string_ikko_ikki_reject_angry_demand_marriage	Marriage? To one of yours? Oh, no, no, no.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_neutral_10	No more. No more. There is nothing more to say. We accept.	true
+diplomacy_strings_string_Minamoto_cancel_military_access	The Minamoto ancestors resent your soldiers disturbing their peace. Our lands are closed to you.	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_single_payment	Please accept this gift. It is a mark of the esteem in which you are held.	true
+diplomacy_strings_string_japanese_generic_monarchy_counter_reject	All our words have been wasted. Our talks have been barren: we cannot agree.	true
+diplomacy_strings_string_japanese_generic_monarchy_counter_accept	We must accept, however heavy our hearts. Such is the path of life.	true
+diplomacy_strings_string_Taira_acknowledge_counter_accept	We Taira welcome your decision, and the wisdom that lies behind your choice.	true
+diplomacy_strings_string_Taira_acknowledge_counter_reject	The House of Taira has better things to occupy its attention than you. Our talks are done.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_approach_friendly_02	Greetings, noble friend. I have come with a proposal from His Majesty that should also meet with your approval.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_marriage	May this marriage further strengthen the bond between the clans.	true
+diplomacy_strings_string_iga_ninja_war	When next you wake, if you wake, you will regret the decision to fight us, the Hattori!	true
+diplomacy_strings_string_Fujiwara_not_interested_in_further_discussion	I must take my leave. Other family duties demand my attention if the interests of the Fujiwara are to be properly served.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_acknowledge_reject_03	Your decision is a courageous one, but I will carry word of it to the Shogun.	true
+diplomacy_strings_string_japanese_generic_monarchy_demand_regular_payment	It would, perhaps, show your wisdom if you gave us gold. Repeated gifts would surely further illustrate your prudence.	true
+diplomacy_strings_string_Taira_receive_unfriendly	There are matters of state that need attention. What inconvenience do you bring to the House of Taira?	true
+diplomacy_strings_string_Fujiwara_reject_demand_hostage	The Fujiwara do not sell their children into bondage. You will have no hostage today.	true
+diplomacy_strings_string_japanese_generic_monarchy_demand_single_payment_02	I hesitate to mention it, but a gift of gold - a substantial gift - would do much to ease tensions between us.	true
+diplomacy_strings_string_japanese_generic_monarchy_demand_single_payment_03	I will speak plainly: you have it within your grasp to gain our favourable opinion. It will cost you only a modest amount of gold.	true
+diplomacy_strings_string_japanese_generic_monarchy_cancel_trade_03	We no longer see a need for our merchants to trade with you, that is the sum of my message.	true
+diplomacy_strings_string_japanese_generic_monarchy_cancel_trade_02	Regretfully, my lord must now forbid his merchants from trading with your merchants.	true
+diplomacy_strings_string_iga_ninja_reject_angry_demand_military_access	Hattori lands are not some pleasure garden for you to wander in as you see fit! 	true
+diplomacy_strings_string_uesugi_approach_hostile	We have long prayed for your overthrow, but we will talk to you.	true
+diplomacy_strings_string_mori_acknowledge_cancel_alliance	Very well, our clans will be blown by different winds. 	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_acknowledge_cancel_trade_03	Very well. Trade is beneath Imperial dignity anyway. It is over.	true
+diplomacy_strings_string_offer_or_demand_join_war	Join War Against:	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_very_friendly_10	I am sure our talks today will be friendly and bring further harmony to our lives.	true
+diplomacy_strings_string_date_reject_demand_protectorate	We are warriors. The Date do not bow to any unworthy men.	true
+diplomacy_strings_string_japanese_generic_monarchy_demand_hostage	Trust can be earned: if your family provides a hostage, further unpleasantness can be avoided.	true
+diplomacy_strings_string_takeda_generic_reject_angry_2	I would sooner live in a stables than agree to such a thing.	true
+diplomacy_strings_string_takeda_generic_reject_angry_1	You think us simple then? Idiots, because we are from the mountains? Ha!	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_counter_accept_02	Your words have merit, as His Majesty will surely see. I accept your counter-proposal.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_counter_reject_02	Your words lack substance, and I will risk Imperial displeasure by rejecting them immediately.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_very_friendly_08	I bear greetings, and my lord's offer. Perhaps you will listen with wisdom and friendship.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_very_friendly_09	My lord sends his best wishes, and hopes that we may reach further agreement.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_very_friendly_02	Recognising your worth, my lord sends greetings, and instructs me to make you an offer.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_very_friendly_03	It is always good to speak with friends, and for friends to do well by each other.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_very_friendly_04	When honest men speak together in open friendship, let their unworthy rivals cringe in fear!	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_very_friendly_05	I bear greetings to you, noble friend. I am sent with a proposal I am sure will meet with your approval!	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_very_friendly_06	I am sent with a proposal that I think will be most pleasing to you, my friend. Listen, and decide for yourself…	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_very_friendly_07	It is an honourable thing to speak with the honourable. I have come with a proposal for you.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_approach_hostile_03	The Shogun commands me speak, and I obey, although I would sooner speak with barbarous foreigners.	true
+diplomacy_strings_string_current_treaty_alliance	Military alliance	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_generic_reject_1_07	Your offer does little for the dignity of the Chrysanthemum Throne. Harmony would be lessened by our agreement.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_generic_reject_1_02	I will not trouble the Emperor with the decision to reject this offer.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_generic_reject_2_02	Such an offer would not be acceptable within Imperial circles. I will not raise the matter with the Court.	true
+diplomacy_strings_string_iga_ninja_demand_single_payment	There is much to be said for turning aside the resentment of others with golden blossoms.	true
+diplomacy_strings_string_chosokabe_not_interested_in_further_discussion	I see little point in talking further. Your ways are too subtle for me to comprehend their meaning.	true
+diplomacy_strings_string_japanese_generic_monarchy_demand_single_payment	A gift of gold would prove your wise generosity and ensure the security of your lands.	true
+diplomacy_strings_string_iga_ninja_reject_angry_demand_marriage	No Hattori could be persuaded to bed one of your creatures!	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_approach_friendly_02	Greetings, noble friend. I have come with a proposal from the Shogun that should also meet with your approval.	true
+diplomacy_strings_string_oda_reject_offer_demand_alliance	Our generals would rightly question such a state of affairs.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_single_payment_02	We will not pay you. Perhaps if you curb your expenditures, all will be well with your treasury.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_single_payment_03	No. Remember, the squirrel that saves for winter does not need to beg for food.	true
+diplomacy_strings_string_japanese_generic_monarchy_war	War it is, then. Now you will feel the tiger's claws!	true
+diplomacy_strings_string_mori_reject_angry_offer_regular_payment	And fools call us pirates! We will not do this!	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_unfriendly	Let us speak together.  We will pretend that you are honest men, and deal with you as such.	true
+diplomacy_strings_string_hojo_reject_angry_offer_regular_payment	We do not need your money. Our lands are quite wealthy enough without taking payments from peasants.	true
+diplomacy_strings_string_Taira_demand_player_must_become_vassal	Be wise: accept the truth. You need a powerful protector, and the Lord of the Taira is that man. Be his vassal.	true
+diplomacy_strings_string_japanese_generic_monarchy_cancel_military_access_03	We can no longer let your troops wander where they will in our lands. There: it is said.	true
+diplomacy_strings_string_japanese_generic_monarchy_cancel_military_access_02	Your troops disturb the peace of our people, and have few manners. It is time for them to leave our lands.	true
+diplomacy_strings_string_hojo_offer_demand_peace	It is time to end the fighting, before both our houses lie entirely ruined.	true
+diplomacy_strings_string_japanese_generic_monarchy_demand_military_access_03	It would show wisdom and self-confidence if you allowed our armies to march across your lands.	true
+diplomacy_strings_string_japanese_generic_monarchy_demand_military_access_02	Our armies march where they will, but there is nothing wrong with asking, politely, if they may enter your lands.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_military_access	No. Our lands would be dishonoured by your heavy tread. The spirits would be much disturbed.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_offer_demand_05	Consider this, our offer, and do so with all your undoubted wisdom.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_offer_demand_04	Let us speak, then, of matters of import. I have a proposal to make.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_offer_demand_07	Consider my offer, and see the deeper harmony that it brings to the world.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_offer_demand_06	Consider my words with care, and likewise your response.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_offer_demand_03	We should speak openly of matters that concern us both, and so avoid unfortunate misunderstanding.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_offer_demand_02	Let us speak, like sensible men, of many things, and so reach some accord here today.	true
+diplomacy_strings_string_iga_ninja_generic_reject_angry_1	Ah! If only good manners allowed me to carve this rejection into your skull!	true
+diplomacy_strings_string_iga_ninja_generic_reject_angry_2	We Hattori are not fools. This will be remembered.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_offer_demand_09	Perhaps, if you listen to my offer, you will find some merit in the idea.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_offer_demand_08	I would have you listen to my offer. You may find it interesting.	true
+diplomacy_strings_string_uesugi_reject_angry_demand_protectorate	The spirits of our lands would die of shame if such a thing came to pass. We cannot agree.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_offer_demand_10	When you consider my offer, do not consider only the blossom. Look to the whole tree.	true
+diplomacy_strings_string_japanese_fots_shogun_monarchy_acknowledge_cancel_alliance_01	Our alliance is ended. The next time we meet may be with guns and swords rather than tea cups.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_1_02	Such words would normally cost you your head. Be grateful for my restraint.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_2_02	Ha! You jest then. Your humour is poor indeed, as I would expect from the uncouth.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_1_03	This proposal is quite interesting, but only in the way that a dunghill is interesting. So, no.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_2_03	You are a brave man to make such a proposal. Brave, or touched by madness.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_1_04	All your words disguised only an insult to our clan, not a sincere offer. And insulted, we refuse you anything.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_2_04	Your talk was no more than the tittle-tattle of peasantry. Your offer insults my intelligence.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_1_05	You must think us simple. I will not bother to dignify your offer with anything except a "no".	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_2_05	My swordarm aches with the strain of not taking your head. No, no, no. 	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_1_06	So you think us no better than fools. I reject your offer.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_2_06	Truly, your clan is touched with foolishness if you thought such an offer could ever be acceptable.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_1_07	Your words are an insult to our honour! Oh! I yearn to cut off your arrogant head!	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_2_07	Have you taken a blow to the head recently? No? Ah, then you are a naturally born idiot!	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_1_08	Is this some kind of joke that only dishonourable men laugh about? Your offer is worthless!	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_2_08	Surely you do not expect such a silly, womanish, insulting proposal to be accepted?	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_1_09	You think me simple, then. Well, I reject your proposal, and your arrogant idiocy!	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_2_09	You are a fool. Nothing else explains why you would make such an offer. 	true
+diplomacy_strings_string_uesugi_cancel_military_access	The spirits cry out and we can no longer silence them. Your armies are no longer welcome in our lands.	true
+diplomacy_strings_string_current_treaty_embargoing_trade	Your trade embargo against them (turns remaining: %d)	true
+diplomacy_strings_string_offer_or_demand_single_payment	Single payment: %d	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_military_access	You must think we are stupid, or blind. Your armies will never pollute our lands!	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_1_10	I will not stain my sword with the blood of a fool! That is all that keeps you alive!	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_2_10	Your father must know little but disappointment in his children. No. You offer is foolish.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_single_payment	Gold does not buy our honour.	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_2	We may be honest folk, but we are not to be treated as fools! This is completely outrageous!	true
+diplomacy_strings_string_japanese_generic_monarchy_generic_reject_angry_1	This offer would be an affront to a mountain monkey. Bah!	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_single_payment	Gold given dishonourably would not bring you honour. We cannot do this.	true
+diplomacy_strings_string_offer_or_demand_military_access_10_turns	Military access: 10 turns	true
+diplomacy_strings_string_offer_or_demand_military_access_20_turns	Military access: 20 turns	true
+diplomacy_strings_string_japanese_generic_monarchy_cancel_alliance_02	So then, we have come to the end of our way together. Let us part, and go our separate ways.	true
+diplomacy_strings_string_japanese_generic_monarchy_cancel_alliance_03	Our alliance should now end. Not in bitterness, but simply because all things have a season.	true
+diplomacy_strings_string_japanese_generic_monarchy_cancel_alliance_06	Our alliance no longer serves an honest purpose. It is ended.	true
+diplomacy_strings_string_japanese_generic_monarchy_cancel_alliance_04	Every cherry blossom fades and falls. Our alliance has run its course. 	true
+diplomacy_strings_string_japanese_generic_monarchy_cancel_alliance_05	Our alliance must be considered over. The time has come to follow separate paths to glory.	true
+diplomacy_strings_string_hojo_reject_angry_offer_single_payment	We may be known as builders, but we are not tradesmen to be bought in this fashion!	true
+diplomacy_strings_string_chosokabe_cancel_trade	The Chosokabe no longer need your trade goods. Our arrangement is ended.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_friendly_08	An excellent suggestion. I agree. Wisdom and respect have prevailed. 	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_friendly_09	So we are done, and we have a most acceptable agreement - and all in the spirit of friendship!	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_neutral_09	I am here to listen. When you have spoken, and spoken in honesty, I will give a proper response.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_neutral_08	Let us hope that today ends well. Now, speak of your wishes and intentions.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_friendly_02	Your words are entirely sensible. I gladly accept on my lord's behalf.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_neutral_07	Please, speak honestly, and I will give you good attention.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_friendly_03	We can agree to such a sensible and correct proposal. Our thanks for your wisdom.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_neutral_06	I will listen attentively, and then give you a fair response. Now, speak your part.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_neutral_05	Speak, and do not mumble. Honesty and clarity march forwards together in negotiations.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_neutral_04	Well, I will listen to your words for a time. Do not waste this chance I give to you.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_friendly_06	Ah! This is a good end to our negotiations. We are in friendly agreement and all is well.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_neutral_03	Sometimes travellers meet, and profit by it. Shall we see what our journeys have in store for us?	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_friendly_07	So we have agreement then! It is good when friends treat each other with respect!	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_neutral_02	An unexpected meeting may, with hindsight, turn out to be welcome. Let us see what happens here.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_friendly_04	A wise proposal, and one that favours us all. We accept!	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_friendly_05	The good sense of your words cannot be denied. We accept, my friend.	true
+diplomacy_strings_string_ikko_ikki_war	War it is, then. Now you will feel the people's righteous fury!	true
+diplomacy_strings_string_chosokabe_reject_angry_demand_hostage	We do not give up our children to men such as you! The Chosokabe still believe in honour!	true
+diplomacy_strings_string_shimazu_reject_angry_demand_protectorate	Never! The very suggestion is enough to bring the wrath of the Shimazu down upon your head! 	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_friendly_10	You have shown friendship and respect here today. How can I do less? I agree.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_neutral_10	I will listen, as politeness dictates. As to the response you receive: that depends on what you offer.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_military_access_04	You wish to march across our lands? I do not think so. Soldiers do not always depart after they arrive.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_military_access_05	Your troops would frighten peasants and make them stop work, so you cannot march across our lands.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_military_access_06	I can see no sensible reason why you need to do that. You cannot march where you will.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_military_access_02	Sadly, I do not think my lord would want his peace disturbed by the marching of your men.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_military_access_03	No. Your troops would shatter the harmony of our lands, just by their presence!	true
+diplomacy_strings_string_tokugawa_acknowledge_marriage	Marriage and links of blood are the surest ways to improve understanding.	true
+diplomacy_strings_string_japanese_generic_monarchy_accept_very_friendly	It is heartening to see honour still exists in these treacherous times: you are a blessing to your clan. 	true
+diplomacy_strings_string_mori_reject_angry_offer_single_payment	Ha! Mori gold is not surrendered to passing bandits! Do not expect riches here.	true
+diplomacy_strings_string_date_offer_demand_peace	An end to fighting does not diminish us, or you. It shows prudence and honour.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_offer_marriage_02	A marriage into the Imperial family would benefit all, for it would be a sign of trust between us.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_offer_marriage_05	Perhaps you would consider a marriage into the Imperial family. Such a thing would do much to foster good relations.	true
+diplomacy_strings_string_current_treaty_protectorate_of_player	Vassal	true
+diplomacy_strings_string_iga_ninja_not_interested_in_further_discussion	Even now the clouds gather around the mountain tops, and sensible men go home.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_accept_hostile_08	Your proposal is, at best, disrespectful to His Majesty, but I will accept it. Abide your given word!	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_accept_hostile_02	I will carry the shame of our acceptance. The Emperor's reputation will remain intact.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_accept_hostile_03	I am sure court will be angered, but we must agree with your proposal. For now.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_accept_hostile_01	The Imperial Court will accept these terms, even though you are lower than a snake's belly. I will bear the dishonour.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_war_08	War, then, is your decision. I trust you will be among the first to die!	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_war_09	If we are to have war, then so be it. I look forward to saying prayers for your soul.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_war_02	Good! I had grown weary of talking when there is work for proper men. I look forward to taking your life!	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_war_03	War it is then. Many men will die because of the words spoken here.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_war_06	So, you have decided to die in battle. We shall do our very best to give you an honourable death.	true
+diplomacy_strings_string_japanese_generic_monarchy_approach_very_friendly	Let us speak together in honour and friendship, as honest men do.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_war_07	Wives and children will curse your name for what you have decided to do today.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_war_04	I hope you live long enough to recognise your foolishness, but not long after that.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_war_05	Your widows and orphans will soon be weeping at your foolishness today.	true
+diplomacy_strings_string_japanese_generic_monarchy_not_interested_in_further_discussion	Your words are clouds on the wind: pretty, but soon gone. Further talk is pointless now.	true
+diplomacy_strings_string_offer_or_demand_break_alliance	Break Alliance:	true
+diplomacy_strings_string_date_reject_angry_demand_single_payment	Not one single coin will leave the Date treasury. Continue, and much blood will flow!	true
+diplomacy_strings_string_Fujiwara_acknowledge_marriage	A marriage between your family and the Fujiwara brings many advantages. Let it be done.	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_war_10	So war has come. It is better this way. Japan will be better when you are safely dead.	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_regular_payment_03	A gift is always welcome, so let our repeated gifts to you be doubly, even triply, welcome!	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_regular_payment_02	I offer you a regular stipend, paid directly into your lord's treasury.	true
+diplomacy_strings_string_oda_reject_angry_offer_demand_alliance	The Oda clan has not fallen so low as to need you as allies!	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_cancel_alliance	Our alliance is ended. The next time we meet may be with swords rather than tea cups.	true
+diplomacy_strings_string_shimazu_generic_reject_angry_1	You insult Shimazu honour!	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_alliance	An alliance would not bring honour to you or us at this time.	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_demand_alliance_02	Can you not see it? Our enemies would die of fear alone if we were allies! It would be glorious!	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_demand_alliance_03	I offer an alliance! Think of the glory that could be ours, and accept this proposal!	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_accept_neutral_07	I accept on behalf of the Imperial Court. There: it is done. 	true
+diplomacy_strings_string_tokugawa_offer_demand_alliance	There is much honour in recognising friendship and trust when it is offered.	true
+diplomacy_strings_string_Minamoto_generic_reject_angry_1	No! Such scant fare would not sit well in Minamoto stomachs.	true
+diplomacy_strings_string_current_treaty_has_military_access_indefinite	Has military access to your lands (indefinite)	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_accept_unfriendly_02	I do not care for you or yours, but I will persuade the court to agree. That must be enough.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_accept_unfriendly_03	I still have reservations, but I will tell His Majesty that we have reached agreement here today.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_hostage	Our flesh and blood are not traded like cattle! There will be no hostage!	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_hostage	You offer a hostage? Have you anything of true value instead?	true
+diplomacy_strings_string_tokugawa_reject_offer_marriage	A traditional way of improving relations between two families, to be sure, but in this case inappropriate.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_regular_payment	You are mistaken: we are not cheap merchants to be taxed by you!	true
+diplomacy_strings_string_current_treaty_trade_agreement	Trade agreement	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_approach_very_friendly_02	Recognising your worth, the Emperor sends gracious felicitations, and instructs me to make you an offer.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_approach_very_friendly_09	His Majesty sends his best wishes, and hopes that we may reach further harmony.	true
+diplomacy_strings_string_japanese_fots_imperial_monarchy_approach_very_friendly_08	I bear greetings, and His Majesty's offer. Perhaps you will listen with wisdom and proper respect.	true
+diplomacy_strings_string_japanese_generic_monarchy_counter_accept_03	You have spoken well, and I am persuaded. I will accept your offer.	true
+diplomacy_strings_string_japanese_generic_monarchy_counter_reject_03	You have spoken poorly and done your clan no service today. I must reject your proposal.	true
+diplomacy_strings_string_japanese_generic_monarchy_counter_accept_02	Your words have merit, and I am sure my lord will approve. I accept your counter-proposal.	true
+diplomacy_strings_string_japanese_generic_monarchy_counter_reject_02	Your words lack substance, and I will risk the wrath of heaven by rejecting them immediately.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_demand_hostage	No. Our children are not bred so that they may be sent away to learn common manners from strangers.	true
+diplomacy_strings_string_japanese_generic_monarchy_counter_accept_06	Your proposed settlement is wise and fair. We accept.	true
+diplomacy_strings_string_japanese_generic_monarchy_counter_reject_06	Your proposal is interesting, but it would be unwise for us to accept it.	true
+diplomacy_strings_string_japanese_generic_monarchy_counter_accept_05	Your words are wise. We accept your proposal gladly.	true
+diplomacy_strings_string_japanese_generic_monarchy_counter_reject_05	Your words have been without number, but also without wisdom. We cannot accept your offer.	true
+diplomacy_strings_string_japanese_generic_monarchy_counter_accept_04	Your proposal has much to commend it. Yes… Yes. We agree to your terms. 	true
+diplomacy_strings_string_japanese_generic_monarchy_counter_reject_04	Your proposal was not what we wished to hear. I cannot, in all truth, accept it.	true
+diplomacy_strings_string_relationship_friendly	Friendly	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_hostile_10	I did not think you had the courage to come before me, but speak now that you are here.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_demand_hostage	A hostage? No. Some arrangements are not acceptable.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_hostile_08	I do not wish to listen to you, but politics makes for strange and sometimes unwelcome encounters.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_hostile_09	Speak your insolence, then I will reply.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_hostile_02	So then, what have you to say today? Will my ears be shamed by the hearing?	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_hostile_03	Speak if you must, but speak carefully if you value your tongue.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_hostile_04	I have better things to do than listen to an old woman's prattle. Speak, and try to make sense!	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_hostile_05	You are here like an honest man at the front gate. Better that, I suppose, than an assassin over the wall.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_hostile_06	Speak plainly. Speak quickly. Your presence is not entirely welcome. 	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_hostile_07	Do not expect tea. That is for friends. Speak your piece.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_regular_payment	We are not merchants or tradesmen, to be bought in this fashion. We are warriors!	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_regular_payment	Do you think us simple, or under the rule of moon rabbits? Why would we fill your treasury? No.	true
+diplomacy_strings_string_tokugawa_reject_angry_offer_demand_peace	The warriors of the Tokugawa see no need to stop slaughtering you now or in the near future.	true
+diplomacy_strings_string_takeda_generic_reject_2	The Takeda must say no to such a thing.	true
+diplomacy_strings_string_offer_or_demand_regular_payment	Regular payment: %d. Turns: %d	true
+diplomacy_strings_string_chosokabe_reject_offer_single_payment	Your gold could not buy a Chosokabe nail paring, let alone our good opinion.	true
+diplomacy_strings_string_japanese_generic_monarchy_cancel_trade	The time has come to put an end to trade between our peoples. It now serves no real purpose.	true
+diplomacy_strings_string_takeda_demand_military_access	Perhaps our warriors can be allowed free passage. You may keep the manure from our cavalry.	true
+diplomacy_strings_string_current_treaty_trade_embargoed	Their trade embargo against you (turns remaining: %d)	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_demand_alliance	We have thought deeply. Do you not think that our enemies would shake with fear if we were openly allied?	true
+diplomacy_strings_string_tokugawa_generic_reject_angry_2	Diplomacy does not mean agreeing to every outrageous proposal! No!	true
+diplomacy_strings_string_japanese_generic_monarchy_acknowledge_hostage	A hostage. Yes. We will agree to such an arrangement.	true
+diplomacy_strings_string_offer_or_demand_hostage	Hostages:	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_single_payment_02	I can offer you a substantial sum, in the hope it will achieve a better understanding between us.	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_single_payment_03	Perhaps a substantial amount of money might help you to understand that we are your friends.	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_offer_marriage	A generous and sincere offer, but matters must be otherwise.	true
+diplomacy_strings_string_ikko_ikki_acknowledge_marriage	May this marriage further strengthen the bond between us.	true
+diplomacy_strings_string_Fujiwara_receive_very_friendly	It is good to see an honourable friend of the Fujiwara in these times! What shall we talk of?	true
+diplomacy_strings_string_hojo_approach_friendly	Let us build from strong foundations, and thrive together.	true
+diplomacy_strings_string_ikko_ikki_reject_offer_demand_hostage	No. Our children are precious.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_very_friendly_09	Meetings with friends are always a pleasant diversion. What has brought you here today?	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_very_friendly_08	My good friend! Tell me what concerns you, and together we will resolve your problems!	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_very_friendly_07	Come, be seated. I will order tea, and we will have agreement before sunset!	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_very_friendly_06	I am honoured to receive you. It is always a good day when friends come to talk.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_very_friendly_05	It is good to see a friendly face. Come, let us talk, and take tea perhaps.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_very_friendly_04	This is a good day! A friendly visit! Good conversation! And perhaps a profitable outcome for all?	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_very_friendly_03	Be welcome, my friend. I have ordered sake prepared to whet our wits and warm our hearts.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_very_friendly_02	Come, let us take tea and talk. Then, after we have agreed, what other pleasures will we enjoy?	true
+diplomacy_strings_string_current_treaty_has_military_access_turns	Has military access to your lands (turns remaining: %d)	true
+diplomacy_strings_string_japanese_generic_monarchy_offer_regular_payment	Please accept our gifts: they reflect your honour and worth.	true
+diplomacy_strings_string_ikko_ikki_reject_angry_demand_hostage	Our people are not traded like cattle! There will be no hostage!	true
+diplomacy_strings_string_japanese_generic_monarchy_reject_angry_demand_marriage	I must tell you that our clan would sooner have the lowest leatherworker as a marriage partner! So: no.	true
+diplomacy_strings_string_japanese_generic_monarchy_receive_very_friendly_10	My friend, I am ready to listen to your every word. What I can do for you, I will do for you.	true

@@ -1,0 +1,14 @@
+key	text	tooltip
+#Loc;1;text/db/technology_categories.loc		
+technology_categories_tooltip_gempei_main_military	Master the budo arts to improve your clan's military capabilities.	true
+technology_categories_tooltip_shogun_main_military	Master the bushido arts to improve your clan's military capabilities.	true
+technology_categories_tooltip_boshin_main_military	Research military technologies to improve your clan's military capabilities.	true
+technology_categories_localised_name_boshin_main_civil	Civil Policy	true
+technology_categories_localised_name_gempei_main_military	Budo	true
+technology_categories_localised_name_shogun_main_military	Bushido	true
+technology_categories_localised_name_shogun_main_civil	Way of Chi	true
+technology_categories_localised_name_boshin_main_military	Military Technologies	true
+technology_categories_localised_name_gempei_main_civil	Bunka	true
+technology_categories_tooltip_gempei_main_civil	Master bunka to develop your clan's culture, government and economy.	true
+technology_categories_tooltip_shogun_main_civil	Master the Way of Chi to develop your clan's culture, government and economy.	true
+technology_categories_tooltip_boshin_main_civil	Enact civil policies to develop your clan's culture, government and economy.	true

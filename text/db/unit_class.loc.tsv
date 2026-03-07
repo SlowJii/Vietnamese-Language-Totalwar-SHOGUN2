@@ -1,0 +1,62 @@
+key	text	tooltip
+#Loc;1;text/db/unit_class.loc		
+unit_class_onscreen_naval_light_ship	Light Ship	true
+unit_class_onscreen_naval_cannon_ship	Cannon Ship	true
+unit_class_onscreen_infantry_special	Special Infantry	true
+unit_class_onscreen_naval_medium_ship	Medium Ship	true
+unit_class_onscreen_naval_corvette	Corvette	true
+unit_class_onscreen_naval_trade_ship	Trade Ship	true
+unit_class_onscreen_naval_heavy_ship	Heavy Ship	true
+unit_class_tooltip_general	The general gives a big morale boost to nearby friendly troops, but his army will suffer morale penalty if he is killed. Generals are best kept near frontlines to boost nearby troops, but should be protected by other units.	true
+unit_class_onscreen_naval_torpedoboat	Torpedo Boat 	true
+unit_class_tooltip_cavalry_lancers	Spear cavalry have a deadly charge but are weak in prolonged melee. They are good versus cavalry, but vulnerable to spear infantry.	true
+unit_class_onscreen_naval_ironclad	Ironclad	true
+unit_class_onscreen_infantry_militia	Militia Infantry	true
+unit_class_onscreen_artillery_foot	Artillery Units	true
+unit_class_tooltip_cavalry_missile	Missile cavalry can harass enemies from a distance but are poor in melee. Able to fire then reposition, they are difficult to pin down, but should avoid concentrations of enemy missile units.	true
+unit_class_onscreen_infantry_spearman	Spear Infantry	true
+unit_class_tooltip_infantry_matchlock	Armed with slow-firing but high-damage matchlocks, matchlock infantry are vulnerable to cavalry and melee infantry.	true
+unit_class_onscreen_artillery_fixed	Siege Units	true
+unit_class_tooltip_infantry_spearman	Spear infantry are excellent anti-cavalry infantry. Vulnerable to sword-armed infantry, they are also weak against missile troops.	true
+unit_class_tooltip_infantry_militia	Militia infantry are cheap units but are of variable quality. Ideal for garrison duties, they can also bolster an army's numbers if needs be and, if well led, may surprise a complacent enemy.	true
+unit_class_onscreen_infantry_sword	Sword Infantry	true
+unit_class_tooltip_artillery_fixed	Armed with weapons designed for dealing with castles and buildings, siege units are vulnerable in melee and to cavalry.	true
+unit_class_onscreen_infantry_heavy	Heavy Infantry	true
+unit_class_onscreen_cavalry_missile	Missile Cavalry	true
+unit_class_onscreen_infantry_elite	Elite Infantry	true
+unit_class_onscreen_infantry_light	Light Infantry	true
+unit_class_tooltip_naval_torpedoboat	Upgraded version of gunboat. Can use torpedoes against heavy, slow ships. Excellent at coastal defence.	true
+unit_class_tooltip_infantry_special	Special infantry who perform specific tasks on the battlefield. They are vulnerable to units who perform broader roles.	true
+unit_class_tooltip_naval_light_ship	Light ships are fast-moving with missile-armed crews. Their small crew sizes make them vulnerable to boarding actions.	true
+unit_class_tooltip_naval_medium_ship	Medium ships are good, all-round vessels with decent crew sizes, speed and manouverability. Their crew size still makes them vulnerable to boarding actions. They are slower than light ships.	true
+unit_class_onscreen_cavalry_lancers	Spear Cavalry	true
+unit_class_onscreen_general	General	true
+unit_class_tooltip_naval_heavy_ship	Heavy ships are "castles of the sea". Their large crew sizes make them ideal for conducting boarding actions, but they are slow and vulnerable to fire and cannons.	true
+unit_class_tooltip_naval_trade_ship	Trade ships are weak in combat but provide bountiful profit for a clan.	true
+unit_class_tooltip_naval_cannon_ship	Cannon ships are of average speed but are also armed with deadly cannons. They are vulnerable to smaller, faster ships.	true
+unit_class_tooltip_naval_corvette	Lightly-armed warships with a single gun deck. Relatively fast but with a weak hull when compared to frigates and ironclads.	true
+unit_class_tooltip_naval_ironclad	Heavy warships with armour plates to protect against explosive shells. Strong, slow vessels only vulnerable to piercing shells.	true
+unit_class_onscreen_cavalry_sword	Sword Cavalry	true
+unit_class_tooltip_infantry_bow	Bow infantry are fast-firing and long range infantry who can fill the sky with arrows, although they are not as damaging. They are very vulnerable to cavalry and weak in melee.	true
+unit_class_tooltip_naval_gunboat	Small, lightly-armed vessels with only a few guns, used for coastal patrols.	true
+unit_class_tooltip_infantry_line	Line infantry are excellent all-round units who form the main battle line. Thinner lines maximise firepower but are vulnerable to charges. The primary function of line infantry is to present as great a concentration of musket fire as possible. The rest of the army can then operate around this stable platform.	true
+unit_class_tooltip_naval_xebec	Xebecs are boarding specialists that sacrifice firepower for increased boarding abilities. Fast and agile, the xebec can catch up with most opponents quite quickly. However, a weak hull and light armaments means that the trading of broadsides is not recommended.	true
+unit_class_tooltip_naval_galleon	Galleons are powerful European ships armed with many large cannons. They are vulnerable to being surrounded by many smaller Japanese ships.	true
+unit_class_onscreen_infantry_matchlock	Matchlock Infantry	true
+unit_class_tooltip_naval_admiral	The admiral's flagship houses the leader of the fleet. "Castles of the sea", their large crew sizes make them ideal for performing boarding actions. They are slow and vulnerable to cannons and the outbreak of fires.	true
+unit_class_tooltip_artillery_foot	Artillery is devastating long range weaponry, but vulnerable in melee and to cavalry.	true
+unit_class_tooltip_siege	Armed with weapons designed for dealing with castles and buildings, siege units are vulnerable in melee and to cavalry.	true
+unit_class_tooltip_naval_frigate	Strongest non-ironclad ships, principal armament mounted on a single deck. Slow, heavy vessels.	true
+unit_class_onscreen_siege	Siege Units	true
+unit_class_onscreen_naval_frigate	Frigate	true
+unit_class_onscreen_naval_admiral	Admiral	true
+unit_class_onscreen_naval_xebec	Xebec	true
+unit_class_tooltip_infantry_elite	Elite infantry are crack troops and provide a morale boost to nearby friendly units. Veterans of many hard battles, they can be relied upon to hold their position come what may.	true
+unit_class_onscreen_naval_galleon	Galleon	true
+unit_class_tooltip_infantry_heavy	Heavy infantry are versatile units that are good against cavalry and in melee. However, sword infantry and spear infantry are stronger in both situations.	true
+unit_class_tooltip_infantry_sword	Sword infantry excel when in close-quarters melee. They are vulnerable to cavalry and missile troops.	true
+unit_class_onscreen_infantry_line	Line Infantry	true
+unit_class_onscreen_naval_gunboat	Gunboat	true
+unit_class_tooltip_infantry_light	Light infantry are sharpshooters and very good at screening the main battle line, although weak in melee. Their role involves advancing before the main body of the army to flush out enemy ambushes and thin their ranks, then withdrawing behind the main line when threatened.	true
+unit_class_tooltip_cavalry_sword	Sword cavalry are very effective in melee and strong against non-spear infantry. They are vulnerable to spear cavalry and missile units.	true
+unit_class_onscreen_infantry_bow	Bow Infantry	true

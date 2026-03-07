@@ -1,0 +1,80 @@
+key	text	tooltip
+#Loc;1;text/db/avatar_traits.loc		
+avatar_traits_onscreen_title_avatar_trait_army_melee_infantry	Favours melee infantry	true
+avatar_traits_onscreen_text_avatar_trait_army_melee_infantry	Is convinced of the merits of an army chiefly composed of melee infantry.	true
+avatar_traits_onscreen_text_avatar_trait_army_cavalry	Has a reputation for fielding large numbers of mounted troops in his armies.	true
+avatar_traits_onscreen_title_avatar_trait_skills_physical_1	Physically fit	true
+avatar_traits_onscreen_title_avatar_trait_skills_physical_3	Incredibly fit	true
+avatar_traits_onscreen_title_avatar_trait_skills_physical_2	Exceptionally fit	true
+avatar_traits_onscreen_text_avatar_trait_skills_bow_1	Has recently taken up the bow.	true
+avatar_traits_onscreen_text_avatar_trait_skills_bow_2	Yabusami - 'The Way of Horse and Bow' - is a fitting pursuit for a lord of men.	true
+avatar_traits_onscreen_text_avatar_trait_skills_bow_3	Dedicated practice has seen this man's skill with the bow progress from the awkward fumbling of the novice to something far more fluid and accomplished.	true
+avatar_traits_onscreen_text_avatar_trait_skills_bow_4	Through countless hours of practice, his bow seems almost an extension of his own arm.	true
+avatar_traits_onscreen_text_avatar_trait_skills_bow_5	A true master of the bow, the poets liken his skill to a sublime artform.	true
+avatar_traits_onscreen_title_Boshin_avatar_trait_skills_gunpowder_4	Famous Gunman	true
+avatar_traits_onscreen_title_Boshin_avatar_trait_skills_gunpowder_5	Legendary Gunman	true
+avatar_traits_onscreen_title_Boshin_avatar_trait_skills_gunpowder_1	Gunman	true
+avatar_traits_onscreen_title_Boshin_avatar_trait_skills_gunpowder_2	Journeyman Gunman	true
+avatar_traits_onscreen_title_Boshin_avatar_trait_skills_gunpowder_3	Skilled Gunman	true
+avatar_traits_onscreen_text_avatar_trait_skills_physical_3	This man's body is a temple, and the rigorous training to which he subjects it is akin to a prayer to the heavens.	true
+avatar_traits_onscreen_text_avatar_trait_skills_physical_2	Soft living breeds weakness of spirit. This man consciously strives against such a  fate through a routine of daily physical activity.	true
+avatar_traits_onscreen_text_avatar_trait_skills_physical_1	No more late nights slumped over the Go board nursing a flask of sake and a rounded companion; this man now takes his physical well-being seriously.	true
+avatar_traits_onscreen_text_Boshin_avatar_trait_skills_gunpowder_2	Practice breeds assurance, and this man now looks comfortable with a gun in his hand.	true
+avatar_traits_onscreen_text_Boshin_avatar_trait_skills_gunpowder_3	Needs only one bullet to achieve what would take another man six.	true
+avatar_traits_onscreen_text_Boshin_avatar_trait_skills_gunpowder_1	The gun is the future, a future that this man has had the foresight to embrace.	true
+avatar_traits_onscreen_text_Boshin_avatar_trait_skills_gunpowder_4	Can shoot a spinning coin from the air without apparently moving a muscle.	true
+avatar_traits_onscreen_text_Boshin_avatar_trait_skills_gunpowder_5	Do you feel lucky, punk?	true
+avatar_traits_onscreen_text_avatar_trait_skills_leadership_3	Has acquired the skills required to make his men follow him not only from duty, but also with pride.	true
+avatar_traits_onscreen_text_avatar_trait_skills_leadership_2	A calm demeanour, and a hint of steel in word, gaze and deed are useful attributes for an aspiring commander.	true
+avatar_traits_onscreen_text_avatar_trait_skills_leadership_1	Guidance from an experienced mentor has set this man on the road to becoming an effective leader of men.	true
+avatar_traits_onscreen_text_avatar_trait_skills_leadership_5	A rock in the tempest of battle, his inspired leadership means that while he stands, his men stand with him to face their destiny and write their names in legend.	true
+avatar_traits_onscreen_text_avatar_trait_skills_leadership_4	On many a battlefield, this man's deft leadership skills have held his men together and brought them through triumphant.	true
+avatar_traits_onscreen_title_avatar_trait_skills_leadership_4	Famous Leader	true
+avatar_traits_onscreen_title_avatar_trait_skills_leadership_5	Legendary Leader	true
+avatar_traits_onscreen_title_avatar_trait_skills_leadership_2	Journeyman Leader	true
+avatar_traits_onscreen_title_avatar_trait_skills_leadership_3	Skilled Leader	true
+avatar_traits_onscreen_title_avatar_trait_skills_leadership_1	Leader	true
+avatar_traits_onscreen_title_avatar_trait_army_missile_infantry	Favours missile infantry	true
+avatar_traits_onscreen_title_avatar_trait_army_balanced	Favours a balanced army	true
+avatar_traits_onscreen_title_avatar_trait_coward	Dishonourable Coward	true
+avatar_traits_onscreen_text_avatar_trait_skills_melee_3	An attentive pupil to the lessons of his sensei, and an alert observer of his opponent, he is forging a reputation as a skilled blade.	true
+avatar_traits_onscreen_text_avatar_trait_skills_melee_2	The sword is the soul of the samurai. That this man wears a sword proclaims not only his status but also that he is more than just a soft man of court.	true
+avatar_traits_onscreen_text_avatar_trait_skills_melee_1	To carry a fine blade does not always signify any degree of skill, yet this man has clearly mastered at least the basic strokes and guards.	true
+avatar_traits_onscreen_text_avatar_trait_skills_melee_5	True skill is action independent of thought. To behold this man in battle is to witness a kensei, an immortal master of the blade.	true
+avatar_traits_onscreen_text_avatar_trait_skills_melee_4	The sword is more than a simple tool - it is also a bridge on the road to one's destiny, a road that this man has travelled now for many miles.	true
+avatar_traits_onscreen_text_avatar_trait_army_artillery	Engines of war feature prominently in his military strategy.	true
+avatar_traits_onscreen_title_Boshin_avatar_trait_skills_command_3	Skilled Commander	true
+avatar_traits_onscreen_title_Boshin_avatar_trait_skills_command_2	Journeyman Commander	true
+avatar_traits_onscreen_title_Boshin_avatar_trait_skills_command_1	Commander	true
+avatar_traits_onscreen_title_Boshin_avatar_trait_skills_command_5	Legendary Commander	true
+avatar_traits_onscreen_title_Boshin_avatar_trait_skills_command_4	Famous Commander	true
+avatar_traits_onscreen_title_Boshin_avatar_trait_skills_bushido_2	Bushido Journeyman	true
+avatar_traits_onscreen_title_Boshin_avatar_trait_skills_bushido_3	Bushido Expert	true
+avatar_traits_onscreen_title_Boshin_avatar_trait_skills_bushido_1	Bushido Novice	true
+avatar_traits_onscreen_title_Boshin_avatar_trait_skills_bushido_4	Bushido Master	true
+avatar_traits_onscreen_title_Boshin_avatar_trait_skills_bushido_5	Legendary Bushido Master	true
+avatar_traits_onscreen_title_avatar_trait_skills_melee_4	Famous Swordsman	true
+avatar_traits_onscreen_title_avatar_trait_skills_melee_5	Legendary Swordsman	true
+avatar_traits_onscreen_title_avatar_trait_skills_melee_1	Swordsman	true
+avatar_traits_onscreen_title_avatar_trait_skills_melee_2	Journeyman Swordsman	true
+avatar_traits_onscreen_title_avatar_trait_skills_melee_3	Skilled Swordsman	true
+avatar_traits_onscreen_title_avatar_trait_army_artillery	Favours siege engines	true
+avatar_traits_onscreen_text_Boshin_avatar_trait_skills_bushido_5	True skill is action independent of thought. To behold this man in battle is to witness a kensei, an immortal master of the blade.	true
+avatar_traits_onscreen_text_Boshin_avatar_trait_skills_bushido_4	The sword is more than a simple tool - it is also a bridge on the road to one's destiny, a road that this man has travelled now for many miles.	true
+avatar_traits_onscreen_text_Boshin_avatar_trait_skills_bushido_3	An attentive pupil to the lessons of his sensei, and an alert observer of his opponent, he is forging a reputation as a skilled blade.	true
+avatar_traits_onscreen_text_Boshin_avatar_trait_skills_bushido_2	The sword is the soul of the samurai. That this man wears a sword proclaims not only his status but also that he is more than just a soft man of court.	true
+avatar_traits_onscreen_text_Boshin_avatar_trait_skills_bushido_1	To carry a fine blade does not always signify any degree of skill, yet this man has clearly mastered at least the basic strokes and guards.	true
+avatar_traits_onscreen_text_avatar_trait_coward	With a history of turning tail and running at the first sight of the enemy, this man lacks the courage even to make an honourable end to his own miserable existence. 	true
+avatar_traits_onscreen_text_Boshin_avatar_trait_skills_command_4	On many a battlefield, this man's deft leadership skills have held his men together and brought them through triumphant.	true
+avatar_traits_onscreen_text_Boshin_avatar_trait_skills_command_5	A rock in the tempest of battle, his inspired leadership means that while he stands, his men stand with him to face their destiny and write their names in legend.	true
+avatar_traits_onscreen_text_Boshin_avatar_trait_skills_command_2	A calm demeanour, and a hint of steel in word, gaze and deed are useful attributes for an aspiring commander.	true
+avatar_traits_onscreen_text_Boshin_avatar_trait_skills_command_3	Has acquired the skills required to make his men follow him not only from duty, but also with pride.	true
+avatar_traits_onscreen_text_Boshin_avatar_trait_skills_command_1	Guidance from an experienced mentor has set this man on the road to becoming an effective leader of men.	true
+avatar_traits_onscreen_title_avatar_trait_skills_bow_1	Bowman	true
+avatar_traits_onscreen_title_avatar_trait_skills_bow_3	Skilled Bowman	true
+avatar_traits_onscreen_title_avatar_trait_skills_bow_2	Journeyman Bowman	true
+avatar_traits_onscreen_title_avatar_trait_skills_bow_5	Legendary Bowman	true
+avatar_traits_onscreen_title_avatar_trait_skills_bow_4	Famous Bowman	true
+avatar_traits_onscreen_text_avatar_trait_army_missile_infantry	Has shown a tendency to favour large groupings of missile infantry in his army compositions.	true
+avatar_traits_onscreen_title_avatar_trait_army_cavalry	Favours cavalry	true
+avatar_traits_onscreen_text_avatar_trait_army_balanced	Follows the philosophy that a balanced army is as flexible as a grove of bamboo before the storm.	true

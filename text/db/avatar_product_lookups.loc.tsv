@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/db/avatar_product_lookups.loc		
+avatar_product_lookups_localised_string_otomo	You must purchase the Otomo clan dlc in order to access this content	true
+avatar_product_lookups_localised_string_unit_pack_2	You must have the Saints & Heroes Unit Pack dlc installed to recruit this unit.	true
+avatar_product_lookups_localised_string_unit_pack_1	You must have the Sengoku Jidai Unit Pack dlc installed to recruit this unit.	true
+avatar_product_lookups_localised_string_shogun2	blah	true
+avatar_product_lookups_localised_string_common	n/a	true
+avatar_product_lookups_localised_string_boshin	You must purchase the Fall of the Samurai dlc in order to access this content	true
+avatar_product_lookups_localised_string_gempei	You must purchase the Rise of the Samurai dlc in order to access this content	true
+avatar_product_lookups_localised_string_ikko_ikki	You must purchase the Ikko Ikki dlc in order to access this content	true

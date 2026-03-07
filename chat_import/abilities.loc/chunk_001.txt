@@ -1,0 +1,20 @@
+[0] Có thể bắt giữ và xét xử các đặc vụ khác.
+[1] Có thể thực hiện nhiệm vụ phá hoại.
+[2] Có thể hợp nhất với các đơn vị khác.
+[4] Có thể nghiên cứu công nghệ.
+[5] Có thể khởi phát trận đánh trên bộ.
+[6] Có thể thực hiện nhiệm vụ do thám.
+[7] Có thể xây dựng pháo đài.
+[8] Có thể thực hiện nhiệm vụ ám sát.
+[9] Có thể chiêu mộ đặc vụ của kẻ địch.
+[10] Có thể quyến rũ nhân vật của kẻ địch.
+[11] Có thể khởi phát trận hải chiến.
+[12] Cho phép cải đạo tôn giáo.
+[13] Cho phép ẩn nấp trên chiến trường.
+[14] Có thể làm suy giảm sĩ khí quân đội địch.
+[15] Có thể xây dựng nhiệm vụ.
+[16] Có thể nhận lời thách đấu tay đôi.
+[17] Có thể hối lộ nhân vật và lâu đài của kẻ địch.
+[18] Cho phép thách đấu tay đôi.
+[19] Có thể phá hoại một đạo quân.
+[20] Có thể kích động nổi dậy tôn giáo trong lãnh thổ kẻ địch.

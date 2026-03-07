@@ -1,0 +1,414 @@
+key	text	tooltip
+#Loc;1;text/db/battles.loc		
+battles_description_sho_mp_grassy_flatlands	This level is a test map, DO NOT TRANSLATE.	true
+battles_description_sho_mp_boshin_osaka_plain_no_kbs	.	true
+battles_localised_name_sho_mp_dlc_saga_no_kbs	Saga River	true
+battles_description_sho_mp_aki_no_kbs	.	true
+battles_description_sho_mp_naval_cape_nosappu	The straits off Cape Nosappu create a challenging battleground for any admiral.	true
+battles_localised_name_sho_mp_boshin_nishizawa_valley	[NEW]  Nishizawa Valley	true
+battles_description_Operation_santa_no_kbs	.	true
+battles_localised_name_sho_mp_boshin_naval_tsugaru_straits	[NEW]  Tsugaru Straits	true
+battles_description_sho_mp_flood_plain_no_kbs	.	true
+battles_description_sho_mp_bay_of_many_faces	A picturesque sandy bay at the foot of forest-laden hills.	true
+battles_description_sho_mp_boshin_jigokudani_valley_no_kbs	.	true
+battles_localised_name_Castle_Mountain_Level_01	Mountain Level 01 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Mountain_Level_02	Tarajo	true
+battles_localised_name_Castle_Mountain_Level_03	Mountain Level 03 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Mountain_Level_04	Mountain Level 04 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Mountain_Level_05	Mountaintop Fortress	true
+battles_localised_name_Castle_Mountain_Level_06	[NEW] Wakasa Fortress	true
+battles_description_sho_mp_dlc_kansai	PLACEHOLDER - TEXT NEEDED	true
+battles_description_sho_mp_boshin_gifu_no_kbs	.	true
+battles_localised_name_sho_mp_boshin_naval_seto_inland_sea	[NEW]  Seto Inland Sea	true
+battles_description_TUTORIAL_Battle_Samurai	PLACEHOLDER	true
+battles_description_sho_mp_waterfalls	A cliff face splits this battlefield between two levels, and creates numerous excellent firing positions.	true
+battles_localised_name_SHO_E3_Battle	E3 Battle	true
+battles_localised_name_sho_mp_alpine_ridge	Alpine Ridge	true
+battles_localised_name_sho_mp_boshin_naval_tokai_coast_no_kbs	[NEW]  Tokai Coast	true
+battles_description_Naval_Test_01	Test map for naval battles  DO NOT TRANSLATE	true
+battles_description_Naval_Test_03	Test map for naval battles  DO NOT TRANSLATE	true
+battles_description_Naval_Test_02	Test map for naval battles  DO NOT TRANSLATE	true
+battles_description_sho_mp_naval_aodaisho_sea	An open body of water between two large land masses.	true
+battles_localised_name_Ueno	Battle of Ueno	true
+battles_description_sho_mp_boshin_ridge_pass	.	true
+battles_description_sho_mp_boshin_ridge_pass_no_kbs	.	true
+battles_localised_name_sho_mp_chikugo_river	Chikugo River	true
+battles_description_sho_mp_boshin_kurobe_gorge_no_kbs	.	true
+battles_description_sho_mp_dlc_chugoku_no_kbs	PLACEHOLDER - TEXT NEEDED	true
+battles_description_sho_mp_sanriku_ria_no_kbs	.	true
+battles_localised_name_Naval_AI_Test_01	Naval AI Test 01	true
+battles_description_scs_enemystate_a03	TEST MAP DO NOT TRANSLATE	true
+battles_localised_name_Naval_AI_Test_02	Naval AI Test 02	true
+battles_localised_name_Kizugawaguchi	Battle of Kizugawaguchi	true
+battles_localised_name_sho_mp_slumbering_settlement_no_kbs	Slumbering Settlement	true
+battles_description_Castle_MP_Buatsui	Epic-scale fortress favouring massive armies with organised attack and defence plans.	true
+battles_description_sho_mp_boshin_happo_ridge_no_kbs	.	true
+battles_localised_name_sho_mp_lowlands_no_kbs	Lowlands	true
+battles_localised_name_sho_mp_boshin_naval_tohoku_sea	[NEW]  Tohoku Sea	true
+battles_localised_name_sho_mp_boshin_naval_tohoku_sea_no_kbs	[NEW]  Tohoku Sea	true
+battles_localised_name_sho_mp_shinano_river	Shinano River	true
+battles_localised_name_sho_mp_boshin_nishizawa_valley_no_kbs	[NEW]  Nishizawa Valley	true
+battles_localised_name_sho_mp_boshin_ishiyama_ruins_no_kbs	[NEW]  Ishiyama Ruins	true
+battles_description_sho_mp_naval_archipelago	An archipelago of many small islands to manoeuvre around.	true
+battles_localised_name_sho_mp_forest_gully	Forest Gully	true
+battles_localised_name_Compound_Test	Compound_Test	true
+battles_localised_name_sho_mp_boshin_ishiyama_ruins	[NEW]  Ishiyama Ruins	true
+battles_localised_name_sho_mp_yamasaki_choke_point	Yamasaki Choke Point	true
+battles_description_TUTORIAL_Naval_Ashigaru	PLACEHOLDER	true
+battles_localised_name_sho_mp_caldera	Caldera	true
+battles_localised_name_sho_mp_boshin_iwaki_foothills	[NEW]  Iwaki Foothills	true
+battles_description_sho_mp_foothills	Gently rolling hills and wooded areas reward stealthy and aggressive tactics.	true
+battles_localised_name_Toba_Fushimi	Battle of Toba-Fushimi	true
+battles_localised_name_Aizu	Battle of Aizu	true
+battles_localised_name_TUTORIAL_Battle_Shogun	Advanced Battle Tutorial	true
+battles_description_sho_mp_crossroads_no_kbs	Battle revolving around a series of villages lying within fertile flatlands.	true
+battles_localised_name_sho_mp_dlc_koshinetsu_no_kbs	Koshinetsu Ridge	true
+battles_description_sho_mp_dlc_tohoku	PLACEHOLDER - TEXT NEEDED	true
+battles_description_Castle_FS_Coastal_Level_04	Campaign Castle Map	true
+battles_description_Castle_FS_Coastal_Level_01	Campaign Castle Map	true
+battles_description_Castle_FS_Coastal_Level_02	Campaign Castle Map	true
+battles_description_Castle_FS_Coastal_Level_03	Campaign Castle Map	true
+battles_localised_name_Kawanakajima	4th Battle of Kawanakajima	true
+battles_localised_name_SHO_E3_Naval	E3 Naval Battle	true
+battles_description_sho_mp_boshin_usui_pass	.	true
+battles_description_sho_mp_boshin_kawabe_river_no_kbs	.	true
+battles_localised_name_sho_mp_boshin_usui_pass_no_kbs	[NEW]  Usui Pass	true
+battles_localised_name_Castle_Coastal_Level_04	Coastal Level 04 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Coastal_Level_05	Arai Castle	true
+battles_localised_name_Castle_Coastal_Level_06	[NEW] Satsuma Castle	true
+battles_localised_name_Castle_Coastal_Level_01	Coastal Level 01 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Coastal_Level_02	Yaizu Castle	true
+battles_localised_name_Castle_Coastal_Level_03	Coastal Level 03 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_description_Operation_santa	.	true
+battles_localised_name_sho_mp_numazawa_no_kbs	Numazawa	true
+battles_description_sho_mp_crossroads	Battle revolving around a series of villages lying within fertile flatlands.	true
+battles_localised_name_range_test_map	Range Test Map	true
+battles_description_sho_mp_river_town	A distant town becomes the focus of this battlefield, enabling commanders to surprise and flank their enemies.	true
+battles_localised_name_Osaka	Siege of Osaka Castle	true
+battles_description_sho_mp_boshin_ubayu_onsen_no_kbs	.	true
+battles_localised_name_All_Castle_01_Pieces	All_Castle_01_Pieces (Test Map, DO NOT LOCALISE)	true
+battles_localised_name_All_Castle_02_Pieces	All_Castle_02_Pieces (Test Map, DO NOT LOCALISE)	true
+battles_localised_name_All_Castle_03_Pieces	All_Castle_03_Pieces (Test Map, DO NOT LOCALISE)	true
+battles_localised_name_sho_mp_sakura_ridge	Sakura Ridge	true
+battles_description_sho_mp_boshin_jigokudani_valley	.	true
+battles_localised_name_sho_mp_hida_mountains	Hida Mountains	true
+battles_description_sho_mp_naval_akai_cove	A sheltered cove creates a tight arena for some destructive naval combat.	true
+battles_localised_name_tree_test_v2	tree_test_v2	true
+battles_description_sho_mp_boshin_naval_tokai_coast	.	true
+battles_description_sho_mp_dlc_kanto	PLACEHOLDER - TEXT NEEDED	true
+battles_description_sho_mp_rice_fields_no_kbs	The normally tranquil rice fields of rural Japan create a fairly flat battlefield.	true
+battles_localised_name_sho_mp_naval_akai_cove	Akai Cove	true
+battles_description_sho_mp_foothills_no_kbs	Gently rolling hills and wooded areas reward stealthy and aggressive tactics.	true
+battles_localised_name_Key_Buildings	Key Buildings	true
+battles_description_sho_mp_boshin_osaka_plain	.	true
+battles_description_Hakodate	In late 1868 what was left of the Shogun’s forces went north to Hokkaido and the “Ezo Republic”. They gathered at the massive and supposedly impregnable fortress of Goryokaku. The Imperial Army attacked, and the fighting in and around the fort was fierce. With their French advisor gone and half the defenders dead, the Ezo Republicans surrendered.	true
+battles_localised_name_TUTORIAL_Naval_Shogun	Advanced Naval Tutorial	true
+battles_description_Castle_Kyoto_Level_06	Kyoto Level 06	true
+battles_description_range_test_map	This level is a testbed, DO NOT TRANSLATE.	true
+battles_description_sho_mp_daisetsuzan_basin_no_kbs	A mountain range set amid the remains of a volcano. A flat ridge runs across the centre of this map, affording several important firing points.	true
+battles_description_sho_mp_numazawa_no_kbs	A central lake with vital strategic locations on the banks and on an island.	true
+battles_description_sho_mp_boshin_usui_pass_no_kbs	.	true
+battles_localised_name_sho_mp_koyasan_temple	Koyasan Temple	true
+battles_localised_name_sho_mp_hida_mountains_no_kbs	Hida Mountains	true
+battles_description_sho_mp_dlc_ehime_no_kbs	PLACEHOLDER - TEXT NEEDED	true
+battles_localised_name_Castle_FS_Coastal_Level_04	FS Coastal Level 04 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_FS_Coastal_Level_01	Chihaya Castle	true
+battles_localised_name_Castle_FS_Coastal_Level_02	FS Coastal Level 02 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_FS_Coastal_Level_03	Yashima Castle	true
+battles_description_sho_mp_boshin_naval_hokuriki_coast_no_kbs	.	true
+battles_description_sho_mp_dlc_saga	PLACEHOLDER - TEXT NEEDED	true
+battles_description_sho_mp_dlc_tokai_no_kbs	PLACEHOLDER - TEXT NEEDED	true
+battles_description_sho_mp_dlc_kansai_no_kbs	PLACEHOLDER - TEXT NEEDED	true
+battles_description_TUTORIAL_Battle_Shogun	PLACEHOLDER	true
+battles_description_Castle_FS_Mountain_Level_04	Campaign Castle Map	true
+battles_description_Castle_FS_Mountain_Level_01	Campaign Castle Map	true
+battles_description_Castle_FS_Mountain_Level_02	Campaign Castle Map	true
+battles_description_Castle_FS_Mountain_Level_03	Campaign Castle Map	true
+battles_localised_name_sho_mp_slumbering_settlement	Slumbering Settlement	true
+battles_description_Castle_Hilly_Plane_Level_05	Campaign Castle Map	true
+battles_description_Castle_Hilly_Plane_Level_04	Campaign Castle Map	true
+battles_description_Castle_Hilly_Plane_Level_06	Campaign Castle Map	true
+battles_description_Castle_Hilly_Plane_Level_01	Campaign Castle Map	true
+battles_description_Castle_Hilly_Plane_Level_03	Campaign Castle Map	true
+battles_description_Castle_Hilly_Plane_Level_02	Campaign Castle Map	true
+battles_localised_name_sho_mp_dlc_hokuriku	Hokuriku Crossing	true
+battles_description_sho_mp_naval_suruga_bay	Flat, calm stretch of open sea, emphasising pure tactical movement.	true
+battles_description_sho_mp_caldera	The hollow basin of an extinct volcano creates a unique and tactically challenging battlefield.	true
+battles_description_Castle_Hilly_Coast_Level_06	Campaign Castle Map	true
+battles_description_Castle_Hilly_Coast_Level_04	Campaign Castle Map	true
+battles_description_Castle_Hilly_Coast_Level_05	Campaign Castle Map	true
+battles_description_Castle_Hilly_Coast_Level_02	Campaign Castle Map	true
+battles_description_Castle_Hilly_Coast_Level_03	Campaign Castle Map	true
+battles_description_Castle_Hilly_Coast_Level_01	Campaign Castle Map	true
+battles_description_sho_mp_dlc_kanto_no_kbs	PLACEHOLDER - TEXT NEEDED	true
+battles_description_Anegawa	Wary of Oda Nobunaga's growing influence in Kyoto, Asai Nagamasa lent his support to the Asakura clan in a war between the two rivals. Enraged, Oda Nobunaga summoned his ally Tokugawa Ieyasu and marched north once more to confront the Asai on their own territory. The two armies would meet across the Anegawa river in 1570, in the shadow of Odani castle.	true
+battles_description_sho_mp_dlc_gunma_no_kbs	PLACEHOLDER - TEXT NEEDED	true
+battles_description_TUTORIAL_Battle_Ashigaru	PLACEHOLDER	true
+battles_localised_name_Castle_Mountain_Version_02_Level_03	Mountain Version 02 Level 03 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Mountain_Version_02_Level_02	Mountain Version 02 Level 02 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Mountain_Version_02_Level_01	Mountain Version 02 Level 01 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Mountain_Version_02_Level_06	Mountain Version 02 Level 06  (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Mountain_Version_02_Level_05	Mountain Version 02 Level 05 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Mountain_Version_02_Level_04	Mountain Version 02 Level 04 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_description_sho_mp_naval_monkey_bay	Inlet with a small island towards the mouth.	true
+battles_localised_name_Castle_Kyoto	Kyoto	true
+battles_localised_name_Castle_Mountain_Version_03_Level_03	Mountain Version 03 Level 03 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Mountain_Version_03_Level_02	Mountain Version 03 Level 02 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Mountain_Version_03_Level_01	Mountain Version 03 Level 01 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Mountain_Version_03_Level_06	Mountain Version 03 Level 06 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Mountain_Version_03_Level_05	Mountain Version 03 Level 05 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Mountain_Version_03_Level_04	Mountain Version 03 Level 04 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_sho_mp_shinano_river_no_kbs	Shinano River	true
+battles_localised_name_sho_mp_chikugo_river_no_kbs	Chikugo River	true
+battles_description_sho_mp_boshin_naval_tohoku_sea	.	true
+battles_description_sho_mp_lowlands_no_kbs	A large, open plain divided by a river with limited crossing points.	true
+battles_description_sho_mp_numazawa	A central lake with vital strategic locations on the banks and on an island.	true
+battles_description_sho_mp_dlc_chubu_no_kbs	PLACEHOLDER - TEXT NEEDED	true
+battles_localised_name_scs_enemystate_a03	Front End Castle	true
+battles_description_sho_mp_dlc_tokai	PLACEHOLDER - TEXT NEEDED	true
+battles_description_Castle_Plane_Level_01	Small-scale, intimate castle; poor defensive terrain but with a few exposed gateways.	true
+battles_description_Castle_Plane_Level_03	Large castle surrounded by rolling terrain.	true
+battles_description_Castle_Plane_Level_02	Walled town amid the exposed plains.	true
+battles_description_Castle_Plane_Level_05	Epic-scale fortress favouring massive armies with organised attack and defence plans.	true
+battles_description_sho_mp_naval_island_chain	Larger island chain with four small land masses surrounding a central island.	true
+battles_description_Castle_Plane_Level_04	Sprawling castle on multiple levels with numerous approaches and avenues of attack.	true
+battles_description_Castle_Plane_Level_06	Campaign Castle Map	true
+battles_description_sho_mp_dlc_chubu	PLACEHOLDER - TEXT NEEDED	true
+battles_localised_name_Castle_FS_Plane_Level_03	Hiuchiyama Castle	true
+battles_localised_name_Castle_FS_Plane_Level_02	FS Plane Level 02 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_FS_Plane_Level_01	Plains Garrison	true
+battles_localised_name_Castle_FS_Plane_Level_04	FS Plane Level 04 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_description_sho_mp_dlc_tohoku_no_kbs	PLACEHOLDER - TEXT NEEDED	true
+battles_description_sho_mp_ikenoura_village	A fishing village on the coastline of Shikoku. Two narrow valleys join to form a wide bay that opens onto the sea.	true
+battles_description_Okehazama	The Battle of Okehazama (1560) is where Oda Nobunaga demonstrated his skill as a master tactician and his courage in the face of overwhelming odds. Outnumbered by Imagawa Yoshimoto’s army, he led his force to the rear of their camp and launched a surprise attack whilst the Imagawa were celebrating, scattering their army and leaving Imagawa Yoshimoto himself vulnerable. This victory made Oda Nobunaga’s reputation, and he would go on to become one of the greatest warlords of the Sengoku Jidai. 	true
+battles_description_Kawagoe	The Battle of Kawagoe (1545) saw the Hojo clan launch a successful night time counter-attack against the besieging Uesugi, eschewing heavy armour and the collection of heads in favour of speed and stealth. 	true
+battles_description_sho_mp_dlc_ehime	PLACEHOLDER - TEXT NEEDED	true
+battles_description_sho_mp_dlc_gunma	PLACEHOLDER - TEXT NEEDED	true
+battles_description_sho_mp_boshin_naval_tokai_coast_no_kbs	.	true
+battles_description_sho_mp_daisetsuzan_basin	A mountain range set amid the remains of a volcano. A flat ridge runs across the centre of this map, affording several important firing points.	true
+battles_localised_name_sho_mp_boshin_jigokudani_valley_no_kbs	[NEW]  Jigokudani Valley 	true
+battles_localised_name_sho_mp_dlc_koshinetsu	Koshinetsu Ridge	true
+battles_localised_name_AI_Test_Land_01	AI Test Land 01	true
+battles_localised_name_AI_Test_Land_02	AI Test Land 02	true
+battles_description_sho_mp_lowlands	A large, open plain divided by a river with limited crossing points.	true
+battles_description_Nagashino	The Battle of Nagashino (1575) saw the defeat of Takeda Katsuyori’s fearsome cavalry by Tokugawa Ieyasu and Oda Nobunaga, the latter defeating the mighty Takeda cavalry charge by unleashing a volley of matchlock fire from behind stockades. 	true
+battles_localised_name_Operation_santa_no_kbs	Operation Santa	true
+battles_localised_name_sho_mp_boshin_iwaki_foothills_no_kbs	[NEW]  Iwaki Foothills	true
+battles_description_sho_mp_boshin_naval_sea_of_japan	.	true
+battles_description_sho_mp_boshin_nishizawa_valley	.	true
+battles_description_sho_mp_boshin_ubayu_onsen	.	true
+battles_description_Nagashima	After two disastrous attempts to end the Ikko-Ikki threat, Oda Nobunaga finally succeeded at the Battle of Nagashima (1574). With the aid of Kuki Yoshitaka’s naval forces, he cut the Ikko-ikki off from their supplies and forced them back to a small area on the island. Once surrounded, Nobunaga built a large palisade to trap them and proceeded to burn all 20,000 people inside, regardless of whether they were soldiers, women or children. 	true
+battles_description_sho_mp_tranquil_streams	The rivers running down the length of this battlefield serve to split up and divide armies. Successful commanders will capture the crossings that allow them to unite their forces.	true
+battles_description_sho_mp_dlc_saga_no_kbs	PLACEHOLDER - TEXT NEEDED	true
+battles_description_sho_mp_boshin_happo_ridge	.	true
+battles_localised_name_sho_mp_boshin_naval_hokuriki_coast	[NEW]  Hokuriki Coast	true
+battles_localised_name_sho_mp_boshin_naval_tokai_coast	[NEW]  Tokai Coast	true
+battles_localised_name_sho_mp_foothills_no_kbs	Foothills	true
+battles_localised_name_sho_mp_foothills	Foothills	true
+battles_description_Toba_Fushimi	Following intrigues by the Satsuma and Choshu domains, Tokugawa Yoshinobu, the Shogun, sent his army to Kyoto to “report” to the Emperor and remove radicals from the Imperial Court. As his army approached Kyoto, a Satsuma force blocked the way. Armed with Western artillery, the Satsuma and their Choshu allies intended to keep the Shogun’s army out of the city. After two bloody days of fighting the Shogun’s army retreated to Osaka Castle.	true
+battles_description_Aizu	The domain of Aizu resisted the Imperialists, even after the fall of Edo. The Imperial army eventually forced Matsudaira Katamori, the lord of Aizu, to capitulate. But his people fought long and hard. At the end, believing that all was lost, the Aizu White Tiger troops followed tradition and committed suicide.	true
+battles_localised_name_sho_mp_waterfalls	Waterfalls	true
+battles_description_sho_mp_boshin_ishiyama_ruins	.	true
+battles_description_SHO_E3_Battle	The Battle that will be used at E3	true
+battles_localised_name_sho_mp_naval_aodaisho_sea	Aodaisho Sea	true
+battles_localised_name_Naval_Test_02	Naval Test Map 02	true
+battles_localised_name_Naval_Test_03	Naval Test Map 03	true
+battles_localised_name_Naval_Test_01	Naval Test Map 01	true
+battles_description_Castle_FS_Hilly_Plane_Level_04	Campaign Castle Map	true
+battles_description_Castle_FS_Hilly_Plane_Level_03	Campaign Castle Map	true
+battles_description_Castle_FS_Hilly_Plane_Level_02	Campaign Castle Map	true
+battles_description_Castle_FS_Hilly_Plane_Level_01	Campaign Castle Map	true
+battles_localised_name_sho_mp_boshin_naval_seto_inland_sea_no_kbs	[NEW]  Seto Inland Sea	true
+battles_description_sho_mp_dlc_koshinetsu_no_kbs	PLACEHOLDER - TEXT NEEDED	true
+battles_localised_name_sho_mp_naval_cape_nosappu	Cape Nosappu	true
+battles_localised_name_sho_mp_daisetsuzan_basin_no_kbs	Daisetsuzan Basin	true
+battles_localised_name_sho_mp_aki_no_kbs	Aki	true
+battles_localised_name_sho_mp_boshin_gifu_no_kbs	[NEW]  Gifu Crossing	true
+battles_localised_name_sho_mp_dlc_kansai	Kansai Wood	true
+battles_localised_name_sho_mp_crossroads_no_kbs	Crossroads	true
+battles_localised_name_sho_mp_flood_plain_no_kbs	Flood Plain	true
+battles_description_sho_mp_boshin_naval_tohoku_sea_no_kbs	.	true
+battles_localised_name_sho_mp_dlc_ehime_no_kbs	Ehime Gorge	true
+battles_localised_name_Tower_Test	Tower_Test	true
+battles_localised_name_sho_mp_boshin_kurobe_gorge	[NEW]  Kurobe Gorge	true
+battles_description_sho_mp_boshin_nishizawa_valley_no_kbs	.	true
+battles_description_Kawanakajima	The 4th Battle of Kawanakajima (1561) was the greatest of five battles between legendary rivals Takeda Shingen and Uesugi Kenshin. Despite heavy losses on both sides, there was no decisive victor and the feud remained unresolved. 	true
+battles_description_SHO_E3_Naval	The Naval Battle that will be used at E3	true
+battles_localised_name_sho_mp_dlc_tokai_no_kbs	Tokai Valley	true
+battles_description_sho_mp_boshin_naval_tsugaru_straits_no_kbs	.	true
+battles_localised_name_sho_mp_dlc_saga	Saga River	true
+battles_localised_name_Castle_FS_Mountain_Level_04	FS Mountain Level 04 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_FS_Mountain_Level_02	FS Mountain Level 02 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_FS_Mountain_Level_03	Awazu Castle	true
+battles_localised_name_Castle_FS_Mountain_Level_01	Outlands Castle	true
+battles_localised_name_sho_mp_sanriku_ria_no_kbs	Sanriku Ria	true
+battles_localised_name_sho_mp_dlc_chugoku_no_kbs	Chugoku River	true
+battles_description_tree_test_v2	test map DO NOT TRANSLATE	true
+battles_localised_name_sho_mp_boshin_kawabe_river	[NEW]  Kawabe River	true
+battles_description_sho_mp_dlc_hokuriku	PLACEHOLDER - TEXT NEEDED	true
+battles_localised_name_sho_mp_naval_suruga_bay	Suruga Bay	true
+battles_localised_name_sho_mp_boshin_kurobe_gorge_no_kbs	[NEW]  Kurobe Gorge	true
+battles_localised_name_Castle_Hilly_Plane_Level_06	[NEW] Uzen Fortress	true
+battles_localised_name_Castle_Hilly_Plane_Level_05	Towering Citadel	true
+battles_localised_name_Castle_Hilly_Plane_Level_04	Hilly Plane Level 04 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Hilly_Plane_Level_03	Hilly Plane Level 03 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Hilly_Plane_Level_02	Hilltop Settlement	true
+battles_localised_name_Castle_Hilly_Plane_Level_01	Hilly Plane Level 01 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_description_Kizugawaguchi	The Battle of Kizugawaguchi (1578) was Oda Nobunaga’s second attempt to break the Mori clan’s naval supply lines to the Ikko-Ikki, who were besieged at Ishiyama Hongan-Ji. The Mori were in possession of an extremely powerful fleet and had already thwarted Oda two years before. For this battle, he commissioned six massive battleships partially covered in iron plating, enabling him to beat the Mori and cut off the Ikko-Ikki from their supplies and allies, eventually leading to their surrender in 1580.	true
+battles_description_All_Castle_01_Pieces	Test Map	true
+battles_description_All_Castle_02_Pieces	Test Map	true
+battles_description_All_Castle_03_Pieces	Test Map	true
+battles_localised_name_Castle_MP_Buatsui	Buatsui	true
+battles_localised_name_sho_mp_boshin_ubayu_onsen_no_kbs	[NEW]  Ubayu Onsen	true
+battles_localised_name_Castle_Hilly_Coast_Level_04	Hilly Coastal Level 04 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Hilly_Coast_Level_05	Coastal Fort	true
+battles_localised_name_Castle_Hilly_Coast_Level_06	Hilly Coastal Level 06 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Hilly_Coast_Level_01	Hilly Coastal Level 01 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Hilly_Coast_Level_02	Bay Castle	true
+battles_localised_name_Castle_Hilly_Coast_Level_03	Hilly Coastal Level 03 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_sho_mp_dlc_gunma_no_kbs	Gunma Field	true
+battles_localised_name_Anegawa	Battle of Anegawa	true
+battles_localised_name_sho_mp_dlc_kanto_no_kbs	Kanto Plains	true
+battles_description_Castle_Mountain_Version_02_Level_01	Campaign Castle Map	true
+battles_description_Castle_Mountain_Version_02_Level_03	Campaign Castle Map	true
+battles_description_Castle_Mountain_Version_02_Level_02	Campaign Castle Map	true
+battles_description_Castle_Mountain_Version_02_Level_05	Campaign Castle Map	true
+battles_description_Castle_Mountain_Version_02_Level_04	Campaign Castle Map	true
+battles_description_Castle_Mountain_Version_02_Level_06	Campaign Castle Map	true
+battles_description_Castle_Mountain_Version_03_Level_01	Campaign Castle Map	true
+battles_description_Castle_Mountain_Version_03_Level_03	Campaign Castle Map	true
+battles_description_Castle_Mountain_Version_03_Level_02	Campaign Castle Map	true
+battles_description_Castle_Mountain_Version_03_Level_05	Campaign Castle Map	true
+battles_description_Castle_Mountain_Version_03_Level_04	Campaign Castle Map	true
+battles_description_Castle_Mountain_Version_03_Level_06	Campaign Castle Map	true
+battles_localised_name_sho_mp_bay_of_many_faces	Bay of Many Faces	true
+battles_localised_name_sho_mp_naval_monkey_bay	Monkey Bay	true
+battles_description_sho_mp_dlc_chugoku	PLACEHOLDER - TEXT NEEDED	true
+battles_description_Castle_Mountain_Level_05	Vast castle defended by steep mountain approaches and cliffs.	true
+battles_description_Castle_Mountain_Level_04	Sprawling castle spread across an impressive mountain range.	true
+battles_description_Castle_Mountain_Level_06	Campaign Castle Map	true
+battles_description_Castle_Mountain_Level_01	Small fort with steep approach paths.	true
+battles_description_Castle_Mountain_Level_03	Average-sized castle on multiple levels atop a large mountain.	true
+battles_description_Castle_Mountain_Level_02	Castle surrounded by vast and imposing mountainsides.	true
+battles_description_sho_mp_shinano_river_no_kbs	Flowing from Mount Kobushi and across the Niigata plains, this is the longest river in Japan.	true
+battles_description_sho_mp_chikugo_river_no_kbs	The longest river in Kyushu, running from Mount Aso down to the Ariake sea. This map is set on the small delta at the river mouth.	true
+battles_localised_name_sho_mp_boshin_osaka_plain_no_kbs	[NEW]  Osaka Plain	true
+battles_localised_name_sho_mp_dlc_tohoku	Tohoku Forest	true
+battles_localised_name_sho_mp_numazawa	Numazawa	true
+battles_localised_name_sho_mp_dlc_chubu_no_kbs	Chubu Pass	true
+battles_description_Compound_Test	Compound_Test	true
+battles_description_Ueno	Tokugawa Yoshinobu, the last Shogun, retired to the Kan’ei-ji Temple at Ueno. The Shogitai, men still loyal to the Shogunate, carried on the fight in Edo, and the Satsuma clan attacked Kan’ei-ji. Although outnumbered, the Satsuma and their allies used modern guns, and the Shogotai leaders only just escaped by sea. The temple’s abbot, imperial Prince Yoshihisa, went with them.	true
+battles_description_sho_mp_rice_fields	The normally tranquil rice fields of rural Japan create a fairly flat battlefield.	true
+battles_description_sho_mp_aki	.	true
+battles_localised_name_sho_mp_boshin_ridge_pass	[NEW]  Awa Ridge Pass	true
+battles_description_sho_mp_boshin_iwaki_foothills	.	true
+battles_description_sho_mp_sakura_ridge_no_kbs	A ridge on the coast, near the volcanic peak Sakura-jima at the southern end of Kyushu. A high ridge runs across the centre of this map.	true
+battles_localised_name_sho_mp_ikenoura_village	Ikenoura Village	true
+battles_localised_name_Miyako_Bay	Battle of Miyako Bay	true
+battles_description_sho_mp_dlc_hokuriku_no_kbs	PLACEHOLDER - TEXT NEEDED	true
+battles_localised_name_Kawagoe	Battle of Kawagoe	true
+battles_description_Osaka	Defeat by the Satsuma and Choshu left the Shogun reeling. Rather than lead his army, Tokugawa Yoshinobu fled after seeing the Emperor’s banner flying above his enemies’ ranks. His men were braver, and took a stand at Osaka, ready to fight to the last man if necessary.	true
+battles_localised_name_Sekigahara	Battle of Sekigahara	true
+battles_description_Naval_AI_Test_01	Test battle for naval AI DO NOT TRANSLATE	true
+battles_description_Naval_AI_Test_02	Test battle for naval AI  DO NOT TRANSLATE	true
+battles_description_sho_mp_boshin_gifu	.	true
+battles_description_sho_mp_hida_mountains	.	true
+battles_description_sho_mp_chikugo_river	The longest river in Kyushu, running from Mount Aso down to the Ariake sea. This map is set on the small delta at the river mouth.	true
+battles_localised_name_sho_mp_flood_plain	Flood Plain	true
+battles_localised_name_sho_mp_oboke_gorge	Oboke Gorge	true
+battles_localised_name_sho_mp_naval_strait_of_shimonoseki	Strait of Shimonoseki	true
+battles_localised_name_sho_mp_crossroads	Crossroads	true
+battles_localised_name_sho_mp_boshin_kawabe_river_no_kbs	[NEW]  Kawabe River	true
+battles_description_sho_mp_sanriku_ria	.	true
+battles_description_AI_Test_Land_02	AI test land battle	true
+battles_description_AI_Test_Land_01	AI test land battle	true
+battles_localised_name_sho_mp_naval_archipelago	Archipelago	true
+battles_localised_name_sho_mp_lowlands	Lowlands	true
+battles_localised_name_sho_mp_boshin_happo_ridge_no_kbs	[NEW]  Happo Ridge	true
+battles_localised_name_sho_mp_river_town	River Town	true
+battles_localised_name_sho_mp_tranquil_streams	Tranquil Streams	true
+battles_description_sho_mp_alpine_ridge_no_kbs	A low ridge occupies the centre of this otherwise flat map, creating a key objective to battle over.	true
+battles_description_sho_mp_shinano_river	Flowing from Mount Kobushi and across the Niigata plains, this is the longest river in Japan.	true
+battles_localised_name_sho_mp_alpine_ridge_no_kbs	Alpine Ridge	true
+battles_localised_name_sho_mp_grassy_flatlands	COMPLETELY FLAT MAP	true
+battles_description_TUTORIAL_Naval_Shogun	PLACEHOLDER	true
+battles_localised_name_Castle_Kyoto_Level_06	Kyoto Level 06	true
+battles_localised_name_sho_mp_sanriku_ria	Sanriku Ria	true
+battles_localised_name_TUTORIAL_Battle_Ashigaru	Beginners Battle Tutorial	true
+battles_description_sho_mp_boshin_naval_tsugaru_straits	.	true
+battles_description_sho_mp_naval_strait_of_shimonoseki	One of Japan’s busiest waterways separating the main islands of Honshu and Kyushu.	true
+battles_description_Castle_Kyoto	Kyoto	true
+battles_localised_name_sho_mp_dlc_chubu	Chubu Pass	true
+battles_description_sho_mp_flood_plain	.	true
+battles_description_sho_mp_oboke_gorge	A gorge in the Shikoku mountains, carved by the Yoshino river.	true
+battles_localised_name_TUTORIAL_Battle_Samurai	Intermediate Battle Tutorial	true
+battles_description_sho_mp_boshin_naval_seto_inland_sea	.	true
+battles_description_Castle_FS_Plane_Level_04	Campaign Castle Map	true
+battles_description_Castle_FS_Plane_Level_02	Campaign Castle Map	true
+battles_description_Castle_FS_Plane_Level_03	Campaign Castle Map	true
+battles_description_Castle_FS_Plane_Level_01	Campaign Castle Map	true
+battles_localised_name_sho_mp_dlc_tohoku_no_kbs	Tohoku Forest	true
+battles_localised_name_sho_mp_rice_fields_no_kbs	Rice Fields	true
+battles_localised_name_sho_mp_boshin_gifu	[NEW]  Gifu Crossing	true
+battles_description_Key_Buildings	This level is a testbed for key buildings, DO NOT TRANSLATE.	true
+battles_description_Sekigahara	The Battle of Sekigahara (1600) ended the civil war between the supporters of Tokugawa Ieyasu and those of Ishida Mitsunari, leading to the establishment of the Tokugawa Shogunate. The outcome hinged on the supporting armies of Kobayakawa Hideaki and other daimyo, whose loyalties were torn between both leaders; their eventual defection to Tokugawa’s cause tipping the scales in his favour. 	true
+battles_localised_name_sho_mp_boshin_osaka_plain	[NEW]  Osaka Plain	true
+battles_description_sho_mp_alpine_ridge	A low ridge occupies the centre of this otherwise flat map, creating a key objective to battle over.	true
+battles_localised_name_sho_mp_dlc_hokuriku_no_kbs	Hokuriku Crossing	true
+battles_localised_name_sho_mp_dlc_tokai	Tokai Valley	true
+battles_description_Miyako_Bay	Ex-Shogunate rebels of the “Ezo Republic” sailed from Hokkaido Island in several ships to intercept the Imperial Navy. Two vessels suffered engine trouble, but the Kaiten, the Ezo flagship, attacked anyway. Even samurai bravado could do little against Imperial Gatling guns, and the Imperial Army’s landing on Hokkaido was not prevented.	true
+battles_localised_name_sho_mp_boshin_ridge_pass_no_kbs	[NEW]  Awa Ridge Pass	true
+battles_localised_name_sho_mp_sakura_ridge_no_kbs	Sakura Ridge	true
+battles_localised_name_sho_mp_daisetsuzan_basin	Daisetsuzan Basin	true
+battles_localised_name_sho_mp_rice_fields	Rice Fields	true
+battles_localised_name_sho_mp_aki	Aki	true
+battles_localised_name_sho_mp_dlc_gunma	Gunma Field	true
+battles_localised_name_sho_mp_dlc_ehime	Ehime Gorge	true
+battles_description_sho_mp_slumbering_settlement_no_kbs	Under the peaks of an impressive mountain range lies a sleepy village crossroads of vital strategic importance.	true
+battles_localised_name_sho_mp_boshin_naval_hokuriki_coast_no_kbs	[NEW]  Hokuriki Coast	true
+battles_description_sho_mp_boshin_iwaki_foothills_no_kbs	.	true
+battles_localised_name_sho_mp_boshin_naval_sea_of_japan	[NEW] Sea of Japan	true
+battles_description_sho_mp_koyasan_temple	A temple complex on the side of Mount Koya, surrounded by thick woodland.	true
+battles_localised_name_sho_mp_dlc_chugoku	Chugoku River	true
+battles_description_sho_mp_boshin_ishiyama_ruins_no_kbs	.	true
+battles_description_sho_mp_forest_gully	Battlefield characterised by the distinctive dramatic, hilly terrain of Japan. Securing the high ridges is key, and a heavy covering of trees creates ample ambush opportunities.	true
+battles_localised_name_Castle_Plane_Level_06	[NEW] Iburi Castle	true
+battles_localised_name_Castle_Plane_Level_04	Plane Level 04 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Plane_Level_05	Plains Fortress	true
+battles_localised_name_sho_mp_naval_island_chain	Island Chain	true
+battles_localised_name_Castle_Plane_Level_02	Shinjo	true
+battles_localised_name_Castle_Plane_Level_03	Plane Level 03 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_Plane_Level_01	Plane Level 01 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_description_sho_mp_yamasaki_choke_point	This hilly landscape channels armies and necessitates the creation of kill zones.	true
+battles_localised_name_TUTORIAL_Naval_Ashigaru	Beginners Naval Tutorial	true
+battles_localised_name_Okehazama	Battle of Okehazama	true
+battles_localised_name_sho_mp_dlc_kanto	Kanto Plains	true
+battles_description_sho_mp_boshin_kawabe_river	.	true
+battles_localised_name_sho_mp_boshin_naval_tsugaru_straits_no_kbs	[NEW]  Tsugaru Straits	true
+battles_description_Tower_Test	Tower_Test	true
+battles_description_sho_mp_boshin_kurobe_gorge	.	true
+battles_localised_name_Hakodate	Battle of Hakodate	true
+battles_description_sho_mp_dlc_koshinetsu	PLACEHOLDER - TEXT NEEDED	true
+battles_localised_name_Nagashino	Battle of Nagashino	true
+battles_localised_name_sho_mp_boshin_usui_pass	[NEW]  Usui Pass	true
+battles_localised_name_sho_mp_dlc_kansai_no_kbs	Kansai Wood	true
+battles_localised_name_Operation_santa	Operation Santa	true
+battles_description_Castle_Coastal_Level_06	Campaign Castle Map	true
+battles_description_Castle_Coastal_Level_04	Large castle of several tiers requiring a concerted effort from both attackers and defenders.	true
+battles_description_Castle_Coastal_Level_05	Huge coastal fortress that creates the atmosphere of an epic siege.	true
+battles_description_Castle_Coastal_Level_02	Moderately-sized castle on the edge of the ocean. Defensible terrain gives the attacker an extra obstacle to overcome.	true
+battles_description_Castle_Coastal_Level_03	Castle on multiple levels that causes the defender to spread out thinly.	true
+battles_description_Castle_Coastal_Level_01	Small coastal fort with several approaches for the attacker. The defender may consider pushing out to defend the natural ridges beyond the castle walls.	true
+battles_description_sho_mp_hida_mountains_no_kbs	.	true
+battles_localised_name_sho_mp_boshin_happo_ridge	[NEW]  Happo Ridge	true
+battles_localised_name_Nagashima	Battle of Nagashima	true
+battles_description_sho_mp_boshin_naval_seto_inland_sea_no_kbs	.	true
+battles_localised_name_sho_mp_boshin_ubayu_onsen	[NEW]  Ubayu Onsen	true
+battles_localised_name_Castle_FS_Hilly_Plane_Level_04	FS Hilly Plane Level 04 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_FS_Hilly_Plane_Level_03	Fushimi Castle	true
+battles_localised_name_Castle_FS_Hilly_Plane_Level_02	FS Hilly Plane Level 02 (Campaign Castle Map, DO NOT LOCALISE)	true
+battles_localised_name_Castle_FS_Hilly_Plane_Level_01	Cape Irago	true
+battles_description_sho_mp_sakura_ridge	A ridge on the coast, near the volcanic peak Sakura-jima at the southern end of Kyushu. A high ridge runs across the centre of this map.	true
+battles_description_sho_mp_slumbering_settlement	Under the peaks of an impressive mountain range lies a sleepy village crossroads of vital strategic importance.	true
+battles_localised_name_sho_mp_boshin_jigokudani_valley	[NEW]  Jigokudani Valley 	true
+battles_description_sho_mp_boshin_naval_hokuriki_coast	.	true

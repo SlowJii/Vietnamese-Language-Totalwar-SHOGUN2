@@ -1,0 +1,5 @@
+key	text	tooltip
+#Loc;1;text/db/population_classes.loc		
+population_classes_onscreen_name_lower	Lower Class	true
+population_classes_onscreen_name_middle	Middle Class	true
+population_classes_onscreen_name_upper	Nobility	true

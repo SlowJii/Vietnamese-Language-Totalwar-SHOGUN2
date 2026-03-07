@@ -1,0 +1,80 @@
+[248] Kihetai
+[249] Chosokabe Bow Samurai
+[250] Takeda Hỏa kỵ binh
+[251] Hộ vệ hạm bọc giáp - lớp Kasuga
+[252] Heavy Bune của Đô đốc
+[253] Tetsubo Warriors của Tadakatsu
+[254] Bộ binh Cộng hòa
+[255] Hộ vệ hạm gỗ - lớp Kanrin Maru
+[256] Bow Ki
+[257] Hộ vệ hạm bọc giáp - lớp Kaiten
+[258] Naginata cưỡi ngựa
+[259] Hộ vệ hạm bọc đồng - lớp Kaiten
+[260] Anh hùng Naginata Warrior Monk
+[261] Lực lượng Bạch Hổ
+[262] Bóng ma của Hanzo
+[263] Chosokabe Daikyu Samurai
+[264] Bow Kỵ binh
+[265] Thiết giáp hạm - lớp Kotetsu
+[266] Chosokabe Bow Ashigaru
+[267] Tokugawa Kisho Ninja
+[268] Mori O Ataka Bune
+[270] Hattori Hanzo
+[271] Bộ binh đồn trú Levy
+[272] Kisho Ninja
+[273] Yari Ashigaru
+[274] Anh hùng Uesugi Naginata Warrior Monk
+[275] Shogitai
+[276] Bộ binh Hoàng gia
+[277] Pháo gỗ
+[278] Takeda Nobukado
+[279] Thuyền lớn Attendants
+[280] Bow Samurai
+[281] Armstrong Guns
+[282] Hộ vệ hạm bọc đồng - lớp Kasuga
+[283] Mori Bow Kobaya
+[284] Kỵ binh Cận vệ Hoàng gia
+[285] Kỵ binh Revolver
+[286] Kỵ binh Cận vệ Hoàng gia
+[287] Saigo Takamori
+[288] Bộ binh Hồng Hùng
+[289] Bow Warrior Monks
+[290] Uesugi Bow Warrior Monks
+[291] Takeda Katsuyori
+[292] Katana Kỵ binh của Kiyomasa
+[293] Bow Attendants
+[295] Phóng lôi đĩnh - lớp Chiyodagata
+[296] Matchlock Kobaya
+[297] Đồn trú Ikko Ikki Naginata Warrior Monks
+[298] Kisho Ninja
+[299] Tetsubo Warriors của Tadakatsu
+[300] Bow Ki
+[302] Đồn trú Bow Ashigaru
+[303] Ishida Mitsunari
+[304] Yari Kachi
+[305] Samurai bộ
+[306] Hojo Tsunanari
+[307] Siege Tower Bune
+[308] Donderbuss Kỵ binh
+[309] Kiếm sư của Seigen
+[311] Hojo Tên lửa
+[312] Kiếm sư của Seigen
+[313] Thuyền Hạng nhẹ Attendants
+[314] Lực lượng cảnh sát Shinsengumi
+[315] Fire Bomb Kobaya
+[316] Uesugi Norimasa
+[317] Hojo Cối tay
+[318] Uesugi Marathon Monks
+[319] Yugekitai
+[320] Sengoku Bune
+[321] Đồn trú Yari Ashigaru
+[322] Yari Kỵ binh
+[323] Oda Yari Ashigaru
+[324] Mori Heavy Bune
+[325] Thuyền Hạng nhẹ Samurai
+[326] Mori Cannon Bune
+[327] Mori Medium Bune
+[328] Xạ thủ thiện xạ
+[329] Bộ binh Cận vệ Mạc phủ
+[330] Lực lượng Bạch Hổ
+[331] Naginata Warrior Monk Kỵ binh

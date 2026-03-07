@@ -1,0 +1,168 @@
+key	text	tooltip
+#Loc;1;text/db/unit_info_card_abilities_strings.loc		
+unit_info_card_abilities_strings_bullet_text_socket_bayonet	Socket Bayonet	true
+unit_info_card_abilities_strings_bullet_text_quicklime_shells	Quicklime Shells	true
+unit_info_card_abilities_strings_tooltip_text_socket_bayonet	Provide melee bonuses, particularly against charging units.	true
+unit_info_card_abilities_strings_bullet_text_bad_marksmanship	Poor Shots	true
+unit_info_card_abilities_strings_bullet_text_dismount	Can Dismount	true
+unit_info_card_abilities_strings_tooltip_text_rally_position	This general can declare a rally position for withdrawing and routing units. 	true
+unit_info_card_abilities_strings_bullet_text_fire_and_advance	Fire and Advance Drill	true
+unit_info_card_abilities_strings_bullet_text_cant_run	Cannot Run	true
+unit_info_card_abilities_strings_bullet_text_rally_position	Rally Position 	true
+unit_info_card_abilities_strings_bullet_text_skirmish	Can skirmish	true
+unit_info_card_abilities_strings_tooltip_text_wedge_formation	Trained to charge in a wedge formation in order to better penetrate enemy formations.	true
+unit_info_card_abilities_strings_bullet_text_campmap_stealth	Paths Seldom Trod	true
+unit_info_card_abilities_strings_bullet_text_rifled_cannons	Rifled Cannons	true
+unit_info_card_abilities_strings_tooltip_text_rifled_cannons	Range and accuracy of cannons is improved.	true
+unit_info_card_abilities_strings_tooltip_text_grappling_hook	placeholder	true
+unit_info_card_abilities_strings_bullet_text_grappling_hook	Grappling Hook	true
+unit_info_card_abilities_strings_tooltip_text_scares_enemies	The fierce appearance of these warriors is unnerving for those who must face them in battle.	true
+unit_info_card_abilities_strings_bullet_text_blinding_grenade	Blinding Grenades	true
+unit_info_card_abilities_strings_bullet_text_scares_enemies	Scares Enemies	true
+unit_info_card_abilities_strings_tooltip_text_banzai	This unit can enter into a frenzied state for a short period of time, increasing its speed, morale, charge and melee attacks. 	true
+unit_info_card_abilities_strings_bullet_text_banzai	Banzai	true
+unit_info_card_abilities_strings_bullet_text_pike_square_formation	Yari Square Formation	true
+unit_info_card_abilities_strings_bullet_text_inspire	Encourages nearby units	true
+unit_info_card_abilities_strings_tooltip_text_grappling_hooks	These men are practiced in the use of grappling hooks to scale fort walls.	true
+unit_info_card_abilities_strings_bullet_text_copper_bottoms	Copper Bottoms	true
+unit_info_card_abilities_strings_tooltip_text_pike_square_formation	The spear square is an immobile solid square of men presenting a wall of spears on all sides to deter cavalry attack.	true
+unit_info_card_abilities_strings_tooltip_text_warcry	Warcry heavily demoralises nearby enemies, slowing them down and affecting their defence ability for a short time. 	true
+unit_info_card_abilities_strings_bullet_text_unlimber	Unlimber/limber artillery	true
+unit_info_card_abilities_strings_bullet_text_melee_vs_cavalry	Melee Bonus versus Cavalry	true
+unit_info_card_abilities_strings_bullet_text_warcry	Warcry	true
+unit_info_card_abilities_strings_tooltip_text_copper_bottoms	Increases ship speed.	true
+unit_info_card_abilities_strings_tooltip_text_kisho_training	This unit can be deployed outside of the deployment zone.	true
+unit_info_card_abilities_strings_bullet_text_kisho_training	Kisho Training	true
+unit_info_card_abilities_strings_bullet_text_explosive_shells	Explosive Shells	true
+unit_info_card_abilities_strings_bullet_text_good_markmanship	Crack Shots	true
+unit_info_card_abilities_strings_tooltip_text_flaming_arrows_ability	This unit can fire flaming arrows for a short period of time. Flaming arrows have a greater damage effect and can set fire to flammable objects. The effect of flaming arrows is reduced in wet weather.	true
+unit_info_card_abilities_strings_bullet_text_flaming_arrows_ability	Flaming Arrows	true
+unit_info_card_abilities_strings_bullet_text_whistling_arrows_ability	Can fire whistling arrows	true
+unit_info_card_abilities_strings_bullet_text_grenades	Can Throw Grenades	true
+unit_info_card_abilities_strings_bullet_text_scares_horses	Scares Horses	true
+unit_info_card_abilities_strings_tooltip_text_inspire_unit	placeholder	true
+unit_info_card_abilities_strings_bullet_text_heat_resistant	Resistant to Heat Fatigue	true
+unit_info_card_abilities_strings_tooltip_text_platoon_fire	Trained to fire in groups, or platoons, so as to maintain an unceasing fire on the enemy.	true
+unit_info_card_abilities_strings_bullet_text_grappling_hooks	Grappling Hooks	true
+unit_info_card_abilities_strings_tooltip_text_heat_resistant	These men suffer less fatigue when fighting in a hot climate.	true
+unit_info_card_abilities_strings_tooltip_text_inspire	This heroic body of men set an encouraging example to comrades nearby, making them less likely to rout.	true
+unit_info_card_abilities_strings_tooltip_text_scares_horses	The unfamiliar sight, sound and smell of a camel or elephant can unsettle enemy horses.	true
+unit_info_card_abilities_strings_tooltip_text_cold_resistant	These men suffer less fatigue when fighting in a cold climate.	true
+unit_info_card_abilities_strings_bullet_text_cold_resistant	Resistant to Cold Fatigue	true
+unit_info_card_abilities_strings_tooltip_text_wooden_stakes	Sharpened stakes can be used to deter enemy cavalry charges.	true
+unit_info_card_abilities_strings_bullet_text_good_firepower	Heavy Firepower	true
+unit_info_card_abilities_strings_tooltip_text_policing_bonus	The draconian techniques employed by these men when on garrison duty are highly effective at maintaining public order.	true
+unit_info_card_abilities_strings_bullet_text_canister_shot	Canister Shot	true
+unit_info_card_abilities_strings_tooltip_text_manoeuvrable	Able to turn almost in its own length, this ship handles like a dream.	true
+unit_info_card_abilities_strings_bullet_text_policing_bonus	Garrison Policing Bonus	true
+unit_info_card_abilities_strings_tooltip_text_snipe	These units are highly skilled and deadly missile infantry, allowing them to fire whilst remaining hidden.	true
+unit_info_card_abilities_strings_tooltip_text_good_firepower	Packs sufficient firepower to trouble the heaviest opponent.	true
+unit_info_card_abilities_strings_bullet_text_wooden_stakes	Can place stakes	true
+unit_info_card_abilities_strings_bullet_text_immune_to_spears	No penalty against spears	true
+unit_info_card_abilities_strings_bullet_text_hide_buildings	Can hide in Buildings	true
+unit_info_card_abilities_strings_bullet_text_snipe	Remains hidden whilst firing	true
+unit_info_card_abilities_strings_tooltip_text_plug_bayonet	Provide melee bonuses, particularly against charging units, but prevent further firing once fixed.	true
+unit_info_card_abilities_strings_tooltip_text_canister_shot	A short range anti-personnel munition.	true
+unit_info_card_abilities_strings_tooltip_text_hide_buildings	Once they have garrisoned a building, these men will lie low until the time is right to spring their ambush.	true
+unit_info_card_abilities_strings_tooltip_text_carcass_shot	An incendiary munition.	true
+unit_info_card_abilities_strings_bullet_text_rapid_advance	Can use rapid advance	true
+unit_info_card_abilities_strings_bullet_text_wedge_formation	Wedge Formation	true
+unit_info_card_abilities_strings_bullet_text_active_hiding	Stealth	true
+unit_info_card_abilities_strings_bullet_text_artillery_accuracy_boost	Increased Accuracy	true
+unit_info_card_abilities_strings_bullet_text_rally	Rally	true
+unit_info_card_abilities_strings_bullet_text_stalk	Remains hidden anywhere whilst walking	true
+unit_info_card_abilities_strings_tooltip_text_rally_general	This general can rally nearby routing troops, returning them to the fray while boosting the morale of others. 	true
+unit_info_card_abilities_strings_tooltip_text_active_hiding	This unit can become extremely stealthy for a short period of time, remaining hidden even when running. 	true
+unit_info_card_abilities_strings_tooltip_text_ring_bayonet	Provide melee bonuses, particularly against charging units, but cause slower reloading when fixed.	true
+unit_info_card_abilities_strings_bullet_text_light_infantry_behaviour	Light Infantry Tactics	true
+unit_info_card_abilities_strings_tooltip_text_rapid_advance	Increases a unit's movement speed for a short period of time. 	true
+unit_info_card_abilities_strings_tooltip_text_top_gallants	Increased ship speed.	true
+unit_info_card_abilities_strings_bullet_text_rally_general	Can rally 	true
+unit_info_card_abilities_strings_tooltip_text_fragile_hull	A thin-timbered hull provides little protection against a sustained cannonade.	true
+unit_info_card_abilities_strings_tooltip_text_range_effect	This temporarily increases a unit's firing range. 	true
+unit_info_card_abilities_strings_tooltip_text_rally	placeholder	true
+unit_info_card_abilities_strings_tooltip_text_stalk	These men can slowly stalk a target anywhere without giving away their position, though running or firing will draw attention.	true
+unit_info_card_abilities_strings_tooltip_text_good_defence	These men are better than average at staying in one piece.	true
+unit_info_card_abilities_strings_bullet_text_square_formation	Can adopt square formation	true
+unit_info_card_abilities_strings_tooltip_text_shrapnel_shot	An air-burst munition which showers targets with metal fragments.	true
+unit_info_card_abilities_strings_tooltip_text_drop_engines	Dropping your engines means your crew can move freely.||Usage of this is limited but may be useful if you have no other units to complete objectives or want to flee potential threats.	true
+unit_info_card_abilities_strings_bullet_text_shrapnel_shot	Shrapnel Shot	true
+unit_info_card_abilities_strings_tooltip_text_rapid_volley	placeholder	true
+unit_info_card_abilities_strings_tooltip_text_campmap_stealth	These men use every fold of the land to conceal the route of their march, and are harder to spot on the campaign map.	true
+unit_info_card_abilities_strings_tooltip_text_hide_woods	When moving through wooded areas, units are hidden from enemy view.	true
+unit_info_card_abilities_strings_tooltip_text_bad_marksmanship	There's only so much you can blame on the weapon…	true
+unit_info_card_abilities_strings_tooltip_text_quicklime_shells	These projectiles burst to shower the target with caustic quicklime.	true
+unit_info_card_abilities_strings_bullet_text_hide_woods	Can hide in Woodland	true
+unit_info_card_abilities_strings_tooltip_text_rank_fire	Will fire by rank from front to rear, each rank kneeling to reload and allowing those behind a clear field of fire.	true
+unit_info_card_abilities_strings_tooltip_text_good_reload	Constant repetition shaves fractions from loading times and helps to eliminate misfires.	true
+unit_info_card_abilities_strings_tooltip_text_disciplined	These men are better able to resist the sudden shocks of combat without breaking and running.	true
+unit_info_card_abilities_strings_tooltip_text_dismount	This unit can dismount to fight on foot then remount to quickly reposition.	true
+unit_info_card_abilities_strings_bullet_text_cadenced_marching	Cadenced Marching	true
+unit_info_card_abilities_strings_tooltip_text_skirmish	A skirmishing unit will retreat from enemies threatening their position.	true
+unit_info_card_abilities_strings_tooltip_text_fire_volley	PLACEHOLDER	true
+unit_info_card_abilities_strings_tooltip_text_fire_and_advance	This unit can advance by rank, claiming ground whilst maintaining a steady rate of fire.	true
+unit_info_card_abilities_strings_tooltip_text_cant_run	This unit can only move at walking speed when limbered.	true
+unit_info_card_abilities_strings_tooltip_text_cadenced_marching	Increases campaign map movement.	true
+unit_info_card_abilities_strings_bullet_text_long_range	Long Range Weapons	true
+unit_info_card_abilities_strings_bullet_text_rank_fire	Rank Firing Drill	true
+unit_info_card_abilities_strings_tooltip_text_long_range	This unit employs long range weaponry.	true
+unit_info_card_abilities_strings_tooltip_text_cantabrian_circle	This unit can arrange itself into a moving circular formation, harrassing the enemy with a constant rate of fire.	true
+unit_info_card_abilities_strings_bullet_text_pike_wall_formation	Yari Wall	true
+unit_info_card_abilities_strings_bullet_text_percussion_shells	Percussion Shells	true
+unit_info_card_abilities_strings_bullet_text_cantabrian_circle	Swooping Crane 	true
+unit_info_card_abilities_strings_tooltip_text_percussion_shells	Explode on impact, thus less error-prone than conventional explosive shells.	true
+unit_info_card_abilities_strings_tooltip_text_blinding_grenade	This unit can use blinding grenades to disorientate the enemy, affecting their speed, combat abilities and missile accuracy. 	true
+unit_info_card_abilities_strings_tooltip_text_second_wind	This restores a unit's stamina for a short period, allowing them to fight as if they were fresh to battle. 	true
+unit_info_card_abilities_strings_bullet_text_hide_scrub	Can hide in Light Scrub	true
+unit_info_card_abilities_strings_tooltip_text_good_morale	A strong esprit de corps unites these men, giving them high morale.	true
+unit_info_card_abilities_strings_tooltip_text_hide_scrub	When stationary in light scrub, these men will position themselves so as to be invisible to the enemy.	true
+unit_info_card_abilities_strings_tooltip_text_artillery_rof_boost	This unit can increase its firing rate for a short period of time. 	true
+unit_info_card_abilities_strings_bullet_text_hide_grass	Can hide in Long Grass	true
+unit_info_card_abilities_strings_tooltip_text_unlimber	Unlimbering artillery allows you to set up an artillery position.||Limbering artillery allows you to move your artillery if you need to adjust the range, or make a tactical retreat.	true
+unit_info_card_abilities_strings_tooltip_text_hide_grass	When stationary in long grass, these men will position themselves so as to be invisible to the enemy.	true
+unit_info_card_abilities_strings_tooltip_text_melee_vs_cavalry	These men are effective at countering mounted opponents.	true
+unit_info_card_abilities_strings_tooltip_text_explosive_shells	Explosive projectiles whose detonation is governed by a lit fuse.	true
+unit_info_card_abilities_strings_tooltip_text_good_markmanship	Steady hands and sharp eyes make for fine shots.	true
+unit_info_card_abilities_strings_tooltip_text_bamboo_wall	A large wall that can be erected during the deployment phase. It blocks the movement of enemies and protects against cavalry charges. 	true
+unit_info_card_abilities_strings_tooltip_text_whistling_arrows_ability	As well as having normal arrow damage, whistling arrows have an unsettling effect on enemies they hit or fly over, reducing their combat ability for a short period. 	true
+unit_info_card_abilities_strings_tooltip_text_grenades	Can throw crude grenades to clear entrenchments and occupied buildings.	true
+unit_info_card_abilities_strings_bullet_text_inspire_unit	Inspire Unit	true
+unit_info_card_abilities_strings_tooltip_text_can_trade	Can exploit resources when placed at a trade post.	true
+unit_info_card_abilities_strings_bullet_text_platoon_fire	Platoon Firing Drill	true
+unit_info_card_abilities_strings_tooltip_text_bad_reload	"Faster man! No, not like that, you've left the ramrod in!"	true
+unit_info_card_abilities_strings_bullet_text_bad_reload	Sloppy Reloaders	true
+unit_info_card_abilities_strings_bullet_text_artillery_rof_boost	Rate of Fire	true
+unit_info_card_abilities_strings_bullet_text_can_trade	Trade Ship	true
+unit_info_card_abilities_strings_bullet_text_second_wind	Second Wind	true
+unit_info_card_abilities_strings_bullet_text_good_morale	High Morale	true
+unit_info_card_abilities_strings_tooltip_text_fatigue_resistant	Superb stamina makes these men tire less quickly.	true
+unit_info_card_abilities_strings_bullet_text_manoeuvrable	Manoeuvrable	true
+unit_info_card_abilities_strings_bullet_text_bamboo_wall	Bamboo Wall 	true
+unit_info_card_abilities_strings_tooltip_text_diamond_formation	An evolution of the wedge formation, the diamond formation is even more effective at disrupting enemy formations.	true
+unit_info_card_abilities_strings_tooltip_text_immune_to_spears	This unit does not suffer a penalty against spear units.	true
+unit_info_card_abilities_strings_bullet_text_plug_bayonet	Plug Bayonet	true
+unit_info_card_abilities_strings_bullet_text_diamond_formation	Diamond Formation	true
+unit_info_card_abilities_strings_bullet_text_fatigue_resistant	Good Stamina	true
+unit_info_card_abilities_strings_tooltip_text_artillery_accuracy_boost	This unit can increase its shooting accuracy for a short period of time.  	true
+unit_info_card_abilities_strings_bullet_text_rally_unit	Can rally routing comrades	true
+unit_info_card_abilities_strings_bullet_text_carcass_shot	Carcass Shot	true
+unit_info_card_abilities_strings_tooltip_text_rally_unit	These men command sufficient respect to be able to rally their routing comrades.	true
+unit_info_card_abilities_strings_bullet_text_fire_volley	Fire Volley	true
+unit_info_card_abilities_strings_bullet_text_ring_bayonet	Ring Bayonet	true
+unit_info_card_abilities_strings_tooltip_text_light_infantry_behaviour	Spreading out to find cover helps to reduce casualties.	true
+unit_info_card_abilities_strings_bullet_text_good_reload	Practiced Loading Drill	true
+unit_info_card_abilities_strings_bullet_text_disciplined	Resistant to Morale Shocks	true
+unit_info_card_abilities_strings_bullet_text_good_defence	Good Defence	true
+unit_info_card_abilities_strings_tooltip_text_square_formation	Can adopt a square formation to repel cavalry attacks at the cost of unit mobility.	true
+unit_info_card_abilities_strings_tooltip_text_stand_firm	This temporarily increases defence ability and stops morale from dropping, making the unit, and up to two nearby units, unbreakable for a short time. 	true
+unit_info_card_abilities_strings_bullet_text_pavisse_deployable	Screens	true
+unit_info_card_abilities_strings_bullet_text_top_gallants	Top Gallants	true
+unit_info_card_abilities_strings_bullet_text_fragile_hull	Fragile Hull	true
+unit_info_card_abilities_strings_bullet_text_range_effect	Can use range effect	true
+unit_info_card_abilities_strings_tooltip_text_pavisse_deployable	A defensive shield that can be erected during the deployment phase. It blocks the movement of enemies.	true
+unit_info_card_abilities_strings_bullet_text_stand_firm	Hold Firm	true
+unit_info_card_abilities_strings_tooltip_text_we_stand_and_fight	The general dismounts and forms up with his bodyguard around him. All friendly units within a large area have their melee attack, firing rate and morale greatly increased, but the general himself is left immobile and vulnerable until the ability is deactivated.	true
+unit_info_card_abilities_strings_bullet_text_we_stand_and_fight	Stand and Fight	true
+unit_info_card_abilities_strings_bullet_text_drop_engines	Drop Engines	true
+unit_info_card_abilities_strings_tooltip_text_pike_wall_formation	A tight-packed formation presenting a wall of spears to the front to deter enemy cavalry attack.	true
+unit_info_card_abilities_strings_bullet_text_rapid_volley	Rapid Volley	true

@@ -1,0 +1,80 @@
+[81] Kỵ binh Carbine
+[82] Yugekitai
+[83] Anh hùng Bow
+[84] Bow Kobaya
+[85] Takeda Yari Kỵ binh
+[86] Chosokabe Bow Warrior Monks
+[87] Mori Fire Bomb Kobaya
+[88] Heavy Bune
+[89] Những ngọn giáo của Shizugatake
+[90] Fire Bomb Kobaya
+[91] Bóng ma của Hanzo
+[92] Hattori Yari Samurai
+[93] Hojo Ujiyasu
+[94] Bow Ashigaru
+[95] Katana Dojo Samurai
+[96] Naginata Levy
+[97] Benkei's Blades
+[98] Bow Kachi
+[99] Hỏa cầu thủ
+[100] Marathon Monks
+[101] Anh hùng Samurai
+[102] Hattori Bow Samurai
+[103] Đao bộ binh
+[104] Khinh hạm bọc giáp - lớp Kaiyo Maru
+[105] Heavy Bune
+[106] Hắc thuyền
+[107] Lực lượng cảnh sát Shinsengumi
+[108] Lực lượng Hắc Quy
+[109] Hattori Kisho Ninja
+[110] Bộ binh Hắc Hùng
+[111] Hỏa cầu thủ
+[112] Thiết giáp hạm - lớp Kotetsu
+[113] Thuyền lớn Samurai
+[114] Anh hùng Yari
+[115] Bộ binh Đại Soái
+[116] Pháo hạm - lớp Chiyodagata
+[118] Tây dương Pháo
+[119] Mori Wako Raiders
+[120] Đồn trú Naginata Levy
+[121] Thủy quân lục chiến Hoa Kỳ
+[122] Imagawa Yoshimoto
+[123] Bow Warrior Monks
+[124] Mori Siege Tower Bune
+[125] Tích lịch xa
+[126] Hộ vệ hạm gỗ - lớp Kanrin Maru
+[127] Kỵ binh Revolver
+[128] Kỵ binh Cận vệ Mạc phủ
+[129] Spear Levy
+[130] Bộ binh Mạc phủ
+[131] Shimazu Yoshihiro
+[132] Katana Ronin
+[133] Levy Infantry
+[134] Bow Kobaya
+[135] Katana Kachi
+[137] Katana Kỵ binh
+[138] Anh hùng Naginata Warrior Monk
+[139] Cối tay
+[140] Siege Tower Bune
+[141] Anh hùng Samurai cưỡi ngựa
+[142] Pike Infantry
+[143] Takeda Bow Kỵ binh
+[144] Nihon Maru
+[145] O Ataka Bune
+[146] Bow Ashigaru
+[147] Matchlock Ashigaru
+[148] Parrott Gun kéo pháo
+[150] Cận vệ của Tướng quân
+[151] Bow Kỵ binh
+[152] Matchlock Samurai
+[153] Đao kỵ binh
+[154] Shimotsuma Nakayuki
+[155] Katana Samurai
+[156] Cannon Bune
+[157] Medium Bune
+[158] Ogigayatsu Tomosada
+[159] Kisho Ninja
+[160] Donderbuss Kỵ binh
+[161] Phóng lôi đĩnh - lớp Chiyodagata
+[162] Bow Samurai
+[163] Trường thương bộ binh

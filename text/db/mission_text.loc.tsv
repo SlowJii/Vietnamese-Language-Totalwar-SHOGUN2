@@ -1,0 +1,119 @@
+key	text	tooltip
+#Loc;1;text/db/mission_text.loc		
+mission_text_text_mis_activity_blockade_port	Blockade the following port:	true
+mission_text_text_payload_treasury	Treasury:	true
+mission_text_text_mis_event_issuer_europeans	This task is a request from the nanban.	true
+mission_text_text_mis_outcome_fail	Mission Failed!	true
+mission_text_text_mis_activity_sabotage_force_invade	Sabotage an invading army belonging to the following clan:	true
+mission_text_text_mis_activity_defeat_force_faction	Defeat an army or navy belonging to the following clan:	true
+mission_text_text_mis_activity_assassinate_faction	Assassinate a character belonging to the following clan:	true
+mission_text_text_mis_activity_demoralise_force_any	Demoralise any army	true
+mission_text_text_mis_activity_recruit_unit_region	Recruit a unit in the following province:	true
+mission_text_text_mis_outcome_success	Mission Successful!	true
+mission_text_text_payload_grant_agent_multi	Agents:	true
+mission_text_text_mis_outcome_abort	Mission Aborted!	true
+mission_text_text_mis_activity_convert_region	Convert the majority of this province to your religion:	true
+mission_text_text_mis_activity_defeat_army_faction	Defeat an army belonging to the following clan:	true
+mission_text_text_mis_activity_seduce_faction	Seduce a character belonging to the following clan:	true
+mission_text_text_mis_activity_incite_revolt_faction	Incite a revolt in a province belonging to the following clan:	true
+mission_text_text_mis_abort_char_made_peace	We are no longer at war with this character's clan.	true
+mission_text_text_mis_activity_request_allegiance_any	Obtain the allegiance of any province	true
+mission_text_text_mis_activity_bos_seduce_any	Enchant any character	true
+mission_text_text_mis_activity_defeat_navy_faction	Defeat a navy belonging to the following clan:	true
+mission_text_text_mis_abort_char_faction_destroyed	The clan to which this character belonged has been destroyed.	true
+mission_text_text_mis_activity_make_alliance_faction	Forge an alliance with the following clan:	true
+mission_text_text_mis_abort_owning_faction_made_peace	We are no longer at war with the clan to which the target belongs.	true
+mission_text_text_mis_activity_sabotage_building_any	Sabotage any building	true
+mission_text_text_mis_activity_capture_region_faction	Capture a province belonging to the following clan:	true
+mission_text_text_mis_activity_seduce_char	Seduce the following character:	true
+mission_text_text_mis_activity_incite_revolt_region	Incite a revolt in the following province:	true
+mission_text_text_mis_outcome_success_clan	This is an auspicious day indeed, my lord! We have successfully accomplished this mission for the greater good of the clan and can now reap the benefits of our efforts.	true
+mission_text_text_mis_activity_capture_region	Capture the following province:	true
+mission_text_text_mis_activity_research_tech	Master any art in the following category:	true
+mission_text_text_mis_event_reward	Reward:	true
+mission_text_text_mis_abort_region_captured_allied	This province has been captured by an allied clan.	true
+mission_text_text_mis_abort_region_made_peace	We are no longer at war with the owner of this province.	true
+mission_text_text_mis_abort_faction_destroyed	This clan has been destroyed.	true
+mission_text_text_payload_rebellion	Rebellion!	true
+mission_text_text_mis_activity_end_rebellion	Crush the rebellion in the following province:	true
+mission_text_text_mis_activity_attain_clan_level_any	Increase your clan’s development level.	true
+mission_text_text_mis_abort_your_region_lost	We have lost this province to another clan.	true
+mission_text_text_mis_activity_eliminate_in_battle_faction	Eliminate a general belonging to the following clan in battle:	true
+mission_text_text_mis_activity_bos_research_tech_type	Research the following technology:	true
+mission_text_text_payload_diplomacy	Relations with this clan will be affected:	true
+mission_text_text_payload_buildings_damaged	Buildings in this province have been damaged.	true
+mission_text_text_payload_grant_agent_single	Agent:	true
+mission_text_text_mis_activity_sabotage_force_faction	Sabotage an army belonging to the following clan:	true
+mission_text_text_payload_grant_unit_multi	Units:	true
+mission_text_text_mis_activity_make_trade_any	Establish trade with any clan	true
+mission_text_text_mis_outcome_success_shogun	An envoy has arrived from Kyoto, my lord. The shogun is most pleased that we have accomplished this duty with which he had tasked us. May our clan reap the benefits of our continued support for the shogunate.	true
+mission_text_text_mis_event_activity	Duty:	true
+mission_text_text_mis_activity_make_peace_any	Make peace with any rival clan	true
+mission_text_text_mis_abort_region_captured_neutral	This province has been captured by a neutral clan.	true
+mission_text_text_mis_abort_taken_by_force	You chose to take this province by force.	true
+mission_text_text_mis_issued	Mission Issued!	true
+mission_text_text_mis_abort_char_died	This character has died.	true
+mission_text_text_mis_abort_containing_region_captured_allied	The province containing the target has been captured by an allied clan.	true
+mission_text_text_mis_event_bos_time	Turns remaining:	true
+mission_text_text_mis_abort_peace_faction_destroyed	All clans with which we were at war have been destroyed.	true
+mission_text_text_mis_abort_destroyed	The target has been destroyed.	true
+mission_text_text_payload_grant_unit_single	Unit:	true
+mission_text_text_mis_activity_recruit_agent	Recruit the following agent:	true
+mission_text_text_mis_abort_your_region_lost_rebels	We have lost this province to the rebels.	true
+mission_text_text_mis_activity_bribe_force_faction	Bribe an army belonging to the following clan:	true
+mission_text_text_mis_event_time	Seasons remaining:	true
+mission_text_text_mis_event_issuer_shogun	This task is by request of the shogunate.	true
+mission_text_text_mis_abort_faction_declared_war	We are now at war with this clan.	true
+mission_text_text_mis_activity_eliminate_in_battle_any	Eliminate any general in battle	true
+mission_text_text_mis_activity_bos_research_tech	Research the following type of technology:	true
+mission_text_text_mis_abort_not_invading	This clan is no longer invading our domain.	true
+mission_text_text_mis_activity_research_tech_type	Master the following art:	true
+mission_text_text_mis_activity_sabotage_force_any	Sabotage any army	true
+mission_text_text_mis_outcome_success_europeans	An emissary has arrived with word from Europe, my lord. The nanban are gratified that we should choose to accomplish this undertaking on their behalf and in so doing strengthen the ties between our people. May our clan reap the benefits of our continued dealings with Europe.	true
+mission_text_text_mis_activity_assassinate_char	Assassinate the following character:	true
+mission_text_text_mis_abort_faction_made_peace	We are no longer at war with this clan.	true
+mission_text_text_mis_activity_request_allegiance_region	Obtain the allegiance of the following province:	true
+mission_text_text_mis_event_issuer_clan	This task has been put forth by your advisors.	true
+mission_text_text_mis_activity_make_trade_faction	Establish trade with this clan:	true
+mission_text_text_mis_event_description	Details:	true
+mission_text_text_mis_activity_make_peace_faction	Make peace with the following rival clan:	true
+mission_text_text_mis_activity_convert_region_allegiance	Spread your influence to the majority of this province:	true
+mission_text_text_mis_activity_eliminate_in_battle_char	Eliminate the following general in battle:	true
+mission_text_text_mis_activity_blockade_faction	Blockade a port belonging to the following clan:	true
+mission_text_text_payload_honour	Daimyo honour:	true
+mission_text_text_mis_activity_lift_blockade_port	Lift the blockade upon the following port:	true
+mission_text_text_mis_activity_bribe_force_any	Bribe any army	true
+mission_text_text_mis_activity_recruit_unit_type	Recruit the following type of unit:	true
+mission_text_text_mis_abort_containing_region_captured_neutral	The province containing the target has been captured by a neutral clan.	true
+mission_text_text_mis_outcome_fail_description	We have failed to accomplish this mission within the allotted time, losing any advantage that might have been gained by our success.	true
+mission_text_text_mis_activity_defeat_force_any	Defeat any army or navy in battle	true
+mission_text_text_mis_abort_faction_built_first	A rival clan has completed construction before us.	true
+mission_text_text_mis_activity_assassinate_any	Assassinate any character	true
+mission_text_text_mis_activity_lift_blockade_any	Lift any blockade	true
+mission_text_text_mis_activity_demoralise_force_faction	Demoralise an army belonging to the following clan:	true
+mission_text_text_mis_activity_construct_building_region	Construct a building in the following province:	true
+mission_text_text_mis_activity_defeat_army_invade	Defeat an invading army belonging to the following clan:	true
+mission_text_text_mis_abort_faction_became_shogun	You have become Shogun.	true
+mission_text_text_payload_loyalty	This character's loyalty will be affected:	true
+mission_text_text_mis_activity_bribe_force_invade	Bribe an invading army belonging to the following clan:	true
+mission_text_text_mis_abort_faction_became_allied	We have become allied to this clan.	true
+mission_text_text_mis_outcome_abort_description	Due to the following unforeseen circumstances, we are no longer able to accomplish this mission:	true
+mission_text_text_mis_activity_defeat_army_any	Defeat any army in battle	true
+mission_text_text_mis_activity_seduce_any	Seduce any character	true
+mission_text_text_payload_kill_character	The character in question will be killed.	true
+mission_text_text_mis_activity_incite_revolt_any	Incite a revolt in any province	true
+mission_text_text_mis_activity_bos_seduce_faction	Enchant a character belonging to the following clan:	true
+mission_text_text_mis_activity_blockade_port_any	Blockade any port	true
+mission_text_text_mis_activity_make_alliance_any	Forge an alliance with any clan	true
+mission_text_text_mis_activity_defeat_navy_any	Defeat any navy in battle	true
+mission_text_text_payload_unlock_building	Enables the construction of:	true
+mission_text_text_mis_abort_region_became_allied	We have become allied with the owner of this province.	true
+mission_text_text_mis_abort_bos_allegiance_change	You have changed your allegiance.	true
+mission_text_text_mis_activity_construct_building	Construct the following building:	true
+mission_text_text_mis_activity_capture_region_any	Capture any province	true
+mission_text_text_mis_activity_sabotage_building_faction	Sabotage a building belonging to the following clan:	true
+mission_text_text_mis_activity_bos_seduce_char	Enchant the following character:	true
+mission_text_text_mis_activity_sabotage_building	Sabotage the following building:	true
+mission_text_text_mis_activity_attain_clan_level_specific	Attain the following clan development level:	true
+mission_text_text_payload_fame	Clan fame:	true
+mission_text_text_mis_activity_construct_building_chain	Construct a building from the following chain:	true

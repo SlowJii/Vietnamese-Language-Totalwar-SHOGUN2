@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/battle_weather_types.loc		
+battle_weather_types_onscreen_snow	Snow	true
+battle_weather_types_onscreen_rain	Rain	true
+battle_weather_types_onscreen_fog	Fog	true
+battle_weather_types_onscreen_dry	Dry	true

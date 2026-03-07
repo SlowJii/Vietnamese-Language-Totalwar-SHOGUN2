@@ -1,0 +1,452 @@
+key	text	tooltip
+#Loc;1;text/db/missions.loc		
+missions_localised_description_jap_takeda_intro_mission_one	While once we may have considered the Murakami allies, our prosperity and might has led to conflict between us. The Shinano warlords now invade from the north; engage their army so that they may bear witness to the might of the Takeda!	true
+missions_localised_description_m_resource_management_goods	The clan grows strong, my lord, yet we still lack our own source of craft goods. While we might obtain such goods through diplomatic means, the only way that we can ensure a stable supply is by controlling a province renowned for its crafting and production. Our strategists have identified such a province; I recommend that we capture it forthwith.	true
+missions_localised_title_m_business_of_peace	The Business of Peace	true
+missions_localised_title_jap_hojo_intro_mission_one	Steadfast	true
+missions_localised_title_tut_capture_imabari	Capture Iyo	true
+missions_localised_description_m_path_of_liberation	Christianity is spreading like a plague throughout Japan, posing a great threat to our cultural heritage. This province has erred too far from tradition and the teachings of Buddha; they must be made to renounce the lies before their influence is allowed to spread any further!	true
+missions_localised_title_m_good_fight	The Good Fight	true
+missions_localised_title_m_balance_of_strength_heavy_naval	Balance of Strength	true
+missions_localised_title_jap_ikko_intro_mission_one	Restoring the Faith	true
+missions_localised_description_jap_uesugi_intro_mission_two	Long have we prospered under the spiritual guidance of the kami and of Buddha. Such guidance helps men find strength both on and off the battlefield; mastering matters of the spirit enables our monks to better inspire the people whilst drawing fervent warrior monks to our cause.	true
+missions_localised_description_m_bos_shogun_capture_region	War rages on, and the Shogun's enemies are everywhere. This province is under Imperial control; it should be captured immediately.	true
+missions_localised_title_m_bos_imperial_incite_revolt	Instigator	true
+missions_localised_title_m_enemy_tradition	Enemy of Tradition	true
+missions_localised_description_m_into_fold_christian	We have word from our missionaries that the predominantly God-fearing people of this province yearn to be freed from their oppressive heathen masters. For their sake, we beseech you as a just Christian leader to capture this province and bring its people into the clan.	true
+missions_localised_title_m_servant_of_heaven	Servant of Heaven	true
+missions_localised_title_m_hard_times	Hard Times	true
+missions_localised_description_jap_tokugawa_intro_mission_one	The warmongering of the Oda and Imagawa clans has compelled us to choose sides and accept the protection of the Imagawa. Now we must stop the Oda invasion force that marches from the west before they take our homelands from us.	true
+missions_localised_description_m_stuff_of_legend_cathedral	The pursuit of excellence is a worthy pursuit indeed, my lord. We are now in a position to construct a legendary testament to our great Christian deeds for all of Japan to behold.\\n\\nWe must endeavour to construct a great cathedral before a less worthy clan does so in our stead!	true
+missions_localised_title_m_united_we_stand	United We Stand	true
+missions_localised_title_m_gem_fuj_convert_province_neighbour	Hearts & Minds	true
+missions_localised_title_m_cold_blood	In Cold Blood	true
+missions_localised_title_m_gem_subversive_strategies	Subversive Strategies	true
+missions_localised_description_m_war_words_christian	Strength of body and superior training are key to an army's success in the field, but there are other means of weakening one's opponents when military superiority is not assured. The enemy's morale can be compromised by sending missionaries to break an army's spirit with words of dread and desperation before the first blow has been struck.	true
+missions_localised_title_jap_oda_intro_mission_three	Strengthening Our Position	true
+missions_localised_description_m_gem_worthy_adversary	Our scouts have spied a rival lord conducting manoeuvres in a neighbouring province. This presents us with the perfect opportunity to strike a devastating blow to our enemies and the chance to prove our mettle against a worthy foe.	true
+missions_localised_description_m_advocate_of_enlightenment	My lord, I notice that we are not currently fielding monks, despite having the ability to do so. Monks can inspire our troops or demoralise the enemy's, in addition to providing excellent protection against enemy metsuke.	true
+missions_localised_title_jap_mori_intro_mission_one	Repelling the Amako	true
+missions_localised_description_m_gem_instrument_of_justice	My lord, I notice that we are not currently fielding junsatsushi despite having the ability to do so. Their authority is absolute, abating feelings of disloyalty by their presence and directing clan funds to the bribery of enemy armies and possessions. They also rally support for our clan amongst the populace and can seek allegiance from provinces in which our influence is strong.	true
+missions_localised_title_tut_bribe	Bribe the Enemy	true
+missions_localised_description_m_gem_min_convert_province_neighbour	As we fight to crush our enemies the battle to win the hearts and minds of the people rages across Japan. This neighbouring province has little love for the Minamoto; we must gather support there before it is conquered.	true
+missions_localised_description_m_bos_sabotage_force	My lord! The enemy encroaches upon our land! We can hinder their progress with agents to sabotage, harass and distract their forces.	true
+missions_localised_title_tut_assassination	Assassination	true
+missions_localised_description_bos_intro_1_mission_clan_level	Although it saddens me to see our culture diluted by the barbarian ways of the westerners, there are many advantages to embracing their technology. To conduct advanced research we must first increase our capacity for development by building up our civic and industrial infrastructure.	true
+missions_localised_description_m_bos_reinforce_region_unrest	Public order in this province is low, my lord; it will take little further unrest before the population revolts. I recommend recruiting a garrison here at the first opportunity.	true
+missions_localised_title_m_gem_min_convert_province_neighbour	Hearts & Minds	true
+missions_localised_title_m_bos_sabotage_force	Preventive Measures	true
+missions_localised_description_m_resource_management_stone	The clan grows strong, my lord, yet we still lack our own source of superior stone. While we might obtain stone through diplomatic means, the only way in which we can ensure a stable supply is by controlling a province distinguished by its durable rock. Our strategists have identified such a province; I recommend that we capture it forthwith.	true
+missions_localised_description_m_bos_imperial_convert_other_region	As we expand our domain, we must ensure support for the Emperor's return to power. By converting provinces to our cause before conquest, we make it easier to maintain control.	true
+missions_localised_description_m_unification_of_japan	The shogun is concerned that two of his daimyo should be investing so much time destroying one another when, now more than ever, unity of purpose is paramount for the greater good of Japan and its people. He has therefore commanded that hostilities cease between us forthwith.	true
+missions_localised_title_jap_date_intro_mission_one	Tanemune's Fall	true
+missions_localised_description_m_hard_times	Our financial situation is unfortunate, my lord, and unless measures are taken to increase the clan's income we may succumb to bankruptcy. While we could develop our economic infrastructure or even disband part of our military forces, establishing a trade agreement with another clan may present an immediate and effective solution to our financial woes.	true
+missions_localised_title_m_spiritual_unity_christian	Spiritual Unity	true
+missions_localised_title_m_naval_dominance	Naval Dominance	true
+missions_localised_title_m_bos_naval_power	Naval Power	true
+missions_localised_description_m_bos_seduce_character	Rare is the man who can resist the charms of a beautiful and talented lady. Should our geisha win the hearts of rival generals or agents, they will abandon their masters and join our clan.	true
+missions_localised_title_m_balance_of_strength_light_naval	Balance of Strength	true
+missions_localised_description_m_gem_fuj_convert_province_neighbour	As we fight to crush our enemies the battle to win the hearts and minds of the people rages across Japan. This neighbouring province has little love for the Fujiwara; we must gather support there before it is conquered.	true
+missions_localised_description_m_cold_blood	The agents of our rivals are everywhere, my lord. We should begin a programme of assassination to assert the superiority of our clan. If successful, we will not only rid ourselves of potential threats to our plans, but will appear blameless in the act.	true
+missions_localised_title_m_gem_incite_revolt	Firebrand	true
+missions_localised_description_m_good_fight	We are proud of your endeavours to uphold Christianity in spite of opposition from those who cling hopelessly to false hope and hollow superstitions. If more of your countrymen are to be saved from eternal damnation, however, more must be done to spread the good word of our Lord.	true
+missions_localised_title_jap_chosokabe_intro_mission_three	The Conquest of Shikoku	true
+missions_localised_title_m_path_of_liberation	The Path of Liberation	true
+missions_localised_title_jap_takeda_intro_mission_one	The Shinano Warlords	true
+missions_localised_title_m_gem_acts_sabotage	Acts of Sabotage	true
+missions_localised_description_m_bos_imperial_incite_revolt	Support for the Shogunate persists across the country, but here the cause of the Emperor is strong. Incite a revolt here so the province joins us!	true
+missions_localised_title_jap_uesugi_intro_mission_two	Matters of the Spirit	true
+missions_localised_title_m_worthy_adversary	A Worthy Adversary	true
+missions_localised_description_m_gem_subversive_strategies	As our influence spreads throughout the provinces we may encounter situations where our strategy is put at risk by enemy forces moving to intercept us or reinforce their allies. By sabotaging armies as they sit encamped our monomi will be able to halt their progress, leaving them open to attack or preventing them from doing so themselves.	true
+missions_localised_description_jap_oda_intro_mission_three	As order has been achieved once more, we must strengthen our position in the area. Securing Mikawa province to the east will rid us of the Tokugawa menace and bring us closer to their Imagawa masters. Also, the Saito to the north are scheming against us and may prove less troublesome to overcome. However we proceed, the safety of our people in Owari must be ensured.	true
+missions_localised_title_m_advocate_of_enlightenment	Advocate of Enlightenment	true
+missions_localised_title_m_stuff_of_legend_stealth	The Stuff of Legend	true
+missions_localised_title_m_gem_instrument_of_justice	Instrument of Justice	true
+missions_localised_title_m_stuff_of_legend_archery	The Stuff of Legend	true
+missions_localised_title_m_bos_imperial_attack_shogun	Enemies of the Emperor	true
+missions_localised_title_m_gem_tai_convert_province_neighbour	Hearts & Minds	true
+missions_localised_description_m_common_cause	Our reports indicate that there is a clan with whom we share a common enemy. I recommend that we take this opportunity to seek an alliance with them; united in arms we will stand a greater chance of crushing our mutual enemies once and for all! 	true
+missions_localised_description_m_balance_of_strength_ashigaru	Diversity on the battlefield is key to victory; every weapon has its purpose and every unit has its match. It has come to my attention that our forces are unbalanced, my lord; we are currently deploying comparatively few ashigaru.\\n\\nWhilst certainly no match for samurai in terms of martial prowess, they make up for their shortcomings through low upkeep costs and sheer strength of numbers. I strongly recommend that we bolster our existing ashigaru at the first available opportunity.	true
+missions_localised_description_m_gem_seduce_character	Loyalty and conviction mean nothing when faced with the power of a woman's charm. By using our shirabyoshi to seduce rival subjects we can compel them to break their ties and throw their lots in with us.	true
+missions_localised_description_gem_fujiwara_hiraizumi_intro_mission	If we are to reclaim our rightful place as regents to the imperial house, we will need an effective fighting force. Dispatch junsatsushi to spread our influence amongst those provinces most loyal to our cause. Once support for the Fujiwara amongst our neighbours is strong we should request their allegiance, thereby strengthening our position.	true
+missions_localised_description_m_balance_of_strength_infantry_melee	Diversity on the battlefield is key to victory; every weapon has its purpose and every unit has its match. It has come to my attention that our forces are unbalanced, my lord; we are currently deploying comparatively few units of infantry.\\n\\nSoldiers specialised in close-quarters combat are the backbone of any army; to strike our enemies down or have them trampled beneath our hooves means nothing if our forces are no match for them once the battle descends into melee. I strongly recommend that we train additional melee troops at the first opportunity.	true
+missions_localised_title_m_bos_shogun_crush_rebellion	Crushing the Dissidents	true
+missions_localised_description_m_business_of_peace	It distresses us, lord, to see two of our most valued trade partners here in Japan wage bloody war against one another. We may reap financial benefits from furnishing both clans with our prized firearms, but our mercantile efforts would be compromised should one of you succumb to the machinations of the other.\\n\\nWere you to make peace and resolve to use our weaponry against lesser clans, I'm sure we could arrange a discount for our services.	true
+missions_localised_title_m_resource_management_goods	Resource Management	true
+missions_localised_title_tut_military_tech	Research Bushido	true
+missions_localised_description_tut_capture_imabari	Capture the province of Iyo to start your conquest of Shikoku.	true
+missions_localised_title_jap_date_intro_mission_two	The Fearless	true
+missions_localised_description_m_bos_imperial_kill_character	This rival clan will do everything in their power to prevent the Emperor's ascent to power. By assassinating their generals and agents we will impede their treacherous endeavours! 	true
+missions_localised_title_m_bos_shogun_capture_region	Pressing the Attack	true
+missions_localised_title_m_bos_construct_financial	Rich Domain, Strong Military	true
+missions_localised_description_m_territorial_expansion_early	May I respectfully insist that we expand our borders at the first opportunity? I understand that it has not been long since we began to unify the people of Japan, but I feel that progress has been slow during this crucial period of consolidation.	true
+missions_localised_title_m_home_guard	Home Guard	true
+missions_localised_title_m_into_fold_buddhist	Into the Fold	true
+missions_localised_description_m_servant_of_heaven	My lord, I notice that we are not currently fielding monks, despite having the ability to do so. Monks can inspire our troops or demoralise the enemy's, in addition to providing excellent protection against enemy metsuke - being particularly effective at converting them to a life of peace and self-reflection. 	true
+missions_localised_title_jap_uesugi_intro_mission_one	The Rightful Daimyo	true
+missions_localised_description_m_bos_imperial_crush_rebellion	My lord! Pro-Shogunate dissidents have mounted a rebellion in this province! Crush them to show the people that the days of the Shogunate are over.	true
+missions_localised_title_m_stuff_of_legend_cathedral	The Stuff of Legend	true
+missions_localised_description_jap_otomo_intro_mission_three	The chapel has been completed. We should now establish a nanban quarter at a foreign trade port, opening the way for greater military and trade opportunities. We can have Nanban ships for both commerce and conquest, armed with cannon to smash our enemies!	true
+missions_localised_description_m_march_kyoto	My lord! The shogunate, backed by the majority of clans that have so far persisted in aggression, are waging war against us for fear of your power and of our military might. The time has come to fulfil our glorious destiny; march on Kyoto and assume control of the shogunate. Japan will be united under your rule!	true
+missions_localised_title_m_bos_research_civil	Civil Development	true
+missions_localised_title_jap_takeda_intro_mission_two	Masters of Bajutsu	true
+missions_localised_description_jap_uesugi_intro_mission_one	A coalition of loyal Uesugi retainers, distraught at Harukage's mismanagement of the clan, have urged you to take arms against their daimyo and assume control of the clan in his stead. His army of followers must be defeated before civil turmoil destroys our clan from within!	true
+missions_localised_title_jap_ikko_intro_mission_two	Hearts & Minds	true
+missions_localised_description_m_spiritual_unity_christian	My lord! A lack of support for Christianity in this province has led to tensions amongst the populace. We must re-establish Christianity as the dominant religion in the area if we are to avoid a religious uprising.	true
+missions_localised_description_m_proof_might	A competent leader inspires unyielding resolve in his men whilst employing all his skills and experience to help gain the upper hand; deprive an army of its commander in the heat of battle and this advantage is lost. When doing battle with enemy forces we must take every opportunity to kill their generals.	true
+missions_localised_description_jap_takeda_intro_mission_two	All samurai are trained in horsemanship and mounted combat and, although vulnerable to enemy spears, the speed and power of cavalry can be instrumental in turning the tide of battle. Our samurai cavalry is unrivalled, my lord; furthering our understanding of form will allow us to maintain this advantage.	true
+missions_localised_title_jap_hojo_intro_mission_two	The Engines of War	true
+missions_localised_description_m_bos_research_civil	These are times of great change, my lord, and we cannot hope to survive through military might alone. I am concerned that there is too great a focus on military matters at the expense of civil ones.	true
+missions_localised_description_m_gem_incite_revolt	This province may be under enemy control, but the local populace has little love for their so-called masters. Send forth a sou to sow dissent amongst the people. Our enemy's lack of foresight will be his downfall!	true
+missions_localised_description_m_into_fold_buddhist	This province is in turmoil; the predominantly Buddhist populace living in fear of their repressive Christian daimyo. For their sake, let us send a force to capture the province at once to free the people from religious oppression.	true
+missions_localised_description_m_gem_acts_sabotage	Their ability to penetrate deep behind enemy lines without being detected enables monomi to put their sabotage skills to pertinent use. Damaged buildings cannot operate until such a time that they have been repaired. I believe we could employ such a strategy to our advantage, my lord.	true
+missions_localised_description_m_home_guard	My lord! We are at war, yet our home province lies barely garrisoned! For the good of the clan I must insist that we reinforce our home province lest it fall prey to our enemies.	true
+missions_localised_description_jap_tokugawa_intro_mission_two	Metsuke: using all the cunning at their disposal they entrap enemy agents and corrupt their troops; empowered by our daimyo's authority, they also weed out sedition in our midst. None are as capable as our own, and we must ensure that they can continue to mete out justice and manipulate the corruptible.	true
+missions_localised_title_jap_mori_intro_mission_two	Masters of the Sea	true
+missions_localised_title_m_crippling_trade	Crippling Their Trade	true
+missions_localised_description_m_bos_shogun_crush_rebellion	My lord! Imperialist dissidents have mounted a rebellion in this province! Crush them to show the people that the Emperor's lackeys will never take control.	true
+missions_localised_title_m_balance_of_strength_infantry_melee	Balance of Strength	true
+missions_localised_title_gem_fujiwara_hiraizumi_intro_mission	The Fujiwara Cause	true
+missions_localised_title_m_resource_management_stone	Resource Management	true
+missions_localised_title_m_bos_shogun_incite_revolt	Instigator	true
+missions_localised_title_m_bos_imperial_convert_other_region	Hearts & Minds	true
+missions_localised_description_m_bos_imperial_attack_shogun	This clan has openly rejected the Emperor's divine authority. His enemies must be destroyed!	true
+missions_localised_description_m_gem_tai_convert_province_neighbour	As we fight to crush our enemies, the battle to win the hearts and minds of the people rages across Japan. This neighbouring province has little love for the Minamoto; we must gather support there before it is conquered.	true
+missions_localised_description_m_preventive_measures	My lord, our domain has been assailed by an enemy clan! We must deploy ninja to infiltrate their armies and sabotage their supplies, giving us time to prepare defences and muster retaliatory forces.	true
+missions_localised_title_m_gem_preventive_measures	Preventive Measures	true
+missions_localised_title_m_enemies_progress	Enemies of Progress	true
+missions_localised_title_m_protecting_our_interests	Protecting Our Interests	true
+missions_localised_description_m_way_of_the_warrior	This is a time of great conflict, my lord, and we are a warrior people. It concerns me to see that we are investing so little time in the development of our martial knowledge and techniques, and I must insist that we set our sights upon military advancements at once.	true
+missions_localised_title_m_delusions_grandeur	Delusions of Grandeur	true
+missions_localised_description_m_offensive	Sharing borders with one's enemies is a mixed blessing. Although proximity to such a clan puts our forces and lands at considerable risk, the opposite is also true. We must be the first to take decisive action. As such, I strongly recommend that we undermine their confidence and prestige by inflicting a crushing defeat upon them.	true
+missions_localised_title_m_pressing_attack	Pressing the Attack	true
+missions_localised_title_tut_sabotage	Sabotage Building	true
+missions_localised_description_jap_date_intro_mission_three	With Tanemune defeated, we must turn our attention to dangers from without. The Mogami, previously kept in check by our might, have capitalised upon our strife to strengthen their position and threaten the clan. They will pay for their audacity; the conquest of their lands will weaken them and enable us to reassert our position in the north!	true
+missions_localised_title_m_otomo_persecution	Persecution	true
+missions_localised_title_jap_oda_intro_mission_one	The Unification of the Oda	true
+missions_localised_title_m_bos_imperial_kill_daimyo_in_battle	Kill the Head…	true
+missions_localised_title_m_gem_demoralising_enemies	Demoralising Our Enemies	true
+missions_localised_title_m_gem_intellectual_matters	Intellectual Matters	true
+missions_localised_description_jap_mori_intro_mission_three	For many years our great clan has been at war with the Amako; they must be shown that it is the Mori who are the true masters of Chugoku! Having dealt with their retaliatory attack, I can think of no better time to mount an offensive. 	true
+missions_localised_description_jap_otomo_intro_mission_two	Relations with the foreigners have many advantages, the greatest being gunpowder and gunmaking. It does not take years of practice to load and fire a matchlock, and I feel we have much to gain from being first among the clans to field many matchlock-armed ashigaru.	true
+missions_localised_description_m_gem_all_assassinate_general	A formidable enemy force is threatening our lands and armies; they must be stopped. By assassinating their general before joining battle we greatly diminish their potential.	true
+missions_localised_title_m_resource_management_iron	Resource Management	true
+missions_localised_title_m_resource_management_wood	Resource Management	true
+missions_localised_description_tut_alliance	Establish an alliance with one of the clans on the mainland to help defeat the Miyoshi.	true
+missions_localised_description_gem_minamoto_kamakura_intro_mission	If we are to exact vengeance upon our enemies, we will need an effective fighting force. Dispatch junsatsushi to spread our influence amongst those provinces most loyal to our cause. Once support for the Minamoto amongst our neighbours is strong we should request their allegiance, thereby strengthening our position.	true
+missions_localised_description_m_instruments_of_war	In this dark period of warfare it is vital that our warriors receive not only the best training but the finest arms and armour as well. As such, I wholeheartedly recommend that we capture this province, reputed for its fine smithing tradition.	true
+missions_localised_description_m_unscrupulous	Using  our metsuke we can bribe enemy armies into joining our ranks to bolster our armies in the field. Bribery can be a costly process, especially when such armies are led by a taisho - but even the most loyal of men has his price, and the advantage gained by instantly swelling our ranks is a substantial one. 	true
+missions_localised_title_gem_fujiwara_kubota_intro_mission	The Fujiwara Cause	true
+missions_localised_description_m_insurgency	The collapse of public order in this province has resulted in a local uprising! If we do not move to crush it as soon as possible, the rebels will seize it for themselves. We cannot allow this to happen!	true
+missions_localised_title_m_gem_convert_province_own	Unity of Purpose	true
+missions_localised_title_tut_capture_awaji	Capture Awaji	true
+missions_localised_description_tut_civil_tech	Use chi to refine the structure of your society.	true
+missions_localised_description_m_bos_reinforce_region_capital	My lord! The enemy are almost upon our home province, yet there are barely any troops defending the capital! I beseech you to recruit troops there at once!	true
+missions_localised_description_m_master_of_artifice	My lord, I notice that we are not currently fielding ninja despite having the ability to do so. A master of subterfuge, a ninja's skills enable him to spy on enemies or sabotage their armies and possessions whilst remaining undetected. Ninja are also expert assassins, striking from the shadows to kill enemy generals and agents before they have a chance to react.	true
+missions_localised_title_m_bos_imperial_convert_own_region	Unity of Purpose	true
+missions_localised_title_tut_capture_osaka	Capture Settsu	true
+missions_localised_description_m_bos_imperial_capture_kyoto	The Shogunate's grip on Kyoto must be broken at all costs; the city must be seized for the Emperor!	true
+missions_localised_description_m_thirst_for_battle	Our men grow restless, my lord! We are at war; our enemies make no attempt to invade our territory, yet we make no move to strike at their provinces ourselves. As our forces stand idle, our foes are free to build up their strength. We must press the attack before they muster an army with which to strike! 	true
+missions_localised_title_m_insurgency	Insurgency	true
+missions_localised_description_m_spiritual_unity_ikko	My lord! A lack of support for the Ikko Ikki in this province has led to tensions amongst the populace. We must re-establish the Ikko faith as the dominant religion in the area if we are to avoid a religious uprising.	true
+missions_localised_title_jap_otomo_intro_mission_one	In Good Faith	true
+missions_localised_description_m_bos_shogun_kill_character	This clan has sworn to overthrow the Shogunate. By assassinating their generals and agents we will impede their treachery! 	true
+missions_localised_title_m_bos_imperial_capture_kyoto	The Liberation of Kyoto	true
+missions_localised_title_m_master_of_artifice	Master of Artifice	true
+missions_localised_description_jap_shimazu_intro_mission_one	As Satsuma is firmly under Shimazu rule, we can now afford to extend our domain further. Osumi province to the east is an apt target; it is poorly defended and belongs to our old enemies - the Ito. Capturing it will bring them to heel and help secure our position in southern Kyushu!	true
+missions_localised_title_tut_trade_agreement	Trade Agreement	true
+missions_localised_title_m_agrarian_matters	Agrarian Matters	true
+missions_localised_description_jap_hattori_intro_mission_two	War is an old game, yet few are prepared for unusual forms of attack. Our ninja warriors employ their mastery of ninjutsu to move stealthily about the battlefield, ambushing the enemy before melting back into the shadows. By refining our training methods we will further improve their potential.	true
+missions_localised_title_jap_mori_intro_mission_three	Striking Back	true
+missions_localised_title_m_balance_of_strength_medium_naval	Balance of Strength	true
+missions_localised_description_m_naval_obstruction	One of the enemy's ports that has been developed to a high level. Left unchecked, it will increase their trade potential whilst enabling the production of high-quality naval vessels. I recommend that we blockade the port immediately.	true
+missions_localised_title_m_instruments_of_war	Instruments of War	true
+missions_localised_title_tut_alliance	Alliance	true
+missions_localised_title_m_daimyo_assassin	Daimyo Assassin	true
+missions_localised_description_m_bos_imperial_kill_daimyo_in_battle	This daimyo is a staunch defender of the Shogunate. Kill him in battle and we break the spirits of his followers and allies alike!	true
+missions_localised_description_m_balance_of_strength_cavalry	Diversity on the battlefield is key to victory; every weapon has its purpose and every unit has its match. It has come to my attention that our forces are unbalanced, my lord; we are currently deploying comparatively few units of cavalry.\\n\\nAlthough vulnerable to spear points, the speed and power of cavalry makes them invaluable for flanking manoeuvres and in charging down ill-prepared enemies and archers. They also provide excellent means of deploying archers to vital support positions. I strongly recommend that we recruit more cavalry at the first available opportunity.	true
+missions_localised_description_m_bos_shogun_bribe_enemy_army	An Imperial force draws near, my lord. By sending shinsengumi to coerce them to co-operate, they may yet abandon their futile crusade and join our ranks.	true
+missions_localised_title_jap_date_intro_mission_three	The Price of Audacity	true
+missions_localised_title_m_spiritual_unity_buddhist	Spiritual Unity	true
+missions_localised_title_m_bos_recruit_imperial_ishin_shishi	Man of Higher Purpose	true
+missions_localised_description_m_delusions_grandeur	This clan's recent rise to power concerns the shogun greatly. Convinced that their daimyo covets power over Japan and all her provinces for himself, the Shogun insists that steps be taken to bring the clan to heel. We have therefore been granted the authority to take military action against them.	true
+missions_localised_description_m_demoralising_enemies_ikko	Forces belonging to a rival clan are posing a threat to our security. By sending an Ikko monk to weaken their army's resolve we will gain a distinct advantage should we choose to meet them in battle.	true
+missions_localised_title_m_way_of_the_warrior	The Way of the Warrior	true
+missions_localised_description_tut_construct_building	Develop Tosa by constructing new buildings.	true
+missions_localised_description_tut_sabotage	Sabotage a building in the castle town to weaken and leave the enemy in disarray.	true
+missions_localised_description_tut_demoralise	Demoralise the enemy force to assist your capture of their province.	true
+missions_localised_title_jap_otomo_intro_mission_two	The Way of the Gun	true
+missions_localised_description_m_intellectual_matters	Rare is the clan that excels in every field of research, but that should not preclude one from aspiring to do so. By establishing a place of learning we will be able to increase our rate of technological and philosophical progress.	true
+missions_localised_description_m_preying_weak	My lord, our agents inform us that this enemy province lies barely defended, a target ripe for the taking! I recommend that we move to conquer it for ourselves before our rivals get the chance to reinforce its garrison. 	true
+missions_localised_title_m_gem_unscrupulous	Unscrupulous	true
+missions_localised_description_tut_capture_tokushima	Capture Awa to conquer all of Shikoku.	true
+missions_localised_title_gem_minamoto_kamakura_intro_mission	The Minamoto Cause	true
+missions_localised_description_m_balance_of_strength_infantry_ranged	Diversity on the battlefield is key to victory; every weapon has its purpose and every unit has its match. It has come to my attention that our forces are unbalanced, my lord; we are currently deploying comparatively few foot archers.\\n\\nThe role that these troops play in softening the enemy before they can be dealt with in close combat is a vital one indeed. How better to thin the numbers and break the spirits of an incoming fighting force than with a volley of deadly arrow fire? I strongly recommend that we train more archers at the first available opportunity.	true
+missions_localised_description_m_eye_for_eye	The audacity of our enemies knows no bounds, my lord. They have seized our home province from us, striking at the very heart of the clan. We must reclaim our territory and stage a massive retaliation against their own powerbase. This insolence will not stand!	true
+missions_localised_title_m_bos_kill_general_in_battle	To Fell a Foe	true
+missions_localised_title_jap_hojo_intro_mission_three	Into the Kanto	true
+missions_localised_description_jap_shimazu_intro_mission_two	The sword; symbol of honour, symbol of strength. Peerless in kenjutsu, our samurai have katana skills that are matched only by their innate sense of honour and duty. We must further our understanding of kenjutsu, so that our men may continue to maintain their advantage in battle!	true
+missions_localised_description_jap_hattori_intro_mission_one	Our clan has long maintained its independence from feudal warlords, but the rise of ambitious daimyo has placed our independence in jeopardy. We must be prepared for the coming storm; to this end, I propose we send a ninja into a neighbouring province to undermine our potential rivals and appropriate supplies.	true
+missions_localised_title_jap_ikko_intro_mission_three	The Ikko Way	true
+missions_localised_description_m_bos_shogun_attack_imperial	This clan has openly condemned the Shogunate and its wise management of our country. The enemies of the Shogun must be destroyed!	true
+missions_localised_description_m_bos_recruit_geisha	It has come to my attention that we are not fielding geisha, despite having the ability to recruit them. I recommend that we recruit one at the first opportunity.	true
+missions_localised_description_m_bos_recruit_shinobi	It has come to my attention that we are not fielding any shinobi, despite having the ability to recruit them. I recommend that we recruit one at the first opportunity.	true
+missions_localised_title_m_war_words_buddhist	War of Words	true
+missions_localised_title_m_offensive	The Offensive	true
+missions_localised_title_m_trade_disruption	Trade Disruption	true
+missions_localised_title_m_strengthen_borders	Strengthening Our Borders	true
+missions_localised_title_m_territorial_expansion_late	Territorial Expansion	true
+missions_localised_title_m_bos_shogun_capture_kyoto	Recapturing Kyoto	true
+missions_localised_description_m_otomo_persecution	Troubling news, my lord. The daimyo of this province has outlawed Christianity, declaring that any Japanese converts will be sentenced to death. Under their rule, our brethren in Christ now fear for their lives. Can such persecution go unchallenged?	true
+missions_localised_description_m_indomitable	Intelligence indicates that this man, a servant of our foes, has achieved unprecedented success upon the fields of battle. So indomitable a warrior poses a great threat to our clan's security both in terms of his martial prowess and of the confidence with which he undoubtedly instils his men. To defeat such a man in battle would be a crushing blow to his clan!	true
+missions_localised_description_m_firebrand_missionary	This missionary has been wandering our lands, openly condemning the teachings of Buddha, preaching the non-existence of the kami and of our ancestral spirits and all the while evangelising his own monotheistic ideals. The dissent caused cannot be disregarded, nor can his affront upon our spiritual heritage. He must be eliminated at once.  	true
+missions_localised_title_bos_intro_2a_mission_expand_shogun	Strengthening Our Position	true
+missions_localised_description_m_gem_tai_construct_propaganda	Until now, we have gained support with propaganda and military repute. But words and deeds are fast forgotten; we deserve a more permanent testament to our glory. Construct a Taira palace for all to behold and be inspired by!	true
+missions_localised_description_m_war_words_buddhist	Strength of body and superior training are key to an army's success in the field, but there are other means of weakening one's opponents when military superiority is not assured. The enemy's morale can be compromised by sending monks to break an army's spirit with words of dread and desperation before the first blow has been struck.	true
+missions_localised_description_m_bos_recruit_imperial_ishin_shishi	It has come to my attention that we are not fielding ishin shishi, despite having the ability to recruit them. I recommend that we recruit one at the first opportunity.	true
+missions_localised_title_m_demoralising_enemies_ikko	Demoralising Our Enemies	true
+missions_localised_description_m_bos_recruit_veteran	It has come to my attention that we are not fielding any foreign veterans, despite having the ability to recruit them. I recommend that we recruit one at the first opportunity.	true
+missions_localised_description_m_cultural_development	We cannot hope to survive through sheer military might alone, my lord. I am therefore curious as to why so few resources have been devoted to the betterment of clan administration and infrastructure of late; surely, by investing in our clan's civil development we can better support our military endeavours?	true
+missions_localised_title_m_bos_recruit_geisha	Manipulator of Men	true
+missions_localised_description_m_gem_fuj_construct_propaganda	Until now, we have gained support with propaganda and military repute. But words and deeds are fast forgotten; we deserve a more permanent testament to our glory. Construct a Fujiwara palace for all to behold and be inspired by!	true
+missions_localised_title_m_bos_shogun_attack_imperial	Enemies of the Shogun	true
+missions_localised_description_m_territorial_expansion_middle	Long have we been waging war to elevate our clan's power and status within Japan, laying waste to all those who would stand in our way. If we hope to support our cause and our people, it is imperative that we expand our borders further to match the mounting threat from our ever more powerful enemies.	true
+missions_localised_description_m_stuff_of_legend_yari	The pursuit of excellence is a worthy pursuit indeed, my lord. We are now in a position to construct a legendary testament to our outstanding achievements in spearmanship for all of Japan to behold.\\n\\nWe must endeavour to construct a legendary sojutsu school before a less worthy clan does so in our stead!	true
+missions_localised_description_m_territorial_expansion_late	As the clan grows greater in strength and size, rival daimyo throughout Nippon continue to seize land from the weak and defenceless. Their increasing power poses a significant threat to our supremacy; we must continue to extend our domain if we hope to contend with them.	true
+missions_localised_description_tut_capture_takamatsu	Seize the province of Sanuki to strengthen your grip on Shikoku.	true
+missions_localised_title_jap_oda_intro_mission_two	Masters of Sojutsu	true
+missions_localised_description_m_strengthen_borders	Sharing borders with our enemies invites invasion attempts as well as providing a base from which to launch our incursions into their lands. This province borders the enemy yet is unprepared against possible attack; I recommend that we reinforce the garrison here in anticipation of such an event.	true
+missions_localised_title_m_thwarting_nanban	Thwarting Nanban Influence	true
+missions_localised_description_jap_hojo_intro_mission_three	Having dealt with the Ogigayatsu, it is time to strike at their heart and vanquish them once and for all. By taking their province of Musashi for ourselves, not only will we remove the Ogigayatsu threat, but place ourselves in an ideal position to conquer the whole of Kanto.	true
+missions_localised_title_m_thirst_for_battle	Thirst For Battle	true
+missions_localised_title_m_gem_turned_against_them	Turned Against Them	true
+missions_localised_description_m_bos_kill_general_in_battle	Without a great warrior to lead them in battle, an army's strength is diminished. To see their leader fall before their eyes is to break their spirits utterly. When in battle, we should always aim to kill their general.	true
+missions_localised_description_m_turned_against_them	We are at war, my lord, and our enemies have invaded our domain. An attack force is now within our borders, posing a threat to both your power and our people. We must deploy a metsuke to bribe them into joining us; we can turn our enemy's own warriors against him!	true
+missions_localised_description_m_constant_foe	This general has been a thorn in our side for too long - meeting our forces in battle time and again and always surviving to fight another day. It is imperative that he be eliminated, lest he continue to wreak havoc with our grand strategy!	true
+missions_localised_description_jap_takeda_intro_mission_three	The Murakami invasion has been halted and we must now put an end to their machinations once and for all. To this end, we must march forth into North Shinano and wrest control of the capital from our old rivals. Our position thus-strengthened, we will be better poised for further expansion into Honshu.	true
+missions_localised_description_jap_ikko_intro_mission_three	The spirits of the downtrodden in Omi have been given hope. Now it is time to free their bodies as well as their souls. Raise an army of Ikko Ikki and take back Omi. Crush all who oppose the re-establishment of Jodo Shinshu Buddhism!	true
+missions_localised_description_jap_otomo_intro_mission_one	We have welcomed the nanban, their religion and their knowledge, and profited as a result. We must honour our agreements with them whilst taking care not to offend our subjects and their beliefs. Building a chapel will not only help economic growth and mastery of the arts, but will spread an understanding of Christianity across our domain.	true
+missions_localised_description_m_bos_imperial_capture_region	War rages on, and the Emperor's enemies are everywhere. This adjacent province is controlled by Shogunate loyalists and should be captured immediately!	true
+missions_localised_title_m_bos_shogun_kill_daimyo_in_battle	Kill the Head…	true
+missions_localised_title_m_bos_shogun_kill_character	The Propensity to Kill	true
+missions_localised_description_m_bos_old_ways	Must we be so quick to forget our military heritage, my lord? We have all but abandoned the use of traditional methods; our samurai are despondent, their armour and weapons left to rust. The old ways can still make short work of the more modern, unarmoured soldier.	true
+missions_localised_description_tut_trade_agreement	Establish a trade agreement to bring riches and resources to Shikoku.	true
+missions_localised_title_m_bos_shogun_convert_other_region	Hearts & Minds	true
+missions_localised_description_m_undermining_economy	When attempting to undermine the military endeavours of one's enemies, one must consider cutting off their sources of revenue. This rival clan is drawing considerable sums into their economy from commerce through their markets. I strongly recommend sending a ninja to sabotage those buildings, thereby weakening their financial stability.	true
+missions_localised_description_m_gem_min_construct_propaganda	Until now, we have gained support with propaganda and military repute. But words and deeds are fast forgotten; we deserve a more permanent testament to our glory. Construct a Minamoto palace for all to behold and be inspired by!	true
+missions_localised_description_tut_build_port	Develop the old fishing village in Iyo.	true
+missions_localised_description_jap_uesugi_intro_mission_three	We can ill afford to sit idle whilst rival clans grow stronger about us. Kozuke province is held by our Yamanouchi vassals, but there are many other nearby provinces ripe for conquest. Of particular note are Etchu to the west, held by our Jinbo enemies, and the island of Sado, which holds riches invaluable to our expansion. The choice is yours, my lord.	true
+missions_localised_title_m_bos_imperial_capture_edo	The Liberation of Edo	true
+missions_localised_description_m_balance_of_strength_samurai	Diversity on the battlefield is key to victory; every weapon has its purpose and every unit has its match. It has come to my attention that our forces are unbalanced, my lord; we are currently deploying comparatively few samurai.\\n\\nWhilst being somewhat costly to train and maintain, samurai are unmatched in strength of body and mind and are expert fighters across numerous martial disciplines. I strongly recommend that we bolster our samurai numbers at the first available opportunity.	true
+missions_localised_title_m_need_for_allies	The Need for Allies	true
+missions_localised_title_m_naval_obstruction	Naval Obstruction	true
+missions_localised_title_m_gem_tai_construct_propaganda	Symbol of Power	true
+missions_localised_description_m_gem_master_of_artifice	My lord, I notice that we are not currently fielding monomi despite having the ability to do so. A master of subterfuge, a monomi's skills enable him to spy on enemies, sabotage their possessions and their armies whilst remaining undetected. Monomi are also expert assassins, striking from the shadows to kill enemy generals and agents before they have a chance to react.	true
+missions_localised_title_m_balance_of_strength_artillery	Balance of Strength	true
+missions_localised_title_m_gem_all_assassinate_general	In Cold Blood	true
+missions_localised_description_m_thwarting_nanban	The shogun is concerned about the considerable amount of influence the nanban have had upon our culture. He has ordained that this nanban trade port be blockaded at once so that their baleful influence may be kept in check.	true
+missions_localised_description_m_bos_imperial_convert_own_region	Troubling news, my lord! One of our provinces has been coerced into support of the Shogunate. If we are to maintain control, they must show loyalty to the one true Emperor!	true
+missions_localised_description_tut_capture_osaka	Capture the province of Settsu to gain a foot hold on the mainland.	true
+missions_localised_title_m_gem_war_words	War of Words	true
+missions_localised_title_m_bos_shogun_capture_edo	Recapturing Edo	true
+missions_localised_description_tut_capture_awaji	Acquire the island of Awaji to push the Miyoshi clan back onto the mainland.	true
+missions_localised_title_m_cultural_development	Cultural Development	true
+missions_localised_title_m_gem_fuj_construct_propaganda	Symbol of Power	true
+missions_localised_title_m_false_justice	False Justice	true
+missions_localised_title_m_territorial_expansion_middle	Territorial Expansion	true
+missions_localised_title_m_stuff_of_legend_yari	The Stuff of Legend	true
+missions_localised_description_gem_fujiwara_kubota_intro_mission	If we are to reclaim our rightful place as regents to the imperial house, we will need an effective fighting force. Dispatch junsatsushi to spread our influence amongst those provinces most loyal to our cause. Once support for the Fujiwara amongst our neighbours is strong we should request their allegiance, thereby strengthening our position.	true
+missions_localised_title_jap_tokugawa_intro_mission_three	Asserting Our Strength	true
+missions_localised_description_m_bos_shogun_kill_daimyo_in_battle	This daimyo is a staunch supporter of the Emperor. Kill him in battle and we may yet break the spirits of his traitorous followers!	true
+missions_localised_description_m_gem_fuj_capture_yamato	Yamato province; home to the Kofukuji temple, which has served the spiritual needs of the Fujiwara for centuries. Our military exploits bring us ever-closer to Yamato, my lord. For the greater good of our people, the province must be reclaimed.	true
+missions_localised_title_m_bos_old_ways	The Old Ways	true
+missions_localised_description_m_pressing_attack	We are at war, my lord. Supremacy over our enemies must be maintained; by pressing the attack against our neighbouring foes and securing their territory for ourselves we can strengthen our clan's potential whilst weakening theirs.\\n	true
+missions_localised_description_m_acts_sabotage	Their ability to penetrate deep behind enemy lines without being detected enables ninja to put their sabotage skills to pertinent use. Damaged buildings cannot operate until such a time that they have been repaired; a skilled ninja should have little trouble in infiltrating a rival clan and undermining their production capabilities and infrastructure. I believe we could employ such a strategy to our advantage, my lord.	true
+missions_localised_title_m_gem_request_allegiance	Pledge of Allegiance	true
+missions_localised_title_m_constant_foe	The Constant Foe	true
+missions_localised_title_jap_takeda_intro_mission_three	Securing Shinano	true
+missions_localised_description_m_gem_preventive_measures	My lord, our domain has been assailed by an enemy clan! We must deploy monomi to sabotage their supplies, giving us time to prepare defences and muster retaliatory forces.	true
+missions_localised_title_m_preventive_measures	Preventive Measures	true
+missions_localised_description_m_bos_imperial_capture_edo	The Shogunate's grip on Edo must be broken at all costs; the city must be seized for the Emperor!	true
+missions_localised_title_m_demoralising_enemies_buddhist	Demoralising Our Enemies	true
+missions_localised_description_m_war_words_ikko	Strength of body and superior training are key to an army's success in the field, but there are other means of weakening one's opponents. Our Ikko monks can compromise our enemies' morale with words of dread and desperation before the first blow has been struck.	true
+missions_localised_title_m_gem_delusions_grandeur	Delusions of Grandeur	true
+missions_localised_title_jap_chosokabe_intro_mission_two	Masters of Kyujutsu	true
+missions_localised_title_tut_build_port	Construct Harbour	true
+missions_localised_title_m_gem_min_construct_propaganda	Symbol of Power	true
+missions_localised_description_jap_oda_intro_mission_one	As if it were not enough to contend with the rivals that surround us, our home province of Owari has long been gripped by internal strife. An army of rebels is marching from the southeast; they must be defeated if the clan is to be united. 	true
+missions_localised_title_jap_uesugi_intro_mission_three	Expansion Efforts	true
+missions_localised_description_m_gem_unscrupulous	Using  our junsatsushi we can bribe enemy armies into joining our ranks. Bribery can be a costly process, especially when such armies are led by a general - but even the most loyal of men has his price, and the advantage gained by instantly swelling our ranks is a substantial one. 	true
+missions_localised_title_m_war_words_ikko	War of Words	true
+missions_localised_title_m_supporting_endeavours	Supporting Our Endeavours	true
+missions_localised_title_m_intellectual_matters	Intellectual Matters	true
+missions_localised_title_m_bos_shogun_bribe_enemy_army	Turned Against Them	true
+missions_localised_title_m_balance_of_strength_cavalry	Balance of Strength	true
+missions_localised_description_m_gem_delusions_grandeur	The imperial house fears that this family has grown too strong of late. As such, a call to arms has been issued against them.	true
+missions_localised_description_m_daimyo_assassin	This daimyo presumes to wage war against our clan, yet rumours abound that he remains within the safety of his homelands like a craven coward. I propose that we end his life as he chooses to live it. There is no honour or glory in cowardice and indolence; assassination is a just reward for such dishonourable behaviour.	true
+missions_localised_title_m_preying_weak	Preying on the Weak	true
+missions_localised_title_m_gem_fuj_capture_yamato	Return to Yamato	true
+missions_localised_title_m_counterattack	Counterattack	true
+missions_localised_description_jap_chosokabe_intro_mission_one	The Ichijo clan are all but ousted from our home province of Tosa. Nevertheless, some resistance remains to the northwest; we must crush what remains of the Ichijo and rid ourselves of our former rulers once and for all.	true
+missions_localised_description_m_fortification	Castles are both the martial and cultural heart of our provinces. To leave a castle undeveloped is to leave a province weak, its full potential squandered. This is especially true in frontier provinces during periods of warfare, where defensive capability and optimisation of production are vital. This frontier castle remains undeveloped, my lord; now may be the time for fortification.	true
+missions_localised_description_jap_tokugawa_intro_mission_three	The time for our inevitable expansion approaches. Attacking the Oda is the clearest course of action, but their homelands may prove difficult to assail. The Kiso present an easier target, but their neutrality makes them a potential ally. Were we stronger, we should rise against our Imagawa overlords, but we can ill-afford a war on two fronts. The choice is yours, my lord.	true
+missions_localised_description_m_gem_request_allegiance	My lord! Our sources inform us that support for our clan is strong in this province. While we could take the castle by force, I recommend sending a junsatsushi to seek their allegiance first. It may prove costly, but we may avoid unnecessary losses later.	true
+missions_localised_description_m_trade_disruption	Without a burgeoning economy to support it, a clan has little hope of supporting the military strength required to attain prominence. Trade by sea provides an easy means of acquiring funds and resources from clans and countries there would otherwise be no contact with. Attacking trade routes is a sure means of hampering our enemies' long-term plans.	true
+missions_localised_description_m_bos_shogun_capture_edo	Imperial loyalists have seized Edo! For the good of the Shogunate, it must be recaptured!	true
+missions_localised_title_m_gem_master_of_artifice	Master of Artifice	true
+missions_localised_description_bos_intro_2a_mission_expand_shogun	Imperialist forces seek to move against the Shogunate; we must claim their territory for ourselves if we are to prevent them from overthrowing the Shogunate!	true
+missions_localised_description_gem_minamoto_kiso_intro_mission	If we are to exact vengeance upon our enemies, we will need an effective fighting force. Dispatch junsatsushi to spread our influence amongst those provinces most loyal to our cause. Once support for the Minamoto amongst our neighbours is strong we should request their allegiance, thereby strengthening our position.	true
+missions_localised_title_m_breaking_the_blockade	Breaking the Blockade	true
+missions_localised_title_m_instrument_of_justice	Instrument of Justice	true
+missions_localised_title_m_gem_advocate_of_enlightenment	Advocate of Enlightenment	true
+missions_localised_description_m_bos_shogun_capture_kyoto	Imperial loyalists have seized Kyoto! For the good of the Shogunate, it must be recaptured!	true
+missions_localised_description_m_subversive_strategies	As our influence spreads throughout the provinces we may encounter situations where our strategy is put at risk by enemy forces moving to intercept us or reinforce their allies. By sabotaging an army's supplies as they sit encamped our ninja will be able to halt their progress, leaving them open to attack or preventing them from doing so themselves.	true
+missions_localised_title_jap_hattori_intro_mission_two	Masters of Ninpo	true
+missions_localised_title_m_firebrand_missionary	Firebrand	true
+missions_localised_title_jap_shimazu_intro_mission_one	Establishing a Foothold	true
+missions_localised_title_m_schism	Schism	true
+missions_localised_title_m_demoralising_enemies_christian	Demoralising Our Enemies	true
+missions_localised_description_m_firebrand_monk	This monk has been wandering our lands, spreading his Buddhist falsehoods amongst our good, God-fearing people whilst poisoning their minds with old superstitions. He must be eliminated before his false teachings lead any more of our flock unto perdition, an example to all those who would presume to abandon the Lord.	true
+missions_localised_title_m_acts_sabotage	Acts of Sabotage	true
+missions_localised_title_m_bos_recruit_shinobi	Master of Artifice	true
+missions_localised_title_m_spiritual_unity_ikko	Spiritual Unity	true
+missions_localised_title_m_bos_shogun_military_expedition	Military Expedition	true
+missions_localised_description_m_balance_of_strength_medium_naval	My lord, it has come to my attention that our fleets are somewhat lacking in diversity; such diversity ensures readiness for any engagements in which our ships play part.\\n\\nWe are currently deploying comparatively few medium ships; good all-round vessels, they are of sufficient speed and manoeuvrability to evade heavy vessels and projectile attacks from lighter ships, while carrying sufficient crewmen to fight boarding actions. I recommend that we construct a medium ship at the first available opportunity.	true
+missions_localised_description_m_demoralising_enemies_buddhist	Forces belonging to a rival clan are posing a threat to our security. By sending a monk to weaken their army's resolve we will gain a distinct advantage should we choose to meet them in battle.	true
+missions_localised_description_m_agrarian_matters	Agriculture is the life blood upon which the clan subsists, yet we have farmland that is currently undeveloped. For the benefit of the clan we should ensure that we exploit our natural resources to the fullest.	true
+missions_localised_title_m_bos_recruit_shogun_shinsengumi	Instrument of Justice	true
+missions_localised_title_m_indomitable	The Indomitable	true
+missions_localised_description_jap_chosokabe_intro_mission_two	How better to defeat one's enemies than by whittling them away beneath a hail of arrows before they can even engage? Our archers are already unmatched in their resilience; by developing their kyujutsu skills we will make them unbeatable! 	true
+missions_localised_description_m_spiritual_unity_buddhist	My lord! A lack of support for Buddhism in this province has led to tensions amongst the populace. We must re-establish Shinto-Buddhism as the dominant religion in the area if we are to avoid a religious uprising.	true
+missions_localised_description_tut_recruit_ship	Amass a mighty fleet at your port.	true
+missions_localised_title_tut_capture_tokushima	Capture Awa	true
+missions_localised_description_m_balance_of_strength_artillery	Diversity on the battlefield is key to victory; every weapon has its purpose and every unit has its match. It has come to my attention that our forces are unbalanced, my lord; we are currently deploying comparatively few pieces of siege weaponry.\\n\\nSiege weapons are key to breaching even the most impenetrable of enemy strongholds, to say nothing of the damage such weapons inflict upon the individual. I strongly recommend that we construct more siege weapons at the first available opportunity.	true
+missions_localised_title_jap_hattori_intro_mission_one	The Coming Storm	true
+missions_localised_description_m_gem_war_words	Strength of body and superior training are key to an army's success, but there are means of weakening one's opponents when military superiority is not assured. The enemy's morale can be compromised by sending sou to break an army's spirit with words of dread and desperation before the first blow has been struck.	true
+missions_localised_title_jap_shimazu_intro_mission_two	Masters of Kenjutsu	true
+missions_localised_title_tut_demoralise	Demoralise the Enemy	true
+missions_localised_title_m_eye_for_eye	Eye For An Eye	true
+missions_localised_description_m_false_justice	An enemy metsuke is operating dangerously close to our lands. It may be that he intends to dispense false justice to our agents or corrupt the minds of our faithful clansmen and turn them against us. Either way this man should be eliminated at once.	true
+missions_localised_title_tut_construct_building	Construct Building	true
+missions_localised_title_m_balance_of_strength_infantry_ranged	Balance of Strength	true
+missions_localised_title_m_bos_imperial_capture_region	Pressing the Attack	true
+missions_localised_description_m_enemies_progress	We come to Japan with nothing but the best interests of both our peoples at heart, yet this clan does nothing but shun our requests for trade and cultural exchange. This persistent denial will surely prove detrimental to Euro-Japanese relations; measures must be undertaken to bring them to heel.	true
+missions_localised_description_m_protecting_our_interests	Our trade partner has had their port blockaded by their enemies. Their economic wellbeing must be ensured if our relationship is to endure; I strongly advise that we move to break the blockade at once.	true
+missions_localised_title_m_turned_against_them	Turned Against Them	true
+missions_localised_description_m_gem_turned_against_them	We are at war, my lord, and our enemies have invaded our domain. An attack force is now within our borders, posing a threat to both your power and our people. We must deploy a junsatsushi to bribe them into joining us; we can turn our enemy's own warriors against him!	true
+missions_localised_description_m_gem_demoralising_enemies	Forces belonging to a rival clan are posing a threat to our security. By sending a sou to weaken their army's resolve we will gain a distinct advantage should we choose to meet them in battle.	true
+missions_localised_title_tut_recruit_ship	Construct Ship	true
+missions_localised_description_m_instrument_of_justice	My lord, I notice that we are not currently fielding metsuke despite having the ability to do so. Metsuke are experts at apprehending and bringing to justice enemy ninja. Their authority is absolute, abating feelings of disloyalty by their presence and directing clan funds to the bribery of enemy armies and possessions.	true
+missions_localised_description_m_breaking_the_blockade	Our ignoble enemies have deigned to blockade one of our ports, interrupting all services and trade that flow through it. We must break the blockade as soon as possible so normal operations can resume.	true
+missions_localised_title_gem_minamoto_kiso_intro_mission	The Minamoto Cause	true
+missions_localised_description_m_need_for_allies	My lord, we wage war alone and against all odds. I do not question your ability to lead our clan to glory, but if we are to continue making enemies of those who would oppose us then I implore you to consider making allies amongst the daimyo with whom we share ideals and aspirations.	true
+missions_localised_description_m_gem_advocate_of_enlightenment	My lord, I notice that we are not currently fielding sou, despite having the ability to do so. Sou can inspire our troops or demoralise the enemy's, in addition to providing excellent protection against enemy junsatsushi.	true
+missions_localised_title_m_balance_of_strength_samurai	Balance of Strength	true
+missions_localised_title_m_subversive_strategies	Subversive Strategies	true
+missions_localised_title_m_undermining_economy	Undermining Their Economy	true
+missions_localised_description_m_bos_shogun_convert_other_region	As we expand our domain we must ensure that our people fully support the Shogunate. By converting enemy provinces to our cause prior to conquest, we make it easier to maintain control later.	true
+missions_localised_description_m_resource_management_iron	The clan grows strong, my lord, yet we still lack our own source of superior iron. While we might obtain iron through diplomatic means, the only way that we can ensure a stable supply is by controlling a province rich in this metal. Our strategists have identified such a province; I recommend that we capture it forthwith.	true
+missions_localised_description_m_resource_management_wood	The clan grows strong, my lord, yet we still lack our own source of superior timber. While we might obtain timber through diplomatic means, the only way in which we can ensure a stable supply is by controlling a province with an abundance of fine trees.  Our strategists have identified such a province; I recommend that we capture it forthwith.	true
+missions_localised_description_m_bos_shogun_military_expedition	Insurgents from this clan have spread violent unrest throughout the lands, moving the Shogun to issue a call to arms: the traitors must be defeated with haste!	true
+missions_localised_title_m_unscrupulous	Unscrupulous	true
+missions_localised_description_m_gem_intellectual_matters	Rare is the clan that excels in every field of research, but that should not preclude one from aspiring to do so. By establishing a place of learning we will be able to increase our rate of technological and philosophical progress.	true
+missions_localised_description_m_bos_recruit_shogun_shinsengumi	It has come to my attention that we are not fielding any shinsengumi, despite having the ability to recruit them. I recommend that we recruit one at the first opportunity.	true
+missions_localised_description_m_supporting_endeavours	Warfare is a costly endeavour, my lord, and a lack of funds can severely hamper recruitment and development initiatives. By securing provinces rich in precious metals we can ensure a constant source of income. We have identified one such province; I recommend that we conquer it at the first opportunity.	true
+missions_localised_title_m_firebrand_monk	Firebrand	true
+missions_localised_title_jap_chosokabe_intro_mission_one	Chosokabe Rising	true
+missions_localised_title_m_fortification	Fortification	true
+missions_localised_description_m_schism	While once we might have considered this clan a worthy ally, the recent decline in diplomatic relations between us leads us to believe that they will eventually become a liability to our cause. For the sake of clan security, I recommend that we move to subjugate them at once.	true
+missions_localised_description_m_counterattack	My lord! An enemy clan has sent an attack force into our domain. Defeat of the invaders in battle will both weaken and prove that they are no match for our military might!	true
+missions_localised_title_tut_capture_takamatsu	Capture Sanuki	true
+missions_localised_description_jap_oda_intro_mission_two	In recent years, we have perfected a training regime that enables us to field ashigaru of the finest calibre. Their chief weapon is the spear; cheap to manufacture, simple to learn and effective against both infantry and cavalry. Improving our mastery of spear-fighting techniques will maximise their combat potential.	true
+missions_localised_description_m_demoralising_enemies_christian	Forces belonging to a rival clan are posing a threat to our security. By sending a missionary to weaken their army's resolve we will gain a distinct advantage should we choose to meet them in battle.	true
+missions_localised_description_m_gem_convert_province_own	My lord! Our influence is dangerously low in this province! Unless measures are taken, the province will be open to the political machinations of our foes!	true
+missions_localised_title_tut_civil_tech	Research Chi	true
+missions_localised_title_m_bos_recruit_veteran	Master of Warfare	true
+missions_localised_title_m_bos_reinforce_region_capital	Defender of the Domain	true
+missions_localised_description_jap_hojo_intro_mission_two	Hojo engineers are masters of their craft; we must use this skill to our advantage on the battlefield. Understanding of the strategy of attack will enable the establishment of workshops to craft siege engines and other advanced weaponry, thus rendering us invincible!	true
+missions_localised_description_bos_intro_2b_mission_expand_imperial	Shogunate loyalists will stop at nothing to prevent the Emperor's return to power; we must claim their territory for ourselves if we are to be prepared for all-out conflict!	true
+missions_localised_description_tut_bribe	Bribe the enemy into joining your conquest of Shikoku.	true
+missions_localised_description_jap_ikko_intro_mission_two	The teachings of our spiritual forefathers hold true in the hearts of many. These teachings must now spread across all Japan, so that the people can be freed from their spiritual shackles. By mastering the spirit, our temples will have deeper roots, and our monks will become stronger champions of truth.	true
+missions_localised_title_gem_taira_yashima_intro_mission	The Taira Cause	true
+missions_localised_title_m_war_words_christian	War of Words	true
+missions_localised_description_m_benefits_trade	My lord, I cannot help but notice that we are not currently conducting trade with other clans. Aside from providing us with additional revenue, trade can give us access to resources and commodities that we lack whilst strengthening diplomatic relations with our trade partners. I strongly recommend that we establish a trade agreement with another clan as soon as possible.	true
+missions_localised_description_tut_assassination	Assassinate the enemy general to weaken his army.	true
+missions_localised_title_jap_tokugawa_intro_mission_two	Masters of Intrigue	true
+missions_localised_description_m_balance_of_strength_heavy_naval	My lord, it has come to my attention that our fleets are somewhat lacking in diversity; such diversity ensures readiness for any engagements in which our ships play part.\\n\\nWe are currently deploying comparatively few heavy ships; although slow and somewhat difficult to manoeuvre, these ships are effectively fortresses, resistant to attack and capable of holding many crewmembers. I recommend that we construct a heavy ship at the first available opportunity.	true
+missions_localised_description_jap_mori_intro_mission_two	Our shipwrights are unmatched in their craft, our seafarers unmatched in their skill. We can use this superiority to our advantage, striking at our enemies' trade. Further improvement of our seafaring knowledge will ensure that we maintain this advantage!	true
+missions_localised_description_jap_shimazu_intro_mission_three	As our clan grows, so do we require additional means to support our military and cultural endeavours. Trade with foreign powers will lead us to commodities and riches that cannot be sought in Japan. By establishing a trade port now we can construct ships with which to conduct foreign trade.	true
+missions_localised_description_m_united_we_stand	Our ally is currently at war, my lord. While we do not share their enmity, by joining their struggle we may reinforce their loyalty and strengthen our own position by preying on the same foe.	true
+missions_localised_description_m_stuff_of_legend_crafts	The pursuit of excellence is a worthy pursuit indeed, my lord. We are now in a position to construct a legendary testament to our great accomplishments in matters of trade and craftsmanship for all of Japan to behold.\\n\\nWe must endeavour to establish a kabunakama before a less worthy clan does so in our stead!	true
+missions_localised_title_m_stuff_of_legend_temple	The Stuff of Legend	true
+missions_localised_description_m_bos_shogun_incite_revolt	The Imperialist cause has swayed many, but support for the Shogun is strong in this province. Incite a revolt here so they might have his protection.	true
+missions_localised_description_jap_hattori_intro_mission_three	As warfare escalates across Japan, it is imperative that we extend our rule to neighbouring provinces, strengthening us and ensuring the safety of our people. While it pains me to take up arms against those with whom we have no quarrel, we must strike at any province except for Yamashiro; to challenge the shogun now would surely be suicide?	true
+missions_localised_description_m_gem_irresistible_charm	My lord, I notice that we are not currently fielding shirabyoshi, despite having the ability to do so. By exploiting their feminine wiles, shirabyoshi keep our subjects loyal and can seduce enemies into  joining our cause.	true
+missions_localised_title_m_into_fold_christian	Into the Fold	true
+missions_localised_description_m_enemy_tradition	The daimyo of this clan has seen fit to fully abandon the Japanese way and cast his lot with the nanban and their false religion. Their narrow-minded cultural views and intolerance of our spirituality are an affront upon the kami, our ancestors and the people of Nippon. It is the shogun's wish that measures be taken to subjugating this man and his clan.	true
+missions_localised_description_m_into_fold_ikko	Many of the people in this province have chosen to follow the Jodo Shinshu way, yet they live in fear of bigoted masters who would see them suffer for their beliefs. We must send an army of Ikko Ikki at once to free the people from their spiritual shackles.	true
+missions_localised_title_m_stuff_of_legend_crafts	The Stuff of Legend	true
+missions_localised_title_m_bos_imperial_bribe_enemy_army	Turned Against Them	true
+missions_localised_description_m_balance_of_strength_light_naval	My lord, it has come to my attention that our fleets are somewhat lacking in diversity; such diversity ensures readiness for any engagements in which our ships play part.\\n\\nWe are currently deploying comparatively few light ships; while incapable of holding more than a handful of crewmen and being open to all manners of attack, their size and speed means they can easily out-manoeuvre larger enemy ships while peppering them with arrows. I recommend that we construct a light ship at the first available opportunity.	true
+missions_localised_title_m_into_fold_ikko	Into the Fold	true
+missions_localised_title_m_gem_irresistible_charm	Manipulator of Men	true
+missions_localised_description_m_worthy_adversary	Our scouts have spied the forces of a rival daimyo conducting manoeuvres in a neighbouring province. This presents us with the perfect opportunity to strike a devastating blow to our enemies and the chance to prove our mettle against a worthy foe.	true
+missions_localised_description_m_bos_naval_power	My lord! Have we learned nothing from the unfair agreements foisted upon us by the western powers? Our naval superiority is paramount and I fear we are not exploiting the many advances in naval technology.	true
+missions_localised_description_m_naval_dominance	The sea gives sustenance and presents opportunities for trade, but is vast and impossible to control. If we are to prevent our enemies from interfering with our sea trade or attempting to land an invasion force on our soil, we must endeavour to maintain martial superiority at sea. By defeating an enemy navy, we will weaken their naval potential whilst strengthening our own crews' resolve.	true
+missions_localised_description_m_stuff_of_legend_temple	The pursuit of excellence is a worthy pursuit indeed, my lord. We are now in a position to construct a legendary testament to our great Buddhist deeds for all of Japan to behold.\\n\\nWe must endeavour to construct a great Buddhist temple before a less worthy clan does so in our stead!	true
+missions_localised_description_m_resource_management_warhorses	The clan grows strong, my lord, yet we still lack our own source of superior warhorses. While we might obtain horses through diplomatic means, the only way in which we can ensure a regular supply is by controlling a province distinguished by an abundance of the finest breeds. Our strategists have identified such a province; I recommend that we capture it forthwith.	true
+missions_localised_title_m_bos_shogun_convert_own_region	Unity of Purpose	true
+missions_localised_title_m_keeping_peace	Keeping the Peace	true
+missions_localised_title_m_bos_research_military	The Martial Way	true
+missions_localised_description_jap_chosokabe_intro_mission_three	Tosa is securely under our control; so begins our conquest of Shikoku. We will unite all the provinces under the Chosokabe banner! The Kono of Iyo are already moving against us; subjugating them first will avoid a war on two fronts. However, Awa province is a more strategically important target, being a source of superior warhorses. The choice is yours, my lord.	true
+missions_localised_title_m_common_cause	Common Cause	true
+missions_localised_title_m_balance_of_strength_ashigaru	Balance of Strength	true
+missions_localised_title_m_gem_seduce_character	Irresistible	true
+missions_localised_description_jap_date_intro_mission_two	Fearlessness in battle breeds fear in one's enemies, and with that fear comes the certainty of defeat. There is nary a weapon so fearful in the hands of a warrior as the great sword. Mastering their use will enable us to better break all who would dare oppose us!	true
+missions_localised_description_m_war_weariness	Our people grow weary of our perennial state of conflict, my lord. With so many enemies, we risk stretching our resources to breaking point by trying to defeat them all. I strongly recommend that we make peace with at least one rival clan - for the time being, at least - so that we might concentrate on dispensing with the rest.	true
+missions_localised_title_m_stuff_of_legend_sword	The Stuff of Legend	true
+missions_localised_description_m_gem_tai_capture_kyoto	While we may have moved our seat of power from the old capital to Fukuhara, Kyoto remains a symbol of tradition and power. If we are to maintain our authority, we must ensure that Kyoto remains under Taira control.	true
+missions_localised_description_m_gem_fuj_capture_kyoto	As we continue taking control of provinces we draw nearer to Kyoto and our former seat of power. For the glory of our family, we must recapture the old capital! 	true
+missions_localised_title_m_bos_reinforce_region_unrest	Maintaining Order	true
+missions_localised_description_m_gem_min_capture_kyoto	Kyoto is within our grasp, my lord. The former capital is a symbol of the old days, a reminder of the corruption and self-importance that has caused much turmoil in recent years. We must seize the city and see to it that the mistakes of the past are not repeated.	true
+missions_localised_title_m_stuff_of_legend_horse	The Stuff of Legend	true
+missions_localised_description_m_stuff_of_legend_siege	The pursuit of excellence is a worthy pursuit indeed, my lord. We are now in a position to construct a legendary testament to our outstanding achievements in spearmanship for all of Japan to behold.\\n\\nWe must endeavour to construct a legendary sojutsu school before a less worthy clan does so in our stead!	true
+missions_localised_title_bos_intro_2b_mission_expand_imperial	Strengthening Our Position	true
+missions_localised_title_m_benefits_trade	The Benefits of Trade	true
+missions_localised_title_m_bos_imperial_crush_rebellion	Crushing the Dissidents	true
+missions_localised_title_m_territorial_expansion_early	Territorial Expansion	true
+missions_localised_description_m_bos_construct_financial	Warfare is taking its toll upon our coffers, my lord. I recommend improving our commercial infrastructure so it may better support our military.	true
+missions_localised_title_m_bos_imperial_kill_character	The Propensity to Kill	true
+missions_localised_title_gem_taira_fukuhara_intro_mission	The Taira Cause	true
+missions_localised_description_tut_military_tech	Follow bushido to develop the art of war.	true
+missions_localised_title_m_march_kyoto	The March on Kyoto	true
+missions_localised_title_jap_shimazu_intro_mission_three	Trade Endeavours	true
+missions_localised_title_jap_otomo_intro_mission_three	Might and Money	true
+missions_localised_title_m_unification_of_japan	The Unification of Japan	true
+missions_localised_title_jap_hattori_intro_mission_three	A Difficult Choice	true
+missions_localised_description_m_stuff_of_legend_archery	The pursuit of excellence is a worthy pursuit indeed, my lord. We are now in a position to construct a legendary testament to our outstanding achievements in kyujutsu for all of Japan to behold.\\n\\nWe must endeavour to construct a legendary kyudo school before a less worthy clan does so in our stead!	true
+missions_localised_description_m_stuff_of_legend_stealth	The pursuit of excellence is a worthy pursuit indeed, my lord. We are now in a position to construct a legendary testament to our mastery of ninjutsu and for all of Japan to behold.\\n\\nWe must endeavour to construct an infamous mizu shobai district before a less worthy does so in our stead!	true
+missions_localised_description_jap_date_intro_mission_one	Our clan has been gripped by civil strife since the disagreements with Tanemune over the fate of your brother. Having gathered much support for your cause, you are now in a position to put an end to your father's rule. Defeat Tanemune's forces and the Date will be united once again!	true
+missions_localised_description_gem_taira_yashima_intro_mission	If we are to subjugate those who seek to overthrow us, we will need an effective fighting force. Dispatch junsatsushi to spread our influence amongst those provinces most loyal to our cause. Once support for the Taira amongst our neighbours is strong we should request their allegiance, thereby strengthening our position.	true
+missions_localised_title_m_bos_seduce_character	Irresistible	true
+missions_localised_description_jap_ikko_intro_mission_one	The Jodo Shinshu temple was important in Omi. Our following among the people is now much reduced, but the faith is not forgotten. Rekindle the faith in Omi and, by doing so, make our return in strength more likely.	true
+missions_localised_title_m_war_weariness	War Weariness	true
+missions_localised_description_m_crippling_trade	In order to undermine the military endeavours of the enemy we must attack their sources of revenue. I recommend we sabotage one of the ports that contribute to their income.	true
+missions_localised_description_m_stuff_of_legend_sword	The pursuit of excellence is a worthy pursuit indeed, my lord. We are now in a position to construct a legendary testament to our outstanding achievements in swordsmanship for all of Japan to behold.\\n\\nWe must endeavour to construct a legendary kenjutsu school before a less worthy clan does so in our stead!	true
+missions_localised_description_jap_hojo_intro_mission_one	The Ogigayatsu and Yamanouchi clans - once bitter rivals - have put aside their differences and allied against our growing influence. Now, an Ogigayatsu army is approaching from the east, intent on pushing us out of Sagami province. Crush the army and their province of Musashi will be ripe for the taking!	true
+missions_localised_title_m_gem_tai_capture_kyoto	The March on Kyoto	true
+missions_localised_title_m_gem_min_capture_kyoto	The March on Kyoto	true
+missions_localised_title_m_gem_fuj_capture_kyoto	The March on Kyoto	true
+missions_localised_description_m_stuff_of_legend_horse	The pursuit of excellence is a worthy pursuit indeed, my lord. We are now in a position to construct a legendary testament to our outstanding achievements in horsemanship for all of Japan to behold.\\n\\nWe must endeavour to construct a legendary bajutsu school before a less worthy clan does so in our stead!	true
+missions_localised_title_m_stuff_of_legend_siege	The Stuff of Legend	true
+missions_localised_title_jap_tokugawa_intro_mission_one	In Defence of Mikawa	true
+missions_localised_description_jap_mori_intro_mission_one	Frustrated in our attempts to invade the Amako heartland with our Ouchi allies, we have been compelled to return to our home province to consolidate our forces. The Amako have been quick to avail themselves of the situation and are now invading our territory from the north. They must be repelled at once!	true
+missions_localised_description_m_bos_imperial_bribe_enemy_army	An enemy force draws near, my lord. By sending ishin shishi we may yet persuade them to abandon the Shogun and join the army of the one, rightful Emperor!	true
+missions_localised_title_m_proof_might	Proof of Might	true
+missions_localised_title_m_gem_worthy_adversary	A Worthy Adversary	true
+missions_localised_title_m_resource_management_warhorses	Resource Management	true
+missions_localised_description_m_bos_shogun_convert_own_region	Troubling news, my lord! One of our provinces has been coerced into support of the Emperor! If we are to regain control, the populace must be brought back around to the Shogun's way of thinking.	true
+missions_localised_description_m_keeping_peace	Public order in this province is low, my lord, and unless something is done soon we may be faced with an uprising. I recommend that we reinforce the local garrison to help keep the population in check.	true
+missions_localised_title_bos_intro_1_mission_clan_level	Developing Our Potential	true
+missions_localised_description_m_bos_research_military	This is a time of strife, my lord, and I am concerned that there is too great a focus on civil development. I recommend that we improve our military technology to give us the edge in battle.	true
+missions_localised_description_gem_taira_fukuhara_intro_mission	If we are to subjugate those who seek to overthrow us, we will need an effective fighting force. Dispatch junsatsushi to spread our influence amongst those provinces most loyal to our cause. Once support for the Taira amongst our neighbours is strong we should request their allegiance, thereby strengthening our position.	true

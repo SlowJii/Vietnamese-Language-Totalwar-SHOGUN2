@@ -1,0 +1,2134 @@
+{
+  "filename": "achievements.loc.tsv",
+  "category": "ui",
+  "header_lines": [
+    "key\ttext\ttooltip",
+    "#Loc;1;text/db/achievements.loc\t\t"
+  ],
+  "rows": [
+    {
+      "key": "achievements_description_ACHIEVEMENT_A_CREATE_SECOND_AVATAR",
+      "text": "Create a second avatar for use in avatar conquest mode.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_CONTROL_KYUSHU",
+      "text": "Control all the provinces on the island of Kyushu in the campaign.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_ODA",
+      "text": "Oda Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_HAKODATE_WON",
+      "text": "Journey's End",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_WIN_20_NAVAL_BATTLES",
+      "text": "Win 20 naval battles in multiplayer.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_SINK_ENEMY_SHIP_WITH_RAMMING",
+      "text": "Sink an enemy ship by ramming. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_GAME_AS_CHRISTIAN",
+      "text": "Win a campaign as a Christian daimyo.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_FIGHT_DROP_IN_BATTLE",
+      "text": "The Duellist",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_A_5_CLAN_REGIONS_SIMULTANEOUSLY_OWNED",
+      "text": "Stranglehold",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_MP_VS_CAMPAIGN_GIVING_OTHER_PLAYER_GOLD",
+      "text": "Dishonoured Foe",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_5_NAVAL_BOMBARDMENTS_WITH_TOSA",
+      "text": "Father of the Imperial Navy",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_WIN_BATTLE_NO_RANGED",
+      "text": "Berserk Charge",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_WIN_20_RANKED_BATTLES",
+      "text": "Win 50 matchmade battles in multiplayer.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_WIN_25_RANKED_BATTLES",
+      "text": "Win 25 matchmade battles in multiplayer.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_WIN_BATTLE_NO_RANGED",
+      "text": "Win a multiplayer battle using no ranged units in your army.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_WIN_MP_BATTLE_LESS_THAN_15_PERCENT_LOSSES",
+      "text": "Swift and Deadly",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_FIGHT_DROP_IN_BATTLE",
+      "text": "Fight a drop-in battle.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_ATTAIN_MAX_LEVEL_ALL_AGENTS",
+      "text": "Thy Will Be Done",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_FIELD_ENTIRELY_HEROES",
+      "text": "Win a battle using an army composed entirely of hero units and your general.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_WIN_BATTLE_ONNA_BUGEISHA_AS_GENERAL",
+      "text": "Onna-Bugeisha",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_PLAY_10_BATTLES",
+      "text": "Play 10 multiplayer battles of any type.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_WIN_20_NAVAL_BATTLES",
+      "text": "Master of the Waves",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_SINK_ENEMY_SHIP_WITH_RAMMING",
+      "text": "Damn the Torpedoes",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_BECOME_SHOGUN",
+      "text": "Achieve the ultimate goal and become Shogun in the grand campaign.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_HAKODATE_WON",
+      "text": "Complete all historical battles. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_CHOSOKABE_CAMPAIGN",
+      "text": "Win a campaign as the Chosokabe clan.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_SINK_ENEMY_SHIP_WITH_TORPEDOES",
+      "text": "Sink an enemy ship with torpedoes. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_WIN_BATTLE_EVERY_TYPE_OF_UNIT",
+      "text": "Win a battle using an army composed of at least one of every class of unit (sword infantry, cavalry, archer, matchlock, spear, naginata).",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_A_CREATE_SECOND_AVATAR",
+      "text": "Double Dragons",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_RALLY_5_UNITS",
+      "text": "Successfully rally 5 units at once with one use of the general's rally ability.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_MIYAKO_BAY_1",
+      "text": "The Iron Lady",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_SHIMAZU_CAMPAIGN",
+      "text": "Shimazu Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_MAX_LEVEL_MISSIONARY",
+      "text": "Servant of God",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_TAKEDA",
+      "text": "Win a campaign as the Takeda clan.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_BEAT_CA_STAFF_VIRAL",
+      "text": "Spreading Like Wildfire",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_OBTAIN_MAX_LEVEL_UNIT",
+      "text": "Obtain a unit of maximum rank in the grand campaign.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_HOJO",
+      "text": "Win a campaign as the Hojo clan.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_A_JOIN_A_CLAN",
+      "text": "Serve with Honour",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_UESUGI_CAMPAIGN",
+      "text": "Uesugi Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_EASY_CAMPAIGN",
+      "text": "A Promising Beginning",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_AIZU_1",
+      "text": "Win the Battle of Aizu after provoking all four hidden armies at once. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_HOJO",
+      "text": "Hojo Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_MEDIUM_CAMPAIGN",
+      "text": "A Respectable Rule",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_TOBA_FUSHIMI_1",
+      "text": "Chase down and rout an enemy unit as it tries to escape the Battle of Toba-Fushimi. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_TOBA_FUSHIMI_2",
+      "text": "Play a historical battle. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_WIN_10_ATTACKING_SIEGES",
+      "text": "Win 10 siege battles as the attacker.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_SHIMAZU_CAMPAIGN",
+      "text": "Win a campaign as the Shimazu clan.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_MAX_LEVEL_MISSIONARY",
+      "text": "Obtain a maximum level missionary.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_MIYAKO_BAY_1",
+      "text": "Complete the Battle of Miyako Bay with the Kotetsu having taken less than 25% damage. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_RESEARCH_GUNPOWDER_TECH_FIRST",
+      "text": "Be the first clan in the campaign to obtain gunpowder mastery.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_MAX_LEVEL_MONK",
+      "text": "Obtain a maximum level monk.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_WIN_LEGENDARY_CAMPAIGN",
+      "text": "Win a campaign on legendary difficulty.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_AS_DEFENDER_RECAPTURE_A_TOWER",
+      "text": "As the defender, recapture a tower.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_MAX_LEVEL_METSUKE",
+      "text": "Master Interrogator",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_3_ASSASSINATIONS_WITH_SHINSENGUMI",
+      "text": "Wolves of Mibu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_A_DEFEAT_BOSHIN_ARMY_WITH_SHOGUN",
+      "text": "Defeat a Fall of the Samurai army with a Shogun 2 army.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_MIDWINTER",
+      "text": "Requiem of the Dead",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_WIN_LEGENDARY_CAMPAIGN",
+      "text": "Against All Odds",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_POSESS_ALL_TRADE_NODES",
+      "text": "Control all the trade posts on the campaign map at the same time.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_WIN_BATTLE_NO_SPEAR",
+      "text": "Fear No Horseman",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_HARD_CAMPAIGN",
+      "text": "Famed Shogun",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_CONNECT_A_RAILWAY",
+      "text": "All Aboard!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_BATTLE_WITH_BRITISH_SHIPS",
+      "text": "Win a battle with British ships in your navy. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_WIN_100_RANKED_BATTLES",
+      "text": "The Dragon of Japan",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_DATE_CAMPAIGN",
+      "text": "Date Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_UENO_1",
+      "text": "Win the Battle of Ueno without capturing any of the key temple buildings. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_WIN_BATTLE_NO_CAVALRY",
+      "text": "Win a multiplayer battle using no cavalry units (excluding the general) in your army.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_MAX_LEVEL_GENERAL",
+      "text": "Fearsome Commander of Men",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_CAMPAIGN_AFTER_DECLARING_INDEPENDENCE",
+      "text": "Ezo Republic",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_4_ASHIGARU_UNITS_WHOLE_BATTLE",
+      "text": "Keep at least 4 ashigaru units for a whole battle without routing once.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_MORI_CAMPAIGN",
+      "text": "Mori Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_A_VETERAN_UNIT_LEVEL_5",
+      "text": "Exceptional Warriors",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_GIFT_ARMY_OR_NAVY_IN_COOP",
+      "text": "Gift-wrapped",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_MP_COOP_CAMPAIGN",
+      "text": "United in Conquest",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_MP_COOP_CAMPAIGN",
+      "text": "Win a multiplayer co-op campaign.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_WIN_10_DEFENDING_SIEGES",
+      "text": "Win 10 siege battles as the defender.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_A_VETERAN_UNIT_LEVEL_5",
+      "text": "Through the avatar system, get a veteran unit to level 4.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_WIN_MP_BATTLE",
+      "text": "Win your first multiplayer battle.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_A_DEFEAT_SHOGUN_ARMY_WITH_BOSHIN",
+      "text": "Defeat a Shogun 2 army with a Fall of the Samurai army. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_A_CAPTURE_ALL_AVATAR_CAMPAIGN_REGIONS",
+      "text": "Uniter of Japan",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_MP_VS_CAMPAIGN",
+      "text": "Japan Torn Asunder",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_SINK_CARAVEL_OR_NIHON_MARU",
+      "text": "Belligerent Admiral",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_CONSTRUCT_3_TRADE_DISTRICTS_WITH_SATSUMA",
+      "text": "Playing as the Satsuma, construct a trade district and trade with a foreign power within the same campaign. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_CONSTRUCT_3_TRADE_DISTRICTS_WITH_SATSUMA",
+      "text": "Gateway to the West",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_KILL_10000_MEN_WITH_ARTILLERY",
+      "text": "Hard Pounding",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_WIN_10_DEFENDING_SIEGES",
+      "text": "Man the Defences",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_A_CAPTURE_ALL_AVATAR_CAMPAIGN_REGIONS",
+      "text": "Capture all provinces on the avatar campaign map.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_RESEARCH_8TH_TIER_TECH_WITH_NAGOKA",
+      "text": "One Hundred Sacks of Rice",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_HOLD_ALL_KEY_BUILDINGS_2_MINS",
+      "text": "Battlefield Dominance",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_A_VETERAN_UNIT_LEVEL_10",
+      "text": "Heroic Warriors",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_WIN_BATTLE_NO_SPEAR",
+      "text": "Win a multiplayer battle using no spear units in your army.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_BEAT_CA_STAFF_VIRAL",
+      "text": "Defeat a Creative Assembly staff member in battle, or anyone else who has gained this achievement.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_A_CAPTURE_15_AVATAR_CAMPAIGN_REGIONS",
+      "text": "Capture 15 provinces on the avatar campaign map.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIPE_OUT_IKKO_IKKI",
+      "text": "Eradicate the Ikko-Ikki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_KILL_10000_ENEMY_SOLDIERS",
+      "text": "Collect 10,000 heads of enemy soldiers.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_HAKODATE_1",
+      "text": "Perfect Ten",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_INCITE_3_REBELLIONS_WITH_ISHIN_SHISHI",
+      "text": "Agent Provocateur",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_UESUGI_CAMPAIGN",
+      "text": "Win a campaign as the Uesugi clan.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_A_JOIN_A_CLAN",
+      "text": "Join a multiplayer clan in Shogun 2.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_MEDIUM_CAMPAIGN",
+      "text": "Win a campaign on normal difficulty.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_WIN_10_ATTACKING_SIEGES",
+      "text": "Castle-stormer",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_ODA",
+      "text": "Win a campaign as the Oda clan.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_A_5_CLAN_REGIONS_SIMULTANEOUSLY_OWNED",
+      "text": "Your clan holds 5 provinces simultaneously on the multiplayer clan campaign map.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_MP_VS_CAMPAIGN_GIVING_OTHER_PLAYER_GOLD",
+      "text": "Win a multiplayer head to head campaign despite giving the other player 10,000 koku.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_ATTAIN_MAX_LEVEL_ALL_AGENTS",
+      "text": "Obtain a maximum level agent of each type. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_WIN_BATTLE_ONNA_BUGEISHA_AS_GENERAL",
+      "text": "Win a defensive siege battle with the lady of the house, the Onna Bushi, as your general. (Single Player Only)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_PLAY_10_BATTLES",
+      "text": "Experienced Taisho",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_RANK_1_SHOGUN_LADDER",
+      "text": "There Can Be Only One",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_A_MAX_OUT_AVATAR_SKILLS_TREE",
+      "text": "Path of the Leader",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_RESEARCH_EPIC_ARCHITECTURE_FIRST",
+      "text": "Glittering Grand Cities",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_A_CAPTURE_15_AVATAR_CAMPAIGN_REGIONS",
+      "text": "Carve a Path",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_RALLY_5_UNITS",
+      "text": "Inspiring Counterattack",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIPE_OUT_IKKO_IKKI",
+      "text": "Wipe out the Ikko-Ikki in the campaign.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_HAKODATE_1",
+      "text": "Complete the Battle of Hakodate without any Imperial units being routed. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_3_AMBUSH_BATTLES_WITH_JOZAI",
+      "text": "Hereditary Honour",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_WIN_200_MULTIPLAYER_BATTLES",
+      "text": "Win 200 multiplayer battles of any type.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_OBTAIN_MAX_LEVEL_UNIT",
+      "text": "Living for Battle",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_EASY_CAMPAIGN",
+      "text": "Win a campaign on easy difficulty.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_CONTROL_SHIKOKU",
+      "text": "Holder of Shikoku",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_RESEARCH_EPIC_ARCHITECTURE_FIRST",
+      "text": "Be the first clan in the campaign to master the art of epic architecture.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_BURN_CASTLE_DOWN_AND_WIN_BATTLE",
+      "text": "Towering Inferno",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_OSAKA_1",
+      "text": "Uphill Struggle",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_A_MAX_POINTS_IN_BOSHIN_SKILLS_TREE",
+      "text": "Skilled Warrior",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_WIN_25_LAND_BATTLES",
+      "text": "Win 25 land battles.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_BOMBARDMENT_WITH_FRENCH_IRONCLAD",
+      "text": "Carry out a bombardment with a French ironclad in your navy. [Fall of the Samurai only]  ",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_GAME_AS_CHRISTIAN",
+      "text": "One Rule Under God",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_WIN_20_RANKED_BATTLES",
+      "text": "Bringer of Death",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_WIN_25_RANKED_BATTLES",
+      "text": "Claw of the Tiger",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_WIPE_OUT_A_UNIT",
+      "text": "Unnecessary Force",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_WIN_BATTLE_50_PERCENT_MATCHLOCK",
+      "text": "Swathed in Fire",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_WIN_MP_BATTLE_LESS_THAN_15_PERCENT_LOSSES",
+      "text": "Win a multiplayer battle losing less than 15% of your starting troops.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_BOMBARDMENT_WITH_FRENCH_IRONCLAD",
+      "text": "L'Ocean is Mine!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_A_MAX_OUT_AVATAR_SKILLS_TREE",
+      "text": "Spend the maximum number of points in your avatar's skill tree.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_RANK_1_SHOGUN_LADDER",
+      "text": "Achieve the ultimate accolade and obtain rank 1 on the multiplayer Shogun Ladder.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_A_MAX_POINTS_IN_BOSHIN_SKILLS_TREE",
+      "text": "Max out any \"Fall of the Samurai\" avatar skill tree, by spending a skill point in each skill within a single skill tree.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_FIELD_ENTIRELY_HEROES",
+      "text": "Legendary Force",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_BECOME_SHOGUN",
+      "text": "Divine Right",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_STEAM_SUMMER_SALE",
+      "text": "Summer Son",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_WIN_BATTLE_EVERY_TYPE_OF_UNIT",
+      "text": "Balanced Attacker",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_RESEARCH_SHIH_TECH_FIRST",
+      "text": "Military Might",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_IGA_CLAN",
+      "text": "Eradicate the Hattori",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_MP_VS_CAMPAIGN",
+      "text": "Win a multiplayer head to head campaign.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_MAX_LEVEL_GENERAL",
+      "text": "Obtain a maximum level general in the campaign.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_CAMPAIGN_AFTER_DECLARING_INDEPENDENCE",
+      "text": "Declare your independence and complete a campaign. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_LEGENDARY_CAMPAIGN_SHOGUNATE",
+      "text": "Win a campaign on legendary difficulty playing as either the Aizu, the Jozai or the Nagaoka. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_WIN_BATTLE_NO_CAVALRY",
+      "text": "The Gathering Storm",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_OBTAIN_100_FAME_IN_20_TURNS",
+      "text": "Obtain 100 fame within 50 turns.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_4_ASHIGARU_UNITS_WHOLE_BATTLE",
+      "text": "Commander of Commoners",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_SINK_CARAVEL_OR_NIHON_MARU",
+      "text": "Sink a nanban trade ship or the flagship vessel the Nihon Maru during a naval battle.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_GIFT_ARMY_OR_NAVY_IN_COOP",
+      "text": "Gift your co-op partner an army or navy.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_MORI_CAMPAIGN",
+      "text": "Win a campaign as the Mori clan.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_MAX_LEVEL_NINJA",
+      "text": "Agent of the Stealthy Blade",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_WIN_HARD_CAMPAIGN",
+      "text": "Stubborn Pursuer of Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_LEGENDARY_CAMPAIGN_SHOGUNATE",
+      "text": "Hero of the Shogunate",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_WIN_MP_BATTLE",
+      "text": "Forged in the Hottest Flame",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_RESEARCH_SHIH_TECH_FIRST",
+      "text": "Be the first clan in the campaign to master the art of Shih.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_IGA_CLAN",
+      "text": "Wipe out the Hattori clan in the campaign.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_RESEARCH_GUNPOWDER_TECH_FIRST",
+      "text": "Advanced Firearms",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_ALL_UNITS_HIDDEN",
+      "text": "Elusive Strike Force",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_A_EARN_20_CLAN_TOKENS",
+      "text": "Personally earn 20 clan tokens.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_BATTLE_WITH_AMERICAN_MARINES",
+      "text": "Win a battle with United States Marines in your army. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_ATTAIN_MAX_MODERNISATION",
+      "text": "Attain the maximum level of clan development. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_TOKUGAWA",
+      "text": "Tokugawa Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_SINK_HMS_WARRIOR",
+      "text": "Sink  an HMS Warrior-class ship. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_MAX_LEVEL_METSUKE",
+      "text": "Obtain a maximum level metsuke.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_AS_DEFENDER_RECAPTURE_A_TOWER",
+      "text": "Redoubtable",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_SINK_HMS_WARRIOR",
+      "text": "A Warrior's Bane",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_3_ASSASSINATIONS_WITH_SHINSENGUMI",
+      "text": "Playing as the Aizu, carry out 3 successful assassinations of generals in the same campaign using a shinsengumi. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_RESEARCH_8TH_TIER_TECH_WITH_NAGOKA",
+      "text": "Playing as the Nagaoka, research any eighth tier technology. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_TOKUGAWA",
+      "text": "Win a campaign as the Tokugawa clan.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_BATTLE_WITH_AMERICAN_MARINES",
+      "text": "Semper Fi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_ATTAIN_MAX_MODERNISATION",
+      "text": "Embrace the New",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_LEGENDARY_CAMPAIGN_IMPERIAL",
+      "text": "Hero of the Empire",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_MIDWINTER",
+      "text": "Win a defensive siege battle with your daimyo during any winter turn.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_HARD_CAMPAIGN",
+      "text": "Win a campaign on hard difficulty.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_ALL_UNITS_HIDDEN",
+      "text": "Have all your army, except the general, hidden simultaneously for more than 30 seconds.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_CONNECT_A_RAILWAY",
+      "text": "Construct a railway between 2 provinces. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_DATE_CAMPAIGN",
+      "text": "Win a campaign as the Date clan.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_BATTLE_WITH_BRITISH_SHIPS",
+      "text": "Rule, Britannia!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_A_EARN_20_CLAN_TOKENS",
+      "text": "Loyal to the Clan",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_MAX_LEVEL_MONK",
+      "text": "Legendary Sohei",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_A_DEFEAT_BOSHIN_ARMY_WITH_SHOGUN",
+      "text": "Keeping to Tradition",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_LEGENDARY_CAMPAIGN_IMPERIAL",
+      "text": "Win a campaign on legendary difficulty playing as either the Satsuma, the Tosa or the Choshu. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_HOLD_ALL_KEY_BUILDINGS_2_MINS",
+      "text": "On maps with more than one key building, your alliance shows its dominance by holding all of them simultaneously.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_POSESS_ALL_TRADE_NODES",
+      "text": "Trade Route Monopoly",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_A_VETERAN_UNIT_LEVEL_10",
+      "text": "Through the avatar system, get a veteran unit to level 9.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_WIN_100_RANKED_BATTLES",
+      "text": "Win 100 matchmade battles in multiplayer.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_UENO_1",
+      "text": "A Blow to the Temple",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_OBTAIN_100_FAME_IN_20_TURNS",
+      "text": "Soaring Fame",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_MAX_LEVEL_NINJA",
+      "text": "Obtain a maximum level ninja in the campaign.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_WIN_HARD_CAMPAIGN",
+      "text": "Win a campaign on very hard difficulty.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_KILL_10000_MEN_WITH_ARTILLERY",
+      "text": "Call in naval fire support during a land battle. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_A_DEFEAT_SHOGUN_ARMY_WITH_BOSHIN",
+      "text": "Modernisation",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_OSAKA_1",
+      "text": "Win the Battle of Osaka after both bridges get blown up by the defenders. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_CONTROL_KYUSHU",
+      "text": "Holder of Kyushu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_BURN_CASTLE_DOWN_AND_WIN_BATTLE",
+      "text": "As the attacker, burn a castle's gates, towers and tenshu to the ground using fire arrows, and win the battle.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_WIPE_OUT_A_UNIT",
+      "text": "Completely wipe out an enemy unit.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_B_WIN_BATTLE_50_PERCENT_MATCHLOCK",
+      "text": "Win a multiplayer battle where more than 50% of your army is made up of matchlock units.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_WIN_25_LAND_BATTLES",
+      "text": "The Army on the March",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_5_NAVAL_BOMBARDMENTS_WITH_TOSA",
+      "text": "Playing as the Tosa, carry out 5 naval bombardments in the same campaign. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_STEAM_SUMMER_SALE",
+      "text": "Your daimyo wins 3 consecutive land battles during the summer season.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_SINK_ENEMY_SHIP_WITH_TORPEDOES",
+      "text": "Warhead",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_CHOSOKABE_CAMPAIGN",
+      "text": "Chosokabe Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_TAKEDA",
+      "text": "Takeda Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_WIN_3_AMBUSH_BATTLES_WITH_JOZAI",
+      "text": "Playing as the Jozai, win 3 ambush battles in the same campaign. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_WIN_200_MULTIPLAYER_BATTLES",
+      "text": "Zen-like Dedication",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_C_KILL_10000_ENEMY_SOLDIERS",
+      "text": "Head-Hunter",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_INCITE_3_REBELLIONS_WITH_ISHIN_SHISHI",
+      "text": "Playing as the Choshu, incite 3 rebellions in the same campaign using an ishin shishi. [Fall of the Samurai only]",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_AIZU_1",
+      "text": "Wrecking Ball",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_TOBA_FUSHIMI_1",
+      "text": "Not On My Watch",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_title_ACHIEVEMENT_B_TOBA_FUSHIMI_2",
+      "text": "A Journey Begins",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "achievements_description_ACHIEVEMENT_C_CONTROL_SHIKOKU",
+      "text": "Control all the provinces on the island of Shikoku in the campaign.",
+      "tooltip": "true",
+      "empty": false
+    }
+  ],
+  "translatable": [
+    {
+      "row_index": 0,
+      "text": "Create a second avatar for use in avatar conquest mode."
+    },
+    {
+      "row_index": 1,
+      "text": "Control all the provinces on the island of Kyushu in the campaign."
+    },
+    {
+      "row_index": 2,
+      "text": "Oda Victory"
+    },
+    {
+      "row_index": 3,
+      "text": "Journey's End"
+    },
+    {
+      "row_index": 4,
+      "text": "Win 20 naval battles in multiplayer."
+    },
+    {
+      "row_index": 5,
+      "text": "Sink an enemy ship by ramming. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 6,
+      "text": "Win a campaign as a Christian daimyo."
+    },
+    {
+      "row_index": 7,
+      "text": "The Duellist"
+    },
+    {
+      "row_index": 8,
+      "text": "Stranglehold"
+    },
+    {
+      "row_index": 9,
+      "text": "Dishonoured Foe"
+    },
+    {
+      "row_index": 10,
+      "text": "Father of the Imperial Navy"
+    },
+    {
+      "row_index": 11,
+      "text": "Berserk Charge"
+    },
+    {
+      "row_index": 12,
+      "text": "Win 50 matchmade battles in multiplayer."
+    },
+    {
+      "row_index": 13,
+      "text": "Win 25 matchmade battles in multiplayer."
+    },
+    {
+      "row_index": 14,
+      "text": "Win a multiplayer battle using no ranged units in your army."
+    },
+    {
+      "row_index": 15,
+      "text": "Swift and Deadly"
+    },
+    {
+      "row_index": 16,
+      "text": "Fight a drop-in battle."
+    },
+    {
+      "row_index": 17,
+      "text": "Thy Will Be Done"
+    },
+    {
+      "row_index": 18,
+      "text": "Win a battle using an army composed entirely of hero units and your general."
+    },
+    {
+      "row_index": 19,
+      "text": "Onna-Bugeisha"
+    },
+    {
+      "row_index": 20,
+      "text": "Play 10 multiplayer battles of any type."
+    },
+    {
+      "row_index": 21,
+      "text": "Master of the Waves"
+    },
+    {
+      "row_index": 22,
+      "text": "Damn the Torpedoes"
+    },
+    {
+      "row_index": 23,
+      "text": "Achieve the ultimate goal and become Shogun in the grand campaign."
+    },
+    {
+      "row_index": 24,
+      "text": "Complete all historical battles. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 25,
+      "text": "Win a campaign as the Chosokabe clan."
+    },
+    {
+      "row_index": 26,
+      "text": "Sink an enemy ship with torpedoes. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 27,
+      "text": "Win a battle using an army composed of at least one of every class of unit (sword infantry, cavalry, archer, matchlock, spear, naginata)."
+    },
+    {
+      "row_index": 28,
+      "text": "Double Dragons"
+    },
+    {
+      "row_index": 29,
+      "text": "Successfully rally 5 units at once with one use of the general's rally ability."
+    },
+    {
+      "row_index": 30,
+      "text": "The Iron Lady"
+    },
+    {
+      "row_index": 31,
+      "text": "Shimazu Victory"
+    },
+    {
+      "row_index": 32,
+      "text": "Servant of God"
+    },
+    {
+      "row_index": 33,
+      "text": "Win a campaign as the Takeda clan."
+    },
+    {
+      "row_index": 34,
+      "text": "Spreading Like Wildfire"
+    },
+    {
+      "row_index": 35,
+      "text": "Obtain a unit of maximum rank in the grand campaign."
+    },
+    {
+      "row_index": 36,
+      "text": "Win a campaign as the Hojo clan."
+    },
+    {
+      "row_index": 37,
+      "text": "Serve with Honour"
+    },
+    {
+      "row_index": 38,
+      "text": "Uesugi Victory"
+    },
+    {
+      "row_index": 39,
+      "text": "A Promising Beginning"
+    },
+    {
+      "row_index": 40,
+      "text": "Win the Battle of Aizu after provoking all four hidden armies at once. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 41,
+      "text": "Hojo Victory"
+    },
+    {
+      "row_index": 42,
+      "text": "A Respectable Rule"
+    },
+    {
+      "row_index": 43,
+      "text": "Chase down and rout an enemy unit as it tries to escape the Battle of Toba-Fushimi. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 44,
+      "text": "Play a historical battle. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 45,
+      "text": "Win 10 siege battles as the attacker."
+    },
+    {
+      "row_index": 46,
+      "text": "Win a campaign as the Shimazu clan."
+    },
+    {
+      "row_index": 47,
+      "text": "Obtain a maximum level missionary."
+    },
+    {
+      "row_index": 48,
+      "text": "Complete the Battle of Miyako Bay with the Kotetsu having taken less than 25% damage. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 49,
+      "text": "Be the first clan in the campaign to obtain gunpowder mastery."
+    },
+    {
+      "row_index": 50,
+      "text": "Obtain a maximum level monk."
+    },
+    {
+      "row_index": 51,
+      "text": "Win a campaign on legendary difficulty."
+    },
+    {
+      "row_index": 52,
+      "text": "As the defender, recapture a tower."
+    },
+    {
+      "row_index": 53,
+      "text": "Master Interrogator"
+    },
+    {
+      "row_index": 54,
+      "text": "Wolves of Mibu"
+    },
+    {
+      "row_index": 55,
+      "text": "Defeat a Fall of the Samurai army with a Shogun 2 army."
+    },
+    {
+      "row_index": 56,
+      "text": "Requiem of the Dead"
+    },
+    {
+      "row_index": 57,
+      "text": "Against All Odds"
+    },
+    {
+      "row_index": 58,
+      "text": "Control all the trade posts on the campaign map at the same time."
+    },
+    {
+      "row_index": 59,
+      "text": "Fear No Horseman"
+    },
+    {
+      "row_index": 60,
+      "text": "Famed Shogun"
+    },
+    {
+      "row_index": 61,
+      "text": "All Aboard!"
+    },
+    {
+      "row_index": 62,
+      "text": "Win a battle with British ships in your navy. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 63,
+      "text": "The Dragon of Japan"
+    },
+    {
+      "row_index": 64,
+      "text": "Date Victory"
+    },
+    {
+      "row_index": 65,
+      "text": "Win the Battle of Ueno without capturing any of the key temple buildings. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 66,
+      "text": "Win a multiplayer battle using no cavalry units (excluding the general) in your army."
+    },
+    {
+      "row_index": 67,
+      "text": "Fearsome Commander of Men"
+    },
+    {
+      "row_index": 68,
+      "text": "Ezo Republic"
+    },
+    {
+      "row_index": 69,
+      "text": "Keep at least 4 ashigaru units for a whole battle without routing once."
+    },
+    {
+      "row_index": 70,
+      "text": "Mori Victory"
+    },
+    {
+      "row_index": 71,
+      "text": "Exceptional Warriors"
+    },
+    {
+      "row_index": 72,
+      "text": "Gift-wrapped"
+    },
+    {
+      "row_index": 73,
+      "text": "United in Conquest"
+    },
+    {
+      "row_index": 74,
+      "text": "Win a multiplayer co-op campaign."
+    },
+    {
+      "row_index": 75,
+      "text": "Win 10 siege battles as the defender."
+    },
+    {
+      "row_index": 76,
+      "text": "Through the avatar system, get a veteran unit to level 4."
+    },
+    {
+      "row_index": 77,
+      "text": "Win your first multiplayer battle."
+    },
+    {
+      "row_index": 78,
+      "text": "Defeat a Shogun 2 army with a Fall of the Samurai army. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 79,
+      "text": "Uniter of Japan"
+    },
+    {
+      "row_index": 80,
+      "text": "Japan Torn Asunder"
+    },
+    {
+      "row_index": 81,
+      "text": "Belligerent Admiral"
+    },
+    {
+      "row_index": 82,
+      "text": "Playing as the Satsuma, construct a trade district and trade with a foreign power within the same campaign. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 83,
+      "text": "Gateway to the West"
+    },
+    {
+      "row_index": 84,
+      "text": "Hard Pounding"
+    },
+    {
+      "row_index": 85,
+      "text": "Man the Defences"
+    },
+    {
+      "row_index": 86,
+      "text": "Capture all provinces on the avatar campaign map."
+    },
+    {
+      "row_index": 87,
+      "text": "One Hundred Sacks of Rice"
+    },
+    {
+      "row_index": 88,
+      "text": "Battlefield Dominance"
+    },
+    {
+      "row_index": 89,
+      "text": "Heroic Warriors"
+    },
+    {
+      "row_index": 90,
+      "text": "Win a multiplayer battle using no spear units in your army."
+    },
+    {
+      "row_index": 91,
+      "text": "Defeat a Creative Assembly staff member in battle, or anyone else who has gained this achievement."
+    },
+    {
+      "row_index": 92,
+      "text": "Capture 15 provinces on the avatar campaign map."
+    },
+    {
+      "row_index": 93,
+      "text": "Eradicate the Ikko-Ikki"
+    },
+    {
+      "row_index": 94,
+      "text": "Collect 10,000 heads of enemy soldiers."
+    },
+    {
+      "row_index": 95,
+      "text": "Perfect Ten"
+    },
+    {
+      "row_index": 96,
+      "text": "Agent Provocateur"
+    },
+    {
+      "row_index": 97,
+      "text": "Win a campaign as the Uesugi clan."
+    },
+    {
+      "row_index": 98,
+      "text": "Join a multiplayer clan in Shogun 2."
+    },
+    {
+      "row_index": 99,
+      "text": "Win a campaign on normal difficulty."
+    },
+    {
+      "row_index": 100,
+      "text": "Castle-stormer"
+    },
+    {
+      "row_index": 101,
+      "text": "Win a campaign as the Oda clan."
+    },
+    {
+      "row_index": 102,
+      "text": "Your clan holds 5 provinces simultaneously on the multiplayer clan campaign map."
+    },
+    {
+      "row_index": 103,
+      "text": "Win a multiplayer head to head campaign despite giving the other player 10,000 koku."
+    },
+    {
+      "row_index": 104,
+      "text": "Obtain a maximum level agent of each type. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 105,
+      "text": "Win a defensive siege battle with the lady of the house, the Onna Bushi, as your general. (Single Player Only)"
+    },
+    {
+      "row_index": 106,
+      "text": "Experienced Taisho"
+    },
+    {
+      "row_index": 107,
+      "text": "There Can Be Only One"
+    },
+    {
+      "row_index": 108,
+      "text": "Path of the Leader"
+    },
+    {
+      "row_index": 109,
+      "text": "Glittering Grand Cities"
+    },
+    {
+      "row_index": 110,
+      "text": "Carve a Path"
+    },
+    {
+      "row_index": 111,
+      "text": "Inspiring Counterattack"
+    },
+    {
+      "row_index": 112,
+      "text": "Wipe out the Ikko-Ikki in the campaign."
+    },
+    {
+      "row_index": 113,
+      "text": "Complete the Battle of Hakodate without any Imperial units being routed. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 114,
+      "text": "Hereditary Honour"
+    },
+    {
+      "row_index": 115,
+      "text": "Win 200 multiplayer battles of any type."
+    },
+    {
+      "row_index": 116,
+      "text": "Living for Battle"
+    },
+    {
+      "row_index": 117,
+      "text": "Win a campaign on easy difficulty."
+    },
+    {
+      "row_index": 118,
+      "text": "Holder of Shikoku"
+    },
+    {
+      "row_index": 119,
+      "text": "Be the first clan in the campaign to master the art of epic architecture."
+    },
+    {
+      "row_index": 120,
+      "text": "Towering Inferno"
+    },
+    {
+      "row_index": 121,
+      "text": "Uphill Struggle"
+    },
+    {
+      "row_index": 122,
+      "text": "Skilled Warrior"
+    },
+    {
+      "row_index": 123,
+      "text": "Win 25 land battles."
+    },
+    {
+      "row_index": 124,
+      "text": "Carry out a bombardment with a French ironclad in your navy. [Fall of the Samurai only]  "
+    },
+    {
+      "row_index": 125,
+      "text": "One Rule Under God"
+    },
+    {
+      "row_index": 126,
+      "text": "Bringer of Death"
+    },
+    {
+      "row_index": 127,
+      "text": "Claw of the Tiger"
+    },
+    {
+      "row_index": 128,
+      "text": "Unnecessary Force"
+    },
+    {
+      "row_index": 129,
+      "text": "Swathed in Fire"
+    },
+    {
+      "row_index": 130,
+      "text": "Win a multiplayer battle losing less than 15% of your starting troops."
+    },
+    {
+      "row_index": 131,
+      "text": "L'Ocean is Mine!"
+    },
+    {
+      "row_index": 132,
+      "text": "Spend the maximum number of points in your avatar's skill tree."
+    },
+    {
+      "row_index": 133,
+      "text": "Achieve the ultimate accolade and obtain rank 1 on the multiplayer Shogun Ladder."
+    },
+    {
+      "row_index": 134,
+      "text": "Max out any \"Fall of the Samurai\" avatar skill tree, by spending a skill point in each skill within a single skill tree."
+    },
+    {
+      "row_index": 135,
+      "text": "Legendary Force"
+    },
+    {
+      "row_index": 136,
+      "text": "Divine Right"
+    },
+    {
+      "row_index": 137,
+      "text": "Summer Son"
+    },
+    {
+      "row_index": 138,
+      "text": "Balanced Attacker"
+    },
+    {
+      "row_index": 139,
+      "text": "Military Might"
+    },
+    {
+      "row_index": 140,
+      "text": "Eradicate the Hattori"
+    },
+    {
+      "row_index": 141,
+      "text": "Win a multiplayer head to head campaign."
+    },
+    {
+      "row_index": 142,
+      "text": "Obtain a maximum level general in the campaign."
+    },
+    {
+      "row_index": 143,
+      "text": "Declare your independence and complete a campaign. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 144,
+      "text": "Win a campaign on legendary difficulty playing as either the Aizu, the Jozai or the Nagaoka. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 145,
+      "text": "The Gathering Storm"
+    },
+    {
+      "row_index": 146,
+      "text": "Obtain 100 fame within 50 turns."
+    },
+    {
+      "row_index": 147,
+      "text": "Commander of Commoners"
+    },
+    {
+      "row_index": 148,
+      "text": "Sink a nanban trade ship or the flagship vessel the Nihon Maru during a naval battle."
+    },
+    {
+      "row_index": 149,
+      "text": "Gift your co-op partner an army or navy."
+    },
+    {
+      "row_index": 150,
+      "text": "Win a campaign as the Mori clan."
+    },
+    {
+      "row_index": 151,
+      "text": "Agent of the Stealthy Blade"
+    },
+    {
+      "row_index": 152,
+      "text": "Stubborn Pursuer of Victory"
+    },
+    {
+      "row_index": 153,
+      "text": "Hero of the Shogunate"
+    },
+    {
+      "row_index": 154,
+      "text": "Forged in the Hottest Flame"
+    },
+    {
+      "row_index": 155,
+      "text": "Be the first clan in the campaign to master the art of Shih."
+    },
+    {
+      "row_index": 156,
+      "text": "Wipe out the Hattori clan in the campaign."
+    },
+    {
+      "row_index": 157,
+      "text": "Advanced Firearms"
+    },
+    {
+      "row_index": 158,
+      "text": "Elusive Strike Force"
+    },
+    {
+      "row_index": 159,
+      "text": "Personally earn 20 clan tokens."
+    },
+    {
+      "row_index": 160,
+      "text": "Win a battle with United States Marines in your army. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 161,
+      "text": "Attain the maximum level of clan development. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 162,
+      "text": "Tokugawa Victory"
+    },
+    {
+      "row_index": 163,
+      "text": "Sink  an HMS Warrior-class ship. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 164,
+      "text": "Obtain a maximum level metsuke."
+    },
+    {
+      "row_index": 165,
+      "text": "Redoubtable"
+    },
+    {
+      "row_index": 166,
+      "text": "A Warrior's Bane"
+    },
+    {
+      "row_index": 167,
+      "text": "Playing as the Aizu, carry out 3 successful assassinations of generals in the same campaign using a shinsengumi. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 168,
+      "text": "Playing as the Nagaoka, research any eighth tier technology. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 169,
+      "text": "Win a campaign as the Tokugawa clan."
+    },
+    {
+      "row_index": 170,
+      "text": "Semper Fi"
+    },
+    {
+      "row_index": 171,
+      "text": "Embrace the New"
+    },
+    {
+      "row_index": 172,
+      "text": "Hero of the Empire"
+    },
+    {
+      "row_index": 173,
+      "text": "Win a defensive siege battle with your daimyo during any winter turn."
+    },
+    {
+      "row_index": 174,
+      "text": "Win a campaign on hard difficulty."
+    },
+    {
+      "row_index": 175,
+      "text": "Have all your army, except the general, hidden simultaneously for more than 30 seconds."
+    },
+    {
+      "row_index": 176,
+      "text": "Construct a railway between 2 provinces. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 177,
+      "text": "Win a campaign as the Date clan."
+    },
+    {
+      "row_index": 178,
+      "text": "Rule, Britannia!"
+    },
+    {
+      "row_index": 179,
+      "text": "Loyal to the Clan"
+    },
+    {
+      "row_index": 180,
+      "text": "Legendary Sohei"
+    },
+    {
+      "row_index": 181,
+      "text": "Keeping to Tradition"
+    },
+    {
+      "row_index": 182,
+      "text": "Win a campaign on legendary difficulty playing as either the Satsuma, the Tosa or the Choshu. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 183,
+      "text": "On maps with more than one key building, your alliance shows its dominance by holding all of them simultaneously."
+    },
+    {
+      "row_index": 184,
+      "text": "Trade Route Monopoly"
+    },
+    {
+      "row_index": 185,
+      "text": "Through the avatar system, get a veteran unit to level 9."
+    },
+    {
+      "row_index": 186,
+      "text": "Win 100 matchmade battles in multiplayer."
+    },
+    {
+      "row_index": 187,
+      "text": "A Blow to the Temple"
+    },
+    {
+      "row_index": 188,
+      "text": "Soaring Fame"
+    },
+    {
+      "row_index": 189,
+      "text": "Obtain a maximum level ninja in the campaign."
+    },
+    {
+      "row_index": 190,
+      "text": "Win a campaign on very hard difficulty."
+    },
+    {
+      "row_index": 191,
+      "text": "Call in naval fire support during a land battle. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 192,
+      "text": "Modernisation"
+    },
+    {
+      "row_index": 193,
+      "text": "Win the Battle of Osaka after both bridges get blown up by the defenders. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 194,
+      "text": "Holder of Kyushu"
+    },
+    {
+      "row_index": 195,
+      "text": "As the attacker, burn a castle's gates, towers and tenshu to the ground using fire arrows, and win the battle."
+    },
+    {
+      "row_index": 196,
+      "text": "Completely wipe out an enemy unit."
+    },
+    {
+      "row_index": 197,
+      "text": "Win a multiplayer battle where more than 50% of your army is made up of matchlock units."
+    },
+    {
+      "row_index": 198,
+      "text": "The Army on the March"
+    },
+    {
+      "row_index": 199,
+      "text": "Playing as the Tosa, carry out 5 naval bombardments in the same campaign. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 200,
+      "text": "Your daimyo wins 3 consecutive land battles during the summer season."
+    },
+    {
+      "row_index": 201,
+      "text": "Warhead"
+    },
+    {
+      "row_index": 202,
+      "text": "Chosokabe Victory"
+    },
+    {
+      "row_index": 203,
+      "text": "Takeda Victory"
+    },
+    {
+      "row_index": 204,
+      "text": "Playing as the Jozai, win 3 ambush battles in the same campaign. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 205,
+      "text": "Zen-like Dedication"
+    },
+    {
+      "row_index": 206,
+      "text": "Head-Hunter"
+    },
+    {
+      "row_index": 207,
+      "text": "Playing as the Choshu, incite 3 rebellions in the same campaign using an ishin shishi. [Fall of the Samurai only]"
+    },
+    {
+      "row_index": 208,
+      "text": "Wrecking Ball"
+    },
+    {
+      "row_index": 209,
+      "text": "Not On My Watch"
+    },
+    {
+      "row_index": 210,
+      "text": "A Journey Begins"
+    },
+    {
+      "row_index": 211,
+      "text": "Control all the provinces on the island of Shikoku in the campaign."
+    }
+  ],
+  "total_chunks": 3,
+  "chunk_size": 80
+}

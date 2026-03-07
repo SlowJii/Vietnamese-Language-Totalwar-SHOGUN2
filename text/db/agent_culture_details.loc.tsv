@@ -1,0 +1,176 @@
+key	text	tooltip
+#Loc;1;text/db/agent_culture_details.loc		
+agent_culture_details_description_text_57	A Spy is also a saboteur and assassin who can be sent into a target city to report its contents and sabotage buildings. To attempt an assassination select a target character.	true
+agent_culture_details_description_text_56	A Spy is also a saboteur and assassin who can be sent into a target city to report its contents and sabotage buildings. To attempt an assassination select a target character.	true
+agent_culture_details_description_text_55	Arrr! Ye scurvy pirate! (PLACEHOLDER)	true
+agent_culture_details_description_text_54	Arrr! Ye scurvy pirate! (PLACEHOLDER)	true
+agent_culture_details_description_text_53	Arrr! Ye scurvy pirate! (PLACEHOLDER)	true
+agent_culture_details_description_text_52	Arrr! Ye scurvy pirate! (PLACEHOLDER)	true
+agent_culture_details_description_text_51	An Orthodox Missionary is a religious teacher who preaches the Orthodox faith. Placing them within a region will cause a gradual conversion to the Orthodox faith amongst the population. They will continue to automatically convert a population until moved.	true
+agent_culture_details_description_text_50	Ninja are masters of artifice and infiltration. Their ninjutsu skills enable them to spy upon enemies or sabotage their armies and castle towns, whilst moving through their lands undetected. They are also expert assassins, striking from the shadows to kill enemy generals and agents alike. Their infliltration skills also make ninja invaluable scouts for their clan's armies, whilst their underworld connections keep them abreast of comings and goings when visiting friendly provinces.	true
+agent_culture_details_description_text_59	PLACEHOLDER	true
+agent_culture_details_description_text_58	A Scout is a spy, saboteur, and assassin who can be sent into a target city to report its contents and sabotage buildings. To attempt an assassination select a target character.	true
+agent_culture_details_description_text_47	Minister. PLACEHOLDER.	true
+agent_culture_details_description_text_46	Minister. PLACEHOLDER.	true
+agent_culture_details_description_text_45	Minister. PLACEHOLDER.	true
+agent_culture_details_description_text_44	Minister. PLACEHOLDER.	true
+agent_culture_details_description_text_43	Minister. PLACEHOLDER.	true
+agent_culture_details_description_text_42	Minister. PLACEHOLDER.	true
+agent_culture_details_description_text_41	An Imam is a religious teacher who spreads word of Islam around the world. Placing an Imam with a region will cause a gradual conversion to Islam amongst the population. They will continue to automatically convert a region until moved.	true
+agent_culture_details_description_text_40	An Imam is a religious teacher who spreads word of Islam around the world. Placing an Imam with a region will cause a gradual conversion to Islam amongst the population. They will continue to automatically convert a region until moved.	true
+agent_culture_details_description_text_49	Monks are ardent proponents of the teachings of Buddha. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Monks are also able to convert populations to Buddhism and enemy agents to abandon their missions in favour of a life of peace and self-reflection. They are particularly effective when used against metsuke. 	true
+agent_culture_details_description_text_48	Missionaries are fervent evangelists of the Christian way. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Missionaries are also able to convert populations to Christianity and enemy agents to abandon their missions in favour of a life of god-fearing penance. They are particularly effective when used against metsuke.	true
+agent_culture_details_description_text_37	A Gentleman is an educated man who can be sent into educational buildings to speed-up research, and can also duel with Spies and other Gentlemen. Select a target character in order to challenge them to a duel.	true
+agent_culture_details_description_text_36	A Gentleman is an educated man who can be sent into educational buildings to speed-up research, and can also duel with Spies and other Gentlemen. Select a target character in order to challenge them to a duel.	true
+agent_culture_details_description_text_35	Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents.	true
+agent_culture_details_description_text_34	Colonel. PLACEHOLDER.	true
+agent_culture_details_description_text_33	Colonel. PLACEHOLDER.	true
+agent_culture_details_description_text_32	PLACEHOLDER Colonel lvl 0	true
+agent_culture_details_description_text_31	Colonel. PLACEHOLDER.	true
+agent_culture_details_description_text_30	Colonel. PLACEHOLDER.	true
+agent_culture_details_description_text_39	Metsuke are unscrupulous executors of their daimyo's authority, directing their cunning to the control of their clan's disaffected generals and people. They are also able to bribe enemy armies and towns. Metsuke may seek to apprehend and bring enemy agents to 'justice', and are particularly effective at uncovering and countering ninja activity. 	true
+agent_culture_details_description_text_38	A Brahmin is a religious teacher who spreads word of the Hindu faith around the world. Placing a Brahmin within a region will cause a gradual conversion to Hinduism amongst the population. They will continue to automatically convert a region until moved.	true
+agent_culture_details_description_text_27	A Catholic Missionary is a religious teacher who spreads the word of Catholicism. Placing a Missionary within a region will cause a gradual conversion to Catholicism amongst the population. They will continue to automatically convert a region until moved.	true
+agent_culture_details_description_text_26	Captain. PLACEHOLDER.	true
+agent_culture_details_description_text_25	Captain. PLACEHOLDER.	true
+agent_culture_details_description_text_24	Captain. PLACEHOLDER.	true
+agent_culture_details_description_text_23	Captain. PLACEHOLDER.	true
+agent_culture_details_description_text_22	Captain. PLACEHOLDER.	true
+agent_culture_details_description_text_21	Captain. PLACEHOLDER.	true
+agent_culture_details_description_text_20	Bandit. PLACEHOLDER.	true
+agent_culture_details_description_text_29	Colonel. PLACEHOLDER.	true
+agent_culture_details_description_text_28	Colonel. PLACEHOLDER.	true
+agent_culture_details_description_text_17	Bandit. PLACEHOLDER.	true
+agent_culture_details_description_text_16	A Hashishin is a spy, saboteur, and assassin who can be sent into a target city to report on its contents and sabotage buildings. To attempt an assassination select a target character.	true
+agent_culture_details_description_text_15	A Thugee is a spy, saboteur and assassin who can be sent into a target city to report on its contents and sabotage buildings. To attempt an assassination select a target character.	true
+agent_culture_details_description_text_14	A Hashishin is a spy, saboteur, and assassin who can be sent into a target city to report on its contents and sabotage buildings. To attempt an assassination select a target character.	true
+agent_culture_details_description_text_13	Admirals.PLACEHOLDER	true
+agent_culture_details_description_text_12	Admirals.PLACEHOLDER	true
+agent_culture_details_description_text_11	Admirals.PLACEHOLDER	true
+agent_culture_details_description_text_10	Admirals.PLACEHOLDER	true
+agent_culture_details_description_text_19	Bandit. PLACEHOLDER.	true
+agent_culture_details_description_text_18	Bandit. PLACEHOLDER.	true
+agent_culture_details_onscreen_name_54	Pirate	true
+agent_culture_details_onscreen_name_55	Pirate	true
+agent_culture_details_onscreen_name_56	Spy	true
+agent_culture_details_onscreen_name_57	Spy	true
+agent_culture_details_onscreen_name_50	Ninja	true
+agent_culture_details_onscreen_name_51	Orthodox Missionary	true
+agent_culture_details_onscreen_name_52	Pirate	true
+agent_culture_details_onscreen_name_53	Pirate	true
+agent_culture_details_onscreen_name_58	Scout	true
+agent_culture_details_onscreen_name_59	Captain	true
+agent_culture_details_onscreen_name_44	Minister	true
+agent_culture_details_onscreen_name_45	Minister	true
+agent_culture_details_onscreen_name_46	Minister	true
+agent_culture_details_onscreen_name_47	Minister	true
+agent_culture_details_onscreen_name_40	Imam	true
+agent_culture_details_onscreen_name_41	Imam	true
+agent_culture_details_onscreen_name_42	Minister	true
+agent_culture_details_onscreen_name_43	Minister	true
+agent_culture_details_onscreen_name_48	Missionary	true
+agent_culture_details_onscreen_name_49	Monk	true
+agent_culture_details_onscreen_name_5	General	true
+agent_culture_details_onscreen_name_4	Orgeneral	true
+agent_culture_details_onscreen_name_7	Orgeneral	true
+agent_culture_details_onscreen_name_6	General	true
+agent_culture_details_onscreen_name_1	Eastern Scholar	true
+agent_culture_details_onscreen_name_0	Eastern Scholar	true
+agent_culture_details_onscreen_name_3	General	true
+agent_culture_details_onscreen_name_2	Eastern Scholar	true
+agent_culture_details_onscreen_name_9	Admiral	true
+agent_culture_details_onscreen_name_8	Protestant Missionary	true
+agent_culture_details_onscreen_name_14	Hashishin	true
+agent_culture_details_onscreen_name_15	Thugee	true
+agent_culture_details_onscreen_name_16	Hashishin	true
+agent_culture_details_onscreen_name_17	Highwayman	true
+agent_culture_details_onscreen_name_10	Amir-al-bahr	true
+agent_culture_details_onscreen_name_11	Admiral	true
+agent_culture_details_onscreen_name_12	Amir-al-bahr	true
+agent_culture_details_onscreen_name_13	Amir-al-bahr	true
+agent_culture_details_onscreen_name_18	Thug	true
+agent_culture_details_onscreen_name_19	Bandit	true
+agent_culture_details_onscreen_name_34	Warchief	true
+agent_culture_details_onscreen_name_35	Geisha	true
+agent_culture_details_onscreen_name_36	Gentleman	true
+agent_culture_details_onscreen_name_37	Gentleman	true
+agent_culture_details_onscreen_name_30	Brigadier	true
+agent_culture_details_onscreen_name_31	Brigadier	true
+agent_culture_details_onscreen_name_32	Captain	true
+agent_culture_details_onscreen_name_33	Brigadier	true
+agent_culture_details_onscreen_name_38	Brahmin	true
+agent_culture_details_onscreen_name_39	Metsuke	true
+agent_culture_details_onscreen_name_24	Captain	true
+agent_culture_details_onscreen_name_25	Captain	true
+agent_culture_details_onscreen_name_26	Captain	true
+agent_culture_details_onscreen_name_27	Catholic Missionary	true
+agent_culture_details_onscreen_name_20	Raider	true
+agent_culture_details_onscreen_name_21	Captain	true
+agent_culture_details_onscreen_name_22	Captain	true
+agent_culture_details_onscreen_name_23	Captain	true
+agent_culture_details_onscreen_name_28	Brigadier	true
+agent_culture_details_onscreen_name_29	Brigadier	true
+agent_culture_details_onscreen_name_183	Monk	true
+agent_culture_details_onscreen_name_185	Monk	true
+agent_culture_details_onscreen_name_186	Missionary	true
+agent_culture_details_onscreen_name_187	Missionary	true
+agent_culture_details_onscreen_name_190	Metsuke	true
+agent_culture_details_onscreen_name_194	Metsuke	true
+agent_culture_details_onscreen_name_141	Geisha	true
+agent_culture_details_onscreen_name_246	Ishin Shishi	true
+agent_culture_details_onscreen_name_247	Geisha	true
+agent_culture_details_onscreen_name_150	Geisha	true
+agent_culture_details_onscreen_name_168	Ninja	true
+agent_culture_details_onscreen_name_173	Ninja	true
+agent_culture_details_onscreen_name_200	Family Member	true
+agent_culture_details_onscreen_name_202	Admiral	true
+agent_culture_details_onscreen_name_205	Ikko Monk	true
+agent_culture_details_onscreen_name_206	Sou	true
+agent_culture_details_onscreen_name_213	Monomi	true
+agent_culture_details_onscreen_name_118	General	true
+agent_culture_details_onscreen_name_222	Junsatsushi	true
+agent_culture_details_onscreen_name_125	General	true
+agent_culture_details_onscreen_name_127	Captain	true
+agent_culture_details_onscreen_name_230	Shirabyoshi	true
+agent_culture_details_onscreen_name_232	Foreign Veteran	true
+agent_culture_details_onscreen_name_133	Captain	true
+agent_culture_details_onscreen_name_233	Shinsengumi	true
+agent_culture_details_onscreen_name_138	Geisha 	true
+agent_culture_details_onscreen_name_239	Shinobi	true
+agent_culture_details_description_text_190	Metsuke are unscrupulous executors of their daimyo's authority, directing their cunning to the control of their clan's disaffected generals and people. They are also able to bribe enemy armies and towns. Metsuke may seek to apprehend and bring enemy agents to 'justice', and are particularly effective at uncovering and countering ninja activity. 	true
+agent_culture_details_description_text_194	Metsuke are unscrupulous executors of their daimyo's authority, directing their cunning to the control of their clan's disaffected generals and people. They are also able to bribe enemy armies and towns. Metsuke may seek to apprehend and bring enemy agents to 'justice', and are particularly effective at uncovering and countering ninja activity. 	true
+agent_culture_details_description_text_183	Monks are ardent proponents of the teachings of Buddha. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Monks are also able to convert populations to Buddhism and enemy agents to abandon their missions in favour of a life of peace and self-reflection. They are particularly effective when used against metsuke. 	true
+agent_culture_details_description_text_185	Monks are ardent proponents of the teachings of Buddha. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Monks are also able to convert populations to Buddhism and enemy agents to abandon their missions in favour of a life of peace and self-reflection. They are particularly effective when used against metsuke. 	true
+agent_culture_details_description_text_186	Missionaries are fervent evangelists of the Christian way. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Missionaries are also able to convert populations to Christianity and enemy agents to abandon their missions in favour of a life of god-fearing penance. They are particularly effective when used against metsuke.	true
+agent_culture_details_description_text_187	Missionaries are fervent evangelists of the Christian way. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Missionaries are also able to convert populations to Christianity and enemy agents to abandon their missions in favour of a life of god-fearing penance. They are particularly effective when used against metsuke.	true
+agent_culture_details_description_text_173	Ninja are masters of artifice and infiltration. Their ninjutsu skills enable them to spy upon enemies or sabotage their armies and castle towns, whilst moving through their lands undetected. They are also expert assassins, striking from the shadows to kill enemy generals and agents alike. Their infliltration skills also make ninja invaluable scouts for their clan's armies, whilst their underworld connections keep them abreast of comings and goings when visiting friendly provinces.	true
+agent_culture_details_description_text_168	Ninja are masters of artifice and infiltration. Their ninjutsu skills enable them to spy upon enemies or sabotage their armies and castle towns, whilst moving through their lands undetected. They are also expert assassins, striking from the shadows to kill enemy generals and agents alike. Their infliltration skills also make ninja invaluable scouts for their clan's armies, whilst their underworld connections keep them abreast of comings and goings when visiting friendly provinces.	true
+agent_culture_details_description_text_150	Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents.	true
+agent_culture_details_description_text_141	Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents.	true
+agent_culture_details_description_text_246	Ishin shishi are “men of higher purpose” devoted to one thing: the reinstatement of Imperial divine rule. Champions of the Emperor, they rally and inspire the loyal whilst stirring unrest amongst rivals. Single-minded and dangerous, they will not hesitate to kill any who stand in their way.	true
+agent_culture_details_description_text_247	Geisha are skilled musicians, dancers and poets, and they use their arts both to entertain and uplift. Their talents may even serve a military agenda: some men are weak and easily distracted; others may betray a cause for beauty.	true
+agent_culture_details_description_text_138	Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents.	true
+agent_culture_details_description_text_239	Shinobi are masters of subterfuge; they conduct espionage, sabotage and assassinations. Their ability to infiltrate and observe also makes them invaluable army scouts and enables the establishment of spy networks in their clan’s settlements.	true
+agent_culture_details_description_text_230	Shirabyoshi are traditional dancers who perform for nobles on formal occasions. Dressed as men in formal Shinto clothes and white powdered make-up, the slow, rhythmic dances they perform in veneration of the gods also involve poetry, singing and musicianship. The shirabyoshi’s main skill is seduction, which convinces her target to join her lord’s cause. Shirabyoshi are able to entertain the nobles of friendly towns in order to boost their growth and entertain friendly generals in the field, which increases their loyalty to the family and counteracts the efforts of enemy agents to bribe or seduce them into changing sides.	true
+agent_culture_details_description_text_232	Foreign veterans are masters of warfare having fought, and survived, in many battles. Their long years of service make them great military instructors and administrators; their expertise makes them keen marksmen and sappers, as well as fearless duellists.	true
+agent_culture_details_description_text_133	PLACEHOLDER Colonel lvl 2	true
+agent_culture_details_description_text_233	Shinsengumi are enforcers of the Shogun’s justice, coercing or subduing those who dare oppose his will. They will resort to any means necessary to prevent Imperialists from overthrowing the Shogunate, even assassinating their enemies and stirring dissidents to open revolt.	true
+agent_culture_details_description_text_222	Junsatsushi ensure loyalty and obedience from friendly generals, increase income by preventing corruption, keep our castle towns and armies safe from enemy subterfuge when positioned inside them, and can request the allegiance of neutral and enemy castle towns, along with any forces garrisoned there. Junsatsushi can also pay off rival agents.	true
+agent_culture_details_description_text_125	PLACEHOLDER General lvl 0	true
+agent_culture_details_description_text_127	PLACEHOLDER Colonel lvl 4	true
+agent_culture_details_description_text_118	PLACEHOLDER General lvl 2	true
+agent_culture_details_description_text_213	Monomi act as assassins, spies, saboteurs and scouts, and are recruited from province speciality buildings. In addition to their subterfuge skills, monomi also increase the movement and line of sight of our armies when placed inside them. They can also establish spy networks within castle towns, which increase the chances of discovering any rival agents and armies that may be hiding within a province. Monomi are invisible to the enemy until detected.	true
+agent_culture_details_description_text_200	PLACEHOLDER	true
+agent_culture_details_description_text_202	Admirals.PLACEHOLDER	true
+agent_culture_details_description_text_205	Ikko monks are zealous advocates of the Ikko sect of Jodo Shinshu Buddhism. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Ikko Monks are also able to convert populations to their Ikko beliefs and enemy agents to abandon their missions in favour of a life of Jodo Shinshu spiritualism. They are particularly effective when used against metsuke.	true
+agent_culture_details_description_text_206	Sou can inspire a friendly army or pacify an angry populace with their enlightened rhetoric, and, by the same token, demoralise an enemy force, reduce the chances of successful bribery, indoctrinate enemy agents and cause them to retire, or incite an enemy population to revolt.	true
+agent_culture_details_description_text_9	Admirals.PLACEHOLDER	true
+agent_culture_details_description_text_8	A Protestant Missionary is a religious teacher who spreads word of Protestantism. Placing a Missionary within a region will cause a gradual conversion to Protestantism amongst the population. They will continue to convert a region until moved.	true
+agent_culture_details_description_text_7	General. PLACEHOLDER.	true
+agent_culture_details_description_text_6	PLACEHOLDER General lvl 4	true
+agent_culture_details_description_text_5	BASIC_SPENDING_BIAS_RECRUITMENT_ARMY	true
+agent_culture_details_description_text_4	General. PLACEHOLDER.	true
+agent_culture_details_description_text_3	General. PLACEHOLDER.	true
+agent_culture_details_description_text_2	An Eastern Scholar is an educated man who can be sent into educational buildings to speed-up research, but cannot duel with other characters.	true
+agent_culture_details_description_text_1	An Eastern Scholar is an educated man who can be sent into educational buildings to speed-up research, but cannot duel with other characters.	true
+agent_culture_details_description_text_0	An Eastern Scholar is an educated man who can be sent into educational buildings to speed-up research, but cannot duel with other characters.	true

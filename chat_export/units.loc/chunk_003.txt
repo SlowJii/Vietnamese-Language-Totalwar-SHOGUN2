@@ -1,0 +1,83 @@
+=== CHUNK 3/6 — units.loc.tsv ===
+(Dịch 80 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[164] Vermilion Bird Force
+[165] O Ataka Bune
+[166] European Cannons
+[167] Red Seal Ship
+[168] Ironclad - Kotetsu class
+[169] Parrott Guns
+[170] Wako Raiders
+[171] Samurai Medium Ship
+[172] Oda Long Yari Ashigaru
+[173] Yoritomo’s Yabusame Cavalry
+[174] Fire Projecting Mangonels
+[175] Armoured Corvette - Kanko Maru class
+[176] Yari Ashigaru
+[177] Fire Cavalry
+[178] Coastal Guns
+[179] Bow Warrior Monks
+[182] Uesugi Warrior Monks
+[183] Imperial Guard Infantry
+[184] Matchlock Kobaya
+[185] Onna Bushi Heroine
+[186] Matchlock Kachi
+[187] Spear Levy
+[188] Yari Kachi
+[189] Yari Ki
+[190] Gozen's Hime Heroines
+[191] Samurai Light Ship
+[192] Hattori Matchlock Samurai
+[193] Sword Cavalry
+[194] Hattori Katana Samurai
+[195] Coastal Guns
+[196] Avatar's Bodyguard
+[197] Nanban Trade Ship
+[198] Hattori Matchlock Ashigaru
+[199] Great Guard
+[200] Naginata Warrior Monks
+[201] Shimazu Katana Samurai
+[202] Sengoku Bune
+[203] Chosokabe Bow Hero
+[204] Firebomb Medium Ship
+[205] Azure Dragon Force
+[206] White Bear Infantry
+[207] Gatling Guns
+[208] Onna Bushi Heroine
+[209] Naginata Attendants
+[210] Republican Guard Infantry
+[211] Sabre Cavalry
+[212] Samurai Medium Ship
+[213] Gun boat - Chiyodagata class
+[214] Wooden Frigate - Kaiyo Maru class
+[215] Azure Dragon Force
+[216] Mounted Samurai
+[217] Otomo Matchlock Kobaya
+[218] Tokugawa Mounted Gunners
+[220] Warrior Nuns
+[221] O Ataka Bune
+[223] Onna Bushi
+[224] Carbine Cavalry
+[225] Shogitai
+[226] Wako Medium Bune
+[227] Date Bulletproof Samurai
+[228] Ikko Ikki Bow Ashigaru
+[229] Wooden Frigate - Kaiyo Maru class
+[230] Ironclad - L’ocean class
+[231] Ikko Ikki Naginata Warrior Monks
+[232] Red Bear Infantry
+[233] Cannon Bune
+[234] Medium Bune
+[235] Wooden Cannons
+[236] Ikko Ikki Matchlock Warrior Monks
+[237] Naginata Warrior Monks
+[238] Samurai Retainers
+[239] Bandits
+[240] Otomo Matchlock Samurai
+[241] Armstrong Guns
+[242] Royal Marines
+[243] Oda Matchlock Ashigaru
+[244] Dojo Fire Bomb Throwers
+[245] Hojo Fire Bomb Throwers
+[246] Bow Levy
+[247] No-Dachi Samurai

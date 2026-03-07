@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/seasons.loc		
+seasons_onscreen_season_autumn	Autumn	true
+seasons_onscreen_season_spring	Spring	true
+seasons_onscreen_season_summer	Summer	true
+seasons_onscreen_season_winter	Winter	true

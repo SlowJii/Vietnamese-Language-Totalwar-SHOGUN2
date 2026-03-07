@@ -1,0 +1,55 @@
+=== CHUNK 3/3 — achievements.loc.tsv ===
+(Dịch 52 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[160] Win a battle with United States Marines in your army. [Fall of the Samurai only]
+[161] Attain the maximum level of clan development. [Fall of the Samurai only]
+[162] Tokugawa Victory
+[163] Sink  an HMS Warrior-class ship. [Fall of the Samurai only]
+[164] Obtain a maximum level metsuke.
+[165] Redoubtable
+[166] A Warrior's Bane
+[167] Playing as the Aizu, carry out 3 successful assassinations of generals in the same campaign using a shinsengumi. [Fall of the Samurai only]
+[168] Playing as the Nagaoka, research any eighth tier technology. [Fall of the Samurai only]
+[169] Win a campaign as the Tokugawa clan.
+[170] Semper Fi
+[171] Embrace the New
+[172] Hero of the Empire
+[173] Win a defensive siege battle with your daimyo during any winter turn.
+[174] Win a campaign on hard difficulty.
+[175] Have all your army, except the general, hidden simultaneously for more than 30 seconds.
+[176] Construct a railway between 2 provinces. [Fall of the Samurai only]
+[177] Win a campaign as the Date clan.
+[178] Rule, Britannia!
+[179] Loyal to the Clan
+[180] Legendary Sohei
+[181] Keeping to Tradition
+[182] Win a campaign on legendary difficulty playing as either the Satsuma, the Tosa or the Choshu. [Fall of the Samurai only]
+[183] On maps with more than one key building, your alliance shows its dominance by holding all of them simultaneously.
+[184] Trade Route Monopoly
+[185] Through the avatar system, get a veteran unit to level 9.
+[186] Win 100 matchmade battles in multiplayer.
+[187] A Blow to the Temple
+[188] Soaring Fame
+[189] Obtain a maximum level ninja in the campaign.
+[190] Win a campaign on very hard difficulty.
+[191] Call in naval fire support during a land battle. [Fall of the Samurai only]
+[192] Modernisation
+[193] Win the Battle of Osaka after both bridges get blown up by the defenders. [Fall of the Samurai only]
+[194] Holder of Kyushu
+[195] As the attacker, burn a castle's gates, towers and tenshu to the ground using fire arrows, and win the battle.
+[196] Completely wipe out an enemy unit.
+[197] Win a multiplayer battle where more than 50% of your army is made up of matchlock units.
+[198] The Army on the March
+[199] Playing as the Tosa, carry out 5 naval bombardments in the same campaign. [Fall of the Samurai only]
+[200] Your daimyo wins 3 consecutive land battles during the summer season.
+[201] Warhead
+[202] Chosokabe Victory
+[203] Takeda Victory
+[204] Playing as the Jozai, win 3 ambush battles in the same campaign. [Fall of the Samurai only]
+[205] Zen-like Dedication
+[206] Head-Hunter
+[207] Playing as the Choshu, incite 3 rebellions in the same campaign using an ishin shishi. [Fall of the Samurai only]
+[208] Wrecking Ball
+[209] Not On My Watch
+[210] A Journey Begins
+[211] Control all the provinces on the island of Shikoku in the campaign.

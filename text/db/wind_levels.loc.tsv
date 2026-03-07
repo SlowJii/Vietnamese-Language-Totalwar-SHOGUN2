@@ -1,0 +1,12 @@
+key	text	tooltip
+#Loc;1;text/db/wind_levels.loc		
+wind_levels_onscreen_light_northern	Calm: Northerly	true
+wind_levels_onscreen_calm_westerly	Calm: Westerly	true
+wind_levels_onscreen_strong_northern	Moderate Breeze: Northerly	true
+wind_levels_onscreen_storm_northern	Gale: Northerly	true
+wind_levels_onscreen_storm_westerly	Gale: Westerly	true
+wind_levels_onscreen_strong_westerly	Strong Breeze: Westerly	true
+wind_levels_onscreen_light_westerly	Light Breeze: Westerly	true
+wind_levels_onscreen_gale_northern	Strong Breeze: Northerly	true
+wind_levels_onscreen_moderate_westerly	Moderate Breeze: Westerly	true
+wind_levels_onscreen_moderate_northern	Light Breeze: Northerly	true

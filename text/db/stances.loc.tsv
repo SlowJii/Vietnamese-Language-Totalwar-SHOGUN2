@@ -1,0 +1,7 @@
+key	text	tooltip
+#Loc;1;text/db/stances.loc		
+stances_onscreen_protectorate	Vassal	true
+stances_onscreen_war	War	true
+stances_onscreen_allied	Allied	true
+stances_onscreen_neutral	Neutral	true
+stances_onscreen_patron	Overlord	true

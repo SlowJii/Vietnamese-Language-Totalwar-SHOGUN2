@@ -1,0 +1,32 @@
+key	text	tooltip
+#Loc;1;text/db/agent_attributes.loc		
+agent_attributes_effect_text_research	%+n to Research.	true
+agent_attributes_name_land_siege_engineering	Siege engineering	true
+agent_attributes_name_movement_points_land	movement_points_land_name	true
+agent_attributes_name_command_land	Command on Land	true
+agent_attributes_effect_text_duelling_pistols	%+n to Duelling when duelling with pistols.	true
+agent_attributes_effect_text_land_defence_engineering	%+n %% to battlefield defence work points.	true
+agent_attributes_name_zeal	Religious Zeal	true
+agent_attributes_effect_text_cunning	%+n to Cunning	true
+agent_attributes_name_cunning	Cunning	true
+agent_attributes_effect_text_trade	PLACEHOLDER (agent_attributes.effect_text)	true
+agent_attributes_effect_text_duelling_swords	%+n to Duelling when duelling with swords.	true
+agent_attributes_name_trade	Trade	true
+agent_attributes_name_duelling_swords	Sword duelling	true
+agent_attributes_effect_text_land_siege_engineering	%+n %% to siege works points.	true
+agent_attributes_name_subterfuge	Subterfuge Skill	true
+agent_attributes_name_command_sea	Command at Sea	true
+agent_attributes_name_morale_land	Morale	true
+agent_attributes_effect_text_morale_land	%+n to army Morale.	true
+agent_attributes_effect_text_command_sea	%+n to Command in sea battles.	true
+agent_attributes_name_morale_sea	Morale	true
+agent_attributes_name_management	Management Skill	true
+agent_attributes_effect_text_morale_sea	%+n to fleet Morale.	true
+agent_attributes_effect_text_management	%+n to Management.	true
+agent_attributes_name_research	Research Skill	true
+agent_attributes_effect_text_command_land	%+n to Command in land battles.	true
+agent_attributes_name_duelling_pistols	Pistol duelling	true
+agent_attributes_name_land_defence_engineering	Land defence engineering	true
+agent_attributes_effect_text_zeal	%+n to Zeal.	true
+agent_attributes_effect_text_movement_points_land	%+n %% to army movement allowance.	true
+agent_attributes_effect_text_subterfuge	%+n to Subterfuge.	true

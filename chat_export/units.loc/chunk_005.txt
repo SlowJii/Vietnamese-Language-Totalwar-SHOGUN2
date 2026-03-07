@@ -1,0 +1,83 @@
+=== CHUNK 5/6 — units.loc.tsv ===
+(Dịch 80 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[332] Coastal Guns
+[333] Shogunate Guard Cavalry
+[334] Hattori No-Dachi Samurai
+[335] General's Hatamoto
+[336] Trade Ship
+[337] General's Bodyguard
+[338] Tokugawa Ieyasu
+[339] Sword Attendants
+[340] Republican Guard Cavalry
+[341] Copper plated Corvette - Kanrin Maru class
+[342] Uesugi Matchlock Warrior Monks
+[343] Ashikaga Haruuji
+[344] Line Infantry
+[345] Bow Dojo Samurai
+[346] Benkei's Blades
+[347] European Cannons
+[348] Bow Kachi
+[349] Gun Infantry
+[350] Ikko Ikki Loan Sword Ashigaru
+[351] Black Bear Infantry
+[352] Long Yari Ashigaru
+[353] Tetsubo Warrior Monk Hero
+[354] General
+[355] Bow Ashigaru
+[356] Mori Motonari
+[357] Shogunate Infantry
+[358] Mori Nanban Trade Ship
+[359] Takeda Shingen
+[360] Matchlock Kachi
+[361] Yari Hero
+[362] Mounted Naginata
+[363] Foot Samurai Garrison
+[364] Uesugi Kenshin
+[365] Yari Ki
+[366] Bow Wako
+[367] Imagawa Ujichika
+[368] Yari Ronin
+[369] Yari Samurai
+[370] White Bear Infantry
+[371] Ironclad - Roanoke class
+[372] Hattori Naginata Samurai
+[373] Loan Sword Ashigaru
+[374] Vermilion Bird Force
+[375] Light Cavalry
+[376] Matchlock Ashigaru
+[377] Samurai Hero
+[378] Firebomb Medium Ship
+[379] Bow Infantry
+[380] Sword Attendants
+[381] Yari Dojo Samurai
+[382] Wooden Corvette - Kanko Maru class
+[383] United States Marines
+[384] Takeda Great Guard
+[385] Parrott Guns
+[386] Black Tortoise Force
+[387] Mounted Gunners
+[388] Imperial Infantry
+[389] Samurai Large Ship
+[390] Attendants Medium Ship
+[391] Wooden Corvette - Kaiten class
+[392] Pirate Light Ship
+[393] Yoritomo’s Yabusame Cavalry
+[394] Wooden Cannons
+[395] Wooden Corvette - Kasuga class
+[396] Yari Dojo Cavalry
+[397] Hojo Cannons
+[398] Bow Hero
+[399] Wako Trade Ship
+[400] No-Dachi Samurai
+[401] Naginata Warrior Monk Hero
+[402] Attendants Medium Ship
+[403] Hojo Fire Projecting Mangonels
+[404] The Spears of Shizugatake
+[405] Fire Bomb Throwers
+[406] Daikyu Samurai
+[407] Garrison Infantry
+[408] Shogunate Guard Infantry
+[409] Bulletproof Samurai
+[410] Imperial Guard Infantry
+[411] Bow Ashigaru

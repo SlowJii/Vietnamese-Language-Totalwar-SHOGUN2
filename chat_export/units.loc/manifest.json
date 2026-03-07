@@ -1,0 +1,4286 @@
+{
+  "filename": "units.loc.tsv",
+  "category": "unit_names",
+  "header_lines": [
+    "key\ttext\ttooltip",
+    "#Loc;1;text/db/units.loc\t\t"
+  ],
+  "rows": [
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Spear_Kyoto_Police",
+      "text": "Kyoto Police",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Sword_Katana_Cavalry_Takeda",
+      "text": "Takeda Katana Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Elite_Infanterie_de_marine_MP",
+      "text": "Infanterie de marine",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Heavy_Warrior_Nuns",
+      "text": "Warrior Nuns",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Infantry",
+      "text": "Line Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Elite_Infanterie_de_marine",
+      "text": "Infanterie de marine",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Frigate_Kaiyo_Maru_Iron_Plated",
+      "text": "Armoured Frigate - Kaiyo Maru class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Spear_Light_Cavalry",
+      "text": "Light Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Sword_Katana_Hero",
+      "text": "Katana Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Art_Coastal_Guns_Small_MP",
+      "text": "Coastal Guns",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Elite_Royal_Marines",
+      "text": "Royal Marines",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Frigate_Kaiyo_Maru_Copper_Plated",
+      "text": "Copper plated Frigate - Kaiyo Maru class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Matchlock_Samurai_MP",
+      "text": "Matchlock Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Spear_Yari_Ashigaru",
+      "text": "Yari Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Heavy_Naginata_Warrior_Monks",
+      "text": "Naginata Warrior Monks",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Heavy_Naginata_Attendants_MP",
+      "text": "Naginata Attendants",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Portuguese_Tercos",
+      "text": "Portuguese Tercos",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Special_Kisho_Ninjas",
+      "text": "Kisho Ninja",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Portuguese_Tercos_MP",
+      "text": "Portuguese Tercos",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Corvette_Kanko_Maru_Copper_Plated",
+      "text": "Copper plated Corvette - Kanko Maru class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Light_Tosa_Riflemen",
+      "text": "Tosa Riflemen",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Ironclad_USS_Roanoke_MP",
+      "text": "Ironclad - Roanoke class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Sh_Inf_Missile_Matchlock_Hero_MP",
+      "text": "Tokitaka’s Tanegashima",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Sword_Katana_Hero_MP",
+      "text": "Katana Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Cav_Missile_Samurai_Cavalry_MP",
+      "text": "Mounted Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Trade_Ship_Trade_Ship",
+      "text": "Trade Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Medium_Ship_Medium_Ship_Pirate",
+      "text": "Pirate Medium Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Warrior_Monks_Ikko_Ikki",
+      "text": "Ikko Ikki Bow Warrior Monks",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Missile_Samurai_Infantry_MP",
+      "text": "Foot Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Sword_Katana_Kachi",
+      "text": "Katana Kachi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Corvette_Kaiten",
+      "text": "Wooden Corvette - Kaiten class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Oda_Nobunaga",
+      "text": "Oda Nobunaga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Corvette_Kanrin_Maru_Iron_Plated",
+      "text": "Armoured Corvette - Kanrin Maru class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Chosokabe_Motochika",
+      "text": "Chosokabe Motochika",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Corvette_Kanko_Maru_MP",
+      "text": "Wooden Corvette - Kanko Maru class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_test_gatling_gun",
+      "text": "Gatling Gun",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Inf_Missile_Bandits_Hattori",
+      "text": "Hattori Bandits",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Heavy_Tetsubo_Warrior_Monks",
+      "text": "Tetsubo Warrior Monk Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Light_Sharpshooters",
+      "text": "Sharpshooters",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Light_Ship_Light_Ship_Attendants",
+      "text": "Attendants Light Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Corvette_Kasuga",
+      "text": "Wooden Corvette - Kasuga class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Spear_Naginata_Warrior_Monk_Cavalry",
+      "text": "Naginata Warrior Monk Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Elite_Kihetai",
+      "text": "Kihetai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Sh_Cav_Sword_Katana_Cavalry_Hero",
+      "text": "Kiyomasa’s Katana Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Spear_Yari_Samurai",
+      "text": "Yari Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Sh_Inf_Missile_Matchlock_Hero",
+      "text": "Tokitaka’s Tanegashima",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Spear_Light_Cavalry_Takeda",
+      "text": "Takeda Light Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Art_Coastal_Guns_Medium",
+      "text": "Coastal Guns",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cinematic_Advisor_Shogun",
+      "text": "CINEMATIC UNIT Advisors and Shogun",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Ashigaru_Hattori",
+      "text": "Hattori Bow Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Heavy_Naginata_Warrior_Monk_Hero_Ikko_Ikki",
+      "text": "Ikko Ikki Naginata Warrior Monk Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Spear_Yari_Ashigaru_Tutorial",
+      "text": "Yari Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Spear_Great_Guard_MP",
+      "text": "Great Guard",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Heavy_Ship_Nihon_Maru",
+      "text": "Nihon Maru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Otomo_Sorin",
+      "text": "Otomo Sorin",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Sword_Katana_Hero_Shimazu",
+      "text": "Shimazu Katana Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Imported_Matchlock_Ashigaru",
+      "text": "Imported Matchlock Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Gen_Generals_Bodyguard",
+      "text": "General's Bodyguard",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Inf_Missile_Heavy_Gunner_Shimazu",
+      "text": "Shimazu Heavy Gunners",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Heavy_Ship_Heavy_Ship_Attendants",
+      "text": "Attendants Large Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Art_Large_Shafted_Fire_Rockets",
+      "text": "Fire Rockets",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Inf_Heavy_Marathon_Monks_Ikko_Ikki",
+      "text": "Ikko Ikki Marathon Monks",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Spear_Kyoto_Police_MP",
+      "text": "Kyoto Police",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Spear_Yari_Cavalry",
+      "text": "Yari Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Cav_Sword_Sabre_Cavalry",
+      "text": "Sabre Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Sword_Nodachi_Samurai_Date",
+      "text": "Date No-Dachi Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Light_Ship_Matchlock_Kobaya_Mori",
+      "text": "Mori Matchlock Kobaya",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Inf_Missile_Heavy_Gunner_MP",
+      "text": "Heavy Gunners",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Matchlock_Ashigaru_Ikko_Ikki",
+      "text": "Ikko Ikki Matchlock Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Medium_Ship_Sengoku_Bune_Mori",
+      "text": "Mori Sengoku Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Spear_Yari_Ashigaru_Hattori",
+      "text": "Hattori Yari Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Matchlock_Warrior_Monks_MP",
+      "text": "Matchlock Warrior Monks",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Corvette_Kasuga_Iron_Plated_MP",
+      "text": "Armoured Corvette - Kasuga class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Kobayakawa_Hideaki",
+      "text": "Kobayakawa Hideaki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Ronin",
+      "text": "Bow Ronin",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Spear_Levy_Garrison",
+      "text": "Spear Levy Garrison",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Gen_Generals_Hatamoto_MP",
+      "text": "General's Hatamoto",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Ironclad_HMS_Warrior_MP",
+      "text": "Ironclad - Warrior class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Heavy_Naginata_Samurai_MP",
+      "text": "Naginata Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Sh_Inf_Heavy_Naginata_Heroine_MP",
+      "text": "Gozen's Hime Heroines",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Sword_Katana_Wako",
+      "text": "Katana Wako",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Cav_Missile_Carbine_Cavalry_MP",
+      "text": "Carbine Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Light_Yugekitai_MP",
+      "text": "Yugekitai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Hero_MP",
+      "text": "Bow Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Light_Ship_Bow_Kobaya_MP",
+      "text": "Bow Kobaya",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Spear_Yari_Cavalry_Takeda",
+      "text": "Takeda Yari Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Warrior_Monks_Chosokabe",
+      "text": "Chosokabe Bow Warrior Monks",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Light_Ship_Fire_Bomb_Kobaya_Mori",
+      "text": "Mori Fire Bomb Kobaya",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Heavy_Ship_Heavy_Bune",
+      "text": "Heavy Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Sh_Cav_Spear_Yari_Cavalry_Hero",
+      "text": "The Spears of Shizugatake",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Light_Ship_Fire_Bomb_Kobaya_MP",
+      "text": "Fire Bomb Kobaya",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Sh_Inf_Special_Kisho_Ninja_Hero",
+      "text": "Hanzo's Shadows",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Spear_Yari_Samurai_Hattori",
+      "text": "Hattori Yari Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Hojo_Ujiyasu",
+      "text": "Hojo Ujiyasu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Ashigaru",
+      "text": "Bow Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Sword_Katana_Samurai_Dojo",
+      "text": "Katana Dojo Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Heavy_Naginata_Levy",
+      "text": "Naginata Levy",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Sh_Inf_Heavy_Naginata_Hero_MP",
+      "text": "Benkei's Blades",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Missile_Bow_Kachi_MP",
+      "text": "Bow Kachi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Special_Fire_Bomb_Throwers",
+      "text": "Fire Bomb Throwers",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Inf_Heavy_Marathon_Monks_MP",
+      "text": "Marathon Monks",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Cav_Missile_Samurai_Hero",
+      "text": "Samurai Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Samurai_Hattori",
+      "text": "Hattori Bow Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_test_sword_inf",
+      "text": "Sword Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Frigate_Kaiyo_Maru_Iron_Plated_MP",
+      "text": "Armoured Frigate - Kaiyo Maru class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Heavy_Ship_Heavy_Bune_MP",
+      "text": "Heavy Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Galleon_The_Black_Ship",
+      "text": "The Black Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Shinsengumi_MP",
+      "text": "Shinsengumi Police Force",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Black_Tortoise_Force_MP",
+      "text": "Black Tortoise Force",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Special_Kisho_Ninjas_Hattori",
+      "text": "Hattori Kisho Ninja",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Black_Bear_Infantry_MP",
+      "text": "Black Bear Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Special_Fire_Bomb_Throwers",
+      "text": "Fire Bomb Throwers",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Ironclad_Kotetsu",
+      "text": "Ironclad - Kotetsu class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Heavy_Ship_Heavy_Ship_Samurai_MP",
+      "text": "Samurai Large Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Spear_Yari_Hero_MP",
+      "text": "Yari Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Shogun_Infantry",
+      "text": "Shogun Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Gun_Boat_Chiyodagata_MP",
+      "text": "Gun boat - Chiyodagata class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cinematic_Farmers_Red",
+      "text": "CINEMATIC UNIT Farmers red",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Test_Naval_Siege_Cannons",
+      "text": "European Cannons",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Inf_Sword_Wako_Raiders_Mori",
+      "text": "Mori Wako Raiders",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Heavy_Naginata_Levy_Garrison",
+      "text": "Naginata Levy Garrison",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Elite_United_States_Marines",
+      "text": "United States Marines",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Imagawa_Yoshimoto",
+      "text": "Imagawa Yoshimoto",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Warrior_Monks_MP",
+      "text": "Bow Warrior Monks",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Light_Ship_Siege_Tower_Bune_Mori",
+      "text": "Mori Siege Tower Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Art_Fire_Projecting_Mangonels",
+      "text": "Fire Projecting Mangonels",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Corvette_Kanrin_Maru_MP",
+      "text": "Wooden Corvette - Kanrin Maru class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Cav_Missile_Revolver_Cavalry_MP",
+      "text": "Revolver Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Cav_Spear_Shogunate_Guard_Cavalry",
+      "text": "Shogunate Guard Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Spear_Levy",
+      "text": "Spear Levy",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Shogunate_Infantry_MP",
+      "text": "Shogunate Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Shimazu_Yoshihiro",
+      "text": "Shimazu Yoshihiro",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Sword_Katana_Ronin",
+      "text": "Katana Ronin",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Militia_Levy_Infantry",
+      "text": "Levy Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Light_Ship_Bow_Kobaya",
+      "text": "Bow Kobaya",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Sword_Katana_Kachi_MP",
+      "text": "Katana Kachi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cinematic_Agents",
+      "text": "CINEMATIC UNIT Agents",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Sword_Katana_Cavalry",
+      "text": "Katana Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Heavy_Naginata_Warrior_Monk_Hero_MP",
+      "text": "Naginata Warrior Monk Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Art_Hand_Mortar_MP",
+      "text": "Hand Mortars",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Light_Ship_Siege_Tower_Bune_MP",
+      "text": "Siege Tower Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Cav_Missile_Samurai_Hero",
+      "text": "Mounted Samurai Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_test_pike_inf",
+      "text": "Pike Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Missile_Bow_Cavalry_Takeda",
+      "text": "Takeda Bow Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Heavy_Ship_Nihon_Maru_MP",
+      "text": "Nihon Maru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Heavy_Ship_O_Ataka_Bune_Kizugawa",
+      "text": "O Ataka Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Ashigaru_Tutorial_No_Cap",
+      "text": "Bow Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Matchlock_Ashigaru",
+      "text": "Matchlock Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_test_limber_gun",
+      "text": "Limbered Parrott Gun",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cinematic_Farmers_Blue",
+      "text": "CINEMATIC UNIT Farmers blue",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Gen_Generals_Bodyguard_MP",
+      "text": "General's Bodyguard",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Missile_Bow_Cavalry",
+      "text": "Bow Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Matchlock_Samurai",
+      "text": "Matchlock Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_test_sword_cav",
+      "text": "Sword Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Shimotsuma_Nakayuki",
+      "text": "Shimotsuma Nakayuki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Sword_Katana_Samurai",
+      "text": "Katana Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cannon_Ship_Cannon_Bune",
+      "text": "Cannon Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Medium_Ship_Medium_Bune",
+      "text": "Medium Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Ogigayatsu_Tomosada",
+      "text": "Ogigayatsu Tomosada",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Special_Kisho_Ninjas",
+      "text": "Kisho Ninja",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Missile_Donderbuss_Cavalry",
+      "text": "Donderbuss Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Torpedo_Boat_Chiyodagata",
+      "text": "Torpedo boat - Chiyodagata class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Samurai",
+      "text": "Bow Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_test_spear_inf",
+      "text": "Spear Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Vermilion_Bird_Force_MP",
+      "text": "Vermilion Bird Force",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Heavy_Ship_O_Ataka_Bune",
+      "text": "O Ataka Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Art_European_Cannons_MP",
+      "text": "European Cannons",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Trade_Ship_Red_Seal_Ship",
+      "text": "Red Seal Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Gen_Ironclad_Kotetsu_MP",
+      "text": "Ironclad - Kotetsu class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Art_Parrot_Guns",
+      "text": "Parrott Guns",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Inf_Sword_Wako_Raiders_MP",
+      "text": "Wako Raiders",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Medium_Ship_Medium_Ship_Samurai",
+      "text": "Samurai Medium Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Inf_Spear_Long_Yari_Ashigaru_Oda",
+      "text": "Oda Long Yari Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Sh_Cav_Missile_Bow_Cavalry_Hero",
+      "text": "Yoritomo’s Yabusame Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Art_Fire_Projecting_Mangonels_MP",
+      "text": "Fire Projecting Mangonels",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Corvette_Kanko_Maru_Iron_Plated",
+      "text": "Armoured Corvette - Kanko Maru class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Spear_Yari_Ashigaru_Tutorial_No_Cap",
+      "text": "Yari Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Cav_Spear_Fire_Cavalry_MP",
+      "text": "Fire Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Art_Coastal_Guns_Small",
+      "text": "Coastal Guns",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Warrior_Monks",
+      "text": "Bow Warrior Monks",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cinematic_Jogger",
+      "text": "CINEMATIC UNIT Jogger",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cinematic_Farmers_Green",
+      "text": "CINEMATIC UNIT Farmers green",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Heavy_Naginata_Warrior_Monks_Uesugi",
+      "text": "Uesugi Warrior Monks",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Elite_Imperial_Guard_Infantry",
+      "text": "Imperial Guard Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Light_Ship_Matchlock_Kobaya_MP",
+      "text": "Matchlock Kobaya",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Cav_Missile_Onna_Bushi_Heroine",
+      "text": "Onna Bushi Heroine",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Missile_Matchlock_Kachi_MP",
+      "text": "Matchlock Kachi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Spear_Levy_MP",
+      "text": "Spear Levy",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Spear_Yari_Kachi_MP",
+      "text": "Yari Kachi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Cav_Spear_Yari_Ki",
+      "text": "Yari Ki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Sh_Inf_Heavy_Naginata_Heroine",
+      "text": "Gozen's Hime Heroines",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Light_Ship_Light_Ship_Samurai_MP",
+      "text": "Samurai Light Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Matchlock_Samurai_Hattori",
+      "text": "Hattori Matchlock Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_test_spear_cav",
+      "text": "Sword Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Sword_Katana_Samurai_Hattori",
+      "text": "Hattori Katana Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Art_Coastal_Guns_Large",
+      "text": "Coastal Guns",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Taisho_Mp",
+      "text": "Avatar's Bodyguard",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Galleon_Caravel",
+      "text": "Nanban Trade Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Matchlock_Ashigaru_Hattori",
+      "text": "Hattori Matchlock Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Spear_Great_Guard",
+      "text": "Great Guard",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Heavy_Naginata_Warrior_Monks",
+      "text": "Naginata Warrior Monks",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Sword_Katana_Samurai_Shimazu",
+      "text": "Shimazu Katana Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Medium_Ship_Sengoku_Bune",
+      "text": "Sengoku Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Hero_Chosokabe",
+      "text": "Chosokabe Bow Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Medium_Ship_Fire_Bomb_Medium_Ship",
+      "text": "Firebomb Medium Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Azure_Dragon_Force_MP",
+      "text": "Azure Dragon Force",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_White_Bear_Infantry_MP",
+      "text": "White Bear Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Art_Gatling_Guns",
+      "text": "Gatling Guns",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Cav_Missile_Onna_Bushi_Heroine_MP",
+      "text": "Onna Bushi Heroine",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Heavy_Naginata_Attendants",
+      "text": "Naginata Attendants",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Elite_Republican_Guard_Infantry",
+      "text": "Republican Guard Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Cav_Sword_Sabre_Cavalry_MP",
+      "text": "Sabre Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Medium_Ship_Medium_Ship_Samurai_MP",
+      "text": "Samurai Medium Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Gun_Boat_Chiyodagata",
+      "text": "Gun boat - Chiyodagata class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Frigate_Kaiyo_Maru_MP",
+      "text": "Wooden Frigate - Kaiyo Maru class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Azure_Dragon_Force",
+      "text": "Azure Dragon Force",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Cav_Missile_Samurai_Cavalry",
+      "text": "Mounted Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Light_Ship_Matchlock_Kobaya_Otomo",
+      "text": "Otomo Matchlock Kobaya",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Cav_Missile_Mounted_Gunners_Tokugawa",
+      "text": "Tokugawa Mounted Gunners",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cinematic_Farmers",
+      "text": "CINEMATIC UNIT Farmers",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Heavy_Warrior_Nuns_MP",
+      "text": "Warrior Nuns",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Heavy_Ship_O_Ataka_Bune_MP",
+      "text": "O Ataka Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cinematic_No_Helmet_Generals",
+      "text": "CINEMATIC UNIT No Helmet Generals",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Heavy_Onna_Bushi",
+      "text": "Onna Bushi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Cav_Missile_Carbine_Cavalry",
+      "text": "Carbine Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Sword_Shogitai",
+      "text": "Shogitai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Medium_Ship_Wako_Medium_Bune",
+      "text": "Wako Medium Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Inf_Spear_Yari_Bulletproof_Samurai_Date",
+      "text": "Date Bulletproof Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Ashigaru_Ikko_Ikki",
+      "text": "Ikko Ikki Bow Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Frigate_Kaiyo_Maru",
+      "text": "Wooden Frigate - Kaiyo Maru class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Ironclad_L'Ocean_MP",
+      "text": "Ironclad - L’ocean class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Heavy_Naginata_Warrior_Monks_Ikko_Ikki",
+      "text": "Ikko Ikki Naginata Warrior Monks",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Red_Bear_Infantry_MP",
+      "text": "Red Bear Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cannon_Ship_Cannon_Bune_MP",
+      "text": "Cannon Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Medium_Ship_Medium_Bune_MP",
+      "text": "Medium Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Art_Wooden_Cannons",
+      "text": "Wooden Cannons",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Matchlock_Warrior_Monks",
+      "text": "Ikko Ikki Matchlock Warrior Monks",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Heavy_Naginata_Warrior_Monks_MP",
+      "text": "Naginata Warrior Monks",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Sword_Samurai_Retainers",
+      "text": "Samurai Retainers",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Inf_Missile_Bandits_MP",
+      "text": "Bandits",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Matchlock_Samurai_Otomo",
+      "text": "Otomo Matchlock Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Art_Armstrong_Guns",
+      "text": "Armstrong Guns",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Elite_Royal_Marines_MP",
+      "text": "Royal Marines",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Matchlock_Ashigaru_Oda",
+      "text": "Oda Matchlock Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Special_Fire_Bomb_Throwers_Dojo",
+      "text": "Dojo Fire Bomb Throwers",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Special_Fire_Bomb_Throwers_Hojo",
+      "text": "Hojo Fire Bomb Throwers",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Missile_Bow_Levy",
+      "text": "Bow Levy",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Sword_Nodachi_Samurai_MP",
+      "text": "No-Dachi Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Elite_Kihetai_MP",
+      "text": "Kihetai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Samurai_Chosokabe",
+      "text": "Chosokabe Bow Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Cav_Spear_Fire_Cavalry_Takeda",
+      "text": "Takeda Fire Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Corvette_Kasuga_Iron_Plated",
+      "text": "Armoured Corvette - Kasuga class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Heavy_Bune_MP",
+      "text": "Admiral Heavy Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Sh_Inf_Heavy_Tetsubo_Hero",
+      "text": "Tadakatsu's Tetsubo Warriors",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Republican_Infantry",
+      "text": "Republican Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Corvette_Kanrin_Maru",
+      "text": "Wooden Corvette - Kanrin Maru class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Cav_Missile_Bow_Ki_MP",
+      "text": "Bow Ki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Corvette_Kaiten_Iron_Plated",
+      "text": "Armoured Corvette - Kaiten class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Cav_Spear_Naginata_Cavalry",
+      "text": "Mounted Naginata",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Corvette_Kaiten_Copper_Plated",
+      "text": "Copper plated Corvette - Kaiten class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Heavy_Naginata_Warrior_Monk_Hero",
+      "text": "Naginata Warrior Monk Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_White_Tiger_Force",
+      "text": "White Tiger Force",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Sh_Inf_Special_Kisho_Ninja_Hero_MP",
+      "text": "Hanzo's Shadows",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Inf_Missile_Daikyu_Samurai_Chosokabe",
+      "text": "Chosokabe Daikyu Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Missile_Bow_Cavalry_MP",
+      "text": "Bow Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Ironclad_Kotetsu_MP",
+      "text": "Ironclad - Kotetsu class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Ashigaru_Chosokabe",
+      "text": "Chosokabe Bow Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Special_Kisho_Ninjas_Tokugawa",
+      "text": "Tokugawa Kisho Ninja",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Heavy_Ship_O_Ataka_Bune_Mori",
+      "text": "Mori O Ataka Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cinematic_Farmers_2",
+      "text": "CINEMATIC UNIT Farmers 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Hattori_Hanzo",
+      "text": "Hattori Hanzo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Militia_Levy_Infantry_Garrison",
+      "text": "Levy Garrison Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Special_Kisho_Ninjas_MP",
+      "text": "Kisho Ninja",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Spear_Yari_Ashigaru_MP",
+      "text": "Yari Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Heavy_Naginata_Warrior_Monk_Hero_Uesugi",
+      "text": "Uesugi Naginata Warrior Monk Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Sword_Shogitai_MP",
+      "text": "Shogitai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Imperial_Infantry_MP",
+      "text": "Imperial Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_test_wooden_cannon",
+      "text": "Wooden Cannon",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Takeda_Nobukado",
+      "text": "Takeda Nobukado",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Heavy_Ship_Heavy_Ship_Attendants_MP",
+      "text": "Attendants Large Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Samurai_MP",
+      "text": "Bow Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Art_Armstrong_Guns_MP",
+      "text": "Armstrong Guns",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Corvette_Kasuga_Copper_Plated",
+      "text": "Copper-plated Corvette - Kasuga class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Light_Ship_Bow_Kobaya_Mori",
+      "text": "Mori Bow Kobaya",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Cav_Missile_Imperial_Guard_Cavalry_MP",
+      "text": "Imperial Guard Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Cav_Missile_Revolver_Cavalry",
+      "text": "Revolver Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Cav_Missile_Imperial_Guard_Cavalry",
+      "text": "Imperial Guard Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Gen_Saigo_Takamori",
+      "text": "Saigo Takamori",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Red_Bear_Infantry",
+      "text": "Red Bear Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Missile_Bow_Warrior_Monks",
+      "text": "Bow Warrior Monks",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Warrior_Monks_Uesugi",
+      "text": "Uesugi Bow Warrior Monks",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Takeda_Katsuyori",
+      "text": "Takeda Katsuyori",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Sh_Cav_Sword_Katana_Cavalry_Hero_MP",
+      "text": "Kiyomasa’s Katana Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Missile_Bow_Attendants",
+      "text": "Bow Attendants",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cinematic_Farmers_No_Hats",
+      "text": "CINEMATIC UNIT Farmers no hats",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Torpedo_Boat_Chiyodagata_MP",
+      "text": "Torpedo boat - Chiyodagata class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Light_Ship_Matchlock_Kobaya",
+      "text": "Matchlock Kobaya",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Heavy_Naginata_Warrior_Monks_Citizenry",
+      "text": "Ikko Ikki Naginata Warrior Monks Garrison",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Special_Kisho_Ninjas_MP",
+      "text": "Kisho Ninja",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Sh_Inf_Heavy_Tetsubo_Hero_MP",
+      "text": "Tadakatsu's Tetsubo Warriors",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Cav_Missile_Bow_Ki",
+      "text": "Bow Ki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cinematic_European_Sailors",
+      "text": "CINEMATIC UNIT European Sailors",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Ashigaru_Citizenry",
+      "text": "Bow Ashigaru Garrison",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Ishida_Mitsunari",
+      "text": "Ishida Mitsunari",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Spear_Yari_Kachi",
+      "text": "Yari Kachi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Missile_Samurai_Infantry",
+      "text": "Foot Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Hojo_Tsunanari",
+      "text": "Hojo Tsunanari",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Light_Ship_Siege_Tower_Bune",
+      "text": "Siege Tower Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Missile_Donderbuss_Cavalry_MP",
+      "text": "Donderbuss Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Sh_Inf_Sword_Nodachi_Hero",
+      "text": "Seigen's Swordmasters",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cinematic_Damsels",
+      "text": "CINEMATIC UNIT Damsels",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Art_Large_Shafted_Fire_Rockets_Hojo",
+      "text": "Hojo Fire Rockets",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Sh_Inf_Sword_Nodachi_Hero_MP",
+      "text": "Seigen's Swordmasters",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Light_Ship_Light_Ship_Attendants_MP",
+      "text": "Attendants Light Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Shinsengumi",
+      "text": "Shinsengumi Police Force",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Light_Ship_Fire_Bomb_Kobaya",
+      "text": "Fire Bomb Kobaya",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Uesugi_Norimasa",
+      "text": "Uesugi Norimasa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Art_Hand_Mortar_Hojo",
+      "text": "Hojo Hand Mortars",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Inf_Heavy_Marathon_Monks_Uesugi",
+      "text": "Uesugi Marathon Monks",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Light_Yugekitai",
+      "text": "Yugekitai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Medium_Ship_Sengoku_Bune_MP",
+      "text": "Sengoku Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Spear_Yari_Ashigaru_Citizenry",
+      "text": "Yari Ashigaru Garrison",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Spear_Yari_Cavalry_MP",
+      "text": "Yari Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Spear_Yari_Ashigaru_Oda",
+      "text": "Oda Yari Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Heavy_Ship_Heavy_Bune_Mori",
+      "text": "Mori Heavy Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Light_Ship_Light_Ship_Samurai",
+      "text": "Samurai Light Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cannon_Ship_Cannon_Bune_Mori",
+      "text": "Mori Cannon Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Medium_Ship_Medium_Bune_Mori",
+      "text": "Mori Medium Bune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Light_Sharpshooters_MP",
+      "text": "Sharpshooters",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Elite_Shogunate_Guard_Infantry",
+      "text": "Shogunate Guard Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_White_Tiger_Force_MP",
+      "text": "White Tiger Force",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Spear_Naginata_Warrior_Monk_Cavalry_MP",
+      "text": "Naginata Warrior Monk Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Art_Coastal_Guns__Large_MP",
+      "text": "Coastal Guns",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Cav_Spear_Shogunate_Guard_Cavalry_MP",
+      "text": "Shogunate Guard Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Sword_Nodachi_Samurai_Hattori",
+      "text": "Hattori No-Dachi Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Gen_Generals_Hatamoto",
+      "text": "General's Hatamoto",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Trade_Ship_Trade_Ship",
+      "text": "Trade Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Gen_Bodyguard",
+      "text": "General's Bodyguard",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Tokugawa_Ieyasu",
+      "text": "Tokugawa Ieyasu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Sword_Sword_Attendants",
+      "text": "Sword Attendants",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Cav_Sword_Republican_Guard_Cavalry",
+      "text": "Republican Guard Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Corvette_Kanrin_Maru_Copper_Plated",
+      "text": "Copper plated Corvette - Kanrin Maru class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Matchlock_Warrior_Monks_Uesugi",
+      "text": "Uesugi Matchlock Warrior Monks",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Ashikaga_Haruuji",
+      "text": "Ashikaga Haruuji",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Infantry_MP",
+      "text": "Line Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Samurai_Dojo",
+      "text": "Bow Dojo Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Sh_Inf_Heavy_Naginata_Hero",
+      "text": "Benkei's Blades",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Art_European_Cannons",
+      "text": "European Cannons",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Missile_Bow_Kachi",
+      "text": "Bow Kachi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_test_gun_inf",
+      "text": "Gun Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Sword_Katana_Ashigaru",
+      "text": "Ikko Ikki Loan Sword Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Black_Bear_Infantry",
+      "text": "Black Bear Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Inf_Spear_Long_Yari_Ashigaru_MP",
+      "text": "Long Yari Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Heavy_Tetsubo_Warrior_Monks_MP",
+      "text": "Tetsubo Warrior Monk Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Taisho",
+      "text": "General",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Ashigaru_MP",
+      "text": "Bow Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Mori_Motonari",
+      "text": "Mori Motonari",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Shogunate_Infantry",
+      "text": "Shogunate Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Galleon_Caravel_Mori",
+      "text": "Mori Nanban Trade Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Takeda_Shingen",
+      "text": "Takeda Shingen",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Missile_Matchlock_Kachi",
+      "text": "Matchlock Kachi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Spear_Yari_Hero",
+      "text": "Yari Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Cav_Spear_Naginata_Cavalry_MP",
+      "text": "Mounted Naginata",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Missile_Samurai_Infantry_Garrison",
+      "text": "Foot Samurai Garrison",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Uesugi_Kenshin",
+      "text": "Uesugi Kenshin",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Cav_Spear_Yari_Ki_MP",
+      "text": "Yari Ki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Wako",
+      "text": "Bow Wako",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Imagawa_Ujichika",
+      "text": "Imagawa Ujichika",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Spear_Yari_Ronin",
+      "text": "Yari Ronin",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Spear_Yari_Samurai_MP",
+      "text": "Yari Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_White_Bear_Infantry",
+      "text": "White Bear Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Ironclad_USS_Roanoke",
+      "text": "Ironclad - Roanoke class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Heavy_Naginata_Samurai_Hattori",
+      "text": "Hattori Naginata Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Sword_Katana_Ashigaru_MP",
+      "text": "Loan Sword Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Vermilion_Bird_Force",
+      "text": "Vermilion Bird Force",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Spear_Light_Cavalry_MP",
+      "text": "Light Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Matchlock_Ashigaru_MP",
+      "text": "Matchlock Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Cav_Missile_Samurai_Hero_MP",
+      "text": "Samurai Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Medium_Ship_Fire_Bomb_Medium_Ship_MP",
+      "text": "Firebomb Medium Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_test_bow_inf",
+      "text": "Bow Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Sword_Sword_Attendants_MP",
+      "text": "Sword Attendants",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Spear_Yari_Samurai_Dojo",
+      "text": "Yari Dojo Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Corvette_Kanko_Maru",
+      "text": "Wooden Corvette - Kanko Maru class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Elite_United_States_Marines_MP",
+      "text": "United States Marines",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Spear_Great_Guard_Takeda",
+      "text": "Takeda Great Guard",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Art_Parrot_Guns_MP",
+      "text": "Parrott Guns",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Black_Tortoise_Force",
+      "text": "Black Tortoise Force",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Cav_Missile_Mounted_Gunners_MP",
+      "text": "Mounted Gunners",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Line_Imperial_Infantry",
+      "text": "Imperial Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Heavy_Ship_Heavy_Ship_Samurai",
+      "text": "Samurai Large Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Medium_Ship_Medium_Ship_Attendants_MP",
+      "text": "Attendants Medium Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Corvette_Kaiten_MP",
+      "text": "Wooden Corvette - Kaiten class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Light_Ship_Light_Ship_Pirate",
+      "text": "Pirate Light Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Sh_Cav_Missile_Bow_Cavalry_Hero_MP",
+      "text": "Yoritomo’s Yabusame Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Art_Wooden_Cannons_MP",
+      "text": "Wooden Cannons",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Corvette_Kasuga_MP",
+      "text": "Wooden Corvette - Kasuga class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Spear_Yari_Cavalry_Dojo",
+      "text": "Yari Dojo Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Art_European_Cannons_Hojo",
+      "text": "Hojo Cannons",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Hero",
+      "text": "Bow Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Trade_Ship_Wako_Trade_Ship",
+      "text": "Wako Trade Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Sword_Nodachi_Samurai",
+      "text": "No-Dachi Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Heavy_Naginata_Warrior_Monk_Hero",
+      "text": "Naginata Warrior Monk Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Medium_Ship_Medium_Ship_Attendants",
+      "text": "Attendants Medium Ship",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Art_Fire_Projecting_Mangonels_Hojo",
+      "text": "Hojo Fire Projecting Mangonels",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Sh_Cav_Spear_Yari_Cavalry_Hero_MP",
+      "text": "The Spears of Shizugatake",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Special_Fire_Bomb_Throwers_MP",
+      "text": "Fire Bomb Throwers",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Inf_Missile_Daikyu_Samurai_MP",
+      "text": "Daikyu Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Garrison_Infantry",
+      "text": "Garrison Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Elite_Shogunate_Guard_Infantry_MP",
+      "text": "Shogunate Guard Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_UP1_Inf_Spear_Yari_Bulletproof_Samurai_MP",
+      "text": "Bulletproof Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Elite_Imperial_Guard_Infantry_MP",
+      "text": "Imperial Guard Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Ashigaru_Tutorial",
+      "text": "Bow Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Cav_Missile_Samurai_Hero_MP",
+      "text": "Mounted Samurai Hero",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Art_Gatling_Guns_MP",
+      "text": "Gatling Guns",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Genpei_Inf_Missile_Bow_Levy_Garrison",
+      "text": "Bow Levy Garrison",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Bow_Ashigaru_Oda",
+      "text": "Oda Bow Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Art_Large_Shafted_Fire_Rockets_MP",
+      "text": "Fire Rockets",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Date_Masamune",
+      "text": "Date Masamune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Ironclad_HMS_Warrior",
+      "text": "Ironclad - Warrior class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Missile_Matchlock_Ashigaru_Otomo",
+      "text": "Otomo Matchlock Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Heavy_Onna_Bushi",
+      "text": "Onna Bushi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Militia_Levy_Infantry_MP",
+      "text": "Levy Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Sword_Katana_Samurai_MP",
+      "text": "Katana Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Heavy_Naginata_Samurai",
+      "text": "Naginata Samurai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Cav_Sword_Katana_Cavalry_MP",
+      "text": "Katana Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Ironclad_L'Ocean",
+      "text": "Ironclad - L’ocean class",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_test_bow_cav",
+      "text": "Bow Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Art_Coastal_Guns_Medium_MP",
+      "text": "Coastal Guns",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Heavy_Ship_Nihon_Maru_Mori",
+      "text": "Mori Nihon Maru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Inf_Spear_Yari_Ashigaru_Ikko_Ikki",
+      "text": "Ikko Ikki Yari Ashigaru",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Gen_Taisho_Bow_MP",
+      "text": "Avatar's Bodyguard",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "units_on_screen_name_Boshin_Inf_Light_Tosa_Riflemen_MP",
+      "text": "Tosa Riflemen",
+      "tooltip": "true",
+      "empty": false
+    }
+  ],
+  "translatable": [
+    {
+      "row_index": 0,
+      "text": "Kyoto Police"
+    },
+    {
+      "row_index": 1,
+      "text": "Takeda Katana Cavalry"
+    },
+    {
+      "row_index": 2,
+      "text": "Infanterie de marine"
+    },
+    {
+      "row_index": 3,
+      "text": "Warrior Nuns"
+    },
+    {
+      "row_index": 4,
+      "text": "Line Infantry"
+    },
+    {
+      "row_index": 5,
+      "text": "Infanterie de marine"
+    },
+    {
+      "row_index": 6,
+      "text": "Armoured Frigate - Kaiyo Maru class"
+    },
+    {
+      "row_index": 7,
+      "text": "Light Cavalry"
+    },
+    {
+      "row_index": 8,
+      "text": "Katana Hero"
+    },
+    {
+      "row_index": 9,
+      "text": "Coastal Guns"
+    },
+    {
+      "row_index": 10,
+      "text": "Royal Marines"
+    },
+    {
+      "row_index": 11,
+      "text": "Copper plated Frigate - Kaiyo Maru class"
+    },
+    {
+      "row_index": 12,
+      "text": "Matchlock Samurai"
+    },
+    {
+      "row_index": 13,
+      "text": "Yari Ashigaru"
+    },
+    {
+      "row_index": 14,
+      "text": "Naginata Warrior Monks"
+    },
+    {
+      "row_index": 15,
+      "text": "Naginata Attendants"
+    },
+    {
+      "row_index": 16,
+      "text": "Portuguese Tercos"
+    },
+    {
+      "row_index": 17,
+      "text": "Kisho Ninja"
+    },
+    {
+      "row_index": 18,
+      "text": "Portuguese Tercos"
+    },
+    {
+      "row_index": 19,
+      "text": "Copper plated Corvette - Kanko Maru class"
+    },
+    {
+      "row_index": 20,
+      "text": "Tosa Riflemen"
+    },
+    {
+      "row_index": 21,
+      "text": "Ironclad - Roanoke class"
+    },
+    {
+      "row_index": 22,
+      "text": "Tokitaka’s Tanegashima"
+    },
+    {
+      "row_index": 23,
+      "text": "Katana Hero"
+    },
+    {
+      "row_index": 24,
+      "text": "Mounted Samurai"
+    },
+    {
+      "row_index": 25,
+      "text": "Trade Ship"
+    },
+    {
+      "row_index": 26,
+      "text": "Pirate Medium Ship"
+    },
+    {
+      "row_index": 27,
+      "text": "Ikko Ikki Bow Warrior Monks"
+    },
+    {
+      "row_index": 28,
+      "text": "Foot Samurai"
+    },
+    {
+      "row_index": 29,
+      "text": "Katana Kachi"
+    },
+    {
+      "row_index": 30,
+      "text": "Wooden Corvette - Kaiten class"
+    },
+    {
+      "row_index": 31,
+      "text": "Oda Nobunaga"
+    },
+    {
+      "row_index": 32,
+      "text": "Armoured Corvette - Kanrin Maru class"
+    },
+    {
+      "row_index": 33,
+      "text": "Chosokabe Motochika"
+    },
+    {
+      "row_index": 34,
+      "text": "Wooden Corvette - Kanko Maru class"
+    },
+    {
+      "row_index": 35,
+      "text": "Gatling Gun"
+    },
+    {
+      "row_index": 36,
+      "text": "Hattori Bandits"
+    },
+    {
+      "row_index": 37,
+      "text": "Tetsubo Warrior Monk Hero"
+    },
+    {
+      "row_index": 38,
+      "text": "Sharpshooters"
+    },
+    {
+      "row_index": 39,
+      "text": "Attendants Light Ship"
+    },
+    {
+      "row_index": 40,
+      "text": "Wooden Corvette - Kasuga class"
+    },
+    {
+      "row_index": 41,
+      "text": "Naginata Warrior Monk Cavalry"
+    },
+    {
+      "row_index": 42,
+      "text": "Kihetai"
+    },
+    {
+      "row_index": 43,
+      "text": "Kiyomasa’s Katana Cavalry"
+    },
+    {
+      "row_index": 44,
+      "text": "Yari Samurai"
+    },
+    {
+      "row_index": 45,
+      "text": "Tokitaka’s Tanegashima"
+    },
+    {
+      "row_index": 46,
+      "text": "Takeda Light Cavalry"
+    },
+    {
+      "row_index": 47,
+      "text": "Coastal Guns"
+    },
+    {
+      "row_index": 49,
+      "text": "Hattori Bow Ashigaru"
+    },
+    {
+      "row_index": 50,
+      "text": "Ikko Ikki Naginata Warrior Monk Hero"
+    },
+    {
+      "row_index": 51,
+      "text": "Yari Ashigaru"
+    },
+    {
+      "row_index": 52,
+      "text": "Great Guard"
+    },
+    {
+      "row_index": 53,
+      "text": "Nihon Maru"
+    },
+    {
+      "row_index": 54,
+      "text": "Otomo Sorin"
+    },
+    {
+      "row_index": 55,
+      "text": "Shimazu Katana Hero"
+    },
+    {
+      "row_index": 56,
+      "text": "Imported Matchlock Ashigaru"
+    },
+    {
+      "row_index": 57,
+      "text": "General's Bodyguard"
+    },
+    {
+      "row_index": 58,
+      "text": "Shimazu Heavy Gunners"
+    },
+    {
+      "row_index": 59,
+      "text": "Attendants Large Ship"
+    },
+    {
+      "row_index": 60,
+      "text": "Fire Rockets"
+    },
+    {
+      "row_index": 61,
+      "text": "Ikko Ikki Marathon Monks"
+    },
+    {
+      "row_index": 62,
+      "text": "Kyoto Police"
+    },
+    {
+      "row_index": 63,
+      "text": "Yari Cavalry"
+    },
+    {
+      "row_index": 64,
+      "text": "Sabre Cavalry"
+    },
+    {
+      "row_index": 65,
+      "text": "Date No-Dachi Samurai"
+    },
+    {
+      "row_index": 66,
+      "text": "Mori Matchlock Kobaya"
+    },
+    {
+      "row_index": 67,
+      "text": "Heavy Gunners"
+    },
+    {
+      "row_index": 68,
+      "text": "Ikko Ikki Matchlock Ashigaru"
+    },
+    {
+      "row_index": 69,
+      "text": "Mori Sengoku Bune"
+    },
+    {
+      "row_index": 70,
+      "text": "Hattori Yari Ashigaru"
+    },
+    {
+      "row_index": 71,
+      "text": "Matchlock Warrior Monks"
+    },
+    {
+      "row_index": 72,
+      "text": "Armoured Corvette - Kasuga class"
+    },
+    {
+      "row_index": 73,
+      "text": "Kobayakawa Hideaki"
+    },
+    {
+      "row_index": 74,
+      "text": "Bow Ronin"
+    },
+    {
+      "row_index": 75,
+      "text": "Spear Levy Garrison"
+    },
+    {
+      "row_index": 76,
+      "text": "General's Hatamoto"
+    },
+    {
+      "row_index": 77,
+      "text": "Ironclad - Warrior class"
+    },
+    {
+      "row_index": 78,
+      "text": "Naginata Samurai"
+    },
+    {
+      "row_index": 79,
+      "text": "Gozen's Hime Heroines"
+    },
+    {
+      "row_index": 80,
+      "text": "Katana Wako"
+    },
+    {
+      "row_index": 81,
+      "text": "Carbine Cavalry"
+    },
+    {
+      "row_index": 82,
+      "text": "Yugekitai"
+    },
+    {
+      "row_index": 83,
+      "text": "Bow Hero"
+    },
+    {
+      "row_index": 84,
+      "text": "Bow Kobaya"
+    },
+    {
+      "row_index": 85,
+      "text": "Takeda Yari Cavalry"
+    },
+    {
+      "row_index": 86,
+      "text": "Chosokabe Bow Warrior Monks"
+    },
+    {
+      "row_index": 87,
+      "text": "Mori Fire Bomb Kobaya"
+    },
+    {
+      "row_index": 88,
+      "text": "Heavy Bune"
+    },
+    {
+      "row_index": 89,
+      "text": "The Spears of Shizugatake"
+    },
+    {
+      "row_index": 90,
+      "text": "Fire Bomb Kobaya"
+    },
+    {
+      "row_index": 91,
+      "text": "Hanzo's Shadows"
+    },
+    {
+      "row_index": 92,
+      "text": "Hattori Yari Samurai"
+    },
+    {
+      "row_index": 93,
+      "text": "Hojo Ujiyasu"
+    },
+    {
+      "row_index": 94,
+      "text": "Bow Ashigaru"
+    },
+    {
+      "row_index": 95,
+      "text": "Katana Dojo Samurai"
+    },
+    {
+      "row_index": 96,
+      "text": "Naginata Levy"
+    },
+    {
+      "row_index": 97,
+      "text": "Benkei's Blades"
+    },
+    {
+      "row_index": 98,
+      "text": "Bow Kachi"
+    },
+    {
+      "row_index": 99,
+      "text": "Fire Bomb Throwers"
+    },
+    {
+      "row_index": 100,
+      "text": "Marathon Monks"
+    },
+    {
+      "row_index": 101,
+      "text": "Samurai Hero"
+    },
+    {
+      "row_index": 102,
+      "text": "Hattori Bow Samurai"
+    },
+    {
+      "row_index": 103,
+      "text": "Sword Infantry"
+    },
+    {
+      "row_index": 104,
+      "text": "Armoured Frigate - Kaiyo Maru class"
+    },
+    {
+      "row_index": 105,
+      "text": "Heavy Bune"
+    },
+    {
+      "row_index": 106,
+      "text": "The Black Ship"
+    },
+    {
+      "row_index": 107,
+      "text": "Shinsengumi Police Force"
+    },
+    {
+      "row_index": 108,
+      "text": "Black Tortoise Force"
+    },
+    {
+      "row_index": 109,
+      "text": "Hattori Kisho Ninja"
+    },
+    {
+      "row_index": 110,
+      "text": "Black Bear Infantry"
+    },
+    {
+      "row_index": 111,
+      "text": "Fire Bomb Throwers"
+    },
+    {
+      "row_index": 112,
+      "text": "Ironclad - Kotetsu class"
+    },
+    {
+      "row_index": 113,
+      "text": "Samurai Large Ship"
+    },
+    {
+      "row_index": 114,
+      "text": "Yari Hero"
+    },
+    {
+      "row_index": 115,
+      "text": "Shogun Infantry"
+    },
+    {
+      "row_index": 116,
+      "text": "Gun boat - Chiyodagata class"
+    },
+    {
+      "row_index": 118,
+      "text": "European Cannons"
+    },
+    {
+      "row_index": 119,
+      "text": "Mori Wako Raiders"
+    },
+    {
+      "row_index": 120,
+      "text": "Naginata Levy Garrison"
+    },
+    {
+      "row_index": 121,
+      "text": "United States Marines"
+    },
+    {
+      "row_index": 122,
+      "text": "Imagawa Yoshimoto"
+    },
+    {
+      "row_index": 123,
+      "text": "Bow Warrior Monks"
+    },
+    {
+      "row_index": 124,
+      "text": "Mori Siege Tower Bune"
+    },
+    {
+      "row_index": 125,
+      "text": "Fire Projecting Mangonels"
+    },
+    {
+      "row_index": 126,
+      "text": "Wooden Corvette - Kanrin Maru class"
+    },
+    {
+      "row_index": 127,
+      "text": "Revolver Cavalry"
+    },
+    {
+      "row_index": 128,
+      "text": "Shogunate Guard Cavalry"
+    },
+    {
+      "row_index": 129,
+      "text": "Spear Levy"
+    },
+    {
+      "row_index": 130,
+      "text": "Shogunate Infantry"
+    },
+    {
+      "row_index": 131,
+      "text": "Shimazu Yoshihiro"
+    },
+    {
+      "row_index": 132,
+      "text": "Katana Ronin"
+    },
+    {
+      "row_index": 133,
+      "text": "Levy Infantry"
+    },
+    {
+      "row_index": 134,
+      "text": "Bow Kobaya"
+    },
+    {
+      "row_index": 135,
+      "text": "Katana Kachi"
+    },
+    {
+      "row_index": 137,
+      "text": "Katana Cavalry"
+    },
+    {
+      "row_index": 138,
+      "text": "Naginata Warrior Monk Hero"
+    },
+    {
+      "row_index": 139,
+      "text": "Hand Mortars"
+    },
+    {
+      "row_index": 140,
+      "text": "Siege Tower Bune"
+    },
+    {
+      "row_index": 141,
+      "text": "Mounted Samurai Hero"
+    },
+    {
+      "row_index": 142,
+      "text": "Pike Infantry"
+    },
+    {
+      "row_index": 143,
+      "text": "Takeda Bow Cavalry"
+    },
+    {
+      "row_index": 144,
+      "text": "Nihon Maru"
+    },
+    {
+      "row_index": 145,
+      "text": "O Ataka Bune"
+    },
+    {
+      "row_index": 146,
+      "text": "Bow Ashigaru"
+    },
+    {
+      "row_index": 147,
+      "text": "Matchlock Ashigaru"
+    },
+    {
+      "row_index": 148,
+      "text": "Limbered Parrott Gun"
+    },
+    {
+      "row_index": 150,
+      "text": "General's Bodyguard"
+    },
+    {
+      "row_index": 151,
+      "text": "Bow Cavalry"
+    },
+    {
+      "row_index": 152,
+      "text": "Matchlock Samurai"
+    },
+    {
+      "row_index": 153,
+      "text": "Sword Cavalry"
+    },
+    {
+      "row_index": 154,
+      "text": "Shimotsuma Nakayuki"
+    },
+    {
+      "row_index": 155,
+      "text": "Katana Samurai"
+    },
+    {
+      "row_index": 156,
+      "text": "Cannon Bune"
+    },
+    {
+      "row_index": 157,
+      "text": "Medium Bune"
+    },
+    {
+      "row_index": 158,
+      "text": "Ogigayatsu Tomosada"
+    },
+    {
+      "row_index": 159,
+      "text": "Kisho Ninja"
+    },
+    {
+      "row_index": 160,
+      "text": "Donderbuss Cavalry"
+    },
+    {
+      "row_index": 161,
+      "text": "Torpedo boat - Chiyodagata class"
+    },
+    {
+      "row_index": 162,
+      "text": "Bow Samurai"
+    },
+    {
+      "row_index": 163,
+      "text": "Spear Infantry"
+    },
+    {
+      "row_index": 164,
+      "text": "Vermilion Bird Force"
+    },
+    {
+      "row_index": 165,
+      "text": "O Ataka Bune"
+    },
+    {
+      "row_index": 166,
+      "text": "European Cannons"
+    },
+    {
+      "row_index": 167,
+      "text": "Red Seal Ship"
+    },
+    {
+      "row_index": 168,
+      "text": "Ironclad - Kotetsu class"
+    },
+    {
+      "row_index": 169,
+      "text": "Parrott Guns"
+    },
+    {
+      "row_index": 170,
+      "text": "Wako Raiders"
+    },
+    {
+      "row_index": 171,
+      "text": "Samurai Medium Ship"
+    },
+    {
+      "row_index": 172,
+      "text": "Oda Long Yari Ashigaru"
+    },
+    {
+      "row_index": 173,
+      "text": "Yoritomo’s Yabusame Cavalry"
+    },
+    {
+      "row_index": 174,
+      "text": "Fire Projecting Mangonels"
+    },
+    {
+      "row_index": 175,
+      "text": "Armoured Corvette - Kanko Maru class"
+    },
+    {
+      "row_index": 176,
+      "text": "Yari Ashigaru"
+    },
+    {
+      "row_index": 177,
+      "text": "Fire Cavalry"
+    },
+    {
+      "row_index": 178,
+      "text": "Coastal Guns"
+    },
+    {
+      "row_index": 179,
+      "text": "Bow Warrior Monks"
+    },
+    {
+      "row_index": 182,
+      "text": "Uesugi Warrior Monks"
+    },
+    {
+      "row_index": 183,
+      "text": "Imperial Guard Infantry"
+    },
+    {
+      "row_index": 184,
+      "text": "Matchlock Kobaya"
+    },
+    {
+      "row_index": 185,
+      "text": "Onna Bushi Heroine"
+    },
+    {
+      "row_index": 186,
+      "text": "Matchlock Kachi"
+    },
+    {
+      "row_index": 187,
+      "text": "Spear Levy"
+    },
+    {
+      "row_index": 188,
+      "text": "Yari Kachi"
+    },
+    {
+      "row_index": 189,
+      "text": "Yari Ki"
+    },
+    {
+      "row_index": 190,
+      "text": "Gozen's Hime Heroines"
+    },
+    {
+      "row_index": 191,
+      "text": "Samurai Light Ship"
+    },
+    {
+      "row_index": 192,
+      "text": "Hattori Matchlock Samurai"
+    },
+    {
+      "row_index": 193,
+      "text": "Sword Cavalry"
+    },
+    {
+      "row_index": 194,
+      "text": "Hattori Katana Samurai"
+    },
+    {
+      "row_index": 195,
+      "text": "Coastal Guns"
+    },
+    {
+      "row_index": 196,
+      "text": "Avatar's Bodyguard"
+    },
+    {
+      "row_index": 197,
+      "text": "Nanban Trade Ship"
+    },
+    {
+      "row_index": 198,
+      "text": "Hattori Matchlock Ashigaru"
+    },
+    {
+      "row_index": 199,
+      "text": "Great Guard"
+    },
+    {
+      "row_index": 200,
+      "text": "Naginata Warrior Monks"
+    },
+    {
+      "row_index": 201,
+      "text": "Shimazu Katana Samurai"
+    },
+    {
+      "row_index": 202,
+      "text": "Sengoku Bune"
+    },
+    {
+      "row_index": 203,
+      "text": "Chosokabe Bow Hero"
+    },
+    {
+      "row_index": 204,
+      "text": "Firebomb Medium Ship"
+    },
+    {
+      "row_index": 205,
+      "text": "Azure Dragon Force"
+    },
+    {
+      "row_index": 206,
+      "text": "White Bear Infantry"
+    },
+    {
+      "row_index": 207,
+      "text": "Gatling Guns"
+    },
+    {
+      "row_index": 208,
+      "text": "Onna Bushi Heroine"
+    },
+    {
+      "row_index": 209,
+      "text": "Naginata Attendants"
+    },
+    {
+      "row_index": 210,
+      "text": "Republican Guard Infantry"
+    },
+    {
+      "row_index": 211,
+      "text": "Sabre Cavalry"
+    },
+    {
+      "row_index": 212,
+      "text": "Samurai Medium Ship"
+    },
+    {
+      "row_index": 213,
+      "text": "Gun boat - Chiyodagata class"
+    },
+    {
+      "row_index": 214,
+      "text": "Wooden Frigate - Kaiyo Maru class"
+    },
+    {
+      "row_index": 215,
+      "text": "Azure Dragon Force"
+    },
+    {
+      "row_index": 216,
+      "text": "Mounted Samurai"
+    },
+    {
+      "row_index": 217,
+      "text": "Otomo Matchlock Kobaya"
+    },
+    {
+      "row_index": 218,
+      "text": "Tokugawa Mounted Gunners"
+    },
+    {
+      "row_index": 220,
+      "text": "Warrior Nuns"
+    },
+    {
+      "row_index": 221,
+      "text": "O Ataka Bune"
+    },
+    {
+      "row_index": 223,
+      "text": "Onna Bushi"
+    },
+    {
+      "row_index": 224,
+      "text": "Carbine Cavalry"
+    },
+    {
+      "row_index": 225,
+      "text": "Shogitai"
+    },
+    {
+      "row_index": 226,
+      "text": "Wako Medium Bune"
+    },
+    {
+      "row_index": 227,
+      "text": "Date Bulletproof Samurai"
+    },
+    {
+      "row_index": 228,
+      "text": "Ikko Ikki Bow Ashigaru"
+    },
+    {
+      "row_index": 229,
+      "text": "Wooden Frigate - Kaiyo Maru class"
+    },
+    {
+      "row_index": 230,
+      "text": "Ironclad - L’ocean class"
+    },
+    {
+      "row_index": 231,
+      "text": "Ikko Ikki Naginata Warrior Monks"
+    },
+    {
+      "row_index": 232,
+      "text": "Red Bear Infantry"
+    },
+    {
+      "row_index": 233,
+      "text": "Cannon Bune"
+    },
+    {
+      "row_index": 234,
+      "text": "Medium Bune"
+    },
+    {
+      "row_index": 235,
+      "text": "Wooden Cannons"
+    },
+    {
+      "row_index": 236,
+      "text": "Ikko Ikki Matchlock Warrior Monks"
+    },
+    {
+      "row_index": 237,
+      "text": "Naginata Warrior Monks"
+    },
+    {
+      "row_index": 238,
+      "text": "Samurai Retainers"
+    },
+    {
+      "row_index": 239,
+      "text": "Bandits"
+    },
+    {
+      "row_index": 240,
+      "text": "Otomo Matchlock Samurai"
+    },
+    {
+      "row_index": 241,
+      "text": "Armstrong Guns"
+    },
+    {
+      "row_index": 242,
+      "text": "Royal Marines"
+    },
+    {
+      "row_index": 243,
+      "text": "Oda Matchlock Ashigaru"
+    },
+    {
+      "row_index": 244,
+      "text": "Dojo Fire Bomb Throwers"
+    },
+    {
+      "row_index": 245,
+      "text": "Hojo Fire Bomb Throwers"
+    },
+    {
+      "row_index": 246,
+      "text": "Bow Levy"
+    },
+    {
+      "row_index": 247,
+      "text": "No-Dachi Samurai"
+    },
+    {
+      "row_index": 248,
+      "text": "Kihetai"
+    },
+    {
+      "row_index": 249,
+      "text": "Chosokabe Bow Samurai"
+    },
+    {
+      "row_index": 250,
+      "text": "Takeda Fire Cavalry"
+    },
+    {
+      "row_index": 251,
+      "text": "Armoured Corvette - Kasuga class"
+    },
+    {
+      "row_index": 252,
+      "text": "Admiral Heavy Bune"
+    },
+    {
+      "row_index": 253,
+      "text": "Tadakatsu's Tetsubo Warriors"
+    },
+    {
+      "row_index": 254,
+      "text": "Republican Infantry"
+    },
+    {
+      "row_index": 255,
+      "text": "Wooden Corvette - Kanrin Maru class"
+    },
+    {
+      "row_index": 256,
+      "text": "Bow Ki"
+    },
+    {
+      "row_index": 257,
+      "text": "Armoured Corvette - Kaiten class"
+    },
+    {
+      "row_index": 258,
+      "text": "Mounted Naginata"
+    },
+    {
+      "row_index": 259,
+      "text": "Copper plated Corvette - Kaiten class"
+    },
+    {
+      "row_index": 260,
+      "text": "Naginata Warrior Monk Hero"
+    },
+    {
+      "row_index": 261,
+      "text": "White Tiger Force"
+    },
+    {
+      "row_index": 262,
+      "text": "Hanzo's Shadows"
+    },
+    {
+      "row_index": 263,
+      "text": "Chosokabe Daikyu Samurai"
+    },
+    {
+      "row_index": 264,
+      "text": "Bow Cavalry"
+    },
+    {
+      "row_index": 265,
+      "text": "Ironclad - Kotetsu class"
+    },
+    {
+      "row_index": 266,
+      "text": "Chosokabe Bow Ashigaru"
+    },
+    {
+      "row_index": 267,
+      "text": "Tokugawa Kisho Ninja"
+    },
+    {
+      "row_index": 268,
+      "text": "Mori O Ataka Bune"
+    },
+    {
+      "row_index": 270,
+      "text": "Hattori Hanzo"
+    },
+    {
+      "row_index": 271,
+      "text": "Levy Garrison Infantry"
+    },
+    {
+      "row_index": 272,
+      "text": "Kisho Ninja"
+    },
+    {
+      "row_index": 273,
+      "text": "Yari Ashigaru"
+    },
+    {
+      "row_index": 274,
+      "text": "Uesugi Naginata Warrior Monk Hero"
+    },
+    {
+      "row_index": 275,
+      "text": "Shogitai"
+    },
+    {
+      "row_index": 276,
+      "text": "Imperial Infantry"
+    },
+    {
+      "row_index": 277,
+      "text": "Wooden Cannon"
+    },
+    {
+      "row_index": 278,
+      "text": "Takeda Nobukado"
+    },
+    {
+      "row_index": 279,
+      "text": "Attendants Large Ship"
+    },
+    {
+      "row_index": 280,
+      "text": "Bow Samurai"
+    },
+    {
+      "row_index": 281,
+      "text": "Armstrong Guns"
+    },
+    {
+      "row_index": 282,
+      "text": "Copper-plated Corvette - Kasuga class"
+    },
+    {
+      "row_index": 283,
+      "text": "Mori Bow Kobaya"
+    },
+    {
+      "row_index": 284,
+      "text": "Imperial Guard Cavalry"
+    },
+    {
+      "row_index": 285,
+      "text": "Revolver Cavalry"
+    },
+    {
+      "row_index": 286,
+      "text": "Imperial Guard Cavalry"
+    },
+    {
+      "row_index": 287,
+      "text": "Saigo Takamori"
+    },
+    {
+      "row_index": 288,
+      "text": "Red Bear Infantry"
+    },
+    {
+      "row_index": 289,
+      "text": "Bow Warrior Monks"
+    },
+    {
+      "row_index": 290,
+      "text": "Uesugi Bow Warrior Monks"
+    },
+    {
+      "row_index": 291,
+      "text": "Takeda Katsuyori"
+    },
+    {
+      "row_index": 292,
+      "text": "Kiyomasa’s Katana Cavalry"
+    },
+    {
+      "row_index": 293,
+      "text": "Bow Attendants"
+    },
+    {
+      "row_index": 295,
+      "text": "Torpedo boat - Chiyodagata class"
+    },
+    {
+      "row_index": 296,
+      "text": "Matchlock Kobaya"
+    },
+    {
+      "row_index": 297,
+      "text": "Ikko Ikki Naginata Warrior Monks Garrison"
+    },
+    {
+      "row_index": 298,
+      "text": "Kisho Ninja"
+    },
+    {
+      "row_index": 299,
+      "text": "Tadakatsu's Tetsubo Warriors"
+    },
+    {
+      "row_index": 300,
+      "text": "Bow Ki"
+    },
+    {
+      "row_index": 302,
+      "text": "Bow Ashigaru Garrison"
+    },
+    {
+      "row_index": 303,
+      "text": "Ishida Mitsunari"
+    },
+    {
+      "row_index": 304,
+      "text": "Yari Kachi"
+    },
+    {
+      "row_index": 305,
+      "text": "Foot Samurai"
+    },
+    {
+      "row_index": 306,
+      "text": "Hojo Tsunanari"
+    },
+    {
+      "row_index": 307,
+      "text": "Siege Tower Bune"
+    },
+    {
+      "row_index": 308,
+      "text": "Donderbuss Cavalry"
+    },
+    {
+      "row_index": 309,
+      "text": "Seigen's Swordmasters"
+    },
+    {
+      "row_index": 311,
+      "text": "Hojo Fire Rockets"
+    },
+    {
+      "row_index": 312,
+      "text": "Seigen's Swordmasters"
+    },
+    {
+      "row_index": 313,
+      "text": "Attendants Light Ship"
+    },
+    {
+      "row_index": 314,
+      "text": "Shinsengumi Police Force"
+    },
+    {
+      "row_index": 315,
+      "text": "Fire Bomb Kobaya"
+    },
+    {
+      "row_index": 316,
+      "text": "Uesugi Norimasa"
+    },
+    {
+      "row_index": 317,
+      "text": "Hojo Hand Mortars"
+    },
+    {
+      "row_index": 318,
+      "text": "Uesugi Marathon Monks"
+    },
+    {
+      "row_index": 319,
+      "text": "Yugekitai"
+    },
+    {
+      "row_index": 320,
+      "text": "Sengoku Bune"
+    },
+    {
+      "row_index": 321,
+      "text": "Yari Ashigaru Garrison"
+    },
+    {
+      "row_index": 322,
+      "text": "Yari Cavalry"
+    },
+    {
+      "row_index": 323,
+      "text": "Oda Yari Ashigaru"
+    },
+    {
+      "row_index": 324,
+      "text": "Mori Heavy Bune"
+    },
+    {
+      "row_index": 325,
+      "text": "Samurai Light Ship"
+    },
+    {
+      "row_index": 326,
+      "text": "Mori Cannon Bune"
+    },
+    {
+      "row_index": 327,
+      "text": "Mori Medium Bune"
+    },
+    {
+      "row_index": 328,
+      "text": "Sharpshooters"
+    },
+    {
+      "row_index": 329,
+      "text": "Shogunate Guard Infantry"
+    },
+    {
+      "row_index": 330,
+      "text": "White Tiger Force"
+    },
+    {
+      "row_index": 331,
+      "text": "Naginata Warrior Monk Cavalry"
+    },
+    {
+      "row_index": 332,
+      "text": "Coastal Guns"
+    },
+    {
+      "row_index": 333,
+      "text": "Shogunate Guard Cavalry"
+    },
+    {
+      "row_index": 334,
+      "text": "Hattori No-Dachi Samurai"
+    },
+    {
+      "row_index": 335,
+      "text": "General's Hatamoto"
+    },
+    {
+      "row_index": 336,
+      "text": "Trade Ship"
+    },
+    {
+      "row_index": 337,
+      "text": "General's Bodyguard"
+    },
+    {
+      "row_index": 338,
+      "text": "Tokugawa Ieyasu"
+    },
+    {
+      "row_index": 339,
+      "text": "Sword Attendants"
+    },
+    {
+      "row_index": 340,
+      "text": "Republican Guard Cavalry"
+    },
+    {
+      "row_index": 341,
+      "text": "Copper plated Corvette - Kanrin Maru class"
+    },
+    {
+      "row_index": 342,
+      "text": "Uesugi Matchlock Warrior Monks"
+    },
+    {
+      "row_index": 343,
+      "text": "Ashikaga Haruuji"
+    },
+    {
+      "row_index": 344,
+      "text": "Line Infantry"
+    },
+    {
+      "row_index": 345,
+      "text": "Bow Dojo Samurai"
+    },
+    {
+      "row_index": 346,
+      "text": "Benkei's Blades"
+    },
+    {
+      "row_index": 347,
+      "text": "European Cannons"
+    },
+    {
+      "row_index": 348,
+      "text": "Bow Kachi"
+    },
+    {
+      "row_index": 349,
+      "text": "Gun Infantry"
+    },
+    {
+      "row_index": 350,
+      "text": "Ikko Ikki Loan Sword Ashigaru"
+    },
+    {
+      "row_index": 351,
+      "text": "Black Bear Infantry"
+    },
+    {
+      "row_index": 352,
+      "text": "Long Yari Ashigaru"
+    },
+    {
+      "row_index": 353,
+      "text": "Tetsubo Warrior Monk Hero"
+    },
+    {
+      "row_index": 354,
+      "text": "General"
+    },
+    {
+      "row_index": 355,
+      "text": "Bow Ashigaru"
+    },
+    {
+      "row_index": 356,
+      "text": "Mori Motonari"
+    },
+    {
+      "row_index": 357,
+      "text": "Shogunate Infantry"
+    },
+    {
+      "row_index": 358,
+      "text": "Mori Nanban Trade Ship"
+    },
+    {
+      "row_index": 359,
+      "text": "Takeda Shingen"
+    },
+    {
+      "row_index": 360,
+      "text": "Matchlock Kachi"
+    },
+    {
+      "row_index": 361,
+      "text": "Yari Hero"
+    },
+    {
+      "row_index": 362,
+      "text": "Mounted Naginata"
+    },
+    {
+      "row_index": 363,
+      "text": "Foot Samurai Garrison"
+    },
+    {
+      "row_index": 364,
+      "text": "Uesugi Kenshin"
+    },
+    {
+      "row_index": 365,
+      "text": "Yari Ki"
+    },
+    {
+      "row_index": 366,
+      "text": "Bow Wako"
+    },
+    {
+      "row_index": 367,
+      "text": "Imagawa Ujichika"
+    },
+    {
+      "row_index": 368,
+      "text": "Yari Ronin"
+    },
+    {
+      "row_index": 369,
+      "text": "Yari Samurai"
+    },
+    {
+      "row_index": 370,
+      "text": "White Bear Infantry"
+    },
+    {
+      "row_index": 371,
+      "text": "Ironclad - Roanoke class"
+    },
+    {
+      "row_index": 372,
+      "text": "Hattori Naginata Samurai"
+    },
+    {
+      "row_index": 373,
+      "text": "Loan Sword Ashigaru"
+    },
+    {
+      "row_index": 374,
+      "text": "Vermilion Bird Force"
+    },
+    {
+      "row_index": 375,
+      "text": "Light Cavalry"
+    },
+    {
+      "row_index": 376,
+      "text": "Matchlock Ashigaru"
+    },
+    {
+      "row_index": 377,
+      "text": "Samurai Hero"
+    },
+    {
+      "row_index": 378,
+      "text": "Firebomb Medium Ship"
+    },
+    {
+      "row_index": 379,
+      "text": "Bow Infantry"
+    },
+    {
+      "row_index": 380,
+      "text": "Sword Attendants"
+    },
+    {
+      "row_index": 381,
+      "text": "Yari Dojo Samurai"
+    },
+    {
+      "row_index": 382,
+      "text": "Wooden Corvette - Kanko Maru class"
+    },
+    {
+      "row_index": 383,
+      "text": "United States Marines"
+    },
+    {
+      "row_index": 384,
+      "text": "Takeda Great Guard"
+    },
+    {
+      "row_index": 385,
+      "text": "Parrott Guns"
+    },
+    {
+      "row_index": 386,
+      "text": "Black Tortoise Force"
+    },
+    {
+      "row_index": 387,
+      "text": "Mounted Gunners"
+    },
+    {
+      "row_index": 388,
+      "text": "Imperial Infantry"
+    },
+    {
+      "row_index": 389,
+      "text": "Samurai Large Ship"
+    },
+    {
+      "row_index": 390,
+      "text": "Attendants Medium Ship"
+    },
+    {
+      "row_index": 391,
+      "text": "Wooden Corvette - Kaiten class"
+    },
+    {
+      "row_index": 392,
+      "text": "Pirate Light Ship"
+    },
+    {
+      "row_index": 393,
+      "text": "Yoritomo’s Yabusame Cavalry"
+    },
+    {
+      "row_index": 394,
+      "text": "Wooden Cannons"
+    },
+    {
+      "row_index": 395,
+      "text": "Wooden Corvette - Kasuga class"
+    },
+    {
+      "row_index": 396,
+      "text": "Yari Dojo Cavalry"
+    },
+    {
+      "row_index": 397,
+      "text": "Hojo Cannons"
+    },
+    {
+      "row_index": 398,
+      "text": "Bow Hero"
+    },
+    {
+      "row_index": 399,
+      "text": "Wako Trade Ship"
+    },
+    {
+      "row_index": 400,
+      "text": "No-Dachi Samurai"
+    },
+    {
+      "row_index": 401,
+      "text": "Naginata Warrior Monk Hero"
+    },
+    {
+      "row_index": 402,
+      "text": "Attendants Medium Ship"
+    },
+    {
+      "row_index": 403,
+      "text": "Hojo Fire Projecting Mangonels"
+    },
+    {
+      "row_index": 404,
+      "text": "The Spears of Shizugatake"
+    },
+    {
+      "row_index": 405,
+      "text": "Fire Bomb Throwers"
+    },
+    {
+      "row_index": 406,
+      "text": "Daikyu Samurai"
+    },
+    {
+      "row_index": 407,
+      "text": "Garrison Infantry"
+    },
+    {
+      "row_index": 408,
+      "text": "Shogunate Guard Infantry"
+    },
+    {
+      "row_index": 409,
+      "text": "Bulletproof Samurai"
+    },
+    {
+      "row_index": 410,
+      "text": "Imperial Guard Infantry"
+    },
+    {
+      "row_index": 411,
+      "text": "Bow Ashigaru"
+    },
+    {
+      "row_index": 412,
+      "text": "Mounted Samurai Hero"
+    },
+    {
+      "row_index": 413,
+      "text": "Gatling Guns"
+    },
+    {
+      "row_index": 414,
+      "text": "Bow Levy Garrison"
+    },
+    {
+      "row_index": 415,
+      "text": "Oda Bow Ashigaru"
+    },
+    {
+      "row_index": 416,
+      "text": "Fire Rockets"
+    },
+    {
+      "row_index": 417,
+      "text": "Date Masamune"
+    },
+    {
+      "row_index": 418,
+      "text": "Ironclad - Warrior class"
+    },
+    {
+      "row_index": 419,
+      "text": "Otomo Matchlock Ashigaru"
+    },
+    {
+      "row_index": 420,
+      "text": "Onna Bushi"
+    },
+    {
+      "row_index": 421,
+      "text": "Levy Infantry"
+    },
+    {
+      "row_index": 422,
+      "text": "Katana Samurai"
+    },
+    {
+      "row_index": 423,
+      "text": "Naginata Samurai"
+    },
+    {
+      "row_index": 424,
+      "text": "Katana Cavalry"
+    },
+    {
+      "row_index": 425,
+      "text": "Ironclad - L’ocean class"
+    },
+    {
+      "row_index": 426,
+      "text": "Bow Cavalry"
+    },
+    {
+      "row_index": 427,
+      "text": "Coastal Guns"
+    },
+    {
+      "row_index": 428,
+      "text": "Mori Nihon Maru"
+    },
+    {
+      "row_index": 429,
+      "text": "Ikko Ikki Yari Ashigaru"
+    },
+    {
+      "row_index": 430,
+      "text": "Avatar's Bodyguard"
+    },
+    {
+      "row_index": 431,
+      "text": "Tosa Riflemen"
+    }
+  ],
+  "total_chunks": 6,
+  "chunk_size": 80
+}

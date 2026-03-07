@@ -1,0 +1,33 @@
+key	text	tooltip
+#Loc;1;text/db/avatar_dojo_chains.loc		
+avatar_dojo_chains_recruitment_requirement_description_sword	To unlock this unit, you must have explored %n provinces containing a Sword School on the conquest map.	true
+avatar_dojo_chains_recruitment_requirement_description_spear	To unlock this unit, you must have explored %n provinces containing a Yari Drill Yard on the conquest map.	true
+avatar_dojo_chains_onscreen_name_artillery	Artillery Workshop	true
+avatar_dojo_chains_recruitment_requirement_description_naval_emporium	To unlock this unit, you must have explored %n provinces containing a Naval Emporium on the conquest map.	true
+avatar_dojo_chains_recruitment_requirement_description_siege	To unlock this unit, you must have explored %n provinces containing a Workshop on the conquest map.	true
+avatar_dojo_chains_onscreen_name_shogunate_barrack	Shogunate Barracks	true
+avatar_dojo_chains_onscreen_name_shogunate_armoury	Shogunate Armoury	true
+avatar_dojo_chains_onscreen_name_port	Military Port	true
+avatar_dojo_chains_recruitment_requirement_description_bow	To unlock this unit, you must have explored %n provinces containing an Archery Dojo on the conquest map.	true
+avatar_dojo_chains_recruitment_requirement_description_dock	To unlock this unit, you must have explored %n provinces containing a Military Dock on the conquest map.	true
+avatar_dojo_chains_onscreen_name_gun	Teppo Range	true
+avatar_dojo_chains_onscreen_name_bow	Archery Dojo	true
+avatar_dojo_chains_onscreen_name_dock	Military Dock	true
+avatar_dojo_chains_recruitment_requirement_description_port	To unlock this unit, you must have explored %n provinces containing a Military Port on the conquest map.	true
+avatar_dojo_chains_recruitment_requirement_description_gun	To unlock this unit, you must have explored %n provinces containing a Teppo Range on the conquest map.	true
+avatar_dojo_chains_onscreen_name_imperial_armoury	Imperial Armoury	true
+avatar_dojo_chains_onscreen_name_temple	Buddhist Temple	true
+avatar_dojo_chains_recruitment_requirement_description_stealth	To unlock this unit, you must have explored %n provinces containing a Sake Den on the conquest map.	true
+avatar_dojo_chains_onscreen_name_cavalry	Stables	true
+avatar_dojo_chains_recruitment_requirement_description_emporium	To unlock this unit, you must have explored %n provinces containing an Emporium on the conquest map.	true
+avatar_dojo_chains_onscreen_name_naval_emporium	Naval Emporium	true
+avatar_dojo_chains_onscreen_name_emporium	Emporium	true
+avatar_dojo_chains_recruitment_requirement_description_cavalry	To unlock this unit, you must have explored %n provinces containing a Stables on the conquest map.	true
+avatar_dojo_chains_recruitment_requirement_description_imperial_armoury	To unlock this unit, you must have explored %n provinces containing an Imperial Armoury on the conquest map.	true
+avatar_dojo_chains_onscreen_name_stealth	Sake Den	true
+avatar_dojo_chains_recruitment_requirement_description_shogunate_barrack	To unlock this unit, you must have explored %n provinces containing a Shogunate Barracks on the conquest map.	true
+avatar_dojo_chains_recruitment_requirement_description_shogunate_armoury	To unlock this unit, you must have explored %n provinces containing a Shogunate Armoury on the conquest map.	true
+avatar_dojo_chains_onscreen_name_spear	Yari Drill Yard	true
+avatar_dojo_chains_recruitment_requirement_description_artillery	To unlock this unit, you must have explored %n provinces containing an Artillery Workshop on the conquest map.	true
+avatar_dojo_chains_onscreen_name_siege	Workshop	true
+avatar_dojo_chains_onscreen_name_sword	Sword School	true

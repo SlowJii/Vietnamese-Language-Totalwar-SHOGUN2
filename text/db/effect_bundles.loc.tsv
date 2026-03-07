@@ -1,0 +1,442 @@
+key	text	tooltip
+#Loc;1;text/db/effect_bundles.loc		
+effect_bundles_localised_title_p_merchant_discontent	Merchant Class Discontent	true
+effect_bundles_localised_title_p_bos_foreign_setback	Foreign Trade Setback	true
+effect_bundles_localised_description_p_bos_shogunate_propaganda_local	Support for the Shogun and his continued rule is spreading throughout this province.	true
+effect_bundles_localised_title_p_bos_breakthrough_civil_eng	Civil Breakthrough	true
+effect_bundles_localised_description_p_abundant_catch_global	Favourable conditions and long hours have ensured that fishermen across your domain have kept their nets brimming.	true
+effect_bundles_localised_title_p_disaffected_populace_global	Disaffected Populace	true
+effect_bundles_localised_title_p_bos_flourishing_growth_local	Business Flourishes	true
+effect_bundles_localised_title_p_gem_unwanted_influence_taira	Unwanted Influence	true
+effect_bundles_localised_title_p_master_ikko_monks	The True Pure Land	true
+effect_bundles_localised_title_p_gem_master_inspector	Influential Exponent	true
+effect_bundles_localised_title_p_gem_fujiwara_influence_self	Fujiwara Influence	true
+effect_bundles_localised_description_p_abundant_catch_local	Favourable conditions and long hours have ensured that fishermen in this province have kept their nets brimming.	true
+effect_bundles_localised_title_t_oda	Masters of Peasantry	true
+effect_bundles_localised_description_p_bos_master_artillery	A focus upon gunnery drill has improved the proficiency of your newly-recruited artillery-crews.	true
+effect_bundles_localised_description_p_gem_fujiwara_influence_other	Despite our best efforts, knowledge of the Fujiwara's past continues to foster support for them.	true
+effect_bundles_localised_title_p_dis_severe_winter	Severe Winter	true
+effect_bundles_localised_description_p_bos_disaffected_populace_local	Neglect for the wants and needs of the people of this province has caused resentment to your rule.	true
+effect_bundles_localised_description_p_master_monks	Inspired by their pursuit of enlightenment, your monks are fulfilling their duties with unbounded zeal.	true
+effect_bundles_localised_description_t_otomo	Shooting an enemy is not a matter of honour, but victory.	true
+effect_bundles_localised_description_p_bos_anti_western_riots_local	People in this province are sickened by recent concessions made in favour of westerners.	true
+effect_bundles_localised_description_p_peer_contempt	Dubious of your recent decisions, your fellow daimyo are harbouring considerable disrespect towards you.	true
+effect_bundles_localised_description_p_master_ninja	Their skills honed to perfection, your ninja are excelling in acts of subterfuge.	true
+effect_bundles_localised_description_p_bos_flourishing_growth_global	Business and public services are flourishing throughout your domain, improving the economy.	true
+effect_bundles_localised_title_p_bos_military_mission_french	French Military Mission	true
+effect_bundles_localised_description_p_gem_minamoto_influence_other	Despite our best efforts, knowledge of the Minamoto's past continues to foster support for them.	true
+effect_bundles_localised_title_p_gem_master_dancer	Entrancing Allure	true
+effect_bundles_localised_title_l_first_legendary_christian	Cathedral	true
+effect_bundles_localised_description_p_wisdom_shinran_global	Faith in the Ikko cause is strong as people across your lands find solace in Shinran's wise teachings.	true
+effect_bundles_localised_description_p_master_horsebreeders	Countless hours spent breaking in the finest stock have greatly increased the efficiency of your horse breeders.	true
+effect_bundles_localised_title_p_bos_better_geisha	Irresistible Charmers	true
+effect_bundles_localised_title_p_dis_volcano	Volcano	true
+effect_bundles_localised_title_p_master_missionaries	Divine Right	true
+effect_bundles_localised_description_p_bos_high_yield	The recent focus on improving your primary economy has boosted agricultural and mineral wealth.	true
+effect_bundles_localised_title_p_disaffected_populace_local	Disaffected Populace	true
+effect_bundles_localised_title_p_gem_taira_antoku_enthroned	Emperor Antoku	true
+effect_bundles_localised_title_p_inspired_endeavours_local	Inspired Endeavours	true
+effect_bundles_localised_description_p_bos_imperial_propaganda_local	Support for the Emperor and his return to power is spreading throughout this province.	true
+effect_bundles_localised_title_s_broken_trade	Broken Trade Agreement	true
+effect_bundles_localised_description_p_bos_grateful_populace_local	Your dedication to the wants and needs of the people of this province has engendered feelings of joy and gratitude.	true
+effect_bundles_localised_title_gem_fujiwara_hiraizumi	Expedient	true
+effect_bundles_localised_title_p_war_fervour	War Fervour	true
+effect_bundles_localised_description_p_bos_shoguns_authority	In return for your loyal service, the Shogun has openly declared his support for your clan.	true
+effect_bundles_localised_title_requiem_of_the_dead	Reflection of Amaterasu	true
+effect_bundles_localised_title_bos_satsuma	The Emperor’s Ambition	true
+effect_bundles_localised_title_p_bos_master_rifles	Keen Marksmen	true
+effect_bundles_localised_description_p_gem_brigandry_local	An increase in criminal acts has impaired production in this province. Unrest is stirring amongst the populace.	true
+effect_bundles_localised_description_p_agrarian_toil_local	Efficient exploitation of the fertile land has increased the agricultural wealth generated from this province.	true
+effect_bundles_localised_title_p_dis_disease	Disease	true
+effect_bundles_localised_title_p_dis_drought	Drought	true
+effect_bundles_localised_title_p_master_horsebreeders	Master Horse Breeders	true
+effect_bundles_localised_description_p_bos_iron_fist_local	Your reputation for stringent action in response to offence has instilled fear in the people of this province.	true
+effect_bundles_localised_description_gem_fujiwara_hiraizumi	Power lies in the shadows	true
+effect_bundles_localised_title_p_bos_slow_research	Developmental Restraint	true
+effect_bundles_localised_description_p_bos_inspired_endeavours_local	Your commitment to this province's wellbeing has filled the people with fervent pride, inspiring them to make a greater effort in their daily lives.	true
+effect_bundles_localised_description_s_broken_trade	An end to trade with another clan has affected your clan's domestic growth, as merchants adapt to the situation.	true
+effect_bundles_localised_title_p_inspired_endeavours_global	Inspired Endeavours	true
+effect_bundles_localised_title_p_word_of_god_global	Word of God	true
+effect_bundles_localised_title_p_dis_tsunami	Tsunami	true
+effect_bundles_localised_title_p_way_words	Way with Words	true
+effect_bundles_localised_title_p_gem_minamoto_influence_self	Minamoto Influence	true
+effect_bundles_localised_title_bos_nagaoka	The Tycoons	true
+effect_bundles_localised_description_gem_minamoto_kamakura	Power lies in the sword	true
+effect_bundles_localised_description_p_bos_flourishing_growth_local	Business and public services are flourishing in this province, improving the economy.	true
+effect_bundles_localised_description_p_gem_unwanted_influence_taira	Harbouring those with Minamoto and Fujiwara sympathies has allowed their influence to spread throughout your domain.	true
+effect_bundles_localised_description_p_bos_inspired_endeavours_global	Your commitment to the clan's wellbeing has filled the people with fervent pride, inspiring them to make a greater effort in their daily lives.	true
+effect_bundles_localised_description_p_bos_criminal_contacts_local	Owing to your criminal connections, you are better-able to exploit the wealth-producing establishments in this province.	true
+effect_bundles_localised_description_p_bos_brigandry_local	An increase in criminal acts has affected production in this province. Unrest is stirring amongst the populace.	true
+effect_bundles_localised_description_bos_clan_level_1	Keeping tradition alive ensures the power of the old ways.	true
+effect_bundles_localised_description_bos_clan_level_3	Adopting modern, foreign ways is right for Japan, but will the people accept them?	true
+effect_bundles_localised_description_bos_clan_level_2	Leaving tradition behind erodes the skills of the past.	true
+effect_bundles_localised_description_bos_clan_level_5	Modernisation and populations can co-exist in harmony as long as the people are kept in check.	true
+effect_bundles_localised_description_bos_clan_level_4	A fully modernised clan is the envy of Japan. The population will be made to understand.	true
+effect_bundles_localised_description_bos_clan_level_6	A fully modernised clan is the envy of Japan. The population will be made to understand.	true
+effect_bundles_localised_title_gem_fujiwara_kubota	Illustrious	true
+effect_bundles_localised_title_p_master_ninja	Clandestine Practices	true
+effect_bundles_localised_title_p_gem_minamoto_influence_other	Minamoto Influence	true
+effect_bundles_localised_title_s_family_death_mourn	In Mourning	true
+effect_bundles_localised_title_p_dis_flood	Flooding	true
+effect_bundles_localised_title_p_bos_civil_insight	Civil Insight	true
+effect_bundles_localised_title_p_master_monks	Noble Truth	true
+effect_bundles_localised_title_p_bos_anti_western_riots_local	Anti-western Riots	true
+effect_bundles_localised_title_p_bos_peer_contempt	Peer Contempt	true
+effect_bundles_localised_title_p_dis_typhoon	Typhoon	true
+effect_bundles_localised_title_p_abundant_catch_local	Abundant Catch	true
+effect_bundles_localised_title_p_bos_master_artillery	Gunnery Experts	true
+effect_bundles_localised_title_p_gem_fujiwara_influence_other	Fujiwara Influence	true
+effect_bundles_localised_description_p_gem_master_inspector	Quick of tongue and cunning to the last, your junsatsushi are championing your cause with irrepressible conviction.	true
+effect_bundles_localised_title_p_bos_spring	Spring	true
+effect_bundles_localised_description_p_gem_minamoto_influence_self	Word of the family's past achievements has spread; support for the Minamoto cause is stronger than ever.	true
+effect_bundles_localised_description_l_first_legendary_craft	Your clan was the first in Japan to build this legendary testament to economic excellence.	true
+effect_bundles_localised_title_p_bos_ronin_marauders_local	Ronin Marauders	true
+effect_bundles_localised_title_p_agrarian_toil_global	Agrarian Toil	true
+effect_bundles_localised_title_p_bos_thriving_markets	Thriving Markets	true
+effect_bundles_localised_title_p_bos_martial_wisdom	Martial Wisdom	true
+effect_bundles_localised_description_l_first_legendary_siege	Your clan was the first in Japan to build this legendary testament to its mastery of siegecraft and gunpowder.	true
+effect_bundles_localised_description_p_dis_tsunami	This coastal province has been hit by a tsunami, affecting local port activity and impeding production.	true
+effect_bundles_localised_description_t_uesugi	Evil will never prevail against those with faith.	true
+effect_bundles_localised_description_p_gem_propaganda	Your family’s influence is spreading like wildfire as word of your exploits reaches every corner of the realm.	true
+effect_bundles_localised_title_p_nanban_ire	Nanban Ire	true
+effect_bundles_localised_title_p_aggressive_ardour	Aggressive Ardour	true
+effect_bundles_localised_description_p_ample_supplies	An abundant source of military equipment has significantly reduced the cost of equipping new troops for war.	true
+effect_bundles_localised_title_p_bos_brigandry_global	Brigandry	true
+effect_bundles_localised_title_p_lackluster_efforts_global	Lackluster Efforts	true
+effect_bundles_localised_description_t_takeda	Born to the saddle; born to command.	true
+effect_bundles_localised_title_p_gem_martial_wisdom	Martial Wisdom	true
+effect_bundles_localised_title_p_foreign_prosperity	Foreign Prosperity	true
+effect_bundles_localised_title_p_bos_iron_fist_local	Iron Fist	true
+effect_bundles_localised_description_p_rule_the_waves	Inspired by your clan's mastery of the sea, your fleets row fearlessly into battle.	true
+effect_bundles_localised_title_p_bos_breakthrough_medical_sci	Medical Breakthrough	true
+effect_bundles_localised_description_p_bos_security	In order to improve security in this province, policing efforts have been stepped up.	true
+effect_bundles_localised_description_p_bos_emperors_mandate	In return for your loyal service, the Emperor has openly declared his support for your clan.	true
+effect_bundles_localised_description_p_dis_drought	A lack of rainfall across this province has seriously affected farming, resulting in a shortage of food and other agricultural produce.	true
+effect_bundles_localised_title_s_christian	Christian	true
+effect_bundles_localised_description_p_dis_disease	Sickness has spread amongst the people in this province, disrupting local production and development.	true
+effect_bundles_localised_title_p_agrarian_toil_local	Agrarian Toil	true
+effect_bundles_localised_title_p_able_sailors	Able Sailors	true
+effect_bundles_localised_title_p_gem_brigandry_local	Brigandry	true
+effect_bundles_localised_description_l_first_legendary_yari	Your clan was the first in Japan to build this legendary testament to excellence with the spear.	true
+effect_bundles_localised_title_p_wisdom_shinran_local	Wisdom of Shinran	true
+effect_bundles_localised_description_p_war_fervour	Morale is currently running high. Your recent military undertakings have filled your troops with an unquenchable thirst for battle!	true
+effect_bundles_localised_description_p_gem_brigandry_global	An increase in criminal acts has impaired production across your domain. Unrest is stirring amongst the populace.	true
+effect_bundles_localised_description_s_shogun_effects	You are the shogun. All Japan bows before your military might!	true
+effect_bundles_localised_description_bos_saga	Wisdom has no country.	true
+effect_bundles_localised_title_p_word_of_god_local	Word of God	true
+effect_bundles_localised_description_bos_tsu	One road can have many destinations.	true
+effect_bundles_localised_description_p_master_cavalry	Your devotion to bajutsu has enabled the training of exceptionally able cavalry recruits.	true
+effect_bundles_localised_description_p_bos_anti_western_riots_global	People across your domain are sickened by recent concessions made in favour of westerners.	true
+effect_bundles_localised_title_p_master_siegecraft	Siegecraft Experts	true
+effect_bundles_localised_description_p_dis_typhoon	A devastating typhoon has swept across this province, leaving a trail of destruction which has affected local construction efforts and production.	true
+effect_bundles_localised_title_p_bos_rule_the_waves	Rule the Waves	true
+effect_bundles_localised_title_t_date	Masters of Battle	true
+effect_bundles_localised_title_p_bos_summer	Summer	true
+effect_bundles_localised_description_p_bos_military_mission_british	You have allowed Britain to establish a military mission with your clan.	true
+effect_bundles_localised_title_p_bos_criminal_contacts_global	Underworld Contacts	true
+effect_bundles_localised_title_p_bos_ample_supplies	Ample Supplies	true
+effect_bundles_localised_title_p_bos_brigandry_local	Brigandry	true
+effect_bundles_localised_description_p_gem_master_spy	Their skills honed to perfection, your monomi are excelling in acts of subterfuge.	true
+effect_bundles_localised_title_t_mori	Masters of the Waves	true
+effect_bundles_localised_title_p_meagre_harvest_local	Meagre Harvest	true
+effect_bundles_localised_description_bos_minor_clan	Minor Clan	true
+effect_bundles_localised_title_p_gem_await_response	Await Response	true
+effect_bundles_localised_description_t_ikko	Conquering the soul secures the land.	true
+effect_bundles_localised_description_p_bos_grateful_populace_global	Your dedication to the wants and needs of the people throughout your domain has engendered feelings of joy and gratitude.	true
+effect_bundles_localised_title_p_bos_criminal_contacts_local	Underworld Contacts	true
+effect_bundles_localised_title_gem_minamoto_kamakura	Indomitable	true
+effect_bundles_localised_title_p_bos_winter	Winter	true
+effect_bundles_localised_description_t_hojo	Those who know how to build also know how to destroy.	true
+effect_bundles_localised_title_p_provincial_turmoil_global	Provincial Turmoil	true
+effect_bundles_localised_title_p_bos_dreaded_force	Dreaded Force	true
+effect_bundles_localised_description_p_call_to_arms	Inspired by your recent military endeavours, scores of devoted clansmen have rushed to join the ranks to take arms against the clan's enemies.	true
+effect_bundles_localised_description_p_martial_wisdom	By virtue of your recent focus on martial matters, your clan has made significant progress in the field of military advancement.	true
+effect_bundles_localised_title_p_bos_better_shinobi	Deadly Shadows	true
+effect_bundles_localised_title_p_iron_fist	Iron Fist	true
+effect_bundles_localised_title_p_gem_ardent_support	Ardent Support	true
+effect_bundles_localised_description_p_bos_military_mission_french	You have allowed France to establish a military mission with your clan.	true
+effect_bundles_localised_title_p_lucrative_shipping	Lucrative Shipping	true
+effect_bundles_localised_description_p_bos_criminal_contacts_global	Owing to your criminal connections, you are better-able to exploit the wealth-producing establishments within your domain.	true
+effect_bundles_localised_title_p_bos_military_mission_british	British Military Mission	true
+effect_bundles_localised_title_p_bos_autumn	Autumn	true
+effect_bundles_localised_description_t_date	The sword that strikes first, strikes hardest.	true
+effect_bundles_localised_title_p_gem_taira_influence_other	Taira Influence	true
+effect_bundles_localised_title_p_prosperity_global	Prosperity	true
+effect_bundles_localised_description_p_dis_earthquake	A tumultuous earthquake has struck this province! Construction efforts and production have been frustrated as the populace cope with the devastation.	true
+effect_bundles_localised_description_p_gem_fujiwara_influence_self	Word of the family's past achievements has spread; support for the Fujiwara cause is stronger than ever.	true
+effect_bundles_localised_title_p_nanban_ambassador	Nanban Ambassador	true
+effect_bundles_localised_description_t_oda	Any man can bravely carry a spear.	true
+effect_bundles_localised_description_p_rampant_piracy	In the wake of your disregard for recent wako threats, pirates are now sweeping across your seas.	true
+effect_bundles_localised_description_bos_tosa	The sea cannot be conquered, only endured.	true
+effect_bundles_localised_description_l_first_legendary_sword	Your clan was the first in Japan to build this legendary testament to great swordsmanship.	true
+effect_bundles_localised_description_p_disaffected_populace_global	Neglect for the wants and needs of the people across your domain has caused resentment to your rule.	true
+effect_bundles_localised_title_p_taskmaster_global	Taskmaster	true
+effect_bundles_localised_title_t_hojo	Master Builders	true
+effect_bundles_localised_description_p_religious_zeal	Resolute in their religious convictions, the will of your people has not wavered in the face of spiritual adversity.	true
+effect_bundles_localised_title_p_call_to_arms	Call to Arms	true
+effect_bundles_localised_title_p_gem_administrative_insight	Civil Insight	true
+effect_bundles_localised_description_p_master_metsuke	Driven by their innate sense of justice, your metsuke are carrying out their duties with all the cunning that they can muster.	true
+effect_bundles_localised_description_p_bos_samurai_discontent	Your disregard for the old ways has led to a decline in happiness amongst the samurai within your domain. 	true
+effect_bundles_localised_title_t_ikko	Masters of Faith	true
+effect_bundles_localised_title_p_bos_grateful_populace_global	Grateful Populace	true
+effect_bundles_localised_description_p_dreaded_force	Word of your martial superiority has spread, crushing the morale of all those who would face your clan in battle.	true
+effect_bundles_localised_description_p_bos_better_shinsengumi	Unwavering in their loyalty to the Shogunate, your shinsengumi fervently carry out their duties.	true
+effect_bundles_localised_title_bos_minor_clan	not_displayed	true
+effect_bundles_localised_description_p_meagre_harvest_local	A poor crop has severely affected food production in this province.	true
+effect_bundles_localised_description_t_mori	Water is stronger than any stone, any steel, any man.	true
+effect_bundles_localised_description_p_bos_foreign_setback	Your recent decisions regarding westerners have caused a decline in foreign trade.	true
+effect_bundles_localised_description_p_merchant_discontent	Trade revenue is in decline as merchants, incensed by your recent dismissal of trade requests, are seeking their livelihoods elsewhere.	true
+effect_bundles_localised_description_p_bos_master_shipwrights	Quality equipment and industrial expertise have improved your clan's ability to build warships.	true
+effect_bundles_localised_description_p_bos_earthquake	A tumultuous earthquake has struck this province! Construction efforts and production have been frustrated as the populace cope with the devastation.	true
+effect_bundles_localised_description_p_plenty	A healthy crop has ensured that there is ample sustenance for your clan.	true
+effect_bundles_localised_description_p_bos_realm_divide_self	You have decided that neither the Shogun nor the Emperor are worthy of Japan's leadership: the country will be united beneath your own banner!	true
+effect_bundles_localised_title_p_bos_grateful_populace_local	Grateful Populace	true
+effect_bundles_localised_title_p_master_shipwrights	Master Shipwrights	true
+effect_bundles_localised_description_p_bos_brigandry_global	An increase in criminal acts has affected production across your domain. Unrest is stirring amongst the populace.	true
+effect_bundles_localised_description_bos_aizu	A strong tree always has deep roots.	true
+effect_bundles_localised_description_p_agrarian_toil_global	Efficient exploitation of fertile lands across your realm has led to a significant increase in agricultural wealth.	true
+effect_bundles_localised_description_p_bos_thriving_markets	As a result of your recent mercantile endeavours trade is now booming throughout your lands.	true
+effect_bundles_localised_title_p_bos_foreign_boost	Foreign Trade Boost	true
+effect_bundles_localised_description_p_master_archers	Your devotion to kyujutsu has markedly improved the abilities of your newly-recruited bowmen.	true
+effect_bundles_localised_description_p_master_samurai	Improved samurai training methods have given your recruits an edge in combat.	true
+effect_bundles_localised_title_t_chosokabe	Masters of the Land	true
+effect_bundles_localised_description_p_master_gunners	Improved training with firearms has made your newly-recruited gunmen more proficient in battle.	true
+effect_bundles_localised_title_p_gem_brigandry_global	Brigandry	true
+effect_bundles_localised_description_p_master_missionaries	Empowered by their faith in the almighty, your missionaries are fulfilling their divine mission with unbridled zeal.	true
+effect_bundles_localised_description_p_wisdom_shinran_local	Faith in the Ikko cause is strong as people in this province find solace in Shinran's wise teachings.	true
+effect_bundles_localised_title_p_gem_tax_supplement	Tax Supplement	true
+effect_bundles_localised_description_p_bos_military_mission_american	You have allowed America to establish a military mission with your clan.	true
+effect_bundles_localised_title_l_first_legendary_yari	Legendary Sojutsu School	true
+effect_bundles_localised_description_p_able_sailors	As a result of your efforts in naval matters, many able sailors are making themselves available for work aboard your ships.	true
+effect_bundles_localised_title_p_bos_better_veteran	Martial Experts	true
+effect_bundles_localised_description_p_dis_volcano	This volcano has erupted, smothering nearby provinces with volcanic ash.	true
+effect_bundles_localised_description_p_administrative_insight	By virtue of your recent focus on administration and infrastructure, your clan has made significant progress in civil matters.	true
+effect_bundles_localised_description_p_meagre_harvest	A poor crop has severely affected food production throughout your domain.	true
+effect_bundles_localised_description_p_bos_better_ishinshishi	Utterly devoted to the Emperor's return to power, your ishin shishi fight with unbridled zeal.	true
+effect_bundles_localised_title_p_bos_security	Security Matters	true
+effect_bundles_localised_title_p_bos_emperors_mandate	The Emperor's Mandate	true
+effect_bundles_localised_description_p_bos_breakthrough_military_eng	Advances in military engineering have improved the  efficiency of your artillery production.	true
+effect_bundles_localised_description_p_bos_breakthrough_medical_sci	The recent breakthroughs in medical science have proved greatly beneficial to all.	true
+effect_bundles_localised_description_p_bos_ample_supplies	An abundant source of military supplies have significantly reduced the cost of equipping new troops for war.	true
+effect_bundles_localised_title_p_bos_wait	Await Outcome	true
+effect_bundles_localised_title_t_otomo	Master Gunners	true
+effect_bundles_localised_description_p_bos_fire	Raging fires have spread destruction throughout this province's capital, affecting local production and ruining the livelihoods of many of the people.	true
+effect_bundles_localised_description_p_dis_fire	Raging fires have spread destruction throughout this province's castle town, affecting local production and ruining the livelihoods of many of the people.	true
+effect_bundles_localised_description_p_shogunal_deputy	Satisfied with your recent show of support for his cause, the Shogun has dispatched an official to your capital to aid in matters of state.	true
+effect_bundles_localised_title_l_first_legendary_archery	Legendary Kyudo School	true
+effect_bundles_localised_title_gem_taira_yashima	Seaborne	true
+effect_bundles_localised_title_l_first_legendary_stealth	Infamous Mizu Shobai District	true
+effect_bundles_localised_title_p_gem_master_spy	Clandestine Practices	true
+effect_bundles_localised_description_p_gem_await_response	Patience is a virtue.	true
+effect_bundles_localised_title_gem_taira_fukuhara	Prevailing	true
+effect_bundles_localised_title_p_bos_flourishing_growth_global	Business Flourishes	true
+effect_bundles_localised_description_bos_sendai	Talk quietly, at least until swords are drawn.	true
+effect_bundles_localised_description_p_gem_master_dancer	Imbued with confidence and charm, your shirabyoshi are capable of lifting even the sternest of souls.	true
+effect_bundles_localised_title_p_peer_contempt	Peer Contempt	true
+effect_bundles_localised_description_p_provincial_turmoil_local	Low morale and a lack of support for your rule have caused widespread dereliction of work and duty amongst the people of this province.	true
+effect_bundles_localised_title_t_tokugawa	Masters of Intrigue	true
+effect_bundles_localised_title_p_ronin_marauders	Ronin Marauders	true
+effect_bundles_localised_description_p_master_ikko_monks	Resolute in their Jodo Shinshu convictions, your Ikko monks are fulfilling their spiritual calling with unbounded zeal.	true
+effect_bundles_localised_title_bos_choshu	The Emperor's Fury	true
+effect_bundles_localised_description_p_bos_winter	When will spring arrive?\\nIn the grip of cold white death,\\nThe earth is smothered.	true
+effect_bundles_localised_description_l_first_legendary_buddhist	Your clan was the first in Japan to build this legendary testament to the Buddhist way (effects apply only as long as your clan is Buddhist).	true
+effect_bundles_localised_description_p_dis_severe_winter	This province is suffering the effects of a long, severe winter. The heavy snowfall and harsh cold has affected local farming and production.	true
+effect_bundles_localised_title_gem_minamoto_kiso	Relentless	true
+effect_bundles_localised_title_p_martial_wisdom	Martial Wisdom	true
+effect_bundles_localised_title_p_lackluster_efforts_local	Lackluster Efforts	true
+effect_bundles_localised_description_t_shimazu	Blood is thicker than water.	true
+effect_bundles_localised_title_p_master_cavalry	Expert Horsemanship	true
+effect_bundles_localised_description_t_hattori	Death comes in many ways, not only in battle.	true
+effect_bundles_localised_description_p_master_spearmen	Your devotion to sojutsu has improved the skill and resolve of your newly-recruited spearmen.	true
+effect_bundles_localised_title_p_abundant_catch_global	Abundant Catch	true
+effect_bundles_localised_description_p_bos_rule_the_waves	Inspired by your mastery of combat at sea, your fleets sail fearlessly into battle.	true
+effect_bundles_localised_title_p_grateful_populace_global	Grateful Populace	true
+effect_bundles_localised_title_p_old_ways	The Old Ways	true
+effect_bundles_localised_description_p_bos_summer	Heralding summer.\\nThe orange blossom in bloom.\\nBright and beautiful.	true
+effect_bundles_localised_title_p_bos_call_to_arms	Call to Arms	true
+effect_bundles_localised_description_p_staunch_defence	Owing to an increased focus on clan defence, your troops are better able to withstand melee attacks.	true
+effect_bundles_localised_title_p_anti_nanban_riots_global	Anti-Nanban Riots	true
+effect_bundles_localised_description_p_foreign_prosperity	Your efforts in favour of trade with foreign powers have led to an increase in imports.	true
+effect_bundles_localised_description_p_gem_martial_wisdom	By virtue of your recent focus on martial matters, your clan has made significant progress in the field of military advancement.	true
+effect_bundles_localised_description_summer_son	Amaterasu recognises the victories you have achieved in her honour and accords your warriors her blessing. (Applies only during the summer season.)	true
+effect_bundles_localised_description_p_bos_war_fervour	Morale is currently running high. Your recent military undertakings have filled your troops with an unquenchable thirst for battle!	true
+effect_bundles_localised_description_p_gem_unwanted_influence_fujiwara	Harbouring those with Minamoto and Taira sympathies has allowed their influence to spread throughout your domain.	true
+effect_bundles_localised_description_p_thriving_markets	As a result of your recent mercantile endeavours trade is now booming throughout your lands.	true
+effect_bundles_localised_title_p_rule_the_waves	Rule the Waves	true
+effect_bundles_localised_title_p_compassion_buddha_local	Compassion of Buddha	true
+effect_bundles_localised_description_p_master_smithies	Countless hours spent at the forge crafting arms and armour from the finest metals have greatly increased the efficiency of your blacksmiths.	true
+effect_bundles_localised_title_p_bos_realm_divide_emperor	The Final Push	true
+effect_bundles_localised_title_p_bos_peer_respect	Peer Respect	true
+effect_bundles_localised_title_p_research	Significant Advances	true
+effect_bundles_localised_description_p_inspired_endeavours_local	Your commitment to this province's wellbeing has filled the people with fervent pride, inspiring them to make a greater effort in their daily lives.	true
+effect_bundles_localised_description_p_gem_unwanted_influence_minamoto	Harbouring those with Taira and Fujiwara sympathies has allowed their influence to spread throughout your domain.	true
+effect_bundles_localised_title_p_gem_taira_influence_self	Taira Influence	true
+effect_bundles_localised_title_bos_saga	The Emperor’s Diligence	true
+effect_bundles_localised_title_s_shogun_effects	Shogun	true
+effect_bundles_localised_title_p_bos_imperial_propaganda_local	Imperialist Influence	true
+effect_bundles_localised_title_p_disaster	Natural Disaster	true
+effect_bundles_localised_description_p_bos_spring	Shivering beauty\\nraises my spirit higher. \\nThe herald of spring.	true
+effect_bundles_localised_description_p_bos_samurai_satisfaction	Samurai within your domain are satisfied with your adherence to tradition.	true
+effect_bundles_localised_description_p_bos_martial_wisdom	By virtue of your focus on martial matters, your clan has made significant military advances.	true
+effect_bundles_localised_title_p_gem_propaganda	Propaganda	true
+effect_bundles_localised_title_t_uesugi	Masters of Prayer	true
+effect_bundles_localised_description_p_nanban_ire	Angered by recent affronts made against them, the nanban have demanded larger payments for their trade goods.	true
+effect_bundles_localised_description_l_first_legendary_christian	Your clan was the first in Japan to build this legendary testament to the Christian way (effects apply only as long as your clan is Christian).	true
+effect_bundles_localised_title_p_ample_supplies	Ample Supplies	true
+effect_bundles_localised_title_p_wisdom_shinran_global	Wisdom of Shinran	true
+effect_bundles_localised_description_p_gem_master_monk	Inspired by their pursuit of enlightenment, your sou are fulfilling their duties with unbounded zeal.	true
+effect_bundles_localised_description_p_vigilance_global	Mindful of the clan's defensive needs, clansmen throughout your domain have been keeping a close guard on all comings and goings.	true
+effect_bundles_localised_description_p_bos_better_geisha	Imbued with confidence and charm, your geisha are capable of lifting even the sternest of souls with their art.	true
+effect_bundles_localised_title_t_takeda	Masters of Horses	true
+effect_bundles_localised_description_p_way_words	Your politeness and tact has given you an edge in matters of diplomatic relations.	true
+effect_bundles_localised_description_p_gem_taira_influence_self	Word of the family's past achievements has spread; support for the Taira cause is stronger than ever.	true
+effect_bundles_localised_title_p_master_gunners	Crack Gunmen	true
+effect_bundles_localised_description_p_gem_tax_supplement	Your recent initiatives have increased the tax revenue gathered in this province.	true
+effect_bundles_localised_title_gem_minor	not_displayed	true
+effect_bundles_localised_description_p_bos_realm_divide_emperor	The Emperor has rallied his bannermen: no quarter will be given to those who support the Shogun. The unification of Japan has begun!	true
+effect_bundles_localised_description_p_bos_peer_respect	Inspired by your recent decisions, your fellow daimyo have gained considerable respect for you.	true
+effect_bundles_localised_description_bos_nagaoka	Money wins wars; men fight them.	true
+effect_bundles_localised_description_p_research	A dedicated approach to mastery of the arts has resulted in significant progress for your clan in both military and civic disciplines.	true
+effect_bundles_localised_description_p_bos_better_veteran	Their experience unmatched, the foreign veterans in your service provide vital support for the war effort.	true
+effect_bundles_localised_description_p_bos_breakthrough_industrial_sci	Industrial breakthroughs have boosted both your production and economy.	true
+effect_bundles_localised_title_p_bos_better_ishinshishi	Imperial Champions	true
+effect_bundles_localised_title_p_administrative_insight	Civil Insight	true
+effect_bundles_localised_title_p_meagre_harvest	Meagre Harvest	true
+effect_bundles_localised_title_summer_son	Blessing of Amaterasu	true
+effect_bundles_localised_title_p_thriving_markets	Thriving Markets	true
+effect_bundles_localised_title_l_first_legendary_cavalry	Legendary Bajutsu School	true
+effect_bundles_localised_title_bos_obama	The Overseers	true
+effect_bundles_localised_description_p_anti_nanban_riots_global	People across your territory are sickened by recent concessions made in favour of the nanban and their ways. 	true
+effect_bundles_localised_description_p_bos_slow_research	Your have tempered your clan's developmental efforts to help preserve tradition and prevent the loss of cultural identity.	true
+effect_bundles_localised_description_p_dis_stormy_seas	Turbulent waters and raging storms have wrought havoc for this naval force, resulting in the damage of ships and loss of life.	true
+effect_bundles_localised_title_p_bos_inspired_endeavours_local	Inspired Endeavours	true
+effect_bundles_localised_description_p_master_shipwrights	Acquistion and use of the best timber available has greatly increased the efficiency of your shipwrights.	true
+effect_bundles_localised_title_p_vigilance_global	Vigilance	true
+effect_bundles_localised_description_requiem_of_the_dead	Your courage throughout the long, dark winter has not gone unnoticed; Amaterasu blesses you with her light, dispelling fear and doubt amongst your people. (Applies only during the winter season.)	true
+effect_bundles_localised_title_bos_aizu	The Traditionalists	true
+effect_bundles_localised_title_p_bos_shoguns_authority	The Shogun's Authority	true
+effect_bundles_localised_title_p_bos_samurai_satisfaction	Samurai Satisfaction	true
+effect_bundles_localised_title_p_vigilance_local	Vigilance	true
+effect_bundles_localised_description_bos_satsuma	Much can be achieved away from the eyes of the great and good.	true
+effect_bundles_localised_title_p_anti_nanban_riots_local	Anti-Nanban Riots	true
+effect_bundles_localised_title_p_grateful_populace_local	Grateful Populace	true
+effect_bundles_localised_description_p_bos_master_rifles	A focus upon firearms training has improved the competence of your newly-recruited riflemen.	true
+effect_bundles_localised_description_p_disaster	These provinces are suffering the after-effects of the recent natural disaster.	true
+effect_bundles_localised_title_p_master_samurai	Exceptional Samurai	true
+effect_bundles_localised_title_p_master_archers	Keen Marksmen	true
+effect_bundles_localised_title_l_first_legendary_buddhist	Famous Temple	true
+effect_bundles_localised_title_p_religious_zeal	Religious Zeal	true
+effect_bundles_localised_description_p_bos_lord_of_war	Driven by your mastery of warfare, your armies march fervently into battle.	true
+effect_bundles_localised_description_bos_choshu	Some hatreds have to be nurtured for centuries.	true
+effect_bundles_localised_description_p_bos_peer_contempt	Dubious of your recent decisions, your fellow daimyo are harbouring considerable disrespect towards you.	true
+effect_bundles_localised_description_p_gem_administrative_insight	By virtue of your recent focus on infrastructure and culture, your clan has made significant progress in civil matters.	true
+effect_bundles_localised_title_p_bos_samurai_discontent	Samurai Discontent	true
+effect_bundles_localised_description_t_tokugawa	Words are weapons in the mouths of the wise.	true
+effect_bundles_localised_title_p_master_metsuke	Unscrupulous Aegis	true
+effect_bundles_localised_title_bos_sendai	The Negotiators	true
+effect_bundles_localised_title_p_provincial_turmoil_local	Provincial Turmoil	true
+effect_bundles_localised_description_gem_fujiwara_kubota	Power lies in the ancestors	true
+effect_bundles_localised_description_gem_taira_fukuhara	Power lies in the family	true
+effect_bundles_localised_title_p_bos_better_shinsengumi	Defenders of the Shogunate	true
+effect_bundles_localised_title_p_bos_fire	Fire	true
+effect_bundles_localised_title_p_dis_fire	Fire	true
+effect_bundles_localised_description_p_bos_civil_insight	By virtue of your focus on infrastructure and culture, your clan has made significant progress in civil matters.	true
+effect_bundles_localised_description_p_bos_disaffected_populace_global	Neglect for the wants and needs of the people across your domain has caused resentment to your rule.	true
+effect_bundles_localised_description_p_dis_flood	Flooding has occurred in this province, affecting agriculture and production across the area.	true
+effect_bundles_localised_title_p_bos_realm_divide_shogun	The Final Push	true
+effect_bundles_localised_description_p_bos_wait	Patience is a virtue.	true
+effect_bundles_localised_title_p_bos_earthquake	Earthquake	true
+effect_bundles_localised_title_p_plenty	Plenty	true
+effect_bundles_localised_title_p_bos_master_shipwrights	Master Shipwrights	true
+effect_bundles_localised_description_p_lucrative_shipping	Your dominance of the shipping lanes has led to an increase of the sea trade conducted through your ports.	true
+effect_bundles_localised_description_p_gem_ardent_support	Ever true to your family and cause, people across your realm are impervious to all outside influences.	true
+effect_bundles_localised_description_p_bos_better_shinobi	Their clandestine skills honed to perfection, your shinobi are excelling in acts of subterfuge.	true
+effect_bundles_localised_description_p_old_ways	Your people have been inspired by the knowledge that their daimyo still favours the customs upon which your clan was established. 	true
+effect_bundles_localised_description_p_bos_call_to_arms	An increasing number of your subjects are clamouring to join the ranks and take arms against the clan's enemies.	true
+effect_bundles_localised_description_p_bos_autumn	A season for change.\\nLeaves playfully mock the wind.\\nAutumn has come.	true
+effect_bundles_localised_title_p_dis_earthquake	Earthquake	true
+effect_bundles_localised_description_p_grateful_populace_global	Your dedication to the wants and needs of the people throughout your domain has engendered feelings of joy and gratitude.	true
+effect_bundles_localised_description_p_master_builders	Acquisition and use of the best available materials has greatly increased the efficiency of the construction process.	true
+effect_bundles_localised_title_bos_tosa	The Emperor’s Reason	true
+effect_bundles_localised_title_bos_jozai	The Hidden Warriors	true
+effect_bundles_localised_title_p_rampant_piracy	Rampant Piracy	true
+effect_bundles_localised_description_p_master_ashigaru	Improved ashigaru training methods have improved the combat potential of your ashigaru recruits.	true
+effect_bundles_localised_description_p_lackluster_efforts_local	Unmotivated and undisciplined, people in this province have lost their commitment to the natural order of work and duty.	true
+effect_bundles_localised_description_p_grateful_populace_local	Your dedication to the wants and needs of the people of this province has engendered feelings of joy and gratitude.	true
+effect_bundles_localised_description_p_anti_nanban_riots_local	People in this province are sickened by recent concessions made in favour of the nanban and their ways. 	true
+effect_bundles_localised_description_p_vigilance_local	Mindful of the clan's defensive needs, clansmen throughout this province have been keeping a close guard on all comings and goings.	true
+effect_bundles_localised_title_p_master_swordsmen	Celebrated Swordsmanship	true
+effect_bundles_localised_description_p_compassion_buddha_global	Buddhism abounds as true believers have spread the Buddha's teachings across your domain.	true
+effect_bundles_localised_description_p_prosperity_local	Owing to your regard for its economic wellbeing, this province is currently experiencing a surge in economic growth.	true
+effect_bundles_localised_description_s_christian	You have embraced the Christian faith, thereby improving trade relations with the nanban and enabling the construction of Christian buildings.	true
+effect_bundles_localised_title_p_taskmaster_local	Taskmaster	true
+effect_bundles_localised_description_l_first_legendary_cavalry	Your clan was the first in Japan to build this legendary testament to great horsemanship.	true
+effect_bundles_localised_description_bos_obama	All must learn their place.	true
+effect_bundles_localised_description_p_aggressive_ardour	A focus on offensive measures has given your troops a marked advantage in close-combat.	true
+effect_bundles_localised_title_p_dis_stormy_seas	Stormy Seas	true
+effect_bundles_localised_title_p_bos_breakthrough_industrial_sci	Industrial Breakthrough	true
+effect_bundles_localised_description_p_lackluster_efforts_global	Unmotivated and undisciplined, people across your domain have lost their commitment to the natural order of work and duty.	true
+effect_bundles_localised_description_p_bos_ronin_marauders_local	Lacking the wise guidance of a daimyo, ronin are running amok in this province. 	true
+effect_bundles_localised_title_l_first_legendary_craft	Kabunakama	true
+effect_bundles_localised_description_gem_minor	not_displayed	true
+effect_bundles_localised_title_p_bos_high_yield	High Yield	true
+effect_bundles_localised_description_p_gem_taira_antoku_enthroned	A Taira now sits upon the Chrysanthemum Throne. Your family profits from its newfound position of power, and much of Japan resents that.	true
+effect_bundles_localised_description_p_disaffected_populace_local	Neglect for the wants and needs of the people of this province has caused resentment to your rule.	true
+effect_bundles_localised_title_l_first_legendary_siege	Arsenal	true
+effect_bundles_localised_description_bos_jozai	The unexpected blow is always the hardest to bear.	true
+effect_bundles_localised_title_p_master_ashigaru	Superior Ashigaru	true
+effect_bundles_localised_description_p_bos_dreaded_force	Rumours of your martial superiority have spread, crushing the morale of all those who would face your clan in battle.	true
+effect_bundles_localised_description_p_provincial_turmoil_global	Low morale and a lack of support for your rule have caused widespread dereliction of work and duty amongst the people of your clan.	true
+effect_bundles_localised_title_p_master_builders	Master Builders	true
+effect_bundles_localised_title_p_bos_disaffected_populace_local	Disaffected Populace	true
+effect_bundles_localised_description_p_bos_realm_divide_shogun	The Shogun has rallied his bannermen; no quarter will be given to those who support the Emperor. The unification of Japan has begun!	true
+effect_bundles_localised_title_p_bos_disaffected_populace_global	Disaffected Populace	true
+effect_bundles_localised_title_bos_tsu	The Emperor’s Cunning	true
+effect_bundles_localised_title_p_bos_shogunate_propaganda_local	Shogunate Influence	true
+effect_bundles_localised_description_p_word_of_god_local	Christianity has flourished throughout this province as converts spread the word of God without fear of repression.	true
+effect_bundles_localised_description_p_bos_breakthrough_civil_eng	Public buildings throughout your domain have benefitted from recent advances in civil engineering.	true
+effect_bundles_localised_title_p_bos_anti_western_riots_global	Anti-western Riots	true
+effect_bundles_localised_title_p_bos_lord_of_war	Lord of War	true
+effect_bundles_localised_description_p_master_siegecraft	A focus upon siegecraft techniques has improved the proficiency of your newly-recruited siege-crews.	true
+effect_bundles_localised_title_p_dreaded_force	Dreaded Force	true
+effect_bundles_localised_title_p_staunch_defence	Staunch Defence	true
+effect_bundles_localised_description_s_family_death_mourn	Your clan is in mourning following the recent tragic loss of the daimyo and his family.	true
+effect_bundles_localised_title_l_first_legendary_sword	Legendary Kenjutsu School	true
+effect_bundles_localised_description_p_taskmaster_global	Your command to intensify construction efforts across your domain has caused them to progress rapidly.	true
+effect_bundles_localised_title_t_hattori	Masters of Darkness	true
+effect_bundles_localised_title_p_master_spearmen	Inexorable Spearmen	true
+effect_bundles_localised_title_t_shimazu	Masters of Integrity	true
+effect_bundles_localised_description_p_nanban_ambassador	In return for your favourable attitude towards the nanban, they have dispatched an emissary to help facilitate trade between you.	true
+effect_bundles_localised_title_p_bos_inspired_endeavours_global	Inspired Endeavours	true
+effect_bundles_localised_description_gem_minamoto_kiso	Power lies in the warrior's way	true
+effect_bundles_localised_description_p_ronin_marauders	Their exploits unchecked, ronin have run amok in this province leaving terror and devastation in their wake.	true
+effect_bundles_localised_description_p_iron_fist	Your reputation for stringent action in response to offence has instilled fear in the people throughout your domain, cowing them into obedience.	true
+effect_bundles_localised_title_bos_clan_level_6	Clan Development Level 6	true
+effect_bundles_localised_title_bos_clan_level_4	Clan Development Level 4	true
+effect_bundles_localised_title_bos_clan_level_5	Clan Development Level 5	true
+effect_bundles_localised_title_bos_clan_level_2	Clan Development Level 2	true
+effect_bundles_localised_title_bos_clan_level_3	Clan Development Level 3	true
+effect_bundles_localised_title_bos_clan_level_1	Clan Development Level 1	true
+effect_bundles_localised_description_l_first_legendary_stealth	Your clan was the first in Japan to build this legendary testament to the clandestine arts.	true
+effect_bundles_localised_description_gem_taira_yashima	Power lies in the blood	true
+effect_bundles_localised_description_p_gem_taira_influence_other	Despite our best efforts, knowledge of the Taira's past continues to foster support for them.	true
+effect_bundles_localised_title_p_shogunal_deputy	Shogunal Deputy	true
+effect_bundles_localised_description_l_first_legendary_archery	Your clan was the first in Japan to build this legendary testament to excellence in archery.	true
+effect_bundles_localised_description_p_prosperity_global	Owing to your regard for its economic wellbeing, your realm is currently experiencing a surge in economic growth.	true
+effect_bundles_localised_title_p_compassion_buddha_global	Compassion of Buddha	true
+effect_bundles_localised_title_p_prosperity_local	Prosperity	true
+effect_bundles_localised_title_p_gem_master_monk	Noble Truth	true
+effect_bundles_localised_title_p_bos_breakthrough_military_eng	Military Breakthrough	true
+effect_bundles_localised_description_p_word_of_god_global	Christianity has flourished throughout your lands as converts spread the word of God without fear of repression.	true
+effect_bundles_localised_description_p_inspired_endeavours_global	Your commitment to the clan's wellbeing has filled the people with fervent pride, inspiring them to make a greater effort in their daily lives.	true
+effect_bundles_localised_description_t_chosokabe	As the arrow flies, so travels the honest man.	true
+effect_bundles_localised_description_p_master_swordsmen	Your devotion to kenjutsu has sharpened the skills of your newly-recruited swordsmen.	true
+effect_bundles_localised_title_p_bos_military_mission_american	American Military Mission	true
+effect_bundles_localised_description_p_bos_foreign_boost	Your recent decisions regarding westerners have resulted in an increase in foreign trade.	true
+effect_bundles_localised_title_p_gem_unwanted_influence_minamoto	Unwanted Influence	true
+effect_bundles_localised_title_p_master_smithies	Master Smithies	true
+effect_bundles_localised_title_p_bos_realm_divide_self	Making a Stand	true
+effect_bundles_localised_description_p_compassion_buddha_local	Buddhism abounds as true believers have spread the Buddha's teachings throughout this province.	true
+effect_bundles_localised_title_p_bos_war_fervour	War Fervour	true
+effect_bundles_localised_title_p_gem_unwanted_influence_fujiwara	Unwanted Influence	true
+effect_bundles_localised_description_p_taskmaster_local	Your command to intensify construction efforts in this province has caused them to progress rapidly.	true

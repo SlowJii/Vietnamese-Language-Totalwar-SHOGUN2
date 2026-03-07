@@ -1,0 +1,16 @@
+key	text	tooltip
+#Loc;1;text/db/trade_nodes.loc		
+trade_nodes_display_name_gem_annam	Trade with Annamese Warlords	true
+trade_nodes_display_name_jap_annam	Trade with Annamese Warlords	true
+trade_nodes_display_name_gem_korea	Trade with Chinese Empire	true
+trade_nodes_display_name_jap_korea	Trade with Korean Kingdom	true
+trade_nodes_display_name_jap_china	Trade with Chinese Empire	true
+trade_nodes_display_name_gem_china	Trade with Chinese Empire	true
+trade_nodes_display_name_gem_hokkaido	Trade with Ainu Villages	true
+trade_nodes_display_name_jap_hokkaido	Trade with Ainu Villages	true
+trade_nodes_display_name_jap_jurchen	Trade with Jurchen Tribes	true
+trade_nodes_display_name_gem_jurchen	Trade with Jurchen Tribes	true
+trade_nodes_display_name_jap_indonesia	Trade with Indonesian Sultanates	true
+trade_nodes_display_name_gem_indonesia	Trade with Indonesian Sultanates	true
+trade_nodes_display_name_eur_aegean_sea_01	Kandiye	true
+trade_nodes_display_name_jap_tut_china	Trade with Chinese Empire	true

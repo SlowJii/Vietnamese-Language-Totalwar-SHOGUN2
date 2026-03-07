@@ -1,0 +1,226 @@
+key	text	tooltip
+#Loc;1;text/db/event_log_descriptions.loc		
+event_log_descriptions_event_title_bos_allegiance_player_emperor_to_shogunjap_boshin	For the Shogun!	true
+event_log_descriptions_event_title_bos_allegiance_player_emperor_to_shogun	For the Shogun!	true
+event_log_descriptions_event_title_char_dies_assassin	Assassinated!	true
+event_log_descriptions_event_content_diplo_marriage_retainer_theirsjap_boshin	%S %S    -     Married to a retainer from this clan: %S	true
+event_log_descriptions_event_content_char_succession	%S %S     -      Succeeding: %S %S	true
+event_log_descriptions_event_title_bos_realm_divide_emperorjap_boshin	The Imperial Army	true
+event_log_descriptions_event_content_battle_foughtjap_boshin	Versus: %S     Outcome: %S	true
+event_log_descriptions_event_content_bos_railway_NPC_first	Established by clan: %S     -     Between: %S     -     %S	true
+event_log_descriptions_event_title_diplo_hostage_theirs_releasedjap_boshin	Hostage Released	true
+event_log_descriptions_event_title_campaign_lostjap_boshin	Campaign Lost!	true
+event_log_descriptions_event_title_diplo_hostage_theirs_executedjap_boshin	Rival Hostage Executed	true
+event_log_descriptions_event_title_bos_character_NPC_killedjap_boshin	Rival Killed!	true
+event_log_descriptions_event_title_diplo_marriage_retainer_theirsjap_boshin	Diplomatic Marriage	true
+event_log_descriptions_event_content_clan_fame_imperial_recognition	Word of your achievements has reached the imperial court.	true
+event_log_descriptions_event_title_char_dies_battlejap_boshin	Struck Down in Battle!	true
+event_log_descriptions_event_content_clan_destroyed	Clan: %S	true
+event_log_descriptions_event_content_clan_emergesjap_boshin	Clan: %S     -     Province: %S	true
+event_log_descriptions_event_title_bos_bombardment_player_VS_enemyjap_boshin	Bombarding the Enemy	true
+event_log_descriptions_event_title_rel_christianity_renounced	Christianity Renounced	true
+event_log_descriptions_event_title_diplo_clan_encounteredjap_boshin	Clan Encountered!	true
+event_log_descriptions_event_title_bos_realm_divide_shogunjap_boshin	The Shogunate Army	true
+event_log_descriptions_event_content_diplo_hostage_theirs_releasedjap_boshin	%S %S    -     Clan: %S	true
+event_log_descriptions_event_title_bos_character_NPC_killed	Rival Killed!	true
+event_log_descriptions_event_title_diplo_hostage_yours_given	Hostage Given	true
+event_log_descriptions_event_content_campaign_lostjap_boshin	Your clan is no more; your warriors feed the earth!	true
+event_log_descriptions_event_content_diplo_marriage_retainer_yours	%S %S    -     Married to a retainer from your clan.	true
+event_log_descriptions_event_content_diplo_hostage_theirs_executedjap_boshin	%S %S    -     Clan: %S	true
+event_log_descriptions_event_title_clan_region_taken	Province Occupied	true
+event_log_descriptions_event_content_bos_allegiance_NPC_emperor_to_shogunjap_boshin	Clan: %S	true
+event_log_descriptions_event_title_diplo_hostage_theirs_taken	Hostage Taken	true
+event_log_descriptions_event_content_bos_railway_player_first	You have established Japan's first railway!	true
+event_log_descriptions_event_content_bos_character_player_seducedjap_boshin	Name: %S %S     -     %S     -     Joined: %S	true
+event_log_descriptions_event_title_bos_railway_player_first	First Japanese Railway	true
+event_log_descriptions_event_title_char_dies_executed	Executed!	true
+event_log_descriptions_event_content_bos_allegiance_player_emperor_to_shogun	You have abandoned the Emperor and sworn allegiance to the Shogun.	true
+event_log_descriptions_event_title_clan_player_becomes_shogun	Your Daimyo Becomes Shogun!	true
+event_log_descriptions_event_content_bos_realm_divide_self	You have chosen to establish yourself as Japan's new figurehead.	true
+event_log_descriptions_event_content_campaign_wonjap_boshin	All of Japan bows before your might!	true
+event_log_descriptions_event_title_char_succession	A New Daimyo	true
+event_log_descriptions_event_content_bos_character_NPC_killed	Name: %S %S     -     %S     -     Clan: %S	true
+event_log_descriptions_event_title_battle_foughtjap_boshin	Battle Fought!	true
+event_log_descriptions_event_content_diplo_clan_encounteredjap_boshin	Clan: %S	true
+event_log_descriptions_event_content_bos_railway_NPC_firstjap_boshin	Established by clan: %S     -     Between: %S     -     %S	true
+event_log_descriptions_event_content_diplo_peacejap_boshin	%S     -     %S	true
+event_log_descriptions_event_content_diplo_alliance_broken	%S     -     %S	true
+event_log_descriptions_event_title_disaster	Disaster Strikes!	true
+event_log_descriptions_event_title_bos_realm_divide_selfjap_boshin	Independent Rule	true
+event_log_descriptions_event_content_clan_development_civil	%S	true
+event_log_descriptions_event_content_char_dies_apprehended	%S %S     -     %S	true
+event_log_descriptions_event_title_diplo_marriagejap_boshin	Diplomatic Marriage	true
+event_log_descriptions_event_title_clan_development_military	Art Mastered	true
+event_log_descriptions_event_title_char_defects_yours	A General Betrays Your Cause!	true
+event_log_descriptions_event_content_diplo_alliance_brokenjap_boshin	%S     -     %S	true
+event_log_descriptions_event_title_char_successionjap_boshin	A New Daimyo	true
+event_log_descriptions_event_content_diplo_alliance	%S     -     %S	true
+event_log_descriptions_event_content_campaign_lost	Your clan is no more; your warriors feed the earth!	true
+event_log_descriptions_event_title_diplo_alliancejap_boshin	Alliance Forged	true
+event_log_descriptions_event_content_rebel_outbreakjap_boshin	%S     -     Province: %S	true
+event_log_descriptions_event_title_bos_realm_divide_emperor	The Imperial Army	true
+event_log_descriptions_event_content_bos_bombardment_player_VS_enemy	Target province: %S     -     Owning clan: %S	true
+event_log_descriptions_event_title_rebel_crushedjap_boshin	Rebellion Crushed!	true
+event_log_descriptions_event_title_assassination_successful	Enemy Assassinated	true
+event_log_descriptions_event_content_assassination_successful	%S %S     -     Clan: %S	true
+event_log_descriptions_event_content_bos_realm_divide_emperor	You have been appointed leader of the Imperial army against the Shogunate.	true
+event_log_descriptions_event_title_clan_fame_national_renown	National Renown	true
+event_log_descriptions_event_content_diplo_hostage_yours_returnedjap_boshin	%S %S    -     Clan: %S	true
+event_log_descriptions_event_content_diplo_marriage_retainer_yoursjap_boshin	%S %S    -     Married to a retainer from your clan.	true
+event_log_descriptions_event_title_rebel_outbreakjap_boshin	Rebellion!	true
+event_log_descriptions_event_content_diplo_alliancejap_boshin	%S     -     %S	true
+event_log_descriptions_event_content_bos_allegiance_NPC_shogun_to_emperorjap_boshin	Clan: %S	true
+event_log_descriptions_event_title_clan_ashikaga_reinstated_shogun	Ashikaga Shogunate Restored	true
+event_log_descriptions_event_content_char_defects_theirsjap_boshin	%S %S     -     Defected from: %S	true
+event_log_descriptions_event_content_rebel_outbreak	%S     -     Province: %S	true
+event_log_descriptions_event_title_bos_railway_player_firstjap_boshin	First Japanese Railway	true
+event_log_descriptions_event_content_first_time_unit	Clan: %S     -     Province: %S	true
+event_log_descriptions_event_content_bos_realm_divide_shogun	You have been appointed leader of the Shogunate army against the Imperialists.	true
+event_log_descriptions_event_title_diplo_war	War Declared!	true
+event_log_descriptions_event_content_diplo_marriagejap_boshin	%S %S    -     %S %S	true
+event_log_descriptions_event_content_gem_clan_fame_threshold_three	You have grown powerful indeed; all now fear your potential.	true
+event_log_descriptions_event_content_disaster	%S     Province: %S	true
+event_log_descriptions_event_title_clan_other_becomes_shogun	Shogunate Usurped!	true
+event_log_descriptions_event_title_clan_realm_divide	Realm Divide!	true
+event_log_descriptions_event_title_first_time_agent_sensei	First Sensei	true
+event_log_descriptions_event_title_bos_allegiance_player_shogun_to_emperor	For the Emperor!	true
+event_log_descriptions_event_content_diplo_clan_encountered	Clan: %S	true
+event_log_descriptions_event_title_diplo_marriage_retainer_yoursjap_boshin	Diplomatic Marriage	true
+event_log_descriptions_event_title_char_dies_battle	Struck Down in Battle!	true
+event_log_descriptions_event_content_battle_fought	Versus: %S     Outcome: %S	true
+event_log_descriptions_event_content_clan_ashikaga_reinstated_shogun	Restored by: %S %S	true
+event_log_descriptions_event_content_clan_destroyedjap_boshin	Clan: %S	true
+event_log_descriptions_event_content_diplo_marriage_retainer_theirs	%S %S    -     Married to a retainer from this clan: %S	true
+event_log_descriptions_event_title_first_time_unit	First Matchlock Warriors Recruited	true
+event_log_descriptions_event_title_rel_christianity_adopted	Christianity Adopted	true
+event_log_descriptions_event_title_bos_realm_divide_shogun	The Shogunate Army	true
+event_log_descriptions_event_content_clan_development_civiljap_boshin	%S	true
+event_log_descriptions_event_content_bos_allegiance_player_shogun_to_emperor	You have abandoned the Shogun and sworn allegiance to the Emperor.	true
+event_log_descriptions_event_content_diplo_hostage_theirs_executed	%S %S    -     Clan: %S	true
+event_log_descriptions_event_title_char_dies_natural	Died by Natural Causes	true
+event_log_descriptions_event_content_first_time_agent_sensei	%S %S    -    %S     -     Clan: %S	true
+event_log_descriptions_event_title_bos_railway_NPC_firstjap_boshin	First Japanese Railway	true
+event_log_descriptions_event_title_bos_character_NPC_seduced	Rival Enchanted by Your Geisha	true
+event_log_descriptions_event_content_diplo_hostage_yours_executedjap_boshin	%S %S    -     Clan: %S	true
+event_log_descriptions_event_content_bos_realm_divide_selfjap_boshin	You have chosen to establish yourself as Japan's new figurehead.	true
+event_log_descriptions_event_title_clan_development_civiljap_boshin	Civil Development	true
+event_log_descriptions_event_content_rebel_crushed	%S     -     Province: %S	true
+event_log_descriptions_event_title_assassination_successfuljap_boshin	Enemy Assassinated	true
+event_log_descriptions_event_content_rel_christianity_adopted	Clan: %S	true
+event_log_descriptions_event_title_diplo_alliance_brokenjap_boshin	Alliance Broken!	true
+event_log_descriptions_event_title_bos_allegiance_player_shogun_to_emperorjap_boshin	For the Emperor!	true
+event_log_descriptions_event_title_clan_destroyedjap_boshin	Clan Destroyed!	true
+event_log_descriptions_event_content_diplo_hostage_theirs_released	%S %S    -     Clan: %S	true
+event_log_descriptions_event_content_diplo_marriage	%S %S    -     %S %S	true
+event_log_descriptions_event_content_char_dies_battle	%S %S     -     %S	true
+event_log_descriptions_event_title_bos_bombardment_player_VS_enemy	Bombarding the Enemy	true
+event_log_descriptions_event_content_char_commits_seppukujap_boshin	%S %S     -     %S	true
+event_log_descriptions_event_content_clan_fame_shoguns_ire	Your ever-growing power troubles the shogun.	true
+event_log_descriptions_event_content_rebel_crushedjap_boshin	%S     -     Province: %S	true
+event_log_descriptions_event_content_diplo_warjap_boshin	%S     -     %S	true
+event_log_descriptions_event_content_gem_clan_fame_threshold_one	Your worth and potential are now recognised by the people.	true
+event_log_descriptions_event_content_char_dies_executedjap_boshin	%S %S     -     %S	true
+event_log_descriptions_event_title_gem_clan_fame_threshold_two	Respect	true
+event_log_descriptions_event_content_clan_fame_national_renown	Your exploits are talked of the length and breadth of Japan.	true
+event_log_descriptions_event_content_diplo_peace	%S     -     %S	true
+event_log_descriptions_event_content_char_dies_assassinjap_boshin	%S %S     -     %S	true
+event_log_descriptions_event_title_char_defects_theirsjap_boshin	An Enemy General Joins Your Cause	true
+event_log_descriptions_event_title_char_commits_seppuku	General Commits Seppuku	true
+event_log_descriptions_event_title_diplo_hostage_yours_executed	Our Hostage Executed!	true
+event_log_descriptions_event_title_bos_character_player_seduced	Enchanted by a Rival Geisha!	true
+event_log_descriptions_event_title_diplo_marriage_retainer_theirs	Diplomatic Marriage	true
+event_log_descriptions_event_content_diplo_war	%S     -     %S	true
+event_log_descriptions_event_content_char_defects_yoursjap_boshin	%S %S     -     Defected to: %S	true
+event_log_descriptions_event_title_gem_clan_fame_threshold_three	Fear	true
+event_log_descriptions_event_content_diplo_hostage_theirs_takenjap_boshin	%S %S    -     Clan: %S	true
+event_log_descriptions_event_content_clan_realm_divide	In response to your defiance of the Shogunate, an alliance has been formed against you.	true
+event_log_descriptions_event_content_clan_other_becomes_shogun	%S %S     -      Clan: %S	true
+event_log_descriptions_event_title_diplo_marriage	Diplomatic Marriage	true
+event_log_descriptions_event_title_diplo_peacejap_boshin	Peace Negotiated	true
+event_log_descriptions_event_title_diplo_hostage_theirs_takenjap_boshin	Hostage Taken	true
+event_log_descriptions_event_title_char_dies_naturaljap_boshin	Died by Natural Causes	true
+event_log_descriptions_event_title_char_commits_seppukujap_boshin	General Commits Seppuku	true
+event_log_descriptions_event_title_char_defects_yoursjap_boshin	A General Betrays Your Cause!	true
+event_log_descriptions_event_title_diplo_alliance_broken	Alliance Broken!	true
+event_log_descriptions_event_content_clan_development_military	%S	true
+event_log_descriptions_event_title_char_dies_persuaded	Abandoned Your Cause!	true
+event_log_descriptions_event_title_char_dies_apprehended	Apprehended!	true
+event_log_descriptions_event_content_diplo_hostage_yours_executed	%S %S    -     Clan: %S	true
+event_log_descriptions_event_content_bos_character_player_seduced	Name: %S %S     -     %S     -     Joined: %S	true
+event_log_descriptions_event_content_char_successionjap_boshin	%S %S     -      Succeeding: %S %S	true
+event_log_descriptions_event_content_char_commits_seppuku	%S %S     -     %S	true
+event_log_descriptions_event_content_assassination_successfuljap_boshin	%S %S     -     Clan: %S	true
+event_log_descriptions_event_title_char_dies_assassinjap_boshin	Assassinated!	true
+event_log_descriptions_event_title_campaign_lost	Campaign Lost!	true
+event_log_descriptions_event_title_char_dies_executedjap_boshin	Executed!	true
+event_log_descriptions_event_title_diplo_hostage_yours_executedjap_boshin	Our Hostage Executed!	true
+event_log_descriptions_event_content_char_dies_naturaljap_boshin	%S %S     -     %S	true
+event_log_descriptions_event_content_bos_character_NPC_seduced	Name: %S %S     -     %S     -     Joined us from: %S	true
+event_log_descriptions_event_content_clan_emerges	Clan: %S     -     Province: %S	true
+event_log_descriptions_event_title_diplo_alliance	Alliance Forged	true
+event_log_descriptions_event_title_rebel_crushed	Rebellion Crushed!	true
+event_log_descriptions_event_title_campaign_won	Campaign Won!	true
+event_log_descriptions_event_content_char_dies_persuaded	%S %S     -     %S	true
+event_log_descriptions_event_title_clan_development_civil	Art Mastered	true
+event_log_descriptions_event_content_bos_allegiance_player_shogun_to_emperorjap_boshin	You have abandoned the Shogun and sworn allegiance to the Emperor.	true
+event_log_descriptions_event_content_char_defects_yours	%S %S     -     Defected to: %S	true
+event_log_descriptions_event_title_diplo_hostage_yours_returned	Hostage Returned	true
+event_log_descriptions_event_title_diplo_hostage_theirs_released	Hostage Released	true
+event_log_descriptions_event_content_bos_allegiance_NPC_shogun_to_emperor	Clan: %S	true
+event_log_descriptions_event_title_clan_fame_shoguns_ire	The Shogun's Ire	true
+event_log_descriptions_event_title_gem_clan_fame_threshold_one	Recognition	true
+event_log_descriptions_event_title_diplo_warjap_boshin	War Declared!	true
+event_log_descriptions_event_title_bos_allegiance_NPC_shogun_to_emperor	Clan Joins the Emperor's Cause!	true
+event_log_descriptions_event_title_diplo_clan_encountered	Clan Encountered!	true
+event_log_descriptions_event_content_gem_clan_fame_threshold_two	Word of your family's exploits has spread far and wide, uttered with awe and respect.	true
+event_log_descriptions_event_content_diplo_hostage_yours_returned	%S %S    -     Clan: %S	true
+event_log_descriptions_event_title_diplo_peace	Peace Negotiated	true
+event_log_descriptions_event_title_battle_fought	Battle Fought!	true
+event_log_descriptions_event_content_bos_railway_player_firstjap_boshin	You have established Japan's first railway!	true
+event_log_descriptions_event_title_bos_allegiance_NPC_shogun_to_emperorjap_boshin	Clan Joins the Emperor's Cause!	true
+event_log_descriptions_event_content_campaign_won	All of Japan bows before your might!	true
+event_log_descriptions_event_title_rebel_outbreak	Rebellion!	true
+event_log_descriptions_event_title_clan_emerges	A Clan Arises	true
+event_log_descriptions_event_title_diplo_hostage_yours_returnedjap_boshin	Hostage Returned	true
+event_log_descriptions_event_title_diplo_hostage_theirs_executed	Rival Hostage Executed	true
+event_log_descriptions_event_content_char_dies_natural	%S %S     -     %S	true
+event_log_descriptions_event_content_first_time_europeans	Clan: %S     -     Province: %S	true
+event_log_descriptions_event_title_bos_railway_NPC_first	First Japanese Railway	true
+event_log_descriptions_event_title_bos_allegiance_NPC_emperor_to_shogunjap_boshin	Clan Joins the Shogun's Cause!	true
+event_log_descriptions_event_content_diplo_hostage_theirs_taken	%S %S    -     Clan: %S	true
+event_log_descriptions_event_content_clan_region_takenjap_boshin	Province: %S      -     Clan: %S	true
+event_log_descriptions_event_title_char_defects_theirs	An Enemy General Joins Your Cause	true
+event_log_descriptions_event_content_bos_character_NPC_seducedjap_boshin	Name: %S %S     -     %S     -     Joined us from: %S	true
+event_log_descriptions_event_content_bos_bombardment_player_VS_enemyjap_boshin	Target province: %S     -     Owning clan: %S	true
+event_log_descriptions_event_title_diplo_hostage_yours_givenjap_boshin	Hostage Given	true
+event_log_descriptions_event_title_campaign_wonjap_boshin	Campaign Won!	true
+event_log_descriptions_event_content_bos_allegiance_player_emperor_to_shogunjap_boshin	You have abandoned the Emperor and sworn allegiance to the Shogun.	true
+event_log_descriptions_event_content_clan_player_becomes_shogun	%S %S	true
+event_log_descriptions_event_title_bos_character_player_seducedjap_boshin	Enchanted by a Rival Geisha!	true
+event_log_descriptions_event_content_clan_development_militaryjap_boshin	%S	true
+event_log_descriptions_event_title_gem_clan_enemy_of_the_state	Enemy of the State!	true
+event_log_descriptions_event_title_first_time_europeans	First European Trade Port Established	true
+event_log_descriptions_event_content_char_dies_executed	%S %S     -     %S	true
+event_log_descriptions_event_content_bos_realm_divide_emperorjap_boshin	You have been appointed leader of the Imperial army against the Shogunate.	true
+event_log_descriptions_event_content_diplo_hostage_yours_givenjap_boshin	%S %S    -     Clan: %S	true
+event_log_descriptions_event_title_bos_realm_divide_self	Independent Rule	true
+event_log_descriptions_event_title_bos_allegiance_NPC_emperor_to_shogun	Clan Joins the Shogun's Cause!	true
+event_log_descriptions_event_content_char_dies_assassin	%S %S     -     %S	true
+event_log_descriptions_event_content_first_time_legendary	%S     -     Clan: %S     -     Province: %S	true
+event_log_descriptions_event_title_clan_development_militaryjap_boshin	Military Development	true
+event_log_descriptions_event_content_gem_clan_enemy_of_the_state	Fearful of your strength and influence, the imperial family has declared you an enemy of the state.	true
+event_log_descriptions_event_title_clan_emergesjap_boshin	A Clan Arises	true
+event_log_descriptions_event_title_first_time_legendary	First Legendary Building Constructed	true
+event_log_descriptions_event_content_diplo_hostage_yours_given	%S %S    -     Clan: %S	true
+event_log_descriptions_event_content_bos_realm_divide_shogunjap_boshin	You have been appointed leader of the Shogunate army against the Imperialists.	true
+event_log_descriptions_event_content_rel_christianity_renounced	Clan: %S	true
+event_log_descriptions_event_title_clan_fame_imperial_recognition	Imperial Recognition	true
+event_log_descriptions_event_content_bos_allegiance_NPC_emperor_to_shogun	Clan: %S	true
+event_log_descriptions_event_content_char_dies_battlejap_boshin	%S %S     -     %S	true
+event_log_descriptions_event_title_diplo_marriage_retainer_yours	Diplomatic Marriage	true
+event_log_descriptions_event_title_clan_destroyed	Clan Destroyed!	true
+event_log_descriptions_event_content_clan_region_taken	Province: %S      -     Clan: %S	true
+event_log_descriptions_event_content_bos_character_NPC_killedjap_boshin	Name: %S %S     -     %S     -     Clan: %S	true
+event_log_descriptions_event_content_char_defects_theirs	%S %S     -     Defected from: %S	true
+event_log_descriptions_event_title_clan_region_takenjap_boshin	Province Occupied	true
+event_log_descriptions_event_title_bos_character_NPC_seducedjap_boshin	Rival Enchanted by Your Geisha	true

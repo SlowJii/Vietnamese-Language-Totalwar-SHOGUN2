@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/db/government_types.loc		
+government_types_onscreen_gov_jap_clan	Clan	true
+government_types_onscreen_gov_constitutional_monarchy	Constitutional Monarchy	true
+government_types_onscreen_gov_jap_shogunate	Shogunate	true
+government_types_onscreen_gov_absolute_monarchy	Absolute Monarchy	true
+government_types_onscreen_gov_empire	Empire	true
+government_types_onscreen_gov_republic	Republic	true

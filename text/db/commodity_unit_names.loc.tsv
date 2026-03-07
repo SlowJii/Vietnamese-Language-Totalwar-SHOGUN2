@@ -1,0 +1,22 @@
+key	text	tooltip
+#Loc;1;text/db/commodity_unit_names.loc		
+commodity_unit_names_plural_barrels	Barrels	true
+commodity_unit_names_plural_tonnage	Tons	true
+commodity_unit_names_plural_loaves	Loaves	true
+commodity_unit_names_singular_chests	Chest	true
+commodity_unit_names_singular_pounds	Pound	true
+commodity_unit_names_plural_hundreds	Hundreds	true
+commodity_unit_names_plural_pounds	Pounds	true
+commodity_unit_names_plural_chests	Chests	true
+commodity_unit_names_singular_loaves	Loaf	true
+commodity_unit_names_singular_bales	Bale	true
+commodity_unit_names_singular_tusks	Tusk	true
+commodity_unit_names_singular_sacks	Sack	true
+commodity_unit_names_singular_pelts	Pelt	true
+commodity_unit_names_singular_barrels	Barrel	true
+commodity_unit_names_singular_tonnage	Ton	true
+commodity_unit_names_plural_pelts	Pelts	true
+commodity_unit_names_singular_hundreds	Hundred	true
+commodity_unit_names_plural_bales	Bales	true
+commodity_unit_names_plural_sacks	Sacks	true
+commodity_unit_names_plural_tusks	Tusks	true

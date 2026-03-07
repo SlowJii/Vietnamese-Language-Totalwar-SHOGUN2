@@ -1,0 +1,562 @@
+key	text	tooltip
+#Loc;1;text/db/incidents.loc		
+incidents_localised_description_c_bos_ronin_SECOND_ronin_marauders	Without a lord to lead them, the samurai who once sought to serve our clan have resorted to marauding this province.	true
+incidents_localised_description_c_bos_westerners_attacked_SECOND_grateful_populace	Our people are grateful for the decision to reprimand our own rather than leave them at the mercy of western barbarian justice.	true
+incidents_localised_title_i_agricultural_practices	Time of Plenty	true
+incidents_localised_title_c_bos_sakai_incident_SECOND_foreign_setback	The Sakai Incident	true
+incidents_localised_description_c_bos_icarus_affair_FIRST_grant_royal_marines	In gratitude for our handling of the Icarus incident, the British have granted us a unit of marines to aid war effort.	true
+incidents_localised_title_c_gem_heiji_monogatari_minamoto_FIRST_minamoto_influence	The Heiji Monogatari	true
+incidents_localised_description_i_clan_might	The clan grows strong, my lord, and support for our cause is at an all-time high. Many citizens have joined the ranks in the hope that they might help you achieve greatness!	true
+incidents_localised_title_c_gem_miidera_SECOND_rival_monks	Miidera	true
+incidents_localised_description_c_gem_heiji_monogatari_minamoto_FIRST_nothing	The chronicle of the Heiji Rebellion has circulated amongst the provincial nobles, my lord. By all accounts, the work is unworthy of the tale; perhaps one day it will be done justice by better men?	true
+incidents_localised_description_c_gem_enryakuji_FIRST_money	The Enryakuji monks sympathise with our cause and have gifted us funds for our war effort.	true
+incidents_localised_title_c_bos_nanban_slavers_FIRST_foreign_boost	Nanban Slavers	true
+incidents_localised_description_c_bos_koyosha_modern_FIRST_samurai_discontent	The samurai have expressed their discontent at our decision to crack down upon koyosha activities, hailing them as champions of traditional Japanese values.	true
+incidents_localised_description_i_gem_research_ratio_civil	Our dedication to the civil arts has improved our capacity for mastering them.	true
+incidents_localised_description_c_gem_heiji_monogatari_taira_FIRST_taira_influence	Wonderful news! The chronicle of the Heiji Rebellion has circulated amongst the provincial nobles. Many who doubted the Taira cause now support us with zeal!	true
+incidents_localised_description_i_bos_season_winter	When will spring arrive?\\nIn the grip of cold white death,\\nThe earth is smothered.	true
+incidents_localised_description_c_better_agent_metsuke_FIRST_shogunal_deputy	As a result of our recent co-operation with the Shogunate, we have been sent an envoy from Kyoto to aid in clan affairs.	true
+incidents_localised_description_i_gem_antoku_enthroned_other	My lord! The emperor has abdicated, and now his infant son Antoku sits upon the Chrysanthemum Throne. Born to a Taira mother, his ascension is the result of their scheming; their audacity truly knows no bounds! Prince Mochihito - the rightful heir - has issued a call to arms against the usurpers. Now, more than ever, it is vital that we move to free Japan from villainy!	true
+incidents_localised_description_i_gem_research_specific_civil	Our dedication to the civil arts has improved our capacity for mastering them.	true
+incidents_localised_title_c_gaijin_trouble_FIRST_anti_nanban_riots	Gaijin Trouble	true
+incidents_localised_title_c_bos_sakai_incident_FIRST_foreign_boost	The Sakai Incident	true
+incidents_localised_title_i_gem_dedicated_seafarer_master_shipwrights	Dedicated Seafarer	true
+incidents_localised_description_bos_intro_5_carry_on_shogun	We have successfully expanded our territory and developed our clan to a respectable technological standard. As a show of support, leading citizens have offered tribute; we must see to it that their contributions are invested well and that the people's faith in Shogun's cause is justified.\\n\\n For the Shogunate!	true
+incidents_localised_title_c_gem_enryakuji_SECOND_rival_monks	Enryakuji	true
+incidents_localised_title_c_otomo_baptism_SECOND_nanban_ire	Baptism	true
+incidents_localised_description_c_bos_nanban_slavers_SECOND_foreign_setback	Foreign trade is suffering following our decision to interfere with the private affairs of the western powers.	true
+incidents_localised_title_c_bos_student_exchange_FIRST_foreign_boost	Student Exchange	true
+incidents_localised_title_i_bos_season_autumn	Autumn	true
+incidents_localised_description_c_ambitious_traders_SECOND_prosperity	Our focus on domestic trade has led to increased wealth in our provinces.	true
+incidents_localised_description_i_research_specific_military	Our dedication to the martial arts has improved our capacity for mastering them.	true
+incidents_localised_title_i_dedicated_seafarer_able_sailors	Dedicated Seafarer	true
+incidents_localised_description_i_bos_season_summer	Heralding summer.\\nThe orange blossom in bloom.\\nBright and beautiful.	true
+incidents_localised_title_c_bos_emperor_foreign_medic_FIRST_sonno_joi	William Willis	true
+incidents_localised_description_bos_intro_4b_incident_civil	Our focus on civil advancment has yielded unexpected results, my lord; the people have been inspired in their daily duties, working dilligently for the good of their kin and their clan.	true
+incidents_localised_title_c_bos_gaijin_trouble_SECOND_foreign_boost	Gaijin Trouble	true
+incidents_localised_description_i_gem_dedicated_seafarer_able_sailors	The development of our naval capabilities has led to many expert seamen rushing to serve aboard our ships.	true
+incidents_localised_description_c_gem_enryakuji_SECOND_rival_monks	Joyed at our sacking of their rival's temple - Enryakuji - the Miidera monks have provided us with warrior monks to aid us in battle.	true
+incidents_localised_title_c_omen_fire_fire	Kagutsuchi's Wrath	true
+incidents_localised_description_c_bos_student_exchange_FIRST_foreign_boost	Through contacts made whilst studying abroad, our itinerant scholars have managed to improve foreign trade relations.	true
+incidents_localised_title_c_bos_sword_abolishment_SECOND_samurai_satisfaction	Haitorei	true
+incidents_localised_description_c_gem_enryakuji_FIRST_monks	The Enryakuji monks sympathise with our cause and have provided us with warrior monks to aid us in battle.	true
+incidents_localised_title_c_bos_ronin_SECOND_ronin_marauders	Ronin	true
+incidents_localised_description_i_bos_season_spring	Shivering beauty\\nraises my spirit higher. \\nThe herald of spring.	true
+incidents_localised_description_c_gem_enryakuji_FIRST_refuse	Regrettably, the Enryakuji monks have declined our request for aid.	true
+incidents_localised_description_c_bos_icarus_affair_FIRST_anti_western_riots	Angered at concessions made in favour of the westerners in response to the Icarus incident, anti-western elements in this province have taken to the streets in protest.	true
+incidents_localised_title_i_monopoly_horse_cavalry	Monopoly	true
+incidents_localised_title_c_bos_westerners_attacked_SECOND_grateful_populace	Anti-western Aggression	true
+incidents_localised_title_i_research_specific_civil	Master of the Civil Arts	true
+incidents_localised_title_i_bos_season_spring_first	Spring	true
+incidents_localised_title_c_bos_rangaku_FIRST_foreign_boost	Rangaku	true
+incidents_localised_description_i_dis_flood	Flooding has occurred in this province, affecting agriculture and production across the area.	true
+incidents_localised_description_c_meritorious_action_SECOND_loyalty	Feeling that his services to the clan have gone unrecognised, this man's loyalty has waned.	true
+incidents_localised_title_c_wako_threat_FIRST_able_sailors	The Wako Threat	true
+incidents_localised_title_i_dis_severe_winter	Severe Winter!	true
+incidents_localised_title_c_gem_heiji_monogatari_taira_FIRST_taira_influence	The Heiji Monogatari	true
+incidents_localised_title_i_gem_research_ratio_civil	Master of the Civil Arts	true
+incidents_localised_description_c_bos_sword_abolishment_SECOND_disaffected_populace	The people are distraught that the indiscriminate violence that has gripped our domain continues to rage.	true
+incidents_localised_title_c_francis_xavier_SECOND_anti_nanban_riots	Francis Xavier	true
+incidents_localised_description_c_gem_warrior_tax_FIRST_spawn_unit	Grateful for the manner in which you handled their court tax problems, the bushidan in this province have provided additional warriors for our cause.	true
+incidents_localised_description_c_gem_todaiji_FIRST_refuse	Regrettably, the Todaiji monks have declined our request for aid.	true
+incidents_localised_description_c_bos_sword_abolishment_SECOND_samurai_satisfaction	Members of the samurai class are most satisfied that we chose to continue allowing the bearing of arms, as dictated by tradition.	true
+incidents_localised_title_c_bos_icarus_affair_SECOND_foreign_setback	The Icarus Affair	true
+incidents_localised_title_c_francis_xavier_FIRST_nanban_ire	Francis Xavier	true
+incidents_localised_description_c_bos_gaijin_trouble_FIRST_foreign_setback	Foreign trade is in decline since we began imposing stricter laws upon western immigrants within our domain.	true
+incidents_localised_description_c_bos_nanban_slavers_SECOND_chinese_gratitude	Grateful for our intervention on behalf of their subjects, the Manchu have sent us gifts and compensation.	true
+incidents_localised_title_c_omen_ocean_stormy_seas	Owatatsumi's Wrath	true
+incidents_localised_description_i_gem_antoku_enthroned_taira	The emperor has abdicated, my lord! The throne now belongs to Antoku - our own flesh and blood and key to future Taira hegemony. Prince Mochihito, embittered at the denial of his throne, is already rallying support to overthrow him. We must prepare ourselves for the struggle.	true
+incidents_localised_title_c_bos_sword_abolishment_SECOND_disaffected_populace	Haitorei	true
+incidents_localised_description_c_disloyalty_FIRST_dread_lord	Fearful of our methods for dealing with treachery in our midst, our subjects will think twice before betraying the clan.	true
+incidents_localised_description_c_gem_miidera_FIRST_refuse	Regrettably, the Miidera monks have declined our request for aid.	true
+incidents_localised_description_i_dis_severe_winter	This province is suffering the effects of a long, severe winter. The heavy snowfall and harsh cold has affected local farming and production.	true
+incidents_localised_title_c_gem_young_thief_FIRST_spawn_spy	The Young Thief	true
+incidents_localised_title_c_meritorious_action_SECOND_loyalty	Meritorious Action	true
+incidents_localised_title_i_dis_flood	Flooding!	true
+incidents_localised_title_c_bos_koyosha_western_FIRST_foreign_boost	Koyosha	true
+incidents_localised_title_i_monopoly_iron_supplies	Monopoly	true
+incidents_localised_title_i_bos_season_spring	Spring	true
+incidents_localised_title_c_gem_enryakuji_FIRST_monks	Enryakuji	true
+incidents_localised_description_c_bos_westerners_attacked_FIRST_foreign_boost	Satisfied with our handling of anti-western aggression, relations with foreign powers have improved.	true
+incidents_localised_title_i_bos_season_winter	Winter	true
+incidents_localised_title_c_gem_miidera_FIRST_refuse	Miidera	true
+incidents_localised_description_i_bos_equipment_cache	Whilst moving through enemy territory our forces uncovered a cache of military supplies. It has been transported back to our domain.	true
+incidents_localised_title_c_gem_enryakuji_FIRST_money	Enryakuji	true
+incidents_localised_title_c_otomo_embassy_FIRST_nanban_ire	Embassy	true
+incidents_localised_title_c_bos_student_exchange_FIRST_grant_royal_marines	Student Exchange	true
+incidents_localised_description_c_omen_ocean_tsunami	My lord! We have incurred the wrath of Owatatsumi! Great waves are buffeting our coasts!	true
+incidents_localised_title_i_gem_research_specific_military	Master of the Military Arts	true
+incidents_localised_description_c_bos_sakai_incident_SECOND_foreign_setback	Dissatisfied with our handling of the Sakai incident, western authorities will be enforcing harsher trade conditions over the coming months.	true
+incidents_localised_description_c_gem_heiji_monogatari_taira_FIRST_minamoto_influence	Troubling news, my lord! The chronicle of the Heiji Rebellion has circulated amongst the provincial nobles. This has unexpectedly engendered sympathy for the treacherous Minamoto!	true
+incidents_localised_title_bos_intro_4b_incident_civil	Setting Our Priorities	true
+incidents_localised_description_c_bos_icarus_affair_SECOND_foreign_setback	Dissatisfied with our handling of the Icarus incident, western authorities will be enforcing harsher trade conditions over the coming months.	true
+incidents_localised_title_c_gem_todaiji_FIRST_refuse	Todaiji	true
+incidents_localised_title_c_gem_warrior_tax_FIRST_spawn_unit	The Warrior's Plight	true
+incidents_localised_description_c_bos_emperor_foreign_medic_FIRST_sonno_joi	Whilst we benefitted from the employment of William Willis, many of our people still resent the hiring of a westerner to execute the Emperor's will.	true
+incidents_localised_title_i_equipment_cache	Military Cache	true
+incidents_localised_description_i_gem_agricultural_practices	Having ensured that the majority of our provinces are agriculturally developed, we are now enjoying a time of plenty.	true
+incidents_localised_description_c_ambitious_traders_FIRST_lucrative_shipping	Our recent focus on sea trade has given us control of the shipping lanes. 	true
+incidents_localised_title_i_bos_season_summer	Summer	true
+incidents_localised_title_c_bos_gaijin_trouble_FIRST_foreign_setback	Gaijin Trouble	true
+incidents_localised_description_i_bos_season_autumn	A season for change.\\nLeaves playfully mock the wind.\\nAutumn has come.	true
+incidents_localised_title_c_bos_sword_abolishment_FIRST_samurai_discontent	Haitorei	true
+incidents_localised_title_c_otomo_embassy_FIRST_word_of_god	Embassy	true
+incidents_localised_title_c_bos_nanban_slavers_SECOND_foreign_setback	Nanban Slavers	true
+incidents_localised_title_bos_intro_5_carry_on_shogun	Moving Forwards	true
+incidents_localised_description_i_gem_dedicated_seafarer_master_shipwrights	The development of our naval capabilities has led to many masterful shipwrights seeking position within the clan.	true
+incidents_localised_description_c_omen_fire_volcano	My lord! We have incurred the wrath of Kagutsuchi! Fiery retribution has erupted from the earth itself!	true
+incidents_localised_title_c_gem_migrant_workers_SECOND_inspired_endeavours	Migrant Workforce	true
+incidents_localised_description_c_gem_warrior_tax_SECOND_rebellion	The bushidan of this province, infuriated that we should exploit them to line our own pockets, have risen against us!	true
+incidents_localised_title_c_bos_westerners_attacked_SECOND_foreign_setback	Anti-western Aggression	true
+incidents_localised_description_c_conflict_beliefs_buddhist_SECOND_nanban_ambassador	Gratified by our compassion for and understanding of the needs of Christians in this province, the nanban have taken measures to facilitate relations between us.	true
+incidents_localised_title_i_dis_volcano_unzen	Unzen-dake Erupts!	true
+incidents_localised_title_c_conflict_beliefs_buddhist_FIRST_rebellion	Conflict of Beliefs	true
+incidents_localised_description_c_jizamurai_FIRST_vigilance	Owing to the number of jizamurai living here, our domain is more secure than ever before.	true
+incidents_localised_title_i_christian_nanban_quarter	Nanban Quarter	true
+incidents_localised_description_i_dedicated_builder	Our development of castles and infrastructure has helped our builders increase their expertise.	true
+incidents_localised_description_i_bos_mp_emperor_realm_divide	Conflict has escalated, and we have grown strong. Now, the Emperor will lead his people to greatness; in his name, we will crush all who oppose us! Long live the Emperor!	true
+incidents_localised_description_c_monopoly_SECOND_merchant_discontent	The merchant class are outraged by the restraints we have placed upon their activities.	true
+incidents_localised_description_i_inspiration_farmers_daimyo	Inspired by the presence of the daimyo in their province, farmers here now toil with added effort.	true
+incidents_localised_title_c_omen_mountain_earthquake	Oyamatsumi's Wrath	true
+incidents_localised_title_c_bos_sword_abolishment_FIRST_call_to_arms	Haitorei	true
+incidents_localised_title_c_bos_western_exploitation_FIRST_foreign_setback	Unequal Treaties	true
+incidents_localised_description_i_dis_typhoon	A devastating typhoon has swept across this province, leaving a trail of destruction which has affected local construction efforts and production.	true
+incidents_localised_description_c_bos_sakai_incident_FIRST_anti_western_riots	Angered at concessions made in favour of westerners in response to the Sakai incident, anti-western elements in this province have taken to the streets in protest.	true
+incidents_localised_description_bos_intro_5_carry_on_imperial	We have successfully expanded our territory and developed the clan to a respectable technological standard. As a show of support, leading citizens have offered tribute; we must see to it that their contributions are invested well and that the people's faith in the Imperial cause is justified.\\n\\nLong live the Emperor!	true
+incidents_localised_title_i_research_balanced	Master of the Arts	true
+incidents_localised_title_i_research_ratio_military	Master of the Military Arts	true
+incidents_localised_description_c_martial_priorities_SECOND_vigilance	Conscious of the need for defence, people throughout our domain are keeping a watchful eye on all comings and goings.	true
+incidents_localised_description_i_inspiration_builders_daimyo	Inspired by the presence of the daimyo in their province, construction workers here have intensified their labours.	true
+incidents_localised_title_c_auxiliary_supplies_SECOND_master_smithies	Auxiliary Supplies	true
+incidents_localised_title_i_dis_fire	Fire!	true
+incidents_localised_title_c_gem_todaiji_FIRST_money	Todaiji	true
+incidents_localised_description_c_bos_westerners_attacked_FIRST_anti_western_riots	Angered at concessions made in favour of westerners following the recent violent incident, anti-western elements in this province have taken to the streets in protest.	true
+incidents_localised_description_i_dis_volcano_chokai	Mount Chokai has erupted,smothering this nearby province with volcanic ash.	true
+incidents_localised_title_c_otomo_baptism_SECOND_grateful_populace	Baptism	true
+incidents_localised_title_i_dedicated_trader	Dedicated to Trade	true
+incidents_localised_title_c_gem_young_thief_SECOND_iron_fist	The Young Thief	true
+incidents_localised_description_i_dis_volcano_bandai	Mount Bandai has erupted, smothering this nearby province with volcanic ash.	true
+incidents_localised_description_i_otomo_man_of_war	My lord, we are now at war with many clans. Our Portuguese allies have recognised our plight and, in honour of our longstanding dedication to the Christian faith, have given us command of a caravel to send against our enemies.	true
+incidents_localised_description_c_bos_rangaku_FIRST_breakthrough_military_eng	Wonderful news, my lord! Our tolerance towards western learning has led to a breakthrough in military engineering.	true
+incidents_localised_title_i_inspiration_builders_development	Inspiring Superior	true
+incidents_localised_title_c_bos_student_exchange_FIRST_grant_french_marines	Student Exchange	true
+incidents_localised_title_i_dis_volcano_nasu	Nasu-dake Erupts!	true
+incidents_localised_description_c_bos_rangaku_FIRST_breakthrough_civil_eng	Wonderful news, my lord! Our tolerance towards western learning has led to a breakthrough in civil engineering.	true
+incidents_localised_description_c_conflict_beliefs_christian_SECOND_old_ways	Traditionalists across our domain are grateful that we still recognise the needs of those who seek enlightenment and revere the kami.	true
+incidents_localised_description_c_conflict_beliefs_christian_FIRST_rebellion	The recent execution of a Buddhist agitator in this province has provoked the local populace into taking arms against the clan!	true
+incidents_localised_title_c_gem_young_thief_FIRST_brigandry_global	The Young Thief	true
+incidents_localised_title_c_bos_nanban_slavers_FIRST_peer_contempt	Nanban Slavers	true
+incidents_localised_title_i_samurai_master	Samurai Master	true
+incidents_localised_title_c_bos_westerners_attacked_FIRST_anti_western_riots	Anti-western Aggression	true
+incidents_localised_description_i_dis_fire	Raging fires have spread destruction throughout this province's castle town, affecting local production and ruining the livelihoods of many of the people.	true
+incidents_localised_title_c_bos_rangaku_FIRST_peer_contempt	Rangaku	true
+incidents_localised_description_i_dedicated_trader	Our eagerness to conduct trade with other clans has helped our own to prosper.	true
+incidents_localised_description_c_gem_young_thief_SECOND_iron_fist	Rumours of our response to the burglary at the quartermaster's stores have spread, my lord. Fear of your retribution will ensure the compliance of the people, for the time being at least.	true
+incidents_localised_title_i_dis_volcano_asama	Asama-yama Erupts!	true
+incidents_localised_title_i_otomo_man_of_war	Man O' War	true
+incidents_localised_description_c_ambitious_traders_SECOND_thriving_markets	Our recent focus on domestic trade has led to increased profits from markets throughout our territory.	true
+incidents_localised_title_c_bos_koyosha_modern_SECOND_peer_respect	Koyosha	true
+incidents_localised_description_c_gem_migrant_workers_FIRST_unwanted_fujiwara	An influx of workers aligned with our rivals are spreading their malign influence throughout your domain.	true
+incidents_localised_description_i_inspiration_builders_development	Inspired by the presence of the commissioner for development in their province, construction workers here have intensified their labours.	true
+incidents_localised_description_i_monopoly_wood_shipwrights	My lord! We now control every source of superior wood in Japan. Our ship-building will benefit greatly from this.	true
+incidents_localised_title_c_gem_todaiji_FIRST_monks	Todaiji	true
+incidents_localised_title_c_bos_koyosha_western_SECOND_peer_respect	Koyosha	true
+incidents_localised_description_i_dis_volcano_nasu	Mount Nasu has erupted, smothering this nearby province with volcanic ash.	true
+incidents_localised_title_i_bos_earthquake	Earthquake!	true
+incidents_localised_description_i_safeguard	The people in this province are encouraged by the substantial garrison stationed there.	true
+incidents_localised_description_i_dis_tsunami	This coastal province has been hit by a tsunami, affecting local port activity and impeding production.	true
+incidents_localised_description_c_gem_eiga_monogatari_FIRST_spawn_shirabyoshi	Having heard of our recent endeavours in support of literary art and culture, an up-and-coming shirabyoshi has made herself available for our greater good.	true
+incidents_localised_title_c_otomo_baptism_FIRST_money	Baptism	true
+incidents_localised_description_c_omen_wind_typhoon	My lord! We have incurred the wrath of Fujin! Our lands have been beset by terrible storms!	true
+incidents_localised_title_c_bos_rangaku_FIRST_breakthrough_civil_eng	Rangaku	true
+incidents_localised_description_c_gem_migrant_workers_FIRST_unwanted_minamoto	An influx of workers aligned with our rivals are spreading their malign influence throughout your domain.	true
+incidents_localised_title_c_wako_threat_SECOND_rampant_piracy	The Wako Threat	true
+incidents_localised_title_c_bos_sword_abolishment_FIRST_foreign_boost	Haitorei	true
+incidents_localised_description_c_bos_koyosha_modern_FIRST_rebellion	Resentful of our attempts to subvert their traditionalist agenda, the koyosha have incited a rebellion against us in this province!	true
+incidents_localised_title_i_dis_volcano_aso	Aso-san Erupts!	true
+incidents_localised_title_c_gem_warrior_tax_SECOND_rebellion	The Warrior's Plight	true
+incidents_localised_title_c_intoxication_SECOND_lackluster_efforts	In Their Cups	true
+incidents_localised_title_c_bos_sakai_incident_FIRST_french_reconcilliation	The Sakai Incident	true
+incidents_localised_title_i_dis_earthquake	Earthquake!	true
+incidents_localised_title_i_defection	Defection!	true
+incidents_localised_description_i_gem_research_ratio_military	Our dedication to the military arts has improved our capacity for mastering them.	true
+incidents_localised_title_i_bos_great_fire	Great Fire	true
+incidents_localised_title_c_bos_rangaku_SECOND_samurai_satisfaction	Rangaku	true
+incidents_localised_description_c_gem_kofukuji_FIRST_refuse	Regrettably, the Kofukuji monks have declined our request for aid.	true
+incidents_localised_description_i_christian_nanban_quarter	Now that we have embraced their faith, the nanban are eager to cultivate the cultural and material exchange between our people. By developing our nanban trade port into a dedicated foreign quarter, we will precipitate the spread of Christianity in our domain, increase our trade income and gain access to nanban artillery that we may use to further our military ambitions.	true
+incidents_localised_title_i_ashigaru_master	Ashigaru Master	true
+incidents_localised_description_c_gem_warrior_tax_FIRST_peer_contempt	A number of rival families are angry that we have chosen to refuse the court their tax dues to win favour with local warbands.	true
+incidents_localised_title_c_gaijin_trouble_SECOND_inspired_endeavours	Gaijin Trouble	true
+incidents_localised_description_c_tribute_shogun_SECOND_peer_contempt	Rival daimyo across Japan are angered by our disregard for the Shogun's demands.	true
+incidents_localised_title_c_disloyalty_SECOND_peer_contempt	Rumours of Treason	true
+incidents_localised_description_c_bos_sword_abolishment_FIRST_call_to_arms	Our abolishment of swords has had an unexpected side effect - many now clamour to join our ranks so they may continue to bear arms.	true
+incidents_localised_description_c_omen_mountain_earthquake	My lord! We have incurred the wrath of Oyamatsumi! So great is his anger that the very earth itself has shuddered with fear!	true
+incidents_localised_description_i_dis_disease	Sickness has spread amongst the people in this province, disrupting local production and development.	true
+incidents_localised_description_i_dis_drought	A lack of rainfall across this province has seriously affected farming, resulting in a shortage of food and other agricultural produce.	true
+incidents_localised_description_c_monopoly_FIRST_disaffected_populace	The hard-working masses are embittered at the freedoms we have granted to the merchant class.	true
+incidents_localised_description_c_bos_sword_abolishment_FIRST_foreign_boost	Foreign powers are grateful at the measures we have taken to curb anti-western violence, and foreign trade is now flourishing.	true
+incidents_localised_description_c_wako_threat_SECOND_rampant_piracy	Our neglect for the wako problem has led to an increase in piracy in our waters.	true
+incidents_localised_title_c_bos_rangaku_SECOND_peer_respect	Rangaku	true
+incidents_localised_title_c_omen_wind_typhoon	Fujin's Wrath	true
+incidents_localised_description_c_otomo_baptism_FIRST_money	Word of your recent baptism has reached the Pope in Rome, and he offers us a substantial subsidy in return for our continued devotions.	true
+incidents_localised_description_c_gem_kofukuji_FIRST_money	The Kofukuji monks sympathise with our cause and have gifted us funds for our war effort.	true
+incidents_localised_title_i_dis_volcano_sakurajima	Sakura-jima Erupts!	true
+incidents_localised_description_c_gem_heiji_monogatari_minamoto_FIRST_taira_influence	Troubling news, my lord! The chronicle of the Heiji Rebellion has circulated amongst the provincial nobles. This has unexpectedly engendered sympathy for the treacherous Taira!	true
+incidents_localised_title_i_safeguard	Safeguard	true
+incidents_localised_title_i_monopoly_wood_shipwrights	Monopoly	true
+incidents_localised_title_c_bos_shogun_shinsengumi_FIRST_grant_shinsengumi	The Newly-selected Corps	true
+incidents_localised_description_c_conflict_beliefs_christian_FIRST_nanban_ambassador	Appreciative of our continued protection of the Church's best interests in Japan, the nanban have taken measures to facilitate relations between our people.	true
+incidents_localised_title_i_dis_stormy_seas	Stormy Seas!	true
+incidents_localised_title_c_bos_shogun_province_security_SECOND_imperial_propaganda	Security Matters	true
+incidents_localised_title_c_conflict_beliefs_buddhist_FIRST_old_ways	Conflict of Beliefs	true
+incidents_localised_description_i_dis_volcano_yake	Mount Yake has erupted, smothering this nearby province with volcanic ash.	true
+incidents_localised_title_c_gem_enryakuji_SECOND_rebellion	Enryakuji	true
+incidents_localised_description_i_dis_volcano_haku	Mount Haku has erupted, smothering this nearby province with volcanic ash.	true
+incidents_localised_title_c_gem_migrant_workers_FIRST_peer_contempt	Migrant Workforce	true
+incidents_localised_title_c_ambitious_traders_SECOND_thriving_markets	Ambitious Traders	true
+incidents_localised_title_i_nanban_trade_nondilemma	Nanban Trade	true
+incidents_localised_description_c_gem_heiji_monogatari_taira_FIRST_nothing	The chronicle of the Heiji Rebellion has circulated amongst the provincial nobles, my lord. By all accounts, the work is unworthy of the tale; perhaps one day it will be done justice by better men?	true
+incidents_localised_description_i_dis_volcano_fuji	Mount Fuji has erupted, smothering this nearby province with volcanic ash.	true
+incidents_localised_title_c_gem_kofukuji_FIRST_monks	Kofukuji	true
+incidents_localised_description_i_dis_volcano_asama	Mount Asama has erupted, smothering this nearby province with volcanic ash.	true
+incidents_localised_description_i_teeming_sea	The waters of this province are teeming with fish. Local fishermen are currently enjoying an auspicious catch.	true
+incidents_localised_description_c_bos_koyosha_modern_SECOND_criminal_contacts	Unexpectedly, our decision to pull back from technological and societal change has made us useful allies among the criminal underclass.	true
+incidents_localised_description_c_desecration_FIRST_old_ways	Traditionalists within the clan are grateful that we still recognise the needs of those who seek enlightenment and revere the kami.	true
+incidents_localised_title_c_bos_koyosha_modern_SECOND_samurai_satisfaction	Koyosha	true
+incidents_localised_title_c_gem_miidera_FIRST_monks	Miidera	true
+incidents_localised_title_c_gem_migrant_workers_FIRST_unwanted_taira	Migrant Workforce	true
+incidents_localised_title_c_heralding_spring_FIRST_grateful_populace	Heralding the Spring	true
+incidents_localised_title_c_meritorious_action_SECOND_peer_contempt	Meritorious Action	true
+incidents_localised_description_i_dis_volcano	This volcano has erupted, smothering nearby provinces with volcanic ash.	true
+incidents_localised_description_i_bos_koyosha	Rumours abound about the rise of the Koyosha - a secret society dedicated to isolationism and the feudal samurai way. This is likely no cause for great concern; you will be informed should the situation change.	true
+incidents_localised_description_c_disloyalty_FIRST_rebellion	Having sworn revenge for the death of his father, a son of this former traitor has mustered an army and is marching on one of our strongholds!	true
+incidents_localised_description_c_gaijin_trouble_SECOND_inspired_endeavours	Grateful to us for dealing with the recent nanban disturbances, the people in this province are carrying out their daily labours with added conviction.	true
+incidents_localised_title_c_bos_sensosai_FIRST_inspired_endeavours	Sensosai	true
+incidents_localised_title_c_gem_kofukuji_FIRST_refuse	Kofukuji	true
+incidents_localised_title_c_imperial_new_year_SECOND_peer_contempt	The Imperial New Year	true
+incidents_localised_title_c_bos_koyosha_western_SECOND_samurai_satisfaction	Koyosha	true
+incidents_localised_title_c_gaijin_trouble_FIRST_nanban_ambassador	Gaijin Trouble	true
+incidents_localised_description_c_bos_rangaku_SECOND_foreign_setback	Trade with foreign powers is in decline. They know we have actively worked against the spread of western learning among our people.	true
+incidents_localised_description_i_defection	Disloyalty has driven this general and his army to abandon the clan! We must be mindful of loyalty at all times to ensure that this never happens again.	true
+incidents_localised_title_c_bos_koyosha_western_FIRST_peer_respect	Koyosha	true
+incidents_localised_description_c_auxiliary_supplies_SECOND_master_smithies	Owing to the skills of our own blacksmiths, our troops have been equipped from within rather than relying on arms and armour bought from neighbouring provinces. They are truly excelling in their art!	true
+incidents_localised_description_i_otomo_religious_dissention	Popular resistance towards the nanban has long been a concern for us. The Buddhists in this province are particularly incensed. They are doing everything in their power to undermine us and our new allies.	true
+incidents_localised_description_c_heralding_spring_FIRST_grateful_populace	Our clanspeople are immensely satisfied at the recent festivities organised on their behalf.	true
+incidents_localised_title_c_gem_migrant_workers_FIRST_agrarian_toil	Migrant Workforce	true
+incidents_localised_description_c_gem_migrant_workers_FIRST_unwanted_taira	An influx of workers aligned with our rivals are spreading their malign influence throughout your domain.	true
+incidents_localised_description_i_gem_show_of_support	My lord! As a show of support for our esteemed cause, the lord of this province has provided us with troops to aid us in battle!	true
+incidents_localised_description_i_research_balanced	Our dogged pursuit of knowledge has improved our capacity for mastering both the military and civil arts.	true
+incidents_localised_description_i_inspiration_soldiers_daimyo	Inspired by the presence of the daimyo in their province, citizens here are clamouring to serve his military objectives.	true
+incidents_localised_title_i_monopoly_stone_builders	Monopoly	true
+incidents_localised_title_c_gem_miidera_FIRST_money	Miidera	true
+incidents_localised_title_c_better_agent_missionary_FIRST_nanban_ambassador	Divine Authority	true
+incidents_localised_title_i_dedicated_builder	Dedicated Builder	true
+incidents_localised_title_c_jizamurai_FIRST_vigilance	Jizamurai	true
+incidents_localised_description_c_bos_westerners_attacked_FIRST_disaffected_populace	The people are disheartened that we should allow westerners to dispense justice against our own people on our own soil.	true
+incidents_localised_description_c_conflict_beliefs_buddhist_FIRST_rebellion	The recent execution of a Christian agitator in this province has provoked the local Christian populace into taking arms against the clan!	true
+incidents_localised_description_i_dis_volcano_unzen	Mount Unzen has erupted, smothering this nearby province with volcanic ash.	true
+incidents_localised_description_c_bos_rangaku_FIRST_breakthrough_medical_sci	Wonderful news, my lord! Our tolerance towards western learning has led to a breakthrough in medical science.	true
+incidents_localised_description_i_monopoly_blacksmiths_smiths	My lord! We now control all the provinces known for blacksmithing. As long as we continue to do so we will be able to equip our troops with arms and armour superior to those of our enemies.	true
+incidents_localised_title_c_omen_fire_volcano	Kagutsuchi's Wrath	true
+incidents_localised_description_c_urban_migration_SECOND_merchant_discontent	Merchants across our domain are infuriated at the decision to favour agriculture over economic matters.	true
+incidents_localised_title_c_francis_xavier_SECOND_nanban_ambassador	Francis Xavier	true
+incidents_localised_description_i_dis_meagre_harvest	My lord! Unfavourable conditions in this area have resulted in a poor crop. We must be wary of food shortages.	true
+incidents_localised_description_c_bos_student_exchange_FIRST_grant_us_marines	Having made a grand impression upon their American hosts, the men we sent abroad to study have solicited foreign military support. As such, we have been granted a unit of United States Marines.	true
+incidents_localised_description_i_bos_mp_shogun_realm_divide	Conflict has escalated, and our domain has grown strong. Now, the Shogun will lead his people to greatness; in his name, we will crush all those who oppose us! For the Shogun!	true
+incidents_localised_title_c_gem_kofukuji_FIRST_money	Kofukuji	true
+incidents_localised_description_c_conflict_beliefs_buddhist_FIRST_old_ways	Traditionalists within the clan are pleased with the way in which you have dealt with the recent Christian disturbances in this province.	true
+incidents_localised_title_i_dis_volcano_zao	Zao-san Erupts!	true
+incidents_localised_title_i_dis_volcano_haku	Haku-san Erupts!	true
+incidents_localised_title_c_gem_justice_FIRST_peer_contempt	Justice	true
+incidents_localised_title_i_dis_volcano_yake	Yake-dake Erupts!	true
+incidents_localised_description_c_bos_koyosha_western_FIRST_rebellion	Resentful of our attempts to subvert their anti-western agenda, the koyosha have incited a rebellion against us in this province!	true
+incidents_localised_title_c_gem_heiji_monogatari_taira_FIRST_nothing	The Heiji Monogatari	true
+incidents_localised_description_c_gem_kofukuji_FIRST_monks	The Kofukuji monks sympathise with our cause and have provided us with warrior monks to aid us in battle.	true
+incidents_localised_description_c_gem_family_dues_FIRST_spawn_dancer	Grateful for your contribution towards the feast, your noble subject has gifted us his most accomplished shirabyoshi.	true
+incidents_localised_title_c_bos_nanban_slavers_SECOND_peer_respect	Nanban Slavers	true
+incidents_localised_title_i_dis_volcano_fuji	Fuji-san Erupts!	true
+incidents_localised_description_c_disgruntled_vassal_SECOND_rebellion	Having sworn revenge for the unjust execution of his father, a son of our erstwhile vassal has gathered a fighting force and is moving to seize this province from us!	true
+incidents_localised_description_c_gem_todaiji_FIRST_monks	The Todaiji monks sympathise with our cause and have provided us with warrior monks to aid us in battle.	true
+incidents_localised_description_c_bos_koyosha_western_SECOND_peer_respect	Many of your fellow daimyo are grateful for your recent support of traditional Japanese values over western trade and influence.	true
+incidents_localised_title_c_bos_rangaku_FIRST_breakthrough_medical_sci	Rangaku	true
+incidents_localised_description_i_dedicated_seafarer_master_shipwrights	The development of our naval capabilities has led to many masterful shipwrights seeking position within the clan.	true
+incidents_localised_title_i_dis_tsunami	Tsunami!	true
+incidents_localised_title_c_gem_eiga_monogatari_FIRST_spawn_shirabyoshi	The Eiga Monogatari	true
+incidents_localised_title_c_bos_westerners_attacked_FIRST_disaffected_populace	Anti-western Aggression	true
+incidents_localised_title_c_land_dispute_FIRST_rebellion	Land Dispute	true
+incidents_localised_title_c_gem_migrant_workers_FIRST_unwanted_minamoto	Migrant Workforce	true
+incidents_localised_description_i_monopoly_blacksmiths_supplies	My lord! We now control all the provinces known for blacksmithing. As long as we continue to do so we will be able to equip our troops with arms and armour superior to those of our enemies.	true
+incidents_localised_description_c_bos_sword_abolishment_SECOND_foreign_setback	Foreign trade is faltering following our failure to prevent aggressive acts towards westerners in our ports.	true
+incidents_localised_title_c_land_dispute_SECOND_rebellion	Land Dispute	true
+incidents_localised_description_c_bos_rangaku_FIRST_peer_contempt	I regret to inform you, my lord, that your fellow daimyo think very little of our open tolerance towards western learning.	true
+incidents_localised_title_c_bos_shogun_province_security_SECOND_rebellion	Security Matters	true
+incidents_localised_description_i_monopoly_iron_smiths	My lord! We now hold all provinces that are rich in high-grade iron. Our new troops will benefit greatly from this.	true
+incidents_localised_description_i_gem_antoku_born_taira	My lord! Wonderful news! Tokuko-hime, noble Taira daughter and consort of the emperor, has given birth to a son, Antoku! It is only a matter of time before a Taira sits upon the Chrysanthemum Throne.	true
+incidents_localised_title_c_gem_migrant_workers_FIRST_unwanted_fujiwara	Migrant Workforce	true
+incidents_localised_title_i_otomo_religious_dissention	Religious Dissention	true
+incidents_localised_description_c_disloyalty_SECOND_peer_contempt	Rival daimyo across Japan think us foolish for allowing would-be traitors to serve the clan.	true
+incidents_localised_title_c_gem_family_dues_FIRST_spawn_dancer	Family Dues	true
+incidents_localised_title_i_dis_drought	Drought!	true
+incidents_localised_title_i_dis_disease	Disease!	true
+incidents_localised_description_c_bos_nanban_slavers_SECOND_peer_respect	The other daimyo have gained considerable respect for us after we refused to acquiesce to the whims of the western powers.	true
+incidents_localised_title_c_monopoly_FIRST_disaffected_populace	Monopoly	true
+incidents_localised_title_c_desecration_SECOND_rebellion	Desecration	true
+incidents_localised_description_c_heralding_spring_SECOND_disaffected_populace	Our dismissal of the efforts made by our people in service of the clan has led to widespread dissension.	true
+incidents_localised_title_c_gem_eiga_monogatari_fujiwara_FIRST_fujiwara_influence	The Eiga Monogatari	true
+incidents_localised_description_i_dis_volcano_aso	Mount Aso has erupted, smothering this nearby province with volcanic ash.	true
+incidents_localised_description_c_bos_sakai_incident_FIRST_french_reconcilliation	Whilst attending the execution of those responsible for the Sakai affair, the French authorities - seemingly apalled at our method of capital punishment - have requested that we spare the remaining prisoners, returning a portion of the damages previously paid to them.	true
+incidents_localised_description_c_auxiliary_supplies_SECOND_merchant_discontent	Our decision not to trade in military supplies has upset our merchants, who feel they might have been able to profit from such an investment. 	true
+incidents_localised_description_c_bos_koyosha_modern_FIRST_peer_respect	Many of your fellow daimyo are grateful for our attempts to curb criminal koyosha activity.	true
+incidents_localised_title_c_bos_koyosha_modern_FIRST_inspired_endeavours	Koyosha	true
+incidents_localised_title_i_bos_mp_shogun_realm_divide	Realm Divide	true
+incidents_localised_description_c_gem_warrior_tax_SECOND_peer_contempt	A number of rival families are angry that we have chosen to refuse the court their tax dues to line our own pockets.	true
+incidents_localised_title_i_gem_research_ratio_military	Master of the Military Arts	true
+incidents_localised_description_c_auxiliary_supplies_FIRST_call_to_arms	An abundance of military supplies has led to the enlistment of more fervent clan supporters into the army's ranks.	true
+incidents_localised_description_c_bos_rangaku_SECOND_samurai_satisfaction	Traditionalists within our clan are content at our decision to stifle the spread of western learning amongst our people.	true
+incidents_localised_title_c_merchant_accession_SECOND_merchant_discontent	Merchant Accession	true
+incidents_localised_description_i_ashigaru_master	Our dedication to the use of ashigaru in battle is unmatched, my lord. Training and maintaining such a formidable force has led to a refinement of their training regime.	true
+incidents_localised_title_i_dis_meagre_harvest	Meagre Harvest	true
+incidents_localised_description_c_jizamurai_SECOND_war_fervour	The recent strengthening of our ranks has instilled in our troops confidence and a yearning for glorious battle!	true
+incidents_localised_title_c_gem_warrior_tax_FIRST_peer_contempt	The Warrior's Plight	true
+incidents_localised_description_c_otomo_embassy_FIRST_nanban_ambassador	It has been some years since we sent our embassy westward, my lord. Now, ships bearing envoys from European sovereigns have arrived on our shores. They speak highly of our ambassadors and desire further exchanges between us.	true
+incidents_localised_title_c_tribute_shogun_SECOND_peer_contempt	Tribute to the Shogun	true
+incidents_localised_description_c_bos_icarus_affair_FIRST_foreign_boost	Satisfied with our handling of the Icarus incident, western authorities have agreed to better trade concessions over the coming months.	true
+incidents_localised_title_c_urban_migration_SECOND_merchant_discontent	Urban Migration	true
+incidents_localised_title_c_merchant_accession_FIRST_disaffected_populace	Merchant Accession	true
+incidents_localised_title_i_dis_typhoon	Typhoon!	true
+incidents_localised_title_c_bos_sakai_incident_FIRST_anti_western_riots	The Sakai Incident	true
+incidents_localised_title_bos_intro_5_carry_on_imperial	Moving Forwards	true
+incidents_localised_description_i_research_ratio_military	Our dedication to the military arts has improved our capacity for mastering them.	true
+incidents_localised_description_c_gem_enryakuji_SECOND_rebellion	Enraged at our sacking of their temple, the Enryakuji have instigated a rebellion against us!	true
+incidents_localised_description_c_desecration_SECOND_rebellion	Angered that we have cast tradition to the wind and allowed the nanban to do as they please, the Buddhist populace in this province have taken arms against the clan!	true
+incidents_localised_title_i_inspiration_builders_daimyo	Inspiring Master	true
+incidents_localised_title_c_martial_priorities_SECOND_vigilance	Military Priorities	true
+incidents_localised_title_c_conflict_beliefs_christian_FIRST_nanban_ambassador	Conflict of Beliefs	true
+incidents_localised_description_c_bos_shogun_shinsengumi_FIRST_grant_shinsengumi	In gratitude for our support of their recruitment efforts, the shinsengumi have sent us a unit of their finest warriors to help fight the Imperialist threat.	true
+incidents_localised_title_c_heralding_spring_SECOND_disaffected_populace	Heralding the Spring	true
+incidents_localised_title_c_omen_wind_stormy_seas	Fujin's Wrath	true
+incidents_localised_description_c_bos_koyosha_modern_FIRST_inspired_endeavours	The people have been inspired by the lengths we have gone to prevent the koyosha from disrupting our technological and societal development.	true
+incidents_localised_description_i_dis_volcano_sakurajima	Sakura-jima has erupted, smothering this nearby province with volcanic ash.	true
+incidents_localised_title_c_gem_warrior_tax_SECOND_peer_contempt	The Warrior's Plight	true
+incidents_localised_title_i_bos_mp_emperor_realm_divide	Realm Divide	true
+incidents_localised_title_c_jizamurai_SECOND_war_fervour	Jizamurai	true
+incidents_localised_title_c_monopoly_SECOND_merchant_discontent	Monopoly	true
+incidents_localised_description_c_otomo_baptism_FIRST_nanban_ambassador	In recognition of our devotion to Christianity and your subsequent baptism into the faith, a Papal Legate has arrived to further facilitate our relations with the Europeans.	true
+incidents_localised_description_c_bos_student_exchange_FIRST_grant_french_marines	Having made a grand impression upon their French hosts, the men we sent abroad to study have solicited foreign military support. As such, we have been granted a unit of French marines.	true
+incidents_localised_title_c_bos_rangaku_SECOND_foreign_setback	Rangaku	true
+incidents_localised_description_c_bos_koyosha_western_FIRST_peer_respect	Many of your fellow daimyo are grateful for our attempts to curb anti-western violence and criminal koyosha activity.	true
+incidents_localised_description_c_imperial_new_year_SECOND_peer_contempt	Rival daimyo across Japan are angered by our disregard for the emperor's demands.	true
+incidents_localised_description_c_gaijin_trouble_FIRST_nanban_ambassador	An envoy from Europe has arrived to facilitate dealings between us in return for our acceptance of their people and ways.	true
+incidents_localised_description_c_land_dispute_FIRST_rebellion	Deriding our just decision to return lands seized from his neighbour, this traitor to the clan has raised an army to take it back!	true
+incidents_localised_description_c_bos_sensosai_FIRST_inspired_endeavours	Following a prodigious Sensosai, our people have been inspired in their daily duties.	true
+incidents_localised_title_c_disloyalty_FIRST_rebellion	Rumours of Treason	true
+incidents_localised_title_c_bos_sword_abolishment_SECOND_foreign_setback	Haitorei	true
+incidents_localised_description_c_gem_todaiji_FIRST_money	The Todaiji monks sympathise with our cause and have gifted us funds for our war effort.	true
+incidents_localised_title_i_monopoly_iron_smiths	Monopoly	true
+incidents_localised_description_c_omen_mountain_volcano	My lord! We have incurred the wrath of Oyamatsumi! He has sent forth his fiery retribution from the mountains!	true
+incidents_localised_title_c_bos_emperor_foreign_medic_FIRST_foreign_boost	William Willis	true
+incidents_localised_title_c_bos_rangaku_FIRST_breakthrough_military_eng	Rangaku	true
+incidents_localised_title_c_desecration_FIRST_old_ways	Desecration	true
+incidents_localised_description_c_bos_koyosha_modern_SECOND_samurai_satisfaction	The samurai are satisfied at our decision to curb modernisation and preserve their traditionalist values.	true
+incidents_localised_description_i_monopoly_stone_builders	My lord! We now control every source of superior stone in Japan. Our new buildings will benefit greatly from this.	true
+incidents_localised_description_c_gem_miidera_FIRST_money	The Miidera monks sympathise with our cause and have gifted us funds for our war effort.	true
+incidents_localised_title_c_otomo_baptism_FIRST_nanban_ambassador	Baptism	true
+incidents_localised_description_c_better_agent_missionary_FIRST_nanban_ambassador	Pleased at our recent co-operation with the Church, a papal dignitary has been dispatched to facilitate relations between us.	true
+incidents_localised_description_c_gem_miidera_SECOND_rebellion	Enraged at our sacking of their temple, the Miidera have instigated a rebellion against us!	true
+incidents_localised_title_i_monopoly_blacksmiths_smiths	Forges of War	true
+incidents_localised_title_c_tribute_emperor_SECOND_peer_contempt	Tribute to the Emperor	true
+incidents_localised_description_c_omen_wind_stormy_seas	My lord! We have incurred the wrath of Fujin! Tumultuous winds at sea have put some of our ships at peril!	true
+incidents_localised_description_i_bos_earthquake	A tumultuous earthquake has struck this province! Construction efforts and production have been frustrated as the populace cope with the devastation.	true
+incidents_localised_title_c_gem_eiga_monogatari_FIRST_fujiwara_influence	The Eiga Monogatari	true
+incidents_localised_description_c_gem_migrant_workers_FIRST_agrarian_toil	With more labour to tend to the land, we better exploit our agricultural potential.	true
+incidents_localised_description_c_bos_koyosha_modern_SECOND_peer_respect	Many of your fellow daimyo are grateful for the recent support of traditionalism over modernisation.	true
+incidents_localised_description_c_ambitious_traders_FIRST_able_sailors	Due to our support of trade by sea, sailors are rallying to our cause in search of their fortune.	true
+incidents_localised_title_i_gem_show_of_support	Show of Support	true
+incidents_localised_description_c_bos_koyosha_western_SECOND_criminal_contacts	Unexpectedly, the decline in foreign contact following incidents of anti-western violence by the koyosha has gained us some allies among the criminal underworld.	true
+incidents_localised_description_c_merchant_accession_FIRST_disaffected_populace	The hard-working masses are embittered at the freedoms we have granted to the merchant class.	true
+incidents_localised_title_i_inspiration_soldiers_daimyo	Inspiring Master	true
+incidents_localised_description_i_dis_volcano_zao	Mount Zao has erupted, smothering this nearby province with volcanic ash.	true
+incidents_localised_description_c_gem_justice_FIRST_peer_contempt	The heads of rival clans are angry that we chose to exploit a criminal rather than dispense justice.	true
+incidents_localised_title_c_bos_koyosha_western_FIRST_rebellion	Koyosha	true
+incidents_localised_title_i_inspiration_soldiers_warfare	Inspiring Superior	true
+incidents_localised_description_c_bos_emperor_foreign_medic_FIRST_foreign_boost	Our recent dealings with William Willis enabled us to strengthen ties with the British, and as such foreign trade is now flourishing.	true
+incidents_localised_title_c_omen_mountain_volcano	Oyamatsumi's Wrath	true
+incidents_localised_description_c_gem_migrant_workers_SECOND_brigandry	Despite refusing migrant workers the right to settle, many remain within our borders regardless. Some have resorted to pilfery and violence for survival.	true
+incidents_localised_title_c_disgruntled_vassal_SECOND_rebellion	The Disgruntled Vassal	true
+incidents_localised_description_c_gem_eiga_monogatari_fujiwara_FIRST_spawn_shirabyoshi	Having heard of your work in support of literary art and culture, an up-and-coming shirabyoshi has made herself available for our greater good.	true
+incidents_localised_description_c_gem_todaiji_SECOND_rebellion	Enraged at our sacking of their temple, the Todaiji have instigated a rebellion against us!	true
+incidents_localised_description_c_francis_xavier_SECOND_nanban_ambassador	Honoured by our willingness to accept Christianity, the nanban have sent us a representative to facilitate relations between us.	true
+incidents_localised_title_c_bos_student_exchange_FIRST_grant_us_marines	Student Exchange	true
+incidents_localised_description_i_bos_great_fire	My lord! A great fire erupted in the capital of this province! We suspect the hand of enemy insurgents in this matter, but we cannot be sure.	true
+incidents_localised_title_c_tribute_shogun_FIRST_shogunal_deputy	Tribute to the Shogun	true
+incidents_localised_description_c_intoxication_SECOND_lackluster_efforts	Productivity has dropped drastically in this province as the peasants have failed to commit to their daily duties.	true
+incidents_localised_description_i_dis_earthquake	A tumultuous earthquake has struck this province! Construction efforts and production have been frustrated as the populace cope with the devastation.	true
+incidents_localised_title_c_bos_koyosha_modern_FIRST_rebellion	Koyosha	true
+incidents_localised_description_i_dis_stormy_seas	Turbulent waters and raging storms have wrought havoc for this naval force, resulting in the damage of ships and loss of life.	true
+incidents_localised_description_c_bos_shogun_province_security_SECOND_imperial_propaganda	It may have been wiser to invest in better policing of this province, my lord; Imperialist propaganda is spreading amongst the populace at an alarming rate.	true
+incidents_localised_description_c_gem_migrant_workers_FIRST_peer_contempt	Convinced that we have been poaching their labour force, our rivals have lost further respect for us.	true
+incidents_localised_description_i_inspiration_soldiers_warfare	Inspired by the presence of the commissioner for warfare in their province, here are clamouring to serve the clan's military objectives.	true
+incidents_localised_description_i_nanban_trade_nondilemma	My lord, we now hold a province whose port had been devoted to trade with the far west. As such, we have now established relations with the nanban traders and may profit from the firearms that they have imported.	true
+incidents_localised_title_i_gem_antoku_born_taira	Heir to the Empire	true
+incidents_localised_title_i_inspiration_farmers_daimyo	Inspiring Master	true
+incidents_localised_title_c_gem_migrant_workers_SECOND_brigandry	Migrant Workforce	true
+incidents_localised_description_c_bos_shogun_province_security_SECOND_rebellion	Terrible news, my lord! Dissidents in this province have mounted a revolt against your rule, no doubt spurred on by seditious Imperialists.	true
+incidents_localised_description_c_bos_western_exploitation_FIRST_foreign_setback	Whilst some have sympathised, the majority of western powers resent our challenging of the treaties and have enforced harsher trade terms for the coming year.	true
+incidents_localised_title_i_teeming_sea	Teeming Sea	true
+incidents_localised_title_c_gem_todaiji_SECOND_rebellion	Todaiji	true
+incidents_localised_description_c_land_dispute_SECOND_rebellion	After you granted his lands to his rival, this former retainer has mustered a warband to take this province for himself!	true
+incidents_localised_title_c_bos_koyosha_modern_SECOND_criminal_contacts	Koyosha	true
+incidents_localised_title_c_gem_eiga_monogatari_fujiwara_FIRST_spawn_shirabyoshi	The Eiga Monogatari	true
+incidents_localised_title_i_monopoly_blacksmiths_supplies	Forges of War	true
+incidents_localised_description_c_bos_rangaku_SECOND_peer_respect	A majority of your fellow daimyo are pleased that we have chosen to stifle the spread of western learning.	true
+incidents_localised_description_c_tribute_shogun_FIRST_shogunal_deputy	The Shogun, pleased by our offer of tribute, has sent a representative to aid our clan in matters of state.	true
+incidents_localised_title_i_dedicated_seafarer_master_shipwrights	Dedicated Seafarer	true
+incidents_localised_description_c_gem_migrant_workers_SECOND_inspired_endeavours	Our people are grateful that you favour their wellbeing over that of refugees.	true
+incidents_localised_title_c_gem_heiji_monogatari_minamoto_FIRST_taira_influence	The Heiji Monogatari	true
+incidents_localised_title_c_conflict_beliefs_buddhist_SECOND_nanban_ambassador	Conflict of Beliefs	true
+incidents_localised_description_c_bos_westerners_attacked_SECOND_foreign_setback	Due to western dissatisfaction with our response to the recent violent incident, relations with foreign powers have deteriorated.	true
+incidents_localised_title_c_bos_icarus_affair_FIRST_foreign_boost	The Icarus Affair	true
+incidents_localised_title_c_otomo_embassy_FIRST_nanban_ambassador	Embassy	true
+incidents_localised_description_c_bos_nanban_slavers_FIRST_peer_contempt	Other daimyo have lost considerable respect for our clan, taking us to be nothing but pawns of the western powers.	true
+incidents_localised_description_i_samurai_master	Our use of samurai in the achievement of military goals is unmatched, my lord. Maintaining such a formidable force has allowed us to refine their training regime.	true
+incidents_localised_title_c_conflict_beliefs_christian_SECOND_old_ways	Conflict of Beliefs	true
+incidents_localised_title_c_gem_miidera_SECOND_rebellion	Miidera	true
+incidents_localised_title_c_conflict_beliefs_christian_FIRST_rebellion	Conflict of Beliefs	true
+incidents_localised_description_c_merchant_accession_SECOND_merchant_discontent	The merchant class are outraged by the restraints we have placed upon their activities.	true
+incidents_localised_description_c_gem_young_thief_FIRST_brigandry_global	Word has spread of your leniency towards the young thief some time ago; we are now receiving an alarming number of reports regarding 'noble' banditry as people of lesser means prey upon their betters.	true
+incidents_localised_title_c_auxiliary_supplies_FIRST_call_to_arms	Auxiliary Supplies	true
+incidents_localised_description_c_bos_koyosha_western_SECOND_samurai_satisfaction	The samurai are satisfied at our decision to curb foreign trade and influence in favour of traditional Japanese values.	true
+incidents_localised_title_c_bos_koyosha_modern_FIRST_peer_respect	Koyosha	true
+incidents_localised_title_c_auxiliary_supplies_SECOND_merchant_discontent	Auxiliary Supplies	true
+incidents_localised_description_c_tribute_emperor_SECOND_peer_contempt	Rival daimyo across Japan are angered by our disregard for the emperor's demands.	true
+incidents_localised_description_c_gem_eiga_monogatari_FIRST_fujiwara_influence	Owing to our circulation of the Eiga Monogatari, knowledge of the Fujiwara is spreading throughout our lands.	true
+incidents_localised_description_c_gem_eiga_monogatari_fujiwara_FIRST_fujiwara_influence	Owing to the Eiga Monogatari, appreciation for our past achievements amongst our people is soaring.	true
+incidents_localised_description_c_gem_miidera_FIRST_monks	The Miidera monks sympathise with our cause and have provided us with warrior monks to aid us in battle.	true
+incidents_localised_title_c_ambitious_traders_FIRST_able_sailors	Ambitious Traders	true
+incidents_localised_title_i_dis_volcano_bandai	Bandai-san Erupts!	true
+incidents_localised_title_c_bos_koyosha_western_SECOND_criminal_contacts	Koyosha	true
+incidents_localised_description_c_meritorious_action_SECOND_peer_contempt	Due to our reluctance to reward success and honourable conduct, rival daimyo have lost respect for our clan.	true
+incidents_localised_title_i_dis_volcano_chokai	Chokai-san Erupts!	true
+incidents_localised_description_c_otomo_baptism_SECOND_grateful_populace	The people are aware of the sacrifices we have made for the good of the clan, and are grateful we have not turned our backs on hallowed tradition.	true
+incidents_localised_title_i_dis_volcano	Volcano!	true
+incidents_localised_title_i_bos_koyosha	Koyosha	true
+incidents_localised_title_c_bos_sakai_incident_FIRST_disaffected_populace	The Sakai Incident	true
+incidents_localised_description_i_gem_research_specific_military	Our dedication to the martial arts has improved our capacity for mastering them.	true
+incidents_localised_title_c_bos_sakai_incident_FIRST_grant_french_marines	The Sakai Incident	true
+incidents_localised_description_c_bos_nanban_slavers_SECOND_inspired_endeavours	Our people have been inspired by our willingness to stand up for the rights of others, regardless of the western agenda.	true
+incidents_localised_description_c_bos_student_exchange_FIRST_grant_royal_marines	Having made a grand impression upon their British hosts, the men we sent abroad to study have solicited foreign military support. As such, we have been granted a unit of Royal Marines.	true
+incidents_localised_title_c_omen_ocean_tsunami	Owatatsumi's Wrath	true
+incidents_localised_description_c_otomo_embassy_FIRST_nanban_ire	It has been some years since we sent our embassy westward, my lord. Word has now arrived through foreign ships that the differences in our cultures have lowered the foreigners’ opinion of us, and affected trade.	true
+incidents_localised_description_c_bos_gaijin_trouble_SECOND_foreign_boost	Taking comfort in the knowledge that they can enjoy relative freedom of action within our domain, an increasing number of foreigners are operating in our ports.	true
+incidents_localised_title_i_research_ratio_civil	Master of the Civil Arts	true
+incidents_localised_description_c_bos_rangaku_FIRST_breakthrough_industrial_sci	Wonderful news, my lord! Our tolerance towards western learning has led to a breakthrough in industrial science.	true
+incidents_localised_description_c_bos_gaijin_trouble_SECOND_anti_western_riots	Incensed at the concessions made in favour of the westerners, people in this province are rioting in protest. It will be some time before order is restored.	true
+incidents_localised_title_i_gem_dedicated_seafarer_able_sailors	Dedicated Seafarer	true
+incidents_localised_title_c_otomo_baptism_FIRST_anti_nanban_riots	Baptism	true
+incidents_localised_description_c_bos_koyosha_western_FIRST_samurai_discontent	The samurai have expressed discontent at our decision to crack down on koyosha activities, hailing them as champions of traditional Japanese values.	true
+incidents_localised_title_c_bos_shogun_province_security_FIRST_iron_fist	Security Matters	true
+incidents_localised_title_c_desecration_SECOND_anti_nanban_riots	Desecration	true
+incidents_localised_title_c_bos_sakai_incident_SECOND_inspired_endeavours	The Sakai Incident	true
+incidents_localised_description_c_francis_xavier_SECOND_anti_nanban_riots	Riots have broken out across our domain as the people protest the encouragement of nanban beliefs.	true
+incidents_localised_title_i_gem_dedicated_builder	Dedicated Builder	true
+incidents_localised_title_c_wako_threat_FIRST_lucrative_shipping	The Wako Threat	true
+incidents_localised_description_c_bos_sword_abolishment_FIRST_samurai_discontent	Members of the samurai class are incensed that we should eschew tradition and forbid the bearing of arms.	true
+incidents_localised_description_i_research_specific_civil	Our dedication to the civil arts has improved our capacity for mastering them.	true
+incidents_localised_description_i_gem_research_balanced	Our dogged pursuit of knowledge has improved our capacity for mastering both the military and civil arts.	true
+incidents_localised_description_i_bos_season_spring_first	Shivering beauty\\nraises my spirit higher. \\nThe herald of spring.	true
+incidents_localised_description_c_bos_rangaku_FIRST_foreign_boost	Having learned of our tolerance towards western learning, foreign powers have decided to improve trade relations with our clan.	true
+incidents_localised_title_c_ambitious_traders_FIRST_lucrative_shipping	Ambitious Traders	true
+incidents_localised_title_i_gem_agricultural_practices	Time of Plenty	true
+incidents_localised_description_i_bos_eejanaika	Despite the uncertainty of the times, the people have found solace in our country's great religious and cultural diversity. Festivities abound and - for the moment, at least - the people are content.	true
+incidents_localised_title_c_bos_koyosha_modern_FIRST_samurai_discontent	Koyosha	true
+incidents_localised_description_c_gem_kofukuji_SECOND_rebellion	Enraged at our sacking of their temple, the Kofukuji have instigated a rebellion against us!	true
+incidents_localised_description_c_omen_ocean_stormy_seas	My lord! We have incurred the wrath of Owatatsumi! Some of our ships were put at the mercy of the sea-god!	true
+incidents_localised_title_c_bos_sword_abolishment_FIRST_grateful_populace	Haitorei	true
+incidents_localised_title_i_gem_research_specific_civil	Master of the Civil Arts	true
+incidents_localised_description_c_wako_threat_FIRST_lucrative_shipping	Having worked to keep the shipping lanes free of piracy, we are now benefitting from a significant boost in sea trade.	true
+incidents_localised_title_c_bos_icarus_affair_FIRST_grant_royal_marines	The Icarus Affair	true
+incidents_localised_title_c_gem_heiji_monogatari_minamoto_FIRST_nothing	The Heiji Monogatari	true
+incidents_localised_description_c_intoxication_FIRST_provincial_discord	The people feel dejected by our perceived lack of understanding of their needs during these trying times.	true
+incidents_localised_title_c_ambitious_traders_SECOND_prosperity	Ambitious Traders	true
+incidents_localised_description_c_bos_sword_abolishment_FIRST_brigandry	Disturbing news, my lord. As a result of our abolishment of the right to bear arms, the people are increasingly preyed upon by brigands without means of self defence.	true
+incidents_localised_description_i_monopoly_iron_supplies	My lord! We now hold all provinces that are rich in high-grade iron. Our new troops will benefit greatly from this.	true
+incidents_localised_description_c_martial_priorities_FIRST_call_to_arms	Many clansmen are rushing to join our army in the hope that they might serve the clan in battle against our enemies.	true
+incidents_localised_description_i_dedicated_seafarer_able_sailors	The development of our naval capabilities has led to many expert seamen rushing to serve aboard our ships.	true
+incidents_localised_title_i_bos_safeguard	Safeguard	true
+incidents_localised_title_i_religion_convert_nanban_trade	Christianity	true
+incidents_localised_description_i_research_ratio_civil	Our dedication to the civil arts has improved our capacity for mastering them.	true
+incidents_localised_title_c_bos_gaijin_trouble_SECOND_anti_western_riots	Gaijin Trouble	true
+incidents_localised_description_c_otomo_baptism_SECOND_nanban_ire	Your unwillingness to accept baptism into their faith has offended many powerful nanban, thereby damaging our relations with them.	true
+incidents_localised_title_i_foreign_trade_network	Foreign Trade Network	true
+incidents_localised_description_c_bos_shogun_province_security_FIRST_iron_fist	Improved policing in this province has helped us maintain order better than we could have hoped. Unfortunately, the resulting oppression has affected the people and impeded local production.	true
+incidents_localised_title_c_bos_koyosha_western_FIRST_samurai_discontent	Koyosha	true
+incidents_localised_title_i_gem_antoku_enthroned_taira	Emperor Antoku	true
+incidents_localised_description_c_desecration_SECOND_anti_nanban_riots	Angered at the concessions made in favour of nanban missionaries in this province, the people have downed tools and taken to rioting in protest.	true
+incidents_localised_title_c_bos_icarus_affair_FIRST_disaffected_populace	The Icarus Affair	true
+incidents_localised_title_c_urban_migration_FIRST_meagre_harvest	Urban Migration	true
+incidents_localised_description_c_desecration_FIRST_nanban_ire	The Church is incensed at our recent handling of disturbances involving their missionaries in this province.	true
+incidents_localised_title_c_bos_shogun_province_security_FIRST_grant_shinsengumi	Security Matters	true
+incidents_localised_title_c_gem_heiji_monogatari_taira_FIRST_minamoto_influence	The Heiji Monogatari	true
+incidents_localised_title_c_bos_rangaku_FIRST_samurai_discontent	Rangaku	true
+incidents_localised_title_c_bos_westerners_attacked_FIRST_foreign_boost	Anti-western Aggression	true
+incidents_localised_description_c_bos_sword_abolishment_FIRST_grateful_populace	The people are exceedingly grateful at measures taken to curb domestic violence, especially those living in fear of the samurai class.	true
+incidents_localised_description_c_omen_fire_fire	My lord! We have incurred the wrath of Kagutsuchi! Wild fires have swept through one of our towns!	true
+incidents_localised_title_c_gem_kofukuji_SECOND_rebellion	Kofukuji	true
+incidents_localised_title_i_bos_eejanaika	Eejanaika	true
+incidents_localised_title_i_monopoly_horse_horsebreeders	Monopoly	true
+incidents_localised_description_c_ronin_SECOND_ronin_marauders	As we have failed to enlist the ronin encountered in this province, these masterless warriors are now terrorising the local populace.	true
+incidents_localised_title_i_bos_equipment_cache	Military Cache	true
+incidents_localised_description_c_otomo_embassy_FIRST_word_of_god	It has been some years since we sent our embassy westward, my lord. Seemingly they have made a strong impression with His Holiness, the Pope. A Papal mission, including some of his most trusted servants, has arrived to spread Christianity throughout our lands.	true
+incidents_localised_description_i_foreign_trade_network	Having achieved dominance over trade links with a number of foreign powers we are reaping the benefits of an increase in foreign goods being shipped into our clan.	true
+incidents_localised_title_c_bos_icarus_affair_SECOND_inspired_endeavours	The Icarus Affair	true
+incidents_localised_title_bos_intro_4a_incident_military	Setting Our Priorities	true
+incidents_localised_title_c_bos_shogun_province_security_FIRST_grateful_populace	Security Matters	true
+incidents_localised_description_c_wako_threat_FIRST_able_sailors	Our efforts to tackle the mounting threat from wako pirates have led to an increase ship crew skill.	true
+incidents_localised_title_c_gem_migrant_workers_FIRST_lackluster_efforts	Migrant Workforce	true
+incidents_localised_description_i_religion_convert_nanban_trade	My lord! Now that we possess a nanban trade port, exchange with the far west has begun. As well as trade opportunities, the nanban have brought their religious beliefs; already, Christianity is swaying some of the people, and unless measures are taken it will continue to spread. You may choose to embrace this religion yourself, but this decision will surely offend those who adhere to the old religions, and should not be made lightly.	true
+incidents_localised_description_i_bos_safeguard	The people of this province are grateful for the protection offered by our substantial garrison.	true
+incidents_localised_title_c_bos_western_exploitation_FIRST_foreign_boost	Unequal Treaties	true
+incidents_localised_description_i_equipment_cache	Whilst moving through enemy territory our forces uncovered a cache of military supplies. It has been transported back to our provinces.	true
+incidents_localised_title_c_martial_priorities_FIRST_call_to_arms	Military Priorities	true
+incidents_localised_title_c_bos_sword_abolishment_FIRST_brigandry	Haitorei	true
+incidents_localised_title_c_intoxication_FIRST_provincial_discord	In Their Cups	true
+incidents_localised_title_i_religion_convert_christian_influence	Christianity	true
+incidents_localised_title_c_gem_enryakuji_FIRST_refuse	Enryakuji	true
+incidents_localised_description_i_monopoly_horse_cavalry	My lord! We now control every province in which the finest horses are bred. Our cavalry recruitment efforts will benefit greatly from this.	true
+incidents_localised_title_c_bos_icarus_affair_FIRST_anti_western_riots	The Icarus Affair	true
+incidents_localised_title_c_better_agent_metsuke_FIRST_shogunal_deputy	The Shogun's Authority	true
+incidents_localised_title_i_gem_antoku_enthroned_other	Emperor Antoku	true
+incidents_localised_description_c_otomo_baptism_FIRST_anti_nanban_riots	The people are in turmoil, appalled that we have succumbed to the nanban’s religion. They fear we have turned our backs on the ancestral spirits. 	true
+incidents_localised_description_bos_intro_4a_incident_military	Our focus on military advancement has yielded unexpected results, my lord; the people are clamouring to join our ranks to protect their kin and their clan from harm.	true
+incidents_localised_description_c_bos_icarus_affair_SECOND_inspired_endeavours	Hearing of our unwillingness to submit to western demands, the people have been inspired in their daily lives.	true
+incidents_localised_title_c_bos_nanban_slavers_SECOND_chinese_gratitude	Nanban Slavers	true
+incidents_localised_title_c_bos_rangaku_FIRST_breakthrough_industrial_sci	Rangaku	true
+incidents_localised_description_c_gem_migrant_workers_FIRST_lackluster_efforts	The sudden influx of labourers from without our domain has filled the people with resentment.	true
+incidents_localised_description_c_bos_shogun_province_security_FIRST_grateful_populace	The people in this province are grateful for the steps that we have taken to improve local public safety.	true
+incidents_localised_description_c_bos_western_exploitation_FIRST_foreign_boost	While not all consent, a significant number of the western powers have heard our plight and agreed to better trade terms over the coming year.	true
+incidents_localised_description_c_bos_nanban_slavers_FIRST_foreign_boost	Thanks to our unwillingness to interfere in the private affairs of the western powers, we are experiencing an increase in foreign trade.	true
+incidents_localised_description_c_francis_xavier_FIRST_nanban_ire	Incensed because we turned away their anointed envoy, the nanban and their Church are now hesitant in their dealings with us.	true
+incidents_localised_title_c_bos_nanban_slavers_SECOND_inspired_endeavours	Nanban Slavers	true
+incidents_localised_description_c_gem_miidera_SECOND_rival_monks	Joyed at our sacking of their rival's temple - Miidera - the Enryakuji monks have provided us with warrior monks to aid us in battle.	true
+incidents_localised_title_i_clan_might	Clan Might	true
+incidents_localised_description_c_bos_sakai_incident_FIRST_grant_french_marines	In gratitude for our handling of the Sakai incident, the French have granted us command of a unit of marines to aid the war effort.	true
+incidents_localised_description_c_gem_heiji_monogatari_minamoto_FIRST_minamoto_influence	Wonderful news! The chronicle of the Heiji Rebellion has circulated amongst the provincial nobles. Many who doubted the Minamoto cause now support us with zeal!	true
+incidents_localised_description_i_agricultural_practices	Having ensured that the majority of our provinces are agriculturally developed, we are now enjoying a time of plenty.	true
+incidents_localised_description_i_religion_convert_christian_influence	My lord, despite our lack of contact with the nanban their religious beliefs have spread from neighbouring provinces. Unless measures are taken to curb this Christian influence it will continue to spread. You may choose to embrace this religion yourself, but this decision will surely offend those who adhere to the old religions, and should not be made lightly.	true
+incidents_localised_description_c_bos_sakai_incident_FIRST_disaffected_populace	The people are disheartened that we should concede to the whims of the West, regardless of the cause.	true
+incidents_localised_description_c_gem_young_thief_FIRST_spawn_spy	My lord, remember the young man whom we caught stealing from the stores some time ago? Grateful for his release, he has now put himself at the family's disposal.	true
+incidents_localised_title_c_desecration_FIRST_nanban_ire	Desecration	true
+incidents_localised_description_c_urban_migration_FIRST_meagre_harvest	Owing to the favouring of commercial matters over agriculture, yield from our farms has declined.	true
+incidents_localised_description_c_bos_icarus_affair_FIRST_disaffected_populace	The people are disheartened that we should concede to the whims of the West, regardless of the cause.	true
+incidents_localised_title_i_research_specific_military	Master of the Military Arts	true
+incidents_localised_description_c_bos_shogun_province_security_FIRST_grant_shinsengumi	As a show of support, the shinsengumi - the feared lawmen - have provided us with a unit of their finest warriors to aid security and defence.	true
+incidents_localised_description_c_bos_koyosha_western_FIRST_foreign_boost	Western powers are grateful that we have taken the problem of anti-western koyosha activity seriously. They have subsequently stepped up the volume of trade between us.	true
+incidents_localised_title_i_gem_research_balanced	Master of the Arts	true
+incidents_localised_description_c_bos_rangaku_FIRST_samurai_discontent	Traditionalists within our clan are outraged at how readily we have allowed western learning to be promoted amongst our people.	true
+incidents_localised_description_i_gem_dedicated_builder	Our development of castles and infrastructure has helped our builders increase their expertise.	true
+incidents_localised_title_c_disloyalty_FIRST_dread_lord	Rumours of Treason	true
+incidents_localised_description_c_bos_sakai_incident_FIRST_foreign_boost	Satisfied with our handling of the Sakai incident, western authorities have agreed to better trade conditions over the coming months.	true
+incidents_localised_description_c_bos_sakai_incident_SECOND_inspired_endeavours	Hearing of our unwillingness to submit to western demands, the people have been inspired in their daily lives.	true
+incidents_localised_description_c_gaijin_trouble_FIRST_anti_nanban_riots	Riots have broken out in this province as people protest the presence of the nanban there.	true
+incidents_localised_title_c_ronin_SECOND_ronin_marauders	Ronin	true
+incidents_localised_description_i_monopoly_horse_horsebreeders	My lord! We now control every province where the finest horses are bred. Our cavalry recruitment efforts will benefit greatly from this feat.	true

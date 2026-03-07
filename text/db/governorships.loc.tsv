@@ -1,0 +1,7 @@
+key	text	tooltip
+#Loc;1;text/db/governorships.loc		
+governorships_onscreen_asia	Asia	true
+governorships_onscreen_europe	Europe	true
+governorships_onscreen_africa	Africa	true
+governorships_onscreen_india	India	true
+governorships_onscreen_america	America	true

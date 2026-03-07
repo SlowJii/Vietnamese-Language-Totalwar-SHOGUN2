@@ -1,0 +1,278 @@
+key	text	tooltip
+#Loc;1;text/db/battle_script_advice_strings.loc		
+battle_script_advice_strings_title_CreativeAssembly.0406h_TUT_Caravel	Caravel	true
+battle_script_advice_strings_title_CreativeAssembly.0112_TUT_Assault_Building	No-dachi Samurai	true
+battle_script_advice_strings_title_CreativeAssembly.0122_TUT_Yari_Cavalry_Info	Yari Cavalry	true
+battle_script_advice_strings_title_CreativeAssembly.0012_TUT_Radar_Map	Radar Map	true
+battle_script_advice_strings_title_CreativeAssembly.0311_TUT_Radar_Map	Radar Map	true
+battle_script_advice_strings_title_CreativeAssembly.0206b_TUT_Ninja_Info	Kisho Ninja	true
+battle_script_advice_strings_title_CreativeAssembly.0027_TUT_Unit_Deselection	Movement Speeds	true
+battle_script_advice_strings_string_CreativeAssembly.0318_TUT_New_Course	With the enemy beaten, head out to sea and look for other vessels along the coast. Right-click on the sea to set a new course.	true
+battle_script_advice_strings_title_CreativeAssembly.0329_TUT_Boarding	Heavy Bune	true
+battle_script_advice_strings_string_CreativeAssembly.0003_TUT_Yari_Ashigaru_Info	Yari ashigaru are useful in any army. They carry spears - yari - and protect valuable units in battle, such as archers and other missile units. They also defend well against cavalry. Click on the tick button to continue.	true
+battle_script_advice_strings_title_CreativeAssembly.0324_TUT_Grouping	Groups	true
+battle_script_advice_strings_string_CreativeAssembly.0023_TUT_Fire_At_Will	Your samurai archers can use different kinds of arrows. Select the fire arrow button to launch a devastating flaming attack!	true
+battle_script_advice_strings_string_CreativeAssembly.0123_TUT_Hill_Advance	Excellent! The enemy matchlocks are no longer a problem! Finish the Sogo now: use the terrain and try to outflank the enemy!	true
+battle_script_advice_strings_title_CreativeAssembly.0404_TUT_Sea_Mine	Mines	true
+battle_script_advice_strings_string_CreativeAssembly.0316_TUT_Health_Bars	The enemy ship is damaged and it has crew casualties: the sashimono flags above the ship are now tattered and worn. They show the strength of the ship's hull and the damage you have caused.	true
+battle_script_advice_strings_title_CreativeAssembly.0318_TUT_New_Course	Movement	true
+battle_script_advice_strings_title_CreativeAssembly.0003_TUT_Yari_Ashigaru_Info	Yari Ashigaru	true
+battle_script_advice_strings_string_CreativeAssembly.0406a_TUT_Cannon_Bune	The cannon bune is fast-moving for hit-and-run attacks against larger vessels. It should be kept away from medium and large ships to avoid boarding actions. If boarding is likely, a cannon bune can use its "fast rowing" to make a quick escape.	true
+battle_script_advice_strings_title_CreativeAssembly.0005_TUT_Walk_To_Run	Movement Speeds	true
+battle_script_advice_strings_title_CreativeAssembly.0328_TUT_Enemy_Ships	Combat	true
+battle_script_advice_strings_string_CreativeAssembly.0406i_TUT_Set_Sail	So, you have a magnificent fleet! Destroy the approaching Myoshi!	true
+battle_script_advice_strings_title_CreativeAssembly.0024_TUT_Ammo_Bar	Missile Resources	true
+battle_script_advice_strings_string_CreativeAssembly.0310_TUT_Camera_CV	Finally, to pivot the camera to get a better battle view, use C and V.	true
+battle_script_advice_strings_string_CreativeAssembly.0011_TUT_Camera_CV	You can also use the C and V keys to pivot the camera. Again, when you're ready click on the new advice button.	true
+battle_script_advice_strings_title_CreativeAssembly.0412_TUT_Boarding	Boarding	true
+battle_script_advice_strings_string_CreativeAssembly.0002_TUT_Select_Unit	We will start with the units in your army. Select the yari ashigaru by left-clicking on them or on the flashing unit card at the bottom of the screen.	true
+battle_script_advice_strings_string_CreativeAssembly.0302_TUT_Select_Ship	Left click on the bow ship to select it, or click on the flashing ship card at the bottom of the screen.	true
+battle_script_advice_strings_string_CreativeAssembly.0403_TUT_Deployables	Now, right-click on the sea where you want your ship to deploy a mine. Once battle starts, mines are not under your control, so position them for maximum destructive effect! When you are happy click on the place mine button.	true
+battle_script_advice_strings_string_CreativeAssembly.0402_TUT_Deployables	You can use deployable weapons in naval battles. Mines are small wooden platforms carrying explosives that damage unsuspecting ships. Your fire bomb ship can place mines anywhere during deployment, but not in the enemy deployment zone. Select the fire bomb ship.	true
+battle_script_advice_strings_string_CreativeAssembly.0329a_TUT_Boarding	Click on the boarding button and then right-click on one of the enemy ships to issue a boarding attack!	true
+battle_script_advice_strings_title_CreativeAssembly.0332_TUT_Enemy_Surrendered	Combat Success	true
+battle_script_advice_strings_title_CreativeAssembly.0010_TUT_Camera_QEZX	Camera Controls	true
+battle_script_advice_strings_string_CreativeAssembly.0109_TUT_Village_Buildings	Scouting has revealed that the Sogo are in the village. Their troops are using the buildings for cover! Now, select your siege weapon.	true
+battle_script_advice_strings_string_CreativeAssembly.0320_TUT_Ship_Added	Good! The stranded ship has joined your fleet, but it is damaged. To repair it, left-click the ship or select the medium bune ship card. 	true
+battle_script_advice_strings_title_CreativeAssembly.0309_TUT_Camera_QEZX	Camera Controls	true
+battle_script_advice_strings_string_CreativeAssembly.0406_TUT_Ship_Types	Before the fighting starts, we'll look at some of the ships in Total War: Shogun2.	true
+battle_script_advice_strings_title_CreativeAssembly.0004_TUT_Move_Yari_Ashigaru	Movement	true
+battle_script_advice_strings_title_CreativeAssembly.0110c_TUT_Artillery_Unlimber	Siege Weapons	true
+battle_script_advice_strings_title_CreativeAssembly.0408_TUT_Land_Mass	Sea Terrain	true
+battle_script_advice_strings_string_CreativeAssembly.0107_TUT_Advance_Army	The Sogo clan are defending the far side of the river. We must control the nearby village, cross the river and attack! Move the army towards the village.	true
+battle_script_advice_strings_title_CreativeAssembly.0105_TUT_Generals_Abilities	Generals 	true
+battle_script_advice_strings_title_CreativeAssembly.0106_TUT_Generals_Abilities	Generals 	true
+battle_script_advice_strings_title_CreativeAssembly.0315_TUT_Fire_Arrows	Abilities	true
+battle_script_advice_strings_string_CreativeAssembly.0004_TUT_Move_Yari_Ashigaru	There is a Chosokabe village further down the hillside. Select your yari ashigaru, and move there by right-clicking on the terrain.	true
+battle_script_advice_strings_title_CreativeAssembly.0406_TUT_Ship_Types	Ships	true
+battle_script_advice_strings_title_CreativeAssembly.0007_TUT_Unit_Halt	Movement	true
+battle_script_advice_strings_string_CreativeAssembly.0313_TUT_Firing_Arcs	The coloured circle around your ship is your firing radius. It shows the maximum range of the ship's weapons. Try to position your ship so that the enemy moves into your firing radius. Keep at a safe distance: they could board if they get too close.	true
+battle_script_advice_strings_title_CreativeAssembly.0406g_TUT_Nihon_Maru	Nihon Maru	true
+battle_script_advice_strings_title_CreativeAssembly.0009_TUT_Camera_WASD	Camera Controls	true
+battle_script_advice_strings_title_CreativeAssembly.0308_TUT_Camera_WASD	Camera Controls	true
+battle_script_advice_strings_title_CreativeAssembly.0406d_TUT_Siege_Tower_Ship	Siege Tower Ship	true
+battle_script_advice_strings_string_CreativeAssembly.0105_TUT_Generals_Abilities	Your general is the focal point of the army: he directs and inspires his men. Your general automatically gives a small morale boost to troops inside his circle of influence. But he also has special abilities with greater effects too. Select your general now to learn more about these abilities.	true
+battle_script_advice_strings_string_CreativeAssembly.0106_TUT_Generals_Abilities	Your general has an "Inspire" ability. This will increase a unit's morale, melee skills and missile accuracy, for a short period of time. He can also use the "Rally" ability, to stop troops from fleeing and boost the morale of nearby men. Be careful when you use these abilities: they cannot be used constantly, and you must wait before using them again. Picking the best time is part of being a skilful commander!	true
+battle_script_advice_strings_title_CreativeAssembly.0405_TUT_Place_Deployables	Mines	true
+battle_script_advice_strings_string_CreativeAssembly.0104_TUT_Deployment_Generals	During deployment, the defender gets to see his enemy deploy before committing his own troops. As you are defending, carefully study how they have deployed and arrange your own units to confer maximum advantage. When ready, select the gong button to start the battle.	true
+battle_script_advice_strings_title_CreativeAssembly.0330_TUT_Boarding_Started	Boarding	true
+battle_script_advice_strings_string_CreativeAssembly.0020_TUT_Samurai_Archers_Info	Archers allow you to inflict casualties from a distance. Archers should skirmish to keep their losses low, so click on the highlighted button. Skirmishing means that the archers will retreat to safety when enemies come too close. Once safe, they will fire again.	true
+battle_script_advice_strings_string_CreativeAssembly.0407_TUT_Sea_Terrain	For the first time in Total War, sea battles include terrain. As the map shows, there are islands, coasts and shallow waters: all of these can be used tactically with your ships' capabilities.	true
+battle_script_advice_strings_title_CreativeAssembly.0320_TUT_Ship_Added	Medium Bune	true
+battle_script_advice_strings_string_CreativeAssembly.0324a_TUT_Grouping	Now click on the group button to form them into a group. You can create as many groups as you wish if you have enough ships.	true
+battle_script_advice_strings_string_CreativeAssembly.0204_TUT_Siege_Camp	Defenders must protect the tenshu at all costs: their castle towers can fend off an enemy attack. Total War: Shogun 2 contains many new units with new abilities. Some of these are in your army.	true
+battle_script_advice_strings_title_CreativeAssembly.0407_TUT_Sea_Terrain	Sea Terrain	true
+battle_script_advice_strings_string_CreativeAssembly.0028_TUT_Heavy_Cavalry_Info	You now have some heavy cavalry. They are powerful, armoured, highly skilled and suited to hit-and-run fights. They can break the enemy's morale, and cause heavy casualties by bursting through their lines.	true
+battle_script_advice_strings_title_CreativeAssembly.0406i_TUT_Set_Sail	Naval Combat	true
+battle_script_advice_strings_string_CreativeAssembly.0025_TUT_Charge_Bonus	Now order your units to move down towards the remaining enemy.	true
+battle_script_advice_strings_string_CreativeAssembly.0206a_TUT_Monk_Info	Warrior monks are fearsome in hand-to-hand combat. They have high morale, a charge bonus and fighting skills fuelled by religious fervour. Often, they will stand their ground despite casualties. Poor armour makes warrior monks vulnerable to missile attacks. Keep them away from archers when possible.	true
+battle_script_advice_strings_string_CreativeAssembly.0022_TUT_Firing_Arc	When selected all missile troops, including archers, have a firing arc shown to their front. Enemy units in this arc are targets as long as your warriors have ammunition. Now: watch as the enemy samurai advance on your archers!	true
+battle_script_advice_strings_title_CreativeAssembly.0312_TUT_Enemy_Ship	Combat	true
+battle_script_advice_strings_title_CreativeAssembly.0104_TUT_Deployment_Generals	Generals 	true
+battle_script_advice_strings_string_CreativeAssembly.0108a_TUT_Move_Army	Your army can use predefined formations. To group them select all your units, then click on the group button followed by the lock button.	true
+battle_script_advice_strings_string_CreativeAssembly.0208f_TUT_Buildings	Use key buildings to give bonuses to your troops before mounting an attack on the enemy castle. It is important to retain control of them, they are as useful to the enemy as to you.	true
+battle_script_advice_strings_string_CreativeAssembly.0009_TUT_Camera_WASD	The village has been overrun, and the attackers may still be nearby. Move the camera back to the yari ashigaru with the W, A, S and D keys, or double left-click on the unit card.	true
+battle_script_advice_strings_string_CreativeAssembly.0308_TUT_Camera_WASD	You can reposition the camera by using the W, A, S and D keys now that your ship passed the mines. Or you can double click on the ship card to centre the camera on it.	true
+battle_script_advice_strings_title_CreativeAssembly.0317b_TUT_Enemy_Destroyed	Combat Success	true
+battle_script_advice_strings_title_CreativeAssembly.0114b_TUT_Continue_Attack	Continue the Attack	true
+battle_script_advice_strings_string_CreativeAssembly.0406g_TUT_Nihon_Maru	The Nihon Maru is the shogun's flagship, and the jewel of any fleet. You can only have it once your daimyo is shogun. It boosts the morale of all nearby ships and has a large crew, but the Nihon Maru is slow, cumbersome and susceptible to fire damage.	true
+battle_script_advice_strings_title_CreativeAssembly.0313_TUT_Firing_Arcs	Combat	true
+battle_script_advice_strings_string_CreativeAssembly.0206c_TUT_Hero_Info	Heroes are few in number, but can quickly cause heavy casualties. There are bow, katana and yari hero units.	true
+battle_script_advice_strings_title_CreativeAssembly.0307b_TUT_Waypoints	Mines	true
+battle_script_advice_strings_title_CreativeAssembly.0307c_TUT_Waypoints	Waypoints	true
+battle_script_advice_strings_string_CreativeAssembly.0325_TUT_Group_Formed	Look: your ship cards have been grouped under a single tab. Single ships can still be selected and given orders, but you can click on the tab and give orders to all the ships at once.	true
+battle_script_advice_strings_title_CreativeAssembly.0310_TUT_Camera_CV	Camera Controls	true
+battle_script_advice_strings_title_CreativeAssembly.0011_TUT_Camera_CV	Camera Controls	true
+battle_script_advice_strings_title_CreativeAssembly.0319_TUT_Assistance	Movement	true
+battle_script_advice_strings_title_CreativeAssembly.0103_TUT_Deployment_Zones	Deployment Zones	true
+battle_script_advice_strings_string_CreativeAssembly.0315_TUT_Fire_Arrows	Ships can cause extra damage by using their abilities: this bow ship can use the fire arrows. They cause more damage than ordinary arrows, and can set an enemy on fire. Now: select the fire arrow button to use them.	true
+battle_script_advice_strings_title_CreativeAssembly.0208f_TUT_Buildings	Key Buildings	true
+battle_script_advice_strings_title_CreativeAssembly.0108a_TUT_Move_Army	Army Selection	true
+battle_script_advice_strings_string_CreativeAssembly.0307b_TUT_Waypoints	Excellent! The ship has stopped. It looks like the burning ship has hit a mine, and there are more floating around. You must avoid hitting them if the ship is to reach the open sea.	true
+battle_script_advice_strings_string_CreativeAssembly.0307c_TUT_Waypoints	Waypoints can safely guide the ship past the mines. Hold down the Shift key and then right-click on the sea away from the mines to create the first waypoint. Repeat this to make more waypoints and a route to safety.	true
+battle_script_advice_strings_title_CreativeAssembly.0206c_TUT_Hero_Info	Heroes	true
+battle_script_advice_strings_string_CreativeAssembly.0319_TUT_Assistance	A stranded allied ship has been spotted. Head towards it to give assistance.	true
+battle_script_advice_strings_string_CreativeAssembly.0110c_TUT_Artillery_Unlimber	Moveable siege weapons can only fire if they have been first been unlimbered. Select your siege weapon and then the limber/unlimber button. Its crew will set up it up to fire upon the building being used  for cover by the Sogo. If, at a later time, you wish to move the siege weapon to a new position, you must first limber your guns before issuing a move order.	true
+battle_script_advice_strings_string_CreativeAssembly.0012_TUT_Radar_Map	To help you defeat the enemy the radar map shows you the terrain and each army's troops. Your soldiers are yellow; your allies blue; and the enemy red. Your selected units are white. Be sure to watch out for enemy moves and tricks!	true
+battle_script_advice_strings_string_CreativeAssembly.0311_TUT_Radar_Map	The radar map shows the waters where you are fighting, including nearby land, shallows and the position of each fleet's ships. Your ships are shown in yellow; enemy ships are red.	true
+battle_script_advice_strings_string_CreativeAssembly.0122_TUT_Yari_Cavalry_Info	Yari cavalry are the fastest units, used for scouting, outflanking and diversions. In wedge formation, they are good at hunting down unprotected missile units. Move your yari cavalry into position, ready to outflank the enemy!	true
+battle_script_advice_strings_string_CreativeAssembly.0309_TUT_Camera_QEZX	The camera can be raised or lowered by using the Z and X keys or by the mouse wheel. It can be rotated using Q and E.	true
+battle_script_advice_strings_title_CreativeAssembly.0204_TUT_Siege_Camp	Castle Battles	true
+battle_script_advice_strings_string_CreativeAssembly.0010_TUT_Camera_QEZX	The camera can be moved up or down with the Z and X keys, or with your mouse roller button. Rotate the camera with Q and E. When you're ready, click on the new advice button.	true
+battle_script_advice_strings_title_CreativeAssembly.0028_TUT_Heavy_Cavalry_Info	Heavy Cavalry	true
+battle_script_advice_strings_title_CreativeAssembly.0206a_TUT_Monk_Info	Warrior Monks	true
+battle_script_advice_strings_string_CreativeAssembly.0331_TUT_Boarding_BOP	As crew and boarders are killed, the morale of the living falls until one side surrenders. If you are losing, select your bune, and then click on the "war cry" ability.	true
+battle_script_advice_strings_string_CreativeAssembly.0312_TUT_Enemy_Ship	An enemy ship! Check its position on the radar map and prepare for battle!	true
+battle_script_advice_strings_title_CreativeAssembly.0022_TUT_Firing_Arc	Samurai Archers	true
+battle_script_advice_strings_title_CreativeAssembly.0102_TUT_Deployment_Phase	Deployment	true
+battle_script_advice_strings_title_CreativeAssembly.0403_TUT_Deployables	Mines	true
+battle_script_advice_strings_title_CreativeAssembly.0402_TUT_Deployables	Mines	true
+battle_script_advice_strings_string_CreativeAssembly.0120_TUT_Formations	Select the formation button and choose the formation that suits your needs. When ready, click the gong button to start the battle.	true
+battle_script_advice_strings_string_CreativeAssembly.0406d_TUT_Siege_Tower_Ship	Siege tower ships use superior height to rain down terror! The top deck tower allows them to kill enemy crews easily. Despite their speed and manoeuvrability, siege tower ships are weak in boarding actions, or if they take too much fire damage.	true
+battle_script_advice_strings_string_CreativeAssembly.0405_TUT_Place_Deployables	Before the battle begins you can change your mines' positions. Click on the remove mines button and then place them again. Finish placing your mines before starting the battle.	true
+battle_script_advice_strings_title_CreativeAssembly.0302_TUT_Select_Ship	Bow Ship	true
+battle_script_advice_strings_title_CreativeAssembly.0002_TUT_Select_Unit	Yari Ashigaru	true
+battle_script_advice_strings_string_CreativeAssembly.0306b_TUT_Ship_Halt	If you go too close to the burning vessel the fire might spread to your ship. Click the drop anchor button to stop at a safe distance.	true
+battle_script_advice_strings_string_CreativeAssembly.0326_TUT_Formations	You can put grouped ships into formations. Click on the group tab of the group you wish to arrange. Formations are shown at the edge of the screen. Picking one orders the ships to arrange themselves into that chosen formation.	true
+battle_script_advice_strings_string_CreativeAssembly.0007_TUT_Unit_Halt	If you want to stop a unit carrying out its orders, click on the halt button.	true
+battle_script_advice_strings_title_CreativeAssembly.0324a_TUT_Grouping	Groups	true
+battle_script_advice_strings_string_CreativeAssembly.0328_TUT_Enemy_Ships	There are enemy ships further up the coast! Move to intercept them!	true
+battle_script_advice_strings_string_CreativeAssembly.0005_TUT_Walk_To_Run	Once you have ordered a unit to move, you can make it run or walk by pressing the R key. You can also click on the movement speed button.	true
+battle_script_advice_strings_title_CreativeAssembly.0316_TUT_Health_Bars	Damage	true
+battle_script_advice_strings_string_CreativeAssembly.0124_TUT_Finish_Enemy	Now! Use your yari cavalry to charge the enemy matchlocks from behind. This should hurt morale, so that they rout from the battlefield.	true
+battle_script_advice_strings_string_CreativeAssembly.0332_TUT_Enemy_Surrendered	Good! The enemy crew have surrendered! Their vessel is yours! Finish off the other enemy ships!	true
+battle_script_advice_strings_title_CreativeAssembly.0109_TUT_Village_Buildings	Siege Weapons	true
+battle_script_advice_strings_string_CreativeAssembly.0116_TUT_Enemy_Forest	Enemy matchlock units are in the trees! Keep your cavalry back, as forests hinder them in a fight. So, select your naginata samurai units.	true
+battle_script_advice_strings_title_CreativeAssembly.0305b_TUT_Movement_Speeds	Battle Speed	true
+battle_script_advice_strings_title_CreativeAssembly.0329a_TUT_Boarding	Combat	true
+battle_script_advice_strings_string_CreativeAssembly.0408_TUT_Land_Mass	Land, the islands and coastline, is impassable for ships. Land can be useful for trapping enemies or shielding your vessels. Land masses are shown the radar map as green areas.	true
+battle_script_advice_strings_title_CreativeAssembly.0120_TUT_Formations	Army Formations	true
+battle_script_advice_strings_string_CreativeAssembly.0114_TUT_Musket_Ashigaru_Info	Matchlock ashigaru are peasants trained to use fire arms. They can decimate units when used en-masse. Forming them into wide rows ensures a large number of guns are presented in the direction they are facing, but their extremely poor melee capabilities and morale means matchlock ashigaru can be easily routed. Adverse weather conditions also cause major problems for them, as gunpowder weapons often malfunction in bad weather.	true
+battle_script_advice_strings_title_CreativeAssembly.0306b_TUT_Ship_Halt	Movement	true
+battle_script_advice_strings_string_CreativeAssembly.0206b_TUT_Ninja_Info	Kisho ninja may assassinate an enemy general. They can hide on the battlefield and use blinding grenades to escape combat with better-armoured foes. Kisho ninja can also infiltrate castles. Their climbing claws make it easy to climb any wall and capture a gatehouse.	true
+battle_script_advice_strings_title_CreativeAssembly.0326_TUT_Formations	Formations	true
+battle_script_advice_strings_title_CreativeAssembly.0110a_TUT_Move_Artillery	Combat Success	true
+battle_script_advice_strings_string_CreativeAssembly.0314_TUT_Ship_Rotation	The rotation buttons let you turn a ship on the spot, so that many of your archers can fire at the enemy. You can also right-click on the enemy ship. Your ship will continue to fire on the enemy until you give it a new order.	true
+battle_script_advice_strings_string_CreativeAssembly.0322_TUT_Repair_Process	Your ship cannot do anything else while it is being repaired, unless you cancel the work. Once the repairs are completed the ship is ready for combat. Let the crew finish the repairs; we will look at the bune's strengths and weaknesses.	true
+battle_script_advice_strings_title_CreativeAssembly.0001_TUT_Welcome	Welcome	true
+battle_script_advice_strings_title_CreativeAssembly.0101_TUT_Welcome	Welcome	true
+battle_script_advice_strings_title_CreativeAssembly.0201_TUT_Welcome	Welcome	true
+battle_script_advice_strings_title_CreativeAssembly.0301_TUT_Welcome	Welcome	true
+battle_script_advice_strings_title_CreativeAssembly.0401_TUT_Welcome	Welcome	true
+battle_script_advice_strings_title_CreativeAssembly.0110b_TUT_Move_Archers	Matchlock Ashigaru	true
+battle_script_advice_strings_string_CreativeAssembly.0117_TUT_Naginata_Samurai_Info	Your fearsome naginata samurai carry polearms and wear impressive armour. They can protect your flanks and rear from cavalry. Their heavy armour means they can attack enemy missile units and not take many casualties.	true
+battle_script_advice_strings_string_CreativeAssembly.0110_TUT_Artillery_Units	Siege weapons are powerful, but don't move. They can attack targets from a distance, and have a firing arc that shows where they can fire. Siege weapons are inaccurate and easily routed, if left to look after themselves. Select the siege weapon and right click on the enemy to attack.	true
+battle_script_advice_strings_title_CreativeAssembly.0331_TUT_Boarding_BOP	Boarding	true
+battle_script_advice_strings_title_CreativeAssembly.0119_TUT_Groups	Groups 	true
+battle_script_advice_strings_string_CreativeAssembly.0013_TUT_Unit_Rotation	A unit of katana cavalry are coming to attack your position. Turn and face them by selecting your yari ashigaru, then either clicking on the rotation arrows, or by holding down the right mouse button and dragging the unit out on the terrain in the direction you wish to face.	true
+battle_script_advice_strings_title_CreativeAssembly.0034_TUT_Select_Archers	Samurai Archers	true
+battle_script_advice_strings_title_CreativeAssembly.0406e_TUT_Sengoku_Bune	Sengoku Bune	true
+battle_script_advice_strings_title_CreativeAssembly.0019_TUT_Reveal_Samurai_Archers	Movement	true
+battle_script_advice_strings_title_CreativeAssembly.0016_TUT_Morale_Effects	Morale	true
+battle_script_advice_strings_title_CreativeAssembly.0205a_TUT_Gates	Castle Walls	true
+battle_script_advice_strings_string_CreativeAssembly.0008_TUT_Reminder_Move	Excellent! You cancelled your unit's orders. Now, order the yari ashigaru towards the village again by right-clicking on the ground.	true
+battle_script_advice_strings_title_CreativeAssembly.0411_TUT_Weather	Weather	true
+battle_script_advice_strings_title_CreativeAssembly.0303_TUT_Bow_Ship_Info	Bow Ship	true
+battle_script_advice_strings_string_CreativeAssembly.0114b_TUT_Continue_Attack	Continue attacking the enemy building with your siege and missile units. Keep your cavalry and infantry units further back to avoid casualties.	true
+battle_script_advice_strings_string_CreativeAssembly.0317b_TUT_Enemy_Destroyed	Thank the sea-spirits! The enemy is defeated!	true
+battle_script_advice_strings_string_CreativeAssembly.0034_TUT_Select_Archers	Left click on your archers, or their unit card, to select them.	true
+battle_script_advice_strings_string_CreativeAssembly.0205a_TUT_Gates	You do not have to breach the castle walls. Order your kisho ninja and other infantry to climb the walls and take control of the gatehouses. That done, assault the enemy tenshu!	true
+battle_script_advice_strings_title_CreativeAssembly.0325_TUT_Group_Formed	Groups	true
+battle_script_advice_strings_string_CreativeAssembly.0016_TUT_Morale_Effects	As a unit takes casualties their morale will start to drop, indicated by the coloured banner above them. Over time, this banner will change in colour from green to red. Once red, units are highly likely to rout and must be reinforced by more confident troops to prevent them fleeing the battlefield.	true
+battle_script_advice_strings_string_CreativeAssembly.0019_TUT_Reveal_Samurai_Archers	Now that the rebel cavalry are gone, some samurai archers have come out of hiding. Some units, like these archers, can hide in cover and then make surprise attacks. Move your yari ashigaru up behind your new archers. They will be useful in defeating the rebels.	true
+battle_script_advice_strings_string_CreativeAssembly.0103_TUT_Deployment_Zones	The yellow box around your army on the ground, and the radar map, is its deployment zone. It is a good idea to place cavalry on the flanks, and put infantry in the centre. Lesser units, like ashigaru, should be in front so they can be the first casualties. Keep your general out of immediate danger.	true
+battle_script_advice_strings_title_CreativeAssembly.0003a_TUT_Advisor_Arrows	Advisor	true
+battle_script_advice_strings_string_CreativeAssembly.0018_TUT_Power_Balance	The balance of power bar is above the radar map. It shows who is winning the battle. As units are destroyed or run away, the red and yellow displays change. With the enemy cavalry defeated, the red side is slightly smaller. Defeat all the rebels and all the bar will turn yellow.	true
+battle_script_advice_strings_string_CreativeAssembly.0033_TUT_Wedge	Before your cavalry reach the archers, click on the unit ability button and put them in wedge formation. This allows cavalry to cut through the enemies' ranks, and damages their morale.	true
+battle_script_advice_strings_title_CreativeAssembly.0322_TUT_Repair_Process	Repairs	true
+battle_script_advice_strings_title_CreativeAssembly.0202_TUT_Castles	Castle Battles	true
+battle_script_advice_strings_title_CreativeAssembly.0321_TUT_Repair_Button	Repairs	true
+battle_script_advice_strings_string_CreativeAssembly.0118_TUT_Group_Cavalry	While your infantry fight in the woods, select your yari cavalry.	true
+battle_script_advice_strings_title_CreativeAssembly.0025_TUT_Charge_Bonus	Movement	true
+battle_script_advice_strings_string_CreativeAssembly.0209_TUT_Zones	Inside a building there are zones where you can place units. The coloured markers show where units can stand, so you can select where to protect if attacked.	true
+battle_script_advice_strings_title_CreativeAssembly.0111_TUT_No_Dachi_Samurai_Info	No-dachi Samurai	true
+battle_script_advice_strings_title_CreativeAssembly.0006_TUT_Fatigue_Effects	Fatigue	true
+battle_script_advice_strings_string_CreativeAssembly.0119_TUT_Groups	Your army has been formed into a group. Notice that their unit cards have been re-arranged under a group tab. Selecting the group tab will enable your army to move and attack whilst staying in formation. You can create as many groups as you like, but a unit can only be part of one group at any one time.	true
+battle_script_advice_strings_title_CreativeAssembly.0125_TUT_Victory	Victory	true
+battle_script_advice_strings_string_CreativeAssembly.0406b_TUT_Matchlock_Ship	Matchlock ships are small and fast-moving. They are deadly to enemy crews. Keep them safely away from larger ships; they are vulnerable to boarding. Matchlocks will also suffer if attacked by siege tower ships because their upper decks lack cover.	true
+battle_script_advice_strings_title_CreativeAssembly.0032_TUT_Victory	Victory	true
+battle_script_advice_strings_title_CreativeAssembly.0205_TUT_Towers	Castle Towers	true
+battle_script_advice_strings_title_CreativeAssembly.0114_TUT_Musket_Ashigaru_Info	Matchlock Ashigaru	true
+battle_script_advice_strings_string_CreativeAssembly.0331b_TUT_Warcry	"War cry" boosts your crew's morale and fighting skills. Now, the enemy will soon be feeding the fishes!	true
+battle_script_advice_strings_string_CreativeAssembly.0206e_TUT_Infantry_Info	Infantry units can use climbing claws to scale castle walls and infiltrate enemy tenshu. This ability works in the same way as the kisho ninja climbing ability, but at a much slower speed.	true
+battle_script_advice_strings_title_CreativeAssembly.0030_TUT_Speed_Settings	Game Speed	true
+battle_script_advice_strings_string_CreativeAssembly.0026_TUT_Multi_Selection	Let the enemy flee! Now, select both your units by holding down the left mouse button and dragging a box around them.	true
+battle_script_advice_strings_string_CreativeAssembly.0304b_TUT_Move_Bow_Ship	There is a ship on fire out to sea! This must be investigated! Move your bow ship: select it, and then right-click on the sea near the burning vessel.	true
+battle_script_advice_strings_title_CreativeAssembly.0116_TUT_Enemy_Forest	Forests	true
+battle_script_advice_strings_title_CreativeAssembly.0207_TUT_Key_Buildings	Key Buildings	true
+battle_script_advice_strings_title_CreativeAssembly.0115_TUT_River_Crossing	River Crossings	true
+battle_script_advice_strings_string_CreativeAssembly.0305b_TUT_Movement_Speeds	Your ship will now move at maximum speed to investigate. You can adjust the speed of the battle by using the game speed buttons above the radar.	true
+battle_script_advice_strings_string_CreativeAssembly.0127_TUT_Naginata_Attack	Charge the enemy units with your naginata samurai. Give them covering fire from your missile units!	true
+battle_script_advice_strings_title_CreativeAssembly.0317_TUT_Morale	Morale	true
+battle_script_advice_strings_title_CreativeAssembly.0409_TUT_Shallow_Water	Sea Terrain	true
+battle_script_advice_strings_string_CreativeAssembly.0406f_TUT_O_Ataka_Bune	The o ataka bune is a bigger, better ataka bune! It has the largest crew of any ship, and it attacks by boarding.  However, it is slow and manoeuvres badly, so can be sunk by missile ships.	true
+battle_script_advice_strings_title_CreativeAssembly.0206d_TUT_Cavalry_Info	Cavalry	true
+battle_script_advice_strings_string_CreativeAssembly.0317a_TUT_Attack_Enemy	Keep attacking the enemy ship. Right-click on it to issue attack orders; keep it within your firing arc to cause maximum damage!	true
+battle_script_advice_strings_string_CreativeAssembly.0333_TUT_Outro	Most excellent! You have completed the tutorial, and protected the clan's valuable trade!	true
+battle_script_advice_strings_string_CreativeAssembly.0210_TUT_Outro	The Myoshi are defeated! This tutorial is done.	true
+battle_script_advice_strings_string_CreativeAssembly.0414_TUT_Outro	Now, feel free to try out your new ships, and their special capabilities, against the enemy fleet.	true
+battle_script_advice_strings_string_CreativeAssembly.0115_TUT_River_Crossing	Now you control much of the village, cross the river and finish off the enemy. Order your men to wade at the ford or use the narrow bridge. Terrain plays an important part in battle, and sometimes the quickest route may not always be the best route to defeat the enemy!	true
+battle_script_advice_strings_title_CreativeAssembly.0304b_TUT_Move_Bow_Ship	Movement	true
+battle_script_advice_strings_title_CreativeAssembly.0406c_TUT_Fire_Bomb_Ship	Fire Bomb Ship	true
+battle_script_advice_strings_title_CreativeAssembly.0124_TUT_Finish_Enemy	Flank Attack	true
+battle_script_advice_strings_string_CreativeAssembly.0317_TUT_Morale	Crew morale begins to fail when their ship is damaged. As the coloured banner above a ship changes from green to red it will eventually try to flee. To stop this, keep your ships together; repair their hulls when they are damaged.	true
+battle_script_advice_strings_string_CreativeAssembly.0102_TUT_Deployment_Phase	Before battle, you deploy your army. You can use an attacking or defensive formation, and change the position of units within the deployment zone. You can also set up defences before battle starts.	true
+battle_script_advice_strings_title_CreativeAssembly.0017_TUT_Cavalry_Success	Combat Success	true
+battle_script_advice_strings_string_CreativeAssembly.0030_TUT_Speed_Settings	You can adjust the game speed to make battles quicker. This is very useful if you need to march a long way, and you want your troops to walk and stay fresh. You can also slow everything down and get a better look at the enemy. Experiment with the game speed as your troops move towards the village.	true
+battle_script_advice_strings_title_CreativeAssembly.0206e_TUT_Infantry_Info	Infantry	true
+battle_script_advice_strings_title_CreativeAssembly.0323_TUT_Med_Bune_Info	Medium Bune	true
+battle_script_advice_strings_title_CreativeAssembly.0327_TUT_Hev_Bune_info	Heavy Bune	true
+battle_script_advice_strings_string_CreativeAssembly.0205_TUT_Towers	The castle towers are still a threat to your troops. Towers can be captured by placing a unit next to them for a while. They are vital to controlling a castle: once yours, a tower will automatically fire arrows at the enemy! 	true
+battle_script_advice_strings_string_CreativeAssembly.0412_TUT_Boarding	Boarding actions are now possible on either or both sides of an enemy ship, giving the boarders potentially twice the crew of the defenders. A ship defending against boarders can also reinforce themselves with another friendly vessel and crew. A maximum of three ships can be locked together at any time during a boarding action.	true
+battle_script_advice_strings_string_CreativeAssembly.0303_TUT_Bow_Ship_Info	This is a bow ship, a small, fast moving vessel, essential to a balanced fleet. Its archers are best when they shoot fire arrows and set enemy ships alight. Many small ships used like this can stop heavier ships dead in the water, but they are vulnerable to boarding attacks.	true
+battle_script_advice_strings_string_CreativeAssembly.0017_TUT_Cavalry_Success	Excellent! You have beaten the katana cavalry, and taken few casualties! Click the spear formation button again to turn it off. Use this tactic again when your spearmen face cavalry charges.	true
+battle_script_advice_strings_string_CreativeAssembly.0404_TUT_Sea_Mine	Ha! Your first mine is ready!	true
+battle_script_advice_strings_title_CreativeAssembly.0209_TUT_Zones	Buildings	true
+battle_script_advice_strings_string_CreativeAssembly.0111_TUT_No_Dachi_Samurai_Info	The enemy are weakened! It is time to assault the buildings with your no-dachi samurai!	true
+battle_script_advice_strings_title_CreativeAssembly.0203_TUT_Capture_Points	Castle Battles	true
+battle_script_advice_strings_string_CreativeAssembly.0406c_TUT_Fire_Bomb_Ship	Fire bomb ships use horoku bombs to cause serious damage at close range, but are easily boarded and taken. Speed and crew numbers mean that they are best used to hit-and-run. They have little cover on the deck, and will suffer if attacked by missiles.	true
+battle_script_advice_strings_title_CreativeAssembly.0406a_TUT_Cannon_Bune	Cannon Bune	true
+battle_script_advice_strings_title_CreativeAssembly.0018_TUT_Power_Balance	Balance of Power	true
+battle_script_advice_strings_title_CreativeAssembly.0033_TUT_Wedge	Formations	true
+battle_script_advice_strings_string_CreativeAssembly.0024_TUT_Ammo_Bar	Good! The rebels are hurt! Your archers have a limited supply of ammunition, so finish the rebels with the yari ashigaru. Select them now, and double right-click on the enemy samurai to charge!	true
+battle_script_advice_strings_string_CreativeAssembly.0321_TUT_Repair_Button	Now click on the repair ship button. The crew will begin work.	true
+battle_script_advice_strings_title_CreativeAssembly.0118_TUT_Group_Cavalry	Yari Cavalry	true
+battle_script_advice_strings_title_CreativeAssembly.0127_TUT_Naginata_Attack	Naginata Samurai	true
+battle_script_advice_strings_string_CreativeAssembly.0329_TUT_Boarding	You have a heavy bune in your fleet while the enemy only have medium-sized ships. A boarding attack would be good! Select your heavy bune.	true
+battle_script_advice_strings_string_CreativeAssembly.0203_TUT_Capture_Points	Now, use your army's specialist units to help capture the castle.	true
+battle_script_advice_strings_string_CreativeAssembly.0324_TUT_Grouping	It is easier to protect a fleet when the ships are grouped. Select all your ships: left click and drag a box around them; you can also hold down the control key and left-click on their ship cards.	true
+battle_script_advice_strings_title_CreativeAssembly.0023_TUT_Fire_At_Will	Abilities	true
+battle_script_advice_strings_title_CreativeAssembly.0314_TUT_Ship_Rotation	Combat	true
+battle_script_advice_strings_title_CreativeAssembly.0026_TUT_Multi_Selection	Combat Success	true
+battle_script_advice_strings_string_CreativeAssembly.0110b_TUT_Move_Archers	Units such as matchlock ashigaru can fire on enemy buildings. They will cause less damage than a siege weapon, but might stop the enemy escaping.	true
+battle_script_advice_strings_title_CreativeAssembly.0117_TUT_Naginata_Samurai_Info	Naginata Samurai	true
+battle_script_advice_strings_title_CreativeAssembly.0123_TUT_Hill_Advance	Combat Success	true
+battle_script_advice_strings_string_CreativeAssembly.0406h_TUT_Caravel	The caravel uses eastern and western design ideas, its European cannons make it lethal when firing from afar. But its crew is susceptible to boarding attacks.	true
+battle_script_advice_strings_title_CreativeAssembly.0008_TUT_Reminder_Move	Movement	true
+battle_script_advice_strings_string_CreativeAssembly.0112_TUT_Assault_Building	Elite no-dachi samurai carry two-handed swords. They are deadly in melee and have high morale, so they can fight away from your general. Select the no-dachi unit and right-click on the building to attack!	true
+battle_script_advice_strings_title_CreativeAssembly.0331b_TUT_Warcry	Abilities	true
+battle_script_advice_strings_string_CreativeAssembly.0027_TUT_Unit_Deselection	Don't forget the hill. Use this, and order your troops to run into position.	true
+battle_script_advice_strings_title_CreativeAssembly.0013_TUT_Unit_Rotation	Movement	true
+battle_script_advice_strings_string_CreativeAssembly.0032_TUT_Victory	Most satisfactory! The rebels are defeated: a good start to the conquest of Shikoku!	true
+battle_script_advice_strings_title_CreativeAssembly.0406b_TUT_Matchlock_Ship	Matchlock Ship	true
+battle_script_advice_strings_string_CreativeAssembly.0125_TUT_Victory	Congratulations, you have beaten the Sogo clan, and completed this tutorial.	true
+battle_script_advice_strings_string_CreativeAssembly.0406e_TUT_Sengoku_Bune	The sengoku bune is the only Japanese sailing ship, making it the fastest in the fleet. It is ideal for catching and boarding small vessels. The sengoku bune carries fewer crew than other medium-sized ships, leaving them vulnerable to near-equals.	true
+battle_script_advice_strings_string_CreativeAssembly.0006_TUT_Fatigue_Effects	All units are "fresh" when battle starts, but they will tire as they fight or move around the field. Running will tire a unit more than walking. It's important to keep units fresh. Being tired makes units fight poorly.	true
+battle_script_advice_strings_string_CreativeAssembly.0330_TUT_Boarding_Started	Your heavy bune will move to within boarding range of its target. Once alongside, troops from your vessel will board and attempt to take the ship!	true
+battle_script_advice_strings_string_CreativeAssembly.0021_TUT_Unit_Formation	Keep your yari ashigaru near your archers to protect them and improve morale. Your position on the hill gives your men an advantage. Charging downhill will improve their attack. It can give an edge over highly trained enemies.	true
+battle_script_advice_strings_title_CreativeAssembly.0020_TUT_Samurai_Archers_Info	Samurai Archers	true
+battle_script_advice_strings_string_CreativeAssembly.0206d_TUT_Cavalry_Info	Cavalry units can dismount during battles. They can assault buildings and enter forests without the penalty of being mounted. Choosing to dismount at the right time is important, as the decision cannot be changed for a short time.	true
+battle_script_advice_strings_title_CreativeAssembly.0317a_TUT_Attack_Enemy	Combat	true
+battle_script_advice_strings_string_CreativeAssembly.0031_TUT_Fleeing_Troops	See! The rebels run for their lives! Finish off any stragglers! If they manage to escape routing units can sometimes regroup or reform as an army on the campaign map. Why leave a threat?	true
+battle_script_advice_strings_string_CreativeAssembly.0029_TUT_Cavalry_Charge	Select your heavy cavalry. Order them to attack the enemy archers. They are close, so charge the archers by double right-clicking.  This will minimise your losses and inflict maximum casualties on impact!	true
+battle_script_advice_strings_string_CreativeAssembly.0202_TUT_Castles	When attacking a castle you must capture its keep, the "tenshu". Capture that, and victory is automatic!	true
+battle_script_advice_strings_title_CreativeAssembly.0414_TUT_Outro	Naval Combat	true
+battle_script_advice_strings_title_CreativeAssembly.0333_TUT_Outro	Victory	true
+battle_script_advice_strings_title_CreativeAssembly.0210_TUT_Outro	Victory	true
+battle_script_advice_strings_string_CreativeAssembly.0003a_TUT_Advisor_Arrows	If you want to listen again to what I said, click on my portrait. Use the back and forward arrows to select advice. Now, when you are ready to continue click the tick button.	true
+battle_script_advice_strings_title_CreativeAssembly.0015_TUT_Unit_Abilities	Abilities	true
+battle_script_advice_strings_title_CreativeAssembly.0207a_TUT_Key_Buildings	Key Buildings	true
+battle_script_advice_strings_string_CreativeAssembly.0327_TUT_Hev_Bune_info	Help has arrived: a heavy bune has joined your fleet. This is a slow-moving ship with a large crew, containing a few missile troops. A heavy bune is very effective in boarding attacks, but not very manoeuvrable. It is also vulnerable to fire damage.	true
+battle_script_advice_strings_string_CreativeAssembly.0323_TUT_Med_Bune_Info	Bunes come in medium and large sizes. This is a medium bune, a good all-rounder.  It has excellent speed, manoeuvrability and hull strength. It protects smaller vessels, like the bow ship, and can board and capture equivalent enemy vessels.	true
+battle_script_advice_strings_string_CreativeAssembly.0411_TUT_Weather	The time and weather also make a difference in naval battles. Rain affects missiles; boarding attacks are more important in the rain.	true
+battle_script_advice_strings_string_CreativeAssembly.0015_TUT_Unit_Abilities	To improve your chances of withstanding the lethal charge of the katana cavalry, select the spear wall ability button. Your unit will adopt a special formation to inflict maximum casualties on the enemy. All battlefield units have their own abilities, so be sure to take advantage of them in battle.	true
+battle_script_advice_strings_title_CreativeAssembly.0107_TUT_Advance_Army	Movement	true
+battle_script_advice_strings_string_CreativeAssembly.0207a_TUT_Key_Buildings	Although mostly found in multiplayer battles, key buildings give bonuses to nearby friendly units. They can replenish ammunition or restore morale. Any army can use key buildings and get their bonuses: just order a unit to enter, and then wait for the building to fall into your favour!	true
+battle_script_advice_strings_title_CreativeAssembly.0110_TUT_Artillery_Units	Siege Weapons	true
+battle_script_advice_strings_title_CreativeAssembly.0406f_TUT_O_Ataka_Bune	O Ataka Bune	true
+battle_script_advice_strings_title_CreativeAssembly.0021_TUT_Unit_Formation	Formations	true
+battle_script_advice_strings_string_CreativeAssembly.0409_TUT_Shallow_Water	Shallow waters, highlighted by the sea's light blue colour, give missile ships the advantage over their larger enemies. Shallow waters are impassable to ships, but missile fire can cross them.	true
+battle_script_advice_strings_title_CreativeAssembly.0029_TUT_Cavalry_Charge	Charging	true
+battle_script_advice_strings_title_CreativeAssembly.0031_TUT_Fleeing_Troops	Routing	true
+battle_script_advice_strings_string_CreativeAssembly.0001_TUT_Welcome	This a time of war: the Sengoku Jidai. Great lords battle for the soul of Japan. You must learn the arts of the warrior if you are to thrive. For now, you command Chosokabe Motochika's fiercest warriors. You must defeat the odious rebels.	true
+battle_script_advice_strings_string_CreativeAssembly.0101_TUT_Welcome	This is Sanuki province, the lands of the Sogo clan. They are powerful, but not to be feared! Here you will learn to use terrain correctly; deploy and use advanced units; outflank enemies; and inspire your men to win! Click on the tick button when you are ready.	true
+battle_script_advice_strings_string_CreativeAssembly.0201_TUT_Welcome	Welcome to Total War: Shogun 2! This tutorial shows you how to use some of the new battlefield features in the game: castle capture points, hero units and key buildings. To start the tutorial, and siege the Miyoshi clan's castle, click on the "tick" button.	true
+battle_script_advice_strings_string_CreativeAssembly.0301_TUT_Welcome	Welcome to Japan's Inland Sea. You have control of the Chosokabe fleet: these men are some of the finest sailors in Japan. Your task is to protect the Chosokabe trade routes from pirates and rival clans.	true
+battle_script_advice_strings_string_CreativeAssembly.0401_TUT_Welcome	Welcome to Total War: Shogun 2. This tutorial will show you some of the exciting new naval features in the game: shallow waters, cannon ships and mines!	true
+battle_script_advice_strings_string_CreativeAssembly.0110a_TUT_Move_Artillery	Ha! The village is yours! Only the Sogo general and his best troops remain! They are on the distant hill. Use the cover of the forest to approach and attack the Sogo army. The trees will hide your men! Soon the Sogo lands will be yours!	true
+battle_script_advice_strings_string_CreativeAssembly.0207_TUT_Key_Buildings	One of your units is near a key building, which would be useful if captured. Cavalry will need to dismount before trying to take the building.	true

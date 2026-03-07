@@ -1,0 +1,214 @@
+key	text	tooltip
+#Loc;1;text/db/achievements.loc		
+achievements_description_ACHIEVEMENT_A_CREATE_SECOND_AVATAR	Create a second avatar for use in avatar conquest mode.	true
+achievements_description_ACHIEVEMENT_C_CONTROL_KYUSHU	Control all the provinces on the island of Kyushu in the campaign.	true
+achievements_title_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_ODA	Oda Victory	true
+achievements_title_ACHIEVEMENT_B_HAKODATE_WON	Journey's End	true
+achievements_description_ACHIEVEMENT_B_WIN_20_NAVAL_BATTLES	Win 20 naval battles in multiplayer.	true
+achievements_description_ACHIEVEMENT_B_SINK_ENEMY_SHIP_WITH_RAMMING	Sink an enemy ship by ramming. [Fall of the Samurai only]	true
+achievements_description_ACHIEVEMENT_C_WIN_GAME_AS_CHRISTIAN	Win a campaign as a Christian daimyo.	true
+achievements_title_ACHIEVEMENT_C_FIGHT_DROP_IN_BATTLE	The Duellist	true
+achievements_title_ACHIEVEMENT_A_5_CLAN_REGIONS_SIMULTANEOUSLY_OWNED	Stranglehold	true
+achievements_title_ACHIEVEMENT_C_WIN_MP_VS_CAMPAIGN_GIVING_OTHER_PLAYER_GOLD	Dishonoured Foe	true
+achievements_title_ACHIEVEMENT_C_5_NAVAL_BOMBARDMENTS_WITH_TOSA	Father of the Imperial Navy	true
+achievements_title_ACHIEVEMENT_B_WIN_BATTLE_NO_RANGED	Berserk Charge	true
+achievements_description_ACHIEVEMENT_B_WIN_20_RANKED_BATTLES	Win 50 matchmade battles in multiplayer.	true
+achievements_description_ACHIEVEMENT_B_WIN_25_RANKED_BATTLES	Win 25 matchmade battles in multiplayer.	true
+achievements_description_ACHIEVEMENT_B_WIN_BATTLE_NO_RANGED	Win a multiplayer battle using no ranged units in your army.	true
+achievements_title_ACHIEVEMENT_B_WIN_MP_BATTLE_LESS_THAN_15_PERCENT_LOSSES	Swift and Deadly	true
+achievements_description_ACHIEVEMENT_C_FIGHT_DROP_IN_BATTLE	Fight a drop-in battle.	true
+achievements_title_ACHIEVEMENT_C_ATTAIN_MAX_LEVEL_ALL_AGENTS	Thy Will Be Done	true
+achievements_description_ACHIEVEMENT_B_FIELD_ENTIRELY_HEROES	Win a battle using an army composed entirely of hero units and your general.	true
+achievements_title_ACHIEVEMENT_B_WIN_BATTLE_ONNA_BUGEISHA_AS_GENERAL	Onna-Bugeisha	true
+achievements_description_ACHIEVEMENT_B_PLAY_10_BATTLES	Play 10 multiplayer battles of any type.	true
+achievements_title_ACHIEVEMENT_B_WIN_20_NAVAL_BATTLES	Master of the Waves	true
+achievements_title_ACHIEVEMENT_B_SINK_ENEMY_SHIP_WITH_RAMMING	Damn the Torpedoes	true
+achievements_description_ACHIEVEMENT_C_BECOME_SHOGUN	Achieve the ultimate goal and become Shogun in the grand campaign.	true
+achievements_description_ACHIEVEMENT_B_HAKODATE_WON	Complete all historical battles. [Fall of the Samurai only]	true
+achievements_description_ACHIEVEMENT_C_WIN_CHOSOKABE_CAMPAIGN	Win a campaign as the Chosokabe clan.	true
+achievements_description_ACHIEVEMENT_B_SINK_ENEMY_SHIP_WITH_TORPEDOES	Sink an enemy ship with torpedoes. [Fall of the Samurai only]	true
+achievements_description_ACHIEVEMENT_B_WIN_BATTLE_EVERY_TYPE_OF_UNIT	Win a battle using an army composed of at least one of every class of unit (sword infantry, cavalry, archer, matchlock, spear, naginata).	true
+achievements_title_ACHIEVEMENT_A_CREATE_SECOND_AVATAR	Double Dragons	true
+achievements_description_ACHIEVEMENT_B_RALLY_5_UNITS	Successfully rally 5 units at once with one use of the general's rally ability.	true
+achievements_title_ACHIEVEMENT_B_MIYAKO_BAY_1	The Iron Lady	true
+achievements_title_ACHIEVEMENT_C_WIN_SHIMAZU_CAMPAIGN	Shimazu Victory	true
+achievements_title_ACHIEVEMENT_C_MAX_LEVEL_MISSIONARY	Servant of God	true
+achievements_description_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_TAKEDA	Win a campaign as the Takeda clan.	true
+achievements_title_ACHIEVEMENT_B_BEAT_CA_STAFF_VIRAL	Spreading Like Wildfire	true
+achievements_description_ACHIEVEMENT_C_OBTAIN_MAX_LEVEL_UNIT	Obtain a unit of maximum rank in the grand campaign.	true
+achievements_description_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_HOJO	Win a campaign as the Hojo clan.	true
+achievements_title_ACHIEVEMENT_A_JOIN_A_CLAN	Serve with Honour	true
+achievements_title_ACHIEVEMENT_C_WIN_UESUGI_CAMPAIGN	Uesugi Victory	true
+achievements_title_ACHIEVEMENT_C_WIN_EASY_CAMPAIGN	A Promising Beginning	true
+achievements_description_ACHIEVEMENT_B_AIZU_1	Win the Battle of Aizu after provoking all four hidden armies at once. [Fall of the Samurai only]	true
+achievements_title_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_HOJO	Hojo Victory	true
+achievements_title_ACHIEVEMENT_C_WIN_MEDIUM_CAMPAIGN	A Respectable Rule	true
+achievements_description_ACHIEVEMENT_B_TOBA_FUSHIMI_1	Chase down and rout an enemy unit as it tries to escape the Battle of Toba-Fushimi. [Fall of the Samurai only]	true
+achievements_description_ACHIEVEMENT_B_TOBA_FUSHIMI_2	Play a historical battle. [Fall of the Samurai only]	true
+achievements_description_ACHIEVEMENT_B_WIN_10_ATTACKING_SIEGES	Win 10 siege battles as the attacker.	true
+achievements_description_ACHIEVEMENT_C_WIN_SHIMAZU_CAMPAIGN	Win a campaign as the Shimazu clan.	true
+achievements_description_ACHIEVEMENT_C_MAX_LEVEL_MISSIONARY	Obtain a maximum level missionary.	true
+achievements_description_ACHIEVEMENT_B_MIYAKO_BAY_1	Complete the Battle of Miyako Bay with the Kotetsu having taken less than 25% damage. [Fall of the Samurai only]	true
+achievements_description_ACHIEVEMENT_C_RESEARCH_GUNPOWDER_TECH_FIRST	Be the first clan in the campaign to obtain gunpowder mastery.	true
+achievements_description_ACHIEVEMENT_C_MAX_LEVEL_MONK	Obtain a maximum level monk.	true
+achievements_description_ACHIEVEMENT_WIN_LEGENDARY_CAMPAIGN	Win a campaign on legendary difficulty.	true
+achievements_description_ACHIEVEMENT_B_AS_DEFENDER_RECAPTURE_A_TOWER	As the defender, recapture a tower.	true
+achievements_title_ACHIEVEMENT_C_MAX_LEVEL_METSUKE	Master Interrogator	true
+achievements_title_ACHIEVEMENT_C_3_ASSASSINATIONS_WITH_SHINSENGUMI	Wolves of Mibu	true
+achievements_description_ACHIEVEMENT_A_DEFEAT_BOSHIN_ARMY_WITH_SHOGUN	Defeat a Fall of the Samurai army with a Shogun 2 army.	true
+achievements_title_ACHIEVEMENT_C_MIDWINTER	Requiem of the Dead	true
+achievements_title_ACHIEVEMENT_WIN_LEGENDARY_CAMPAIGN	Against All Odds	true
+achievements_description_ACHIEVEMENT_C_POSESS_ALL_TRADE_NODES	Control all the trade posts on the campaign map at the same time.	true
+achievements_title_ACHIEVEMENT_B_WIN_BATTLE_NO_SPEAR	Fear No Horseman	true
+achievements_title_ACHIEVEMENT_C_WIN_HARD_CAMPAIGN	Famed Shogun	true
+achievements_title_ACHIEVEMENT_C_CONNECT_A_RAILWAY	All Aboard!	true
+achievements_description_ACHIEVEMENT_C_WIN_BATTLE_WITH_BRITISH_SHIPS	Win a battle with British ships in your navy. [Fall of the Samurai only]	true
+achievements_title_ACHIEVEMENT_B_WIN_100_RANKED_BATTLES	The Dragon of Japan	true
+achievements_title_ACHIEVEMENT_C_WIN_DATE_CAMPAIGN	Date Victory	true
+achievements_description_ACHIEVEMENT_B_UENO_1	Win the Battle of Ueno without capturing any of the key temple buildings. [Fall of the Samurai only]	true
+achievements_description_ACHIEVEMENT_B_WIN_BATTLE_NO_CAVALRY	Win a multiplayer battle using no cavalry units (excluding the general) in your army.	true
+achievements_title_ACHIEVEMENT_C_MAX_LEVEL_GENERAL	Fearsome Commander of Men	true
+achievements_title_ACHIEVEMENT_C_WIN_CAMPAIGN_AFTER_DECLARING_INDEPENDENCE	Ezo Republic	true
+achievements_description_ACHIEVEMENT_B_4_ASHIGARU_UNITS_WHOLE_BATTLE	Keep at least 4 ashigaru units for a whole battle without routing once.	true
+achievements_title_ACHIEVEMENT_C_WIN_MORI_CAMPAIGN	Mori Victory	true
+achievements_title_ACHIEVEMENT_A_VETERAN_UNIT_LEVEL_5	Exceptional Warriors	true
+achievements_title_ACHIEVEMENT_C_GIFT_ARMY_OR_NAVY_IN_COOP	Gift-wrapped	true
+achievements_title_ACHIEVEMENT_C_WIN_MP_COOP_CAMPAIGN	United in Conquest	true
+achievements_description_ACHIEVEMENT_C_WIN_MP_COOP_CAMPAIGN	Win a multiplayer co-op campaign.	true
+achievements_description_ACHIEVEMENT_B_WIN_10_DEFENDING_SIEGES	Win 10 siege battles as the defender.	true
+achievements_description_ACHIEVEMENT_A_VETERAN_UNIT_LEVEL_5	Through the avatar system, get a veteran unit to level 4.	true
+achievements_description_ACHIEVEMENT_B_WIN_MP_BATTLE	Win your first multiplayer battle.	true
+achievements_description_ACHIEVEMENT_A_DEFEAT_SHOGUN_ARMY_WITH_BOSHIN	Defeat a Shogun 2 army with a Fall of the Samurai army. [Fall of the Samurai only]	true
+achievements_title_ACHIEVEMENT_A_CAPTURE_ALL_AVATAR_CAMPAIGN_REGIONS	Uniter of Japan	true
+achievements_title_ACHIEVEMENT_C_WIN_MP_VS_CAMPAIGN	Japan Torn Asunder	true
+achievements_title_ACHIEVEMENT_C_SINK_CARAVEL_OR_NIHON_MARU	Belligerent Admiral	true
+achievements_description_ACHIEVEMENT_C_CONSTRUCT_3_TRADE_DISTRICTS_WITH_SATSUMA	Playing as the Satsuma, construct a trade district and trade with a foreign power within the same campaign. [Fall of the Samurai only]	true
+achievements_title_ACHIEVEMENT_C_CONSTRUCT_3_TRADE_DISTRICTS_WITH_SATSUMA	Gateway to the West	true
+achievements_title_ACHIEVEMENT_B_KILL_10000_MEN_WITH_ARTILLERY	Hard Pounding	true
+achievements_title_ACHIEVEMENT_B_WIN_10_DEFENDING_SIEGES	Man the Defences	true
+achievements_description_ACHIEVEMENT_A_CAPTURE_ALL_AVATAR_CAMPAIGN_REGIONS	Capture all provinces on the avatar campaign map.	true
+achievements_title_ACHIEVEMENT_C_RESEARCH_8TH_TIER_TECH_WITH_NAGOKA	One Hundred Sacks of Rice	true
+achievements_title_ACHIEVEMENT_B_HOLD_ALL_KEY_BUILDINGS_2_MINS	Battlefield Dominance	true
+achievements_title_ACHIEVEMENT_A_VETERAN_UNIT_LEVEL_10	Heroic Warriors	true
+achievements_description_ACHIEVEMENT_B_WIN_BATTLE_NO_SPEAR	Win a multiplayer battle using no spear units in your army.	true
+achievements_description_ACHIEVEMENT_B_BEAT_CA_STAFF_VIRAL	Defeat a Creative Assembly staff member in battle, or anyone else who has gained this achievement.	true
+achievements_description_ACHIEVEMENT_A_CAPTURE_15_AVATAR_CAMPAIGN_REGIONS	Capture 15 provinces on the avatar campaign map.	true
+achievements_title_ACHIEVEMENT_C_WIPE_OUT_IKKO_IKKI	Eradicate the Ikko-Ikki	true
+achievements_description_ACHIEVEMENT_C_KILL_10000_ENEMY_SOLDIERS	Collect 10,000 heads of enemy soldiers.	true
+achievements_title_ACHIEVEMENT_B_HAKODATE_1	Perfect Ten	true
+achievements_title_ACHIEVEMENT_C_INCITE_3_REBELLIONS_WITH_ISHIN_SHISHI	Agent Provocateur	true
+achievements_description_ACHIEVEMENT_C_WIN_UESUGI_CAMPAIGN	Win a campaign as the Uesugi clan.	true
+achievements_description_ACHIEVEMENT_A_JOIN_A_CLAN	Join a multiplayer clan in Shogun 2.	true
+achievements_description_ACHIEVEMENT_C_WIN_MEDIUM_CAMPAIGN	Win a campaign on normal difficulty.	true
+achievements_title_ACHIEVEMENT_B_WIN_10_ATTACKING_SIEGES	Castle-stormer	true
+achievements_description_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_ODA	Win a campaign as the Oda clan.	true
+achievements_description_ACHIEVEMENT_A_5_CLAN_REGIONS_SIMULTANEOUSLY_OWNED	Your clan holds 5 provinces simultaneously on the multiplayer clan campaign map.	true
+achievements_description_ACHIEVEMENT_C_WIN_MP_VS_CAMPAIGN_GIVING_OTHER_PLAYER_GOLD	Win a multiplayer head to head campaign despite giving the other player 10,000 koku.	true
+achievements_description_ACHIEVEMENT_C_ATTAIN_MAX_LEVEL_ALL_AGENTS	Obtain a maximum level agent of each type. [Fall of the Samurai only]	true
+achievements_description_ACHIEVEMENT_B_WIN_BATTLE_ONNA_BUGEISHA_AS_GENERAL	Win a defensive siege battle with the lady of the house, the Onna Bushi, as your general. (Single Player Only)	true
+achievements_title_ACHIEVEMENT_B_PLAY_10_BATTLES	Experienced Taisho	true
+achievements_title_ACHIEVEMENT_RANK_1_SHOGUN_LADDER	There Can Be Only One	true
+achievements_title_ACHIEVEMENT_A_MAX_OUT_AVATAR_SKILLS_TREE	Path of the Leader	true
+achievements_title_ACHIEVEMENT_C_RESEARCH_EPIC_ARCHITECTURE_FIRST	Glittering Grand Cities	true
+achievements_title_ACHIEVEMENT_A_CAPTURE_15_AVATAR_CAMPAIGN_REGIONS	Carve a Path	true
+achievements_title_ACHIEVEMENT_B_RALLY_5_UNITS	Inspiring Counterattack	true
+achievements_description_ACHIEVEMENT_C_WIPE_OUT_IKKO_IKKI	Wipe out the Ikko-Ikki in the campaign.	true
+achievements_description_ACHIEVEMENT_B_HAKODATE_1	Complete the Battle of Hakodate without any Imperial units being routed. [Fall of the Samurai only]	true
+achievements_title_ACHIEVEMENT_C_WIN_3_AMBUSH_BATTLES_WITH_JOZAI	Hereditary Honour	true
+achievements_description_ACHIEVEMENT_B_WIN_200_MULTIPLAYER_BATTLES	Win 200 multiplayer battles of any type.	true
+achievements_title_ACHIEVEMENT_C_OBTAIN_MAX_LEVEL_UNIT	Living for Battle	true
+achievements_description_ACHIEVEMENT_C_WIN_EASY_CAMPAIGN	Win a campaign on easy difficulty.	true
+achievements_title_ACHIEVEMENT_C_CONTROL_SHIKOKU	Holder of Shikoku	true
+achievements_description_ACHIEVEMENT_C_RESEARCH_EPIC_ARCHITECTURE_FIRST	Be the first clan in the campaign to master the art of epic architecture.	true
+achievements_title_ACHIEVEMENT_B_BURN_CASTLE_DOWN_AND_WIN_BATTLE	Towering Inferno	true
+achievements_title_ACHIEVEMENT_B_OSAKA_1	Uphill Struggle	true
+achievements_title_ACHIEVEMENT_A_MAX_POINTS_IN_BOSHIN_SKILLS_TREE	Skilled Warrior	true
+achievements_description_ACHIEVEMENT_B_WIN_25_LAND_BATTLES	Win 25 land battles.	true
+achievements_description_ACHIEVEMENT_C_BOMBARDMENT_WITH_FRENCH_IRONCLAD	Carry out a bombardment with a French ironclad in your navy. [Fall of the Samurai only]  	true
+achievements_title_ACHIEVEMENT_C_WIN_GAME_AS_CHRISTIAN	One Rule Under God	true
+achievements_title_ACHIEVEMENT_B_WIN_20_RANKED_BATTLES	Bringer of Death	true
+achievements_title_ACHIEVEMENT_B_WIN_25_RANKED_BATTLES	Claw of the Tiger	true
+achievements_title_ACHIEVEMENT_B_WIPE_OUT_A_UNIT	Unnecessary Force	true
+achievements_title_ACHIEVEMENT_B_WIN_BATTLE_50_PERCENT_MATCHLOCK	Swathed in Fire	true
+achievements_description_ACHIEVEMENT_B_WIN_MP_BATTLE_LESS_THAN_15_PERCENT_LOSSES	Win a multiplayer battle losing less than 15% of your starting troops.	true
+achievements_title_ACHIEVEMENT_C_BOMBARDMENT_WITH_FRENCH_IRONCLAD	L'Ocean is Mine!	true
+achievements_description_ACHIEVEMENT_A_MAX_OUT_AVATAR_SKILLS_TREE	Spend the maximum number of points in your avatar's skill tree.	true
+achievements_description_ACHIEVEMENT_RANK_1_SHOGUN_LADDER	Achieve the ultimate accolade and obtain rank 1 on the multiplayer Shogun Ladder.	true
+achievements_description_ACHIEVEMENT_A_MAX_POINTS_IN_BOSHIN_SKILLS_TREE	Max out any "Fall of the Samurai" avatar skill tree, by spending a skill point in each skill within a single skill tree.	true
+achievements_title_ACHIEVEMENT_B_FIELD_ENTIRELY_HEROES	Legendary Force	true
+achievements_title_ACHIEVEMENT_C_BECOME_SHOGUN	Divine Right	true
+achievements_title_ACHIEVEMENT_STEAM_SUMMER_SALE	Summer Son	true
+achievements_title_ACHIEVEMENT_B_WIN_BATTLE_EVERY_TYPE_OF_UNIT	Balanced Attacker	true
+achievements_title_ACHIEVEMENT_C_RESEARCH_SHIH_TECH_FIRST	Military Might	true
+achievements_title_ACHIEVEMENT_C_IGA_CLAN	Eradicate the Hattori	true
+achievements_description_ACHIEVEMENT_C_WIN_MP_VS_CAMPAIGN	Win a multiplayer head to head campaign.	true
+achievements_description_ACHIEVEMENT_C_MAX_LEVEL_GENERAL	Obtain a maximum level general in the campaign.	true
+achievements_description_ACHIEVEMENT_C_WIN_CAMPAIGN_AFTER_DECLARING_INDEPENDENCE	Declare your independence and complete a campaign. [Fall of the Samurai only]	true
+achievements_description_ACHIEVEMENT_C_WIN_LEGENDARY_CAMPAIGN_SHOGUNATE	Win a campaign on legendary difficulty playing as either the Aizu, the Jozai or the Nagaoka. [Fall of the Samurai only]	true
+achievements_title_ACHIEVEMENT_B_WIN_BATTLE_NO_CAVALRY	The Gathering Storm	true
+achievements_description_ACHIEVEMENT_C_OBTAIN_100_FAME_IN_20_TURNS	Obtain 100 fame within 50 turns.	true
+achievements_title_ACHIEVEMENT_B_4_ASHIGARU_UNITS_WHOLE_BATTLE	Commander of Commoners	true
+achievements_description_ACHIEVEMENT_C_SINK_CARAVEL_OR_NIHON_MARU	Sink a nanban trade ship or the flagship vessel the Nihon Maru during a naval battle.	true
+achievements_description_ACHIEVEMENT_C_GIFT_ARMY_OR_NAVY_IN_COOP	Gift your co-op partner an army or navy.	true
+achievements_description_ACHIEVEMENT_C_WIN_MORI_CAMPAIGN	Win a campaign as the Mori clan.	true
+achievements_title_ACHIEVEMENT_C_MAX_LEVEL_NINJA	Agent of the Stealthy Blade	true
+achievements_title_ACHIEVEMENT_WIN_HARD_CAMPAIGN	Stubborn Pursuer of Victory	true
+achievements_title_ACHIEVEMENT_C_WIN_LEGENDARY_CAMPAIGN_SHOGUNATE	Hero of the Shogunate	true
+achievements_title_ACHIEVEMENT_B_WIN_MP_BATTLE	Forged in the Hottest Flame	true
+achievements_description_ACHIEVEMENT_C_RESEARCH_SHIH_TECH_FIRST	Be the first clan in the campaign to master the art of Shih.	true
+achievements_description_ACHIEVEMENT_C_IGA_CLAN	Wipe out the Hattori clan in the campaign.	true
+achievements_title_ACHIEVEMENT_C_RESEARCH_GUNPOWDER_TECH_FIRST	Advanced Firearms	true
+achievements_title_ACHIEVEMENT_B_ALL_UNITS_HIDDEN	Elusive Strike Force	true
+achievements_description_ACHIEVEMENT_A_EARN_20_CLAN_TOKENS	Personally earn 20 clan tokens.	true
+achievements_description_ACHIEVEMENT_C_WIN_BATTLE_WITH_AMERICAN_MARINES	Win a battle with United States Marines in your army. [Fall of the Samurai only]	true
+achievements_description_ACHIEVEMENT_C_ATTAIN_MAX_MODERNISATION	Attain the maximum level of clan development. [Fall of the Samurai only]	true
+achievements_title_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_TOKUGAWA	Tokugawa Victory	true
+achievements_description_ACHIEVEMENT_B_SINK_HMS_WARRIOR	Sink  an HMS Warrior-class ship. [Fall of the Samurai only]	true
+achievements_description_ACHIEVEMENT_C_MAX_LEVEL_METSUKE	Obtain a maximum level metsuke.	true
+achievements_title_ACHIEVEMENT_B_AS_DEFENDER_RECAPTURE_A_TOWER	Redoubtable	true
+achievements_title_ACHIEVEMENT_B_SINK_HMS_WARRIOR	A Warrior's Bane	true
+achievements_description_ACHIEVEMENT_C_3_ASSASSINATIONS_WITH_SHINSENGUMI	Playing as the Aizu, carry out 3 successful assassinations of generals in the same campaign using a shinsengumi. [Fall of the Samurai only]	true
+achievements_description_ACHIEVEMENT_C_RESEARCH_8TH_TIER_TECH_WITH_NAGOKA	Playing as the Nagaoka, research any eighth tier technology. [Fall of the Samurai only]	true
+achievements_description_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_TOKUGAWA	Win a campaign as the Tokugawa clan.	true
+achievements_title_ACHIEVEMENT_C_WIN_BATTLE_WITH_AMERICAN_MARINES	Semper Fi	true
+achievements_title_ACHIEVEMENT_C_ATTAIN_MAX_MODERNISATION	Embrace the New	true
+achievements_title_ACHIEVEMENT_C_WIN_LEGENDARY_CAMPAIGN_IMPERIAL	Hero of the Empire	true
+achievements_description_ACHIEVEMENT_C_MIDWINTER	Win a defensive siege battle with your daimyo during any winter turn.	true
+achievements_description_ACHIEVEMENT_C_WIN_HARD_CAMPAIGN	Win a campaign on hard difficulty.	true
+achievements_description_ACHIEVEMENT_B_ALL_UNITS_HIDDEN	Have all your army, except the general, hidden simultaneously for more than 30 seconds.	true
+achievements_description_ACHIEVEMENT_C_CONNECT_A_RAILWAY	Construct a railway between 2 provinces. [Fall of the Samurai only]	true
+achievements_description_ACHIEVEMENT_C_WIN_DATE_CAMPAIGN	Win a campaign as the Date clan.	true
+achievements_title_ACHIEVEMENT_C_WIN_BATTLE_WITH_BRITISH_SHIPS	Rule, Britannia!	true
+achievements_title_ACHIEVEMENT_A_EARN_20_CLAN_TOKENS	Loyal to the Clan	true
+achievements_title_ACHIEVEMENT_C_MAX_LEVEL_MONK	Legendary Sohei	true
+achievements_title_ACHIEVEMENT_A_DEFEAT_BOSHIN_ARMY_WITH_SHOGUN	Keeping to Tradition	true
+achievements_description_ACHIEVEMENT_C_WIN_LEGENDARY_CAMPAIGN_IMPERIAL	Win a campaign on legendary difficulty playing as either the Satsuma, the Tosa or the Choshu. [Fall of the Samurai only]	true
+achievements_description_ACHIEVEMENT_B_HOLD_ALL_KEY_BUILDINGS_2_MINS	On maps with more than one key building, your alliance shows its dominance by holding all of them simultaneously.	true
+achievements_title_ACHIEVEMENT_C_POSESS_ALL_TRADE_NODES	Trade Route Monopoly	true
+achievements_description_ACHIEVEMENT_A_VETERAN_UNIT_LEVEL_10	Through the avatar system, get a veteran unit to level 9.	true
+achievements_description_ACHIEVEMENT_B_WIN_100_RANKED_BATTLES	Win 100 matchmade battles in multiplayer.	true
+achievements_title_ACHIEVEMENT_B_UENO_1	A Blow to the Temple	true
+achievements_title_ACHIEVEMENT_C_OBTAIN_100_FAME_IN_20_TURNS	Soaring Fame	true
+achievements_description_ACHIEVEMENT_C_MAX_LEVEL_NINJA	Obtain a maximum level ninja in the campaign.	true
+achievements_description_ACHIEVEMENT_WIN_HARD_CAMPAIGN	Win a campaign on very hard difficulty.	true
+achievements_description_ACHIEVEMENT_B_KILL_10000_MEN_WITH_ARTILLERY	Call in naval fire support during a land battle. [Fall of the Samurai only]	true
+achievements_title_ACHIEVEMENT_A_DEFEAT_SHOGUN_ARMY_WITH_BOSHIN	Modernisation	true
+achievements_description_ACHIEVEMENT_B_OSAKA_1	Win the Battle of Osaka after both bridges get blown up by the defenders. [Fall of the Samurai only]	true
+achievements_title_ACHIEVEMENT_C_CONTROL_KYUSHU	Holder of Kyushu	true
+achievements_description_ACHIEVEMENT_B_BURN_CASTLE_DOWN_AND_WIN_BATTLE	As the attacker, burn a castle's gates, towers and tenshu to the ground using fire arrows, and win the battle.	true
+achievements_description_ACHIEVEMENT_B_WIPE_OUT_A_UNIT	Completely wipe out an enemy unit.	true
+achievements_description_ACHIEVEMENT_B_WIN_BATTLE_50_PERCENT_MATCHLOCK	Win a multiplayer battle where more than 50% of your army is made up of matchlock units.	true
+achievements_title_ACHIEVEMENT_B_WIN_25_LAND_BATTLES	The Army on the March	true
+achievements_description_ACHIEVEMENT_C_5_NAVAL_BOMBARDMENTS_WITH_TOSA	Playing as the Tosa, carry out 5 naval bombardments in the same campaign. [Fall of the Samurai only]	true
+achievements_description_ACHIEVEMENT_STEAM_SUMMER_SALE	Your daimyo wins 3 consecutive land battles during the summer season.	true
+achievements_title_ACHIEVEMENT_B_SINK_ENEMY_SHIP_WITH_TORPEDOES	Warhead	true
+achievements_title_ACHIEVEMENT_C_WIN_CHOSOKABE_CAMPAIGN	Chosokabe Victory	true
+achievements_title_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_TAKEDA	Takeda Victory	true
+achievements_description_ACHIEVEMENT_C_WIN_3_AMBUSH_BATTLES_WITH_JOZAI	Playing as the Jozai, win 3 ambush battles in the same campaign. [Fall of the Samurai only]	true
+achievements_title_ACHIEVEMENT_B_WIN_200_MULTIPLAYER_BATTLES	Zen-like Dedication	true
+achievements_title_ACHIEVEMENT_C_KILL_10000_ENEMY_SOLDIERS	Head-Hunter	true
+achievements_description_ACHIEVEMENT_C_INCITE_3_REBELLIONS_WITH_ISHIN_SHISHI	Playing as the Choshu, incite 3 rebellions in the same campaign using an ishin shishi. [Fall of the Samurai only]	true
+achievements_title_ACHIEVEMENT_B_AIZU_1	Wrecking Ball	true
+achievements_title_ACHIEVEMENT_B_TOBA_FUSHIMI_1	Not On My Watch	true
+achievements_title_ACHIEVEMENT_B_TOBA_FUSHIMI_2	A Journey Begins	true
+achievements_description_ACHIEVEMENT_C_CONTROL_SHIKOKU	Control all the provinces on the island of Shikoku in the campaign.	true

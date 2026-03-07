@@ -1,0 +1,23 @@
+=== CHUNK 1/1 — abilities.loc.tsv ===
+(Dịch 20 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[0] Can apprehend and trial other agents.
+[1] Can undertake sabotage missions.
+[2] Can merge with other pieces.
+[4] Can research technologies.
+[5] Can instigate land battles.
+[6] Can undertake spying missions.
+[7] Can construct fort.
+[8] Can undertake assassination missions.
+[9] Can convert enemy agents.
+[10] Can seduce enemy characters.
+[11] Can instigate naval battles.
+[12] Enables religious conversion.
+[13] Enables hiding on the battlefield.
+[14] Can demoralize enemy armies
+[15] Can construct mission.
+[16] Can receive a duel challenge.
+[17] Can bribe enemy characters and castles.
+[18] Enables duelling challenges.
+[19] Can sabotage an army.
+[20] Can incite a religious revolt in enemy territory.

@@ -1,0 +1,507 @@
+key	text	tooltip
+#Loc;1;text/db/message_event_text.loc		
+message_event_text_text_character_dies_natural_causes_female	This blossom of the clan fell from our family tree, meeting her death with the same grace she showed in life.	true
+message_event_text_text_agent_mis_yours_demoralisation_fail	Our missionary failed to spread dissent amongst the ranks of the enemy.	true
+message_event_text_text_agent_mon_yours_demoralisation_fail	Our monk failed to spread discontent amongst the enemy.	true
+message_event_text_text_clan_marriage_daimyo	Our daimyo chose a wife from the family of one of his trusted retainers. Their union will cement the bonds of loyalty within the clan.	true
+message_event_text_text_camp_revolt_imminent	Tensions in this province are reaching dangerous levels. There will be insurrection if the people's anger is not appeased.	true
+message_event_text_text_campmap_your_general_killed	An honourable death; no warrior can ask for more. The clan will mourn the loss of this great man.	true
+message_event_text_text_building_your_legendary_built_first	All eyes are upon us! Our achievement truly is the stuff of legend!	true
+message_event_text_text_bos_agent_enemy_shinobi_sabotage_building_critical_success	A building was sabotaged by an enemy shinobi. The culprit escaped undetected.	true
+message_event_text_text_gem_agent_spy_enemy_subvert_critical_success	Some men's hearts are weak. An enemy monomi successfully sabotaged our army.	true
+message_event_text_text_spy_detected_escape	An enemy ninja was detected whilst attempting to assassinate a member of the clan!	true
+message_event_text_text_building_constructed	Construction of the following building is complete:	true
+message_event_text_text_agent_met_yours_bribe_success	It seems that even the most virtuous have their price! Our agent used his silver tongue to charm the enemy and bring them around to our way of thinking.	true
+message_event_text_text_agent_met_yours_apprehension_success	An enemy agent was apprehended by our metsuke. Whilst insufficient evidence was found to incriminate them, they were, nonetheless, temporarily imprisoned. 	true
+message_event_text_text_building_their_legendary_built_first	All Japan looks in awe at the legendary building our rivals have completed.	true
+message_event_text_text_gem_agent_spy_enemy_assassin_critical_fail	An enemy monomi was apprehended and executed following an assassination attempt.	true
+message_event_text_text_character_dies_navy_destroyed	This noble warrior died whilst serving aboard one of our ships.	true
+message_event_text_text_agent_met_enemy_bribe_success	Dishonour! This character has gone over to the enemy.	true
+message_event_text_text_gem_campmap_prestige_threshold_one	Our successes have been many. Our worth and potential are now recognised by the people.	true
+message_event_text_text_bos_campmap_prestige_level_1_shogun	In return for service to the Shogunate, you have been granted the rank of governor within the Bakufu.\\n\\nYou may now appoint a general to the office of inspector general.	true
+message_event_text_text_bos_campmap_prestige_level_2_shogun	Our continued support of the Shogun pleases the Bakufu greatly; for your efforts, you have been promoted to young elder!\\n\\nYou may now appoint a general to the office of comptroller.	true
+message_event_text_text_bos_campmap_prestige_level_3_shogun	Our clan grows strong, ever loyal to the Shogun's cause. In recognition of your service, he has made you an elder.\\n\\nYou may now appoint a general to the office of chief of staff.	true
+message_event_text_text_bos_campmap_prestige_level_4_shogun	The civil war rages on, and our achievements in the Shogun's name have been without equal. In honour of your loyalty and dilligence, he has named you great elder!\\n\\nYou may now appoint a general to the office of commander-in-chief.	true
+message_event_text_text_campaign_lost_your_faction_destroyed	All hope is lost! The clan is no more; our warriors feed the earth!	true
+message_event_text_text_bos_agent_yours_veteran_duel_critical_success	This is an auspicious day! Our foreign veteran fought with honour and killed his enemy in single combat.	true
+message_event_text_text_character_gains_level_geisha	This geisha is ready to develop her skills, having refined her aptitude for assassination.	true
+message_event_text_text_bos_camp_rebellion	This ungrateful populace have taken up arms against their rightful masters!	true
+message_event_text_text_bos_camp_rebellion_samurai	Enraged at the loss of traditional values, samurai in this province have risen up in revolt!	true
+message_event_text_text_gem_agent_sou_yours_persuasion_fail	Some are too closed-minded to aspire to enlightenment. We failed to indoctrinate this enemy agent.	true
+message_event_text_text_trade_agreement_cancelled_port_loss	Continued trade between our clan and this valued ally is no longer possible.	true
+message_event_text_text_bos_agent_enemy_veteran_duel_critical_success	Inconceivable! One of our subjects fell in single combat against a foreign veteran!	true
+message_event_text_text_campmap_prestige_realm_divide	Japan stands in awe of our might! Rumours abound that the Shogun is rallying support in a bid to crush our clan out of existence. Our enemies and those loyal to the Shogun will surely fall in league with him - we cannot rely upon even our oldest allies for aid. There is little time; we must do everything in our power to prepare for the coming storm. 	true
+message_event_text_text_bos_agent_enemy_ishin_assassin_fail	An assassination attempt has been made against us! The perpetrator is still at large but must be dealt with.	true
+message_event_text_text_gem_agent_spy_yours_sabotage_critical_fail	Our monomi failed to sabotage his target. He was captured and summarily executed. 	true
+message_event_text_text_gem_agent_spy_enemy_assassin_success	The enemy attempted to assassinate a member of our clan! Having succeeded only in wounding them, the assassin has now escaped. 	true
+message_event_text_text_spy_detected_escape_sabotage	An enemy ninja was detected attempting to sabotage our building.	true
+message_event_text_text_spy_detected_execute_sabotage	An enemy ninja was captured and executed whilst trying to sabotage one of our buildings.	true
+message_event_text_text_bos_agent_enemy_geisha_enchant_critical_fail	A woman's wiles cannot sway loyalty to one's lord. This enemy geisha was executed for attempting to enchant one of our subjects.	true
+message_event_text_text_bos_agent_yours_shinobi_sabotage_army_fail	Our shinobi failed to sabotage the enemy army and was detected, barely managing to escape with his life.	true
+message_event_text_text_agent_mis_yours_persuasion_critical_success	Following discourse with our missionary, an enemy agent saw sense and renounced his old ways.	true
+message_event_text_text_agent_mon_yours_persuasion_critical_success	A man uncertain of his beliefs is easy to lead astray. Our monk successfully convinced an enemy agent to abandon his cause.	true
+message_event_text_text_gem_agent_shi_yours_seduce_critical_success	Our shirabyoshi successfully seduced an enemy. He has abandoned his former master and sworn fealty to our lord.	true
+message_event_text_text_clan_your_hostage_executed	Our kin has been put to the sword by his captors following a premature break in the diplomatic agreement between our clans.	true
+message_event_text_text_campmap_resource_lost_spices	The loss of our incense resource will affect our ability to carry out our religious rites.	true
+message_event_text_text_war_declared	When words fail the only option is war. These two clans cannot reconcile their differences until blood has been spilled in their names.	true
+message_event_text_text_bos_agent_enemy_shinobi_sabotage_army_critical_fail	An enemy shinobi was captured and executed whilst trying to sabotage our army.	true
+message_event_text_text_bos_agent_enemy_shinsen_coerce_troops_critical_fail	A shinsengumi was caught attempting to coerce our troops to join him. He will bother us no longer.	true
+message_event_text_text_bos_agent_yours_veteran_sabotage_building_critical_success	Our foreign veteran used skill and cunning to sabotage his target building.	true
+message_event_text_text_clan_their_hostage_executed	Our diplomatic agreement with another clan was broken prematurely. The life of their kin, held hostage by us as part of that agreement, is now forfeit.	true
+message_event_text_text_clan_daughter_born	A new daughter is born to the clan. May she bring peace and serenity to the clan.	true
+message_event_text_text_bos_agent_enemy_shinobi_assassin_fail	An enemy shinobi was detected whilst attempting the assassination of a man loyal to our clan.	true
+message_event_text_text_bos_agent_enemy_shinsen_assassin_fail	An assassination attempt has been made against us! The perpetrator is still at large and must be dealt with.	true
+message_event_text_text_bos_agent_yours_ishin_incite_revolt_critical_success	Chaos reigns! Our ishin shishi successfully incited revolt in this settlement.	true
+message_event_text_text_bos_agent_enemy_geisha_distract_army_critical_fail	A rival geisha was captured and executed whilst attempting to distract our troops.	true
+message_event_text_text_bos_emergent_faction	From the ashes of war, a new clan rises to ride into history!	true
+message_event_text_text_ambusher_discovered_theirs	Deception! An army was discovered lying in ambush for an unsuspecting enemy force.	true
+message_event_text_text_bos_agent_yours_shinsen_assassin_fail	Our shinsengumi failed to eliminate his target, but managed to evade capture and death.	true
+message_event_text_text_campmap_resource_lost	We have lost an important resource to the enemy, barring access to certain buildings and units. Recapture should be a priority.	true
+message_event_text_text_bos_agent_yours_shinobi_assassin_fail	Our shinobi failed to eliminate his target and was detected, managing to escape the clutches of the enemy and a certain death.	true
+message_event_text_text_gem_character_gains_level_inspector	This junsatsushi is ready to develop his skills, having honed his abilities through his service to the family.	true
+message_event_text_text_agent_met_enemy_apprehension_critical_fail	We will not suffer others to meter out false justice in our lands. An enemy metsuke was apprehended and killed.	true
+message_event_text_text_bos_agent_yours_shinsen_incite_revolt_critical_fail	Our shinsengumi was executed in the course of his duty, having failed to incite rebellion amongst the people.	true
+message_event_text_text_bos_agent_enemy_veteran_duel_critical_fail	A foreign veteran challenged one of our own to single combat. His skills were no match; he died with honour.	true
+message_event_text_text_bos_agent_enemy_veteran_duel_success	A foreign veteran has bested one of our subjects in single combat, both wounding and dishonouring him.	true
+message_event_text_text_clan_daimyo_killed	Tragedy! Our noble lord was struck down by the enemy in the heat of battle! His loss will be mourned greatly.	true
+message_event_text_text_bos_campmap_allegiance_convert_self	After lengthy consideration we have chosen to abandon both the Emperor and the Shogunate, establishing an independent republic with which to forge our own destiny.	true
+message_event_text_text_gem_agent_jun_yours_payoff_critical_success	An enemy's dishonour is indeed cause for celebration. Our junsatsushi successfully paid a rival agent to abandon their lord, thereby weakening our enemy.	true
+message_event_text_text_gem_agent_sou_enemy_incitement_fail	An enemy sou attempted to seed dissention amongst our people, but their loyalty never faltered.	true
+message_event_text_text_bos_railway_blocked	An enemy force is blocking a railway which our forces would otherwise be able to use for transport; they will need to be defeated or chased away before transit may resume.	true
+message_event_text_text_agent_sensei_level	Devotion to one's calling leads to greatness. This sensei's achievements will prove beneficial to the whole clan.	true
+message_event_text_text_gem_agent_sou_yours_incitement_fail	No amount of persuasion could convince the people of this province to rebel against their masters. 	true
+message_event_text_text_gem_agent_spy_yours_assassin_success	Although unable to kill his target, our monomi wounded his adversary, putting him out of action for a while.	true
+message_event_text_text_gem_agent_jun_enemy_payoff_critical_success	Shameful! Having been paid-off by an enemy junsatsushi, one of our agents abandoned his lord.	true
+message_event_text_text_your_army_loots_settlement	To the victor, the spoils. We looted this province according to the rights of conquest, gaining our clan vital funds. Alas, this action has placed our daimyo's honour in doubt.	true
+message_event_text_text_agent_kun_yours_assassin_fail	Our geisha failed to complete her task and was detected by the enemy. It will not end well for her.	true
+message_event_text_text_bos_agent_enemy_geisha_distract_army_critical_success	Some men's hearts are weak. A rival geisha successfully distracted our troops.	true
+message_event_text_text_bos_agent_yours_geisha_enchant_critical_fail	Tragedy! Our geisha was murdered for attempting to enchant an enemy subject.	true
+message_event_text_text_campmap_they_renounce_christianity	In these tumultuous times opinions are as changing as the wind. This clan reverted to Buddhism, forsaking their Christian beliefs. 	true
+message_event_text_text_agent_kun_enemy_assassin_fail	A murderous geisha was detected. She was unable to complete her bloody task. 	true
+message_event_text_text_bos_agent_yours_geisha_distract_army_critical_success	Our geisha successfully distracted the rival army.	true
+message_event_text_text_bos_agent_enemy_shinsen_incite_revolt_critical_fail	The enemy sent a shinsengumi to foster dissent in our province. With failure his life is forfeit.	true
+message_event_text_text_bos_agent_yours_shinobi_sabotage_building_critical_success	Our shinobi successfully sabotaged his target, using all the subversive skills available to him.	true
+message_event_text_text_unit_recruited_ship	This impressive new ship will help us tame the seas to our will.	true
+message_event_text_text_camp_buddhist_revolt	The people, joined by monks, have risen up in revolt against us.	true
+message_event_text_text_campmap_your_general_assassin_wounded	This general's wounds were not enough to dispatch him. He has retired to convalesce, but will return to his duty when recovered.	true
+message_event_text_text_bos_agent_enemy_geisha_distract_garrison_fail	A rival geisha has been seen in one of our towns, attempting to distract the local garrison. Unswayed by her performance, they have remained steadfast.	true
+message_event_text_text_gem_agent_jun_enemy_request_ally_fail	An enemy junsatsushi attempted to secure the allegiance of our subjects. None have been tempted, but the enemy remains at large.	true
+message_event_text_text_campmap_resource_lost_cotton	Our cotton resource was lost, depriving the people of its benefits.	true
+message_event_text_text_gem_agent_spy_yours_assassin_critical_fail	Our monomi failed to eliminate his target. He was caught and executed whilst trying to escape.	true
+message_event_text_text_gem_agent_jun_yours_request_ally_fail	Our junsatushi failed to secure the allegiance of this province and its people.	true
+message_event_text_text_bos_agent_yours_geisha_distract_garrison_fail	Our geisha failed to distract an enemy garrison.	true
+message_event_text_text_alliance_broken_yours	Although our friendship is not lightly cast aside, the alliance between us is over.	true
+message_event_text_text_gem_agent_spy_yours_subvert_critical_success	Our monomi succeeded in sabotaging the enemy army and escaped undetected.	true
+message_event_text_text_clan_regent_retainer_hostage	A tragic day, for with our daimyo's death the succession is uncertain. A regent was appointed to rule until his son is released from captivity.	true
+message_event_text_text_bos_campmap_resource_acquired_copper	We have secured a source of copper, enabling the production of strong ships.	true
+message_event_text_text_bos_agent_yours_shinsen_coerce_troops_critical_fail	This man failed us. Caught attempting to coerce enemy forces to join us, he was summarily put to death. 	true
+message_event_text_text_spy_detected	Our men detected the presence of a rival ninja. We must be cautious.	true
+message_event_text_text_agent_met_enemy_apprehension_success	A travesty of justice effected by the enemy led to the imprisonment of one of our agents. As the sentence is short they will return to service soon.	true
+message_event_text_text_bos_campmap_resource_acquired_coal	We have secured a source of coal. We can develop a railway network, technology permitting.	true
+message_event_text_text_character_gains_level_general	This general is ready to develop his skills, having honed his ability to command through fighting the clan’s enemies.	true
+message_event_text_text_your_region_captured	This province was lost to the enemy. The resources and income it provided are no longer available to us.	true
+message_event_text_text_bos_agent_yours_shinobi_sabotage_army_critical_fail	Our shinobi failed to sabotage his target army. He was caught and executed out-of-hand. 	true
+message_event_text_text_gem_agent_spy_enemy_sabotage_critical_fail	An enemy monomi was captured and executed whilst trying to sabotage one of our buildings.	true
+message_event_text_text_your_spy_successful_sabotage	Our ninja successfully sabotaged his target, using all the dishonourable skills available to him.	true
+message_event_text_text_bos_agent_enemy_shinobi_sabotage_army_fail	An enemy shinobi was spotted moving amongst the men! Early detection prevented any misfortune from befalling the army.	true
+message_event_text_text_placeholder	PLACEHOLDER!	true
+message_event_text_text_gem_agent_shi_enemy_seduce_critical_success	Deplorable! One of our subjects was seduced by an enemy shirabyoshi. Now he serves her lord.	true
+message_event_text_text_bos_agent_yours_veteran_duel_success	Our foreign veteran managed to wound his enemy in single combat, thereby forcing him to flee in shame and fear.	true
+message_event_text_text_clan_your_hostage_returned	This hostage has been released and returned to us by the following clan:  	true
+message_event_text_text_agent_mis_enemy_persuasion_critical_success	Our agent was successfully tempted to renounce his beliefs by an enemy missionary.	true
+message_event_text_text_agent_mon_enemy_persuasion_critical_success	One of our agents turned his back on the clan, accepting the lies of the enemy as truth.	true
+message_event_text_text_bos_campmap_resource_acquired_silk	We have secured a source of silk, allowing our textiles industry and buddhist sites to develop.	true
+message_event_text_text_campaign_won	All Japan bows before us! The daimyo has become Shogun, his authority unchallenged! 	true
+message_event_text_text_spy_detected_execute	Following an assassination attempt we captured and executed an enemy ninja. 	true
+message_event_text_text_bos_camp_rebellion_imperial	Radical Imperialists in this province have risen up in revolt against us!	true
+message_event_text_text_bos_agent_yours_ishin_assassin_fail	Our ishin shishi failed to eliminate his target, but evaded capture and death.	true
+message_event_text_text_bos_agent_enemy_veteran_sabotage_building_critical_success	A building was sabotaged by an enemy foreign veteran. He has managed to evade capture.	true
+message_event_text_text_campmap_bankrupt_desertion	Deprived of their upkeep by our clan's bankruptcy, this unit has deserted.	true
+message_event_text_text_gem_agent_sou_enemy_persuasion_fail	Despite the best efforts of the enemy, our agent stuck to their convictions.	true
+message_event_text_text_agent_met_yours_apprehension_critical_success	Our metsuke apprehended an enemy agent. They were successfully charged with heinous misdeeds and put to death.	true
+message_event_text_text_clan_their_hostage_returned	No longer of use to us, this hostage was returned to their clan:	true
+message_event_text_text_bos_agent_yours_geisha_distract_army_critical_fail	Our geisha failed to distract the rival army and was executed.	true
+message_event_text_text_campmap_you_captured_kyoto	A great prize indeed! Kyoto is under our control; we must hold it for a year in order to claim the Shogunate.	true
+message_event_text_text_bos_campmap_resource_acquired_iron	We have secured a source of iron, enabling the production of the strongest ships and armour.	true
+message_event_text_text_agent_met_enemy_apprehension_critical_success	An enemy metsuke had our agent executed, having implicated them in crimes against the people.	true
+message_event_text_text_character_gains_level_ninja	This ninja is ready to develop his skills, having perfected his mastery of ninjutsu by carrying out his lord’s wishes.	true
+message_event_text_text_campmap_resource_lost_iron	We have lost our source of superior iron, affecting trade and recruitment costs.	true
+message_event_text_text_campmap_resource_lost_wood	Losing our superior wood resources will affect the quality of our shipbuilding and prevent us from building military ports.	true
+message_event_text_text_agent_met_yours_apprehension_critical_fail	Our metsuke failed to inculpate an enemy agent and has himself been put to the sword.	true
+message_event_text_text_bos_agent_yours_veteran_duel_critical_fail	Tragedy! Our foreign veteran has fallen in single combat against the enemy!	true
+message_event_text_text_bos_agent_enemy_ishin_incite_revolt_critical_success	This settlement has been stirred to revolt! An enemy ishin shishi has been spreading lies amongst the people.	true
+message_event_text_text_campmap_they_become_shogun	A rival daimyo has declared himself Shogun and claimed the power for his clan.	true
+message_event_text_text_gem_campmap_prestige_threshold_two	Our reputation preceeds us. Word of our family's exploits spreads far and wide, uttered with awe and respect.	true
+message_event_text_text_clan_daughter_comes_of_age	This beautiful flower blossomed and is now ready to marry. Choose her suitor wisely, she can ensure loyalty to the clan or seal good relations with another.	true
+message_event_text_text_clan_birth_summary	The birth of a child is always a joyous occasion, but when a family is blessed with multiple children it is cause for celebration indeed.	true
+message_event_text_text_bos_campmap_resource_acquired_cotton	We have secured a source of cotton, enabling the development of our our textiles industry.	true
+message_event_text_text_campmap_enemy_naval_invasion	The enemy landed an army on our soil.	true
+message_event_text_text_agent_mis_enemy_demoralisation_fail	An enemy missionary was found amongst the army, attempting to demoralise the men. He failed in his despicable task.	true
+message_event_text_text_agent_mon_enemy_demoralisation_fail	Despite enemy attempts to demoralise the army it remains ready to fight to the bitter end.	true
+message_event_text_text_campmap_food_shortage	There is a shortage of food in this province. Turmoil abounds as the populace struggle to sustain themselves.	true
+message_event_text_text_bos_campmap_your_settlement_bombarded	An enemy fleet bombarded one of our cities!	true
+message_event_text_text_campmap_resource_lost_silk	We have lost our Chinese silk resource, affecting trade in luxury goods.	true
+message_event_text_text_camp_clan_uprising	Once fiercely loyal, these samurai have rebelled against their masters!	true
+message_event_text_text_building_your_castle_upgrade_ready	This castle reached its population limit. Increase its capacity through further construction.	true
+message_event_text_text_character_gains_level_metsuke	This metsuke is ready to develop his skills, having honed his abilities through the execution of his lord’s justice.	true
+message_event_text_text_agent_met_enemy_bribe_critical_fail	This metsuke was attempting to bribe one of our clan members. He has paid for this impudence with his life.	true
+message_event_text_text_black_ship_captured	The European trade ship is now ours, my lord, a ship that will ensure our mastery of the waves. It was found to be carrying a number of goods and treasures that have now been returned to the capital.	true
+message_event_text_text_attrition_high_seas	The capricious waves claimed crew members from our fleet.	true
+message_event_text_text_clan_marriage_daimyo_diplo	The daimyo chose to unite our clan with another through marriage, easing the tensions between us.	true
+message_event_text_text_clan_regent_retainer_young	It is a time of mourning and yet the leadership of the clan is still uncertain. A loyal retainer was named regent until the daimyo's heir comes of age.	true
+message_event_text_text_trade_route_raided	Our ships are raiding an enemy trade route, blocking the flow of money to their coffers.	true
+message_event_text_text_recruitment_general_available	Loyalty is as priceless as any rare jewel. This man hopes to prove his by offering to command clan forces in battle.	true
+message_event_text_text_gem_agent_sou_yours_persuasion_critical_fail	Our sou was executed for trying to persuade an enemy agent to enter retire.	true
+message_event_text_text_bos_agent_enemy_ishin_assassin_critical_fail	An enemy ishin shishi attempted to assassinate one of our subjects. He has been caught and executed.	true
+message_event_text_text_agent_mon_enemy_persuasion_success	Having had a crisis of conscience this agent retreated to a place of solitude. 	true
+message_event_text_text_clan_marriage_daughter_diplo	A good son accepts the marriage proposed by his father. By marrying the daimyo's son to the daughter of a rival leader diplomatic relations between our two clans are greatly improved.	true
+message_event_text_text_campmap_enemy_army_withdraws	Look at them flee, like rats before the hawk. The enemy army is in retreat!	true
+message_event_text_text_agent_mon_yours_demoralisation_critical_fail	Our monk was caught moving amongst an enemy army and executed.	true
+message_event_text_text_agent_mis_yours_demoralisation_critical_fail	Whilst attempting to spread the word of God this agent was executed by the enemy.	true
+message_event_text_text_character_gains_level_monk	This monk is ready to develop his skills, having diligently devoted his thoughts for the benefit of the clan.	true
+message_event_text_text_bos_agent_enemy_shinsen_incite_revolt_fail	An enemy shinsengumi attempted to seed dissention amongst our people, but their loyalty never faltered.	true
+message_event_text_text_bos_campmap_allegiance_convert_shogun	After lengthy consideration we have abandoned the Emperor and committed our forces to the Shogun. Undoubtedly there will be repercussions during the months ahead.	true
+message_event_text_text_bos_campmap_minor_clan_joins_imperial	Seeing the futility of the Shogun's struggle, the daimyo of this clan has wisely chosen to abandon his former lord and support the Emperor.	true
+message_event_text_text_bos_campmap_resource_lost_machinery	We have lost all sources of machinery, preventing us from further developing our metal-processing plants.	true
+message_event_text_text_agent_mis_enemy_incitement_success	This settlement has been stirred to revolt! An enemy missionary has been spreading lies amongst the people.	true
+message_event_text_text_bos_agent_yours_veteran_harass_critical_fail	Having failed to harass enemy forces, our foreign veteran was captured and killed.	true
+message_event_text_text_bos_agent_yours_ishin_persuade_troops_critical_fail	Failure! Caught attempting to persuade enemy forces to join us, our ishin shishi was executed. 	true
+message_event_text_text_gem_agent_spy_yours_sabotage_critical_success	Our monomi successfully sabotaged his target, using all the subversive skills available to him.	true
+message_event_text_text_camp_christian_revolt	The people are angered at their treatment and have risen up in revolt!	true
+message_event_text_text_bos_agent_yours_geisha_enchant_fail	Not all are swayed by a lady's charm. Our geisha falied to enchant an enemy subject.	true
+message_event_text_text_military_tech_advance	Mastery of the arts improves our potential for military and civic development.	true
+message_event_text_text_gem_agent_spy_enemy_sabotage_critical_success	A building was sabotaged by an enemy monomi. The culprit escaped undetected.	true
+message_event_text_text_agent_mon_yours_incitement_success	Chaos reigns! Our monk successfully incited revolt in this settlement.	true
+message_event_text_text_your_fleet_destroyed	Our fleet was sent to the depths along with everyone aboard. Their spirits are destined to wander the ocean floor forever.	true
+message_event_text_text_bos_agent_yours_ishin_persuade_troops_fail	This man lacks even the conviction to persuade a common soldier! Let us hope this isn't a common occurrence. 	true
+message_event_text_text_campmap_enemy_navy_withdraws	The enemy fleet withdrew from this battle.	true
+message_event_text_text_bos_agent_enemy_shinsen_coerce_troops_fail	Our men do not fear empty threats; an enemy shinsengumi has failed to coerce their joining of his cause.	true
+message_event_text_text_clan_enemy_character_defects	This general turned on his former masters and joined our cause.	true
+message_event_text_text_bos_faction_destroyed_them	A powerful clan has been crushed. Now their bodies are food for the carrion!	true
+message_event_text_text_agent_met_yours_bribe_fail	This man doesn't even have the wits to bribe a soldier! He failed us, let us hope this isn't a common occurrence. 	true
+message_event_text_text_your_spy_detected_execute_sabotage	Our ninja failed to sabotage his target building. He was captured and summarily executed. 	true
+message_event_text_text_gem_agent_sou_yours_incitement_critical_fail	This sou was executed for attempting to incite unrest within enemy lands.	true
+message_event_text_text_bos_agent_yours_veteran_harass_fail	Our foreign veteran failed to harass enemy forces, barely managing to escape with his life.	true
+message_event_text_text_campmap_vassal_province_lost	Our vassal has lost a province, thereby diminishing both our domains.	true
+message_event_text_text_gem_agent_spy_enemy_assassin_critical_success	One of our subjects met their end under suspicious circumstances. There is no mistaking the hand of the enemy in this event.	true
+message_event_text_text_gem_agent_spy_yours_assassin_critical_success	Our monomi successfully assassinated his target, using all the strength and cunning available to him.	true
+message_event_text_text_agent_mis_yours_persuasion_success	Our missionary forced an enemy agent to reconsider his beliefs.	true
+message_event_text_text_campmap_prestige_general_knowledge	Our exploits are talked of the length and breadth of Japan. The name of our daimyo is on everybody’s lips, uttered with awe and fear in equal measures. It will not be long before the Shogun decides to act against us; we must prepare ourselves for this eventuality.	true
+message_event_text_text_bos_campmap_minor_clan_joins_shogun	Seeing folly in the Emperor's bid for control, the daimyo of this clan has wisely chosen to abandon his former lord and fight for the rightful Shogunate.	true
+message_event_text_text_gem_agent_shi_yours_stall_critical_success	Our shirabyoshi successfully distracted the rival army.	true
+message_event_text_text_gem_agent_sou_yours_demoralisation_success	Words are as powerful as weapons. Our sou caused enemy troops to doubt their leadership.	true
+message_event_text_text_clan_son_born	Every man needs an heir to continue his work when his time of dissolution arrives. Male children are a blessing that will secure the family line in the future.	true
+message_event_text_text_bos_campmap_minor_clan_defects_shogun	The daimyo of this clan has turned his back on the Shogun and defected to the Imperialists! Such treachery will not stand!	true
+message_event_text_text_prestige_tech_advance	Mastery of the military and civic arts increases our standing amongst the other clans, proving our inherent superiority.	true
+message_event_text_text_your_port_blockaded	The enemy are blockading our port! This valuable resource must be taken back with haste, lest we lose vital trade income.	true
+message_event_text_text_campmap_impending_deadline	Time slipped away from us! Little now remains for the completion of our objectives.	true
+message_event_text_text_campaign_lost	Our lands have been lost! The clan's proud warriors now feed the soil.	true
+message_event_text_text_bos_agent_enemy_veteran_harass_critical_fail	We have captured a foreign veteran attempting to harass our forces. He has been put to the sword.	true
+message_event_text_text_bos_campmap_resource_lost_tea	We have lost all sources of tea, preventing expansion of the entertainment industry within our domain.	true
+message_event_text_text_agent_mon_enemy_demoralisation_critical_fail	An enemy monk was captured attempting to demoralise our troops. He was executed as an example to others. 	true
+message_event_text_text_agent_mis_enemy_demoralisation_critical_fail	The enemy sent its missionary into our midst to demoralise the men. We have taken his life as an example to others.	true
+message_event_text_text_campmap_AI_backstab_warning	We have received disturbing news, my lord. Our sources within this once-friendly clan warn us that their daimyo, intent on exploiting our current situation, is now plotting to invade us. We must prepare for any hostilities!	true
+message_event_text_text_gem_agent_spy_yours_assassin_detected	Our monomi was detected by agents of another clan. He may now be vulnerable to their machinations.	true
+message_event_text_text_agent_mon_yours_persuasion_success	An enemy agent retired to consider the difficult path to enlightenment.	true
+message_event_text_text_bos_agent_enemy_veteran_harass_fail	A foreign veteran has attempted to harass our forces! Unable to cause casualties, he managed to evade capture.	true
+message_event_text_text_gem_agent_spy_enemy_assassin_detected	Our men detected the presence of a rival monomi. We must be cautious.	true
+message_event_text_text_ceasefire_declared	All animosity between our clan and our former enemy is forgotten. Peace has been brokered and all forces have returned to their rightful places.	true
+message_event_text_text_gem_agent_sou_enemy_persuasion_critical_fail	The downfall of this enemy sou was his failure to break the resolve of our subject. He was executed for the crime.	true
+message_event_text_text_bos_agent_yours_ishin_assassin_critical_fail	Our ishin shishi failed to assassinate his target. He was murdered whilst attempting to escape.	true
+message_event_text_text_gem_campmap_prestige_threshold_three	We have grown powerful indeed, my lord. All now fear our potential; we must expect to face mounting opposition in the coming years.	true
+message_event_text_text_character_gain_level	This man proved himself and received promotion as a result.	true
+message_event_text_text_agent_dies_suspicious	The events surrounding this agent's death are decidedly suspicious. There is blood on the hands of our enemies.	true
+message_event_text_text_bos_agent_enemy_geisha_enchant_fail	An enemy geisha  attempted to seduce one of our subjects. Loyalty has prevailed, but we must be vigilant.	true
+message_event_text_text_bos_agent_yours_shinsen_incite_revolt_fail	No amount of careful persuasion could convince the people of this settlement to rebel against their masters. 	true
+message_event_text_text_your_army_destroyed	All have perished! Not a single man remains to carry our banner - it lies trampled in the dust.	true
+message_event_text_text_campmap_resource_lost_goods	The loss of our high quality craft goods will affect the clan's wealth in every way.	true
+message_event_text_text_agent_dies_suspicious_female	One of our agents met her end under suspicious circumstances. There is no mistaking the hand of the enemy in this event.	true
+message_event_text_text_bos_agent_enemy_ishin_persuade_troops_critical_fail	An ishin shishi has been caught trying to foster betrayal amongst our troops. He has been silenced.	true
+message_event_text_text_agent_mis_yours_incitement_success	A few carefully chosen words can bring an entire settlement to its knees. Our agent successfully incited revolt here.	true
+message_event_text_text_spy_successful_army_sabotage	Some men's hearts are weak. An enemy ninja successfully sabotaged our army.	true
+message_event_text_text_region_captured_home	We captured the castle at the heart of enemy's territory, a crushing blow to their campaign and continued proof of our own limitless power!	true
+message_event_text_text_clan_son_comes_of_age	Today, a boy becomes a man. Our lord's son has come of age and is ready to fight at his father's side. We have seen the beginnings of a fine general.	true
+message_event_text_text_bos_faction_destroyed	Even the mightiest of clans are insignificant when facing our own!	true
+message_event_text_text_agent_returns	Following a period of religious contemplation, our agent returned refreshed and ready to serve at the capital.	true
+message_event_text_text_character_dies_natural_causes	This man reached the end of his days and met his death at peace.	true
+message_event_text_text_agent_mon_enemy_incitement_success	The people are beginning to doubt the clan leadership, an enemy agent having spread dissent amongst them. 	true
+message_event_text_text_your_trade_route_raided_land	The enemy attacked a valuable trade route belonging to our clan. They must be destroyed before trade can continue there.	true
+message_event_text_text_gem_agent_sou_enemy_incitement_critical_fail	The enemy sent a sou to foster dissent in our province. With failure his life is forfeit.	true
+message_event_text_text_spy_detected_execute_army_sabotage	An enemy ninja was captured and executed whilst trying to sabotage our army.	true
+message_event_text_text_bos_agent_enemy_ishin_persuade_troops_fail	Our men know well where their loyalties lie; an enemy ishin shishi has failed to secure their betrayal.	true
+message_event_text_text_bos_agent_yours_shinsen_coerce_troops_fail	This man lacks the ruthlessness to coerce even the weakest of soldiers! He must not fail us again. 	true
+message_event_text_text_campmap_resource_acquired_warhorses	We have acquired impressive steeds, enabling us to radically improve the quality of our cavalry. 	true
+message_event_text_text_agent_met_enemy_bribe_fail	The respect our men have for the daimyo prevented the enemy from bribing them into his service.	true
+message_event_text_text_bos_railway_sabotaged	The enemy has damaged one of our railway stations; transit across the province will not be possible until repairs have been made.	true
+message_event_text_text_campmap_resource_lost_stone	Without access to superior stone resources, we will be unable to construct great castles.	true
+message_event_text_text_black_ship_sighted	My lord! A great vessel cuts an eastward path towards Japan, a mighty European trade ship wielding more destructive power than anything we can build. We should hunt down and capture this black ship for ourselves. To possess such a ship would render us indomitable at sea!	true
+message_event_text_text_faction_destroyed_them_minor	The weak will always be crushed by the strong. A once-great clan was destroyed utterly. 	true
+message_event_text_text_agent_mis_enemy_persuasion_success	An enemy missionary converted the weak mind of our agent to his false religion.	true
+message_event_text_text_gem_agent_shi_enemy_stall_critical_success	Some men's hearts are weak. An enemy shirabyoshi successfully distracted our troops.	true
+message_event_text_text_gem_character_gains_level_spy	This monomi is ready to develop his skills, having perfected his clandestine abilities by carrying out his lord’s wishes.	true
+message_event_text_text_internal_mission_cancelled	This mission was cancelled due to unforeseen circumstances.	true
+message_event_text_text_gem_agent_sou_enemy_demoralisation_success	Damnation! Our army was demoralised by an enemy sou.	true
+message_event_text_text_agent_met_yours_bribe_critical_fail	This man failed us. He was caught attempting to bribe the enemy and was summarily put to death. 	true
+message_event_text_text_your_capital_lost	The heart of the clan has been ripped out by the enemy! Our capital is in their hands; the people at their mercy.	true
+message_event_text_text_gem_character_gains_level_monk	This sou is ready to develop his skills, having diligently devoted his thoughts for the benefit of the family.	true
+message_event_text_text_bos_agent_enemy_shinsen_incite_revolt_critical_success	An enemy shinsengumi spread dissent throughout this province! The people have risen against us!	true
+message_event_text_text_campmap_kyoto_contested	The fate of Kyoto hangs in the balance! Two clans fight for control of the capital.	true
+message_event_text_text_gem_agent_sou_enemy_demoralisation_critical_fail	An enemy sou attempted to demoralise our troops. He was executed as an example to others. 	true
+message_event_text_text_gem_agent_jun_yours_payoff_critical_fail	Our junsatsushi was executed attempting to pay an enemy agent to abandon their master.	true
+message_event_text_text_faction_destroyed_minor	These insignificant insects were wiped from the face of the earth! 	true
+message_event_text_text_spy_detected_escape_army_sabotage	An enemy ninja was spotted moving amongst the men! Early detection prevented the poison of dissent coursing through the army.	true
+message_event_text_text_gem_agent_shi_enemy_stall_critical_fail	A rival shirabyoshi was captured and executed whilst attempting to distract our troops.	true
+message_event_text_text_bos_campmap_resource_acquired_machinery	We have secured modern machinery, enabling the development of advanced metal-processing plants.	true
+message_event_text_text_agent_mon_enemy_demoralisation_success	Our army was demoralised by an enemy agent.	true
+message_event_text_text_campmap_you_become_shogun	Fear and wonder are a powerful combination that our clan has used to its advantage. All Japan stands in awe of our mighty Shogun, but we must tread cautiously; our enemies and those loyal to the former Shogun are sure to take arms against us.	true
+message_event_text_text_trade_route_raided_land	Raiding an enemy's trade routes prevents them making money from their resources.	true
+message_event_text_text_gem_agent_jun_enemy_bribe_critical_fail	This junsatushi was caught attempting to bribe our men. He will never bribe another man again.	true
+message_event_text_text_region_liberated	Having been liberated by a successful Ikko Ikki revolt, this province is now under our control. Some of the population surely remain loyal to their former masters; we must be mindful of local public order.	true
+message_event_text_text_bos_campmap_minor_clan_defects_imperial	The daimyo of this clan has abandoned the Emperor and thrown his lot in with the Shogunate! Such treachery will not stand!	true
+message_event_text_text_gem_agent_jun_enemy_bribe_fail	The respect our men have for their lord prevented the enemy from bribing them.	true
+message_event_text_text_agent_mis_enemy_persuasion_critical_fail	This enemy missionary attempted to persuade our agents to desert their beliefs. He has faced death for his crime.	true
+message_event_text_text_agent_mon_enemy_persuasion_critical_fail	The downfall of this enemy agent was his failure to defeat the resolve of our own. He was executed for the crime.	true
+message_event_text_text_gem_agent_shi_yours_seduce_critical_fail	Tragedy! Our shirabyoshi was murdered for attempting the seduction of an enemy.	true
+message_event_text_text_gem_agent_sou_enemy_incitement_success	An enemy sou spread dissent throughout this province! The people have risen against us!	true
+message_event_text_text_your_spy_detected	Our ninja was detected by those in service of another clan. He may now be vulnerable to the machinations of enemy agents.	true
+message_event_text_text_ceasefire_declared_them	These two great clans put their differences aside, declaring a new era of peace throughout the land.	true
+message_event_text_text_bos_campmap_allegiance_convert_emperor	After lengthy consideration we have abandoned the Shogunate and committed our forces to the Emperor. Undoubtedly there will be repercussions for months to come.	true
+message_event_text_text_campmap_you_renounce_christianity	Renouncing Christianity in favour of enlightened Buddhism can only appease those who follow the old ways, but may anger the converted.	true
+message_event_text_text_bos_agent_yours_ishin_assassin_success	Although unable to kill his target, our ishin shishi still managed to wound and temporarily put them out of action.	true
+message_event_text_text_clan_marriage_son	A day for celebration! The daimyo's son married the daughter of a loyal retainer, only strengthening the bonds of loyalty within the clan.	true
+message_event_text_text_agent_mon_enemy_incitement_critical_fail	The enemy sent a religious man to spread poison through the army. Having failed, his life is now forfeit. 	true
+message_event_text_text_agent_mis_enemy_incitement_critical_fail	An enemy missionary was executed as punishment for trying to incite insurrection. His kind will not be tolerated. 	true
+message_event_text_text_faction_destroyed_them	A powerful clan has been destroyed by a rival. Now the bodies of their warriors are food for carrion!	true
+message_event_text_text_gem_agent_shi_yours_stall_fail	Our shirabyoshi failed to distract the rival army.	true
+message_event_text_text_gem_agent_spy_yours_assassin_fail	Our monomi failed to eliminate his target and was detected, managing to escape the clutches of the enemy and a certain death.	true
+message_event_text_text_bos_character_gains_level_general	This general is ready to develop his skills, having honed his ability to command.	true
+message_event_text_text_clan_character_disgraced	Dishonour on his family! This man's defection is a great insult to the clan, his family have been expelled forthwith. 	true
+message_event_text_text_gem_agent_spy_enemy_assassin_fail	An enemy monomi was detected whilst attempting the assassination of a man loyal to our family.	true
+message_event_text_text_your_spy_detected_execute	Our ninja failed to eliminate his target. He was caught and executed whilst trying to escape.	true
+message_event_text_text_clan_brother_comes_of_age	Today, a boy becomes a man. Our lord's kin has come of age and is ready to fight at his brother's side. We have seen the beginnings of a fine general.	true
+message_event_text_text_agent_dies_navy	This agent died following the destruction of the navy to which they were assigned.	true
+message_event_text_text_bos_agent_yours_veteran_harass_critical_success	Our foreign veteran successfully harassed an enemy army, bringing death and disarray to them.	true
+message_event_text_text_campmap_vassal_province_acquired	Our vassal has successfully secured a province, thereby strengthening both our domains.	true
+message_event_text_text_camp_peasant_rebellion	The people have taken up arms against their rightful masters!	true
+message_event_text_text_gem_agent_jun_enemy_bribe_success	Treachery! Our men have joined the enemy.	true
+message_event_text_text_character_dies_suspicious	This man died at the hands of an enemy agent! We must apprehend the culprit behind this heinous crime!	true
+message_event_text_text_bos_agent_enemy_shinsen_coerce_troops_critical_success	Weakness! Our troops were coerced by an enemy shinsengumi, abandoning our cause for treachery.	true
+message_event_text_text_gem_agent_jun_yours_bribe_success	Even the most virtuous have their price! Our silver-tongued junsatsushi bribed rival forces to join us.	true
+message_event_text_text_bos_agent_yours_ishin_persuade_troops_critical_success	Even the most loyal of spirits can be swayed! Our ishin shishi successfully persuaded rival forces to join our cause.	true
+message_event_text_text_agent_released	The enemy released our agent from imprisonment. They returned to the capital and are ready to serve the clan once more.	true
+message_event_text_text_gem_agent_spy_enemy_sabotage_fail	An enemy monomi was detected attempting to sabotage our building.	true
+message_event_text_text_clan_enemy_daimyo_killed	Our honoured foe fell in battle, now sitting with pride amongst the ancestors.	true
+message_event_text_text_agent_mis_yours_demoralisation_success	The enemy army is wracked with doubt thanks to the efforts of our agent. 	true
+message_event_text_text_clan_regent_wife_young	The daimyo is dead! His honoured wife will take control of the clan's interests until their son comes of age. 	true
+message_event_text_text_bos_agent_yours_geisha_enchant_critical_success	Our geisha successfully seduced an enemy. He has abandoned his former master and sworn himself to our cause.	true
+message_event_text_text_gem_agent_spy_yours_sabotage_fail	Our monomi has been detected whilst attempting to sabotage an enemy building.	true
+message_event_text_text_gem_agent_sou_yours_persuasion_success	This enemy agent retired to reconsider his path to enlightenment.	true
+message_event_text_text_bos_campmap_your_army_bombarded	An enemy fleet bombarded one of our armies!	true
+message_event_text_text_agent_dies_army	This agent died following the destruction of the army to which they were assigned.	true
+message_event_text_text_agent_mis_yours_persuasion_critical_fail	Our missionary was captured and executed whilst attempting to convert an enemy agent.	true
+message_event_text_text_agent_mon_yours_persuasion_critical_fail	Our monk was executed for trying to persuade an enemy agent to give up his vocation.	true
+message_event_text_text_gem_agent_shi_enemy_seduce_critical_fail	A woman's wiles are no match for one's loyalty to their lord. This enemy shirabyoshi was executed for attempting the seduction of our subject.	true
+message_event_text_text_bos_agent_enemy_geisha_enchant_critical_success	Deplorable! One of our subjects was enchanted by an enemy geisha. Now he serves her lord.	true
+message_event_text_text_bos_agent_yours_shinsen_incite_revolt_critical_success	A few carefully chosen words can bring an entire settlement to its knees. Our shinsengumi successfully incited revolt here.	true
+message_event_text_text_campmap_resource_acquired_goods	Skilled craftsmen create beautiful goods, increasing both the inner and outer wealth of the clan.	true
+message_event_text_text_spy_wounded_assassination	The enemy attempted to assassinate a member of our clan! Having succeeded only in wounding them, the assassin has now escaped. 	true
+message_event_text_text_agent_mon_yours_demoralisation_success	Words can be as powerful as the sword. Our monk caused the enemy troops to doubt their leadership.	true
+message_event_text_text_your_spy_detected_escape_sabotage	Our ninja has been detected whilst attempting to sabotage an enemy building.	true
+message_event_text_text_bos_agent_enemy_veteran_harass_critical_success	Our forces have been harassed by a foreign veteran! Many have died and the men are in dissaray!	true
+message_event_text_text_bos_agent_yours_geisha_level_up	This geisha is ready to perfect her skills, having developed her performing art.	true
+message_event_text_text_gem_agent_jun_enemy_payoff_critical_fail	An enemy junsatsushi attempted to pay-off one of our agents, but was caught and executed.	true
+message_event_text_text_agent_convalesced	Rest and reflection mean this agent is now restored to full health and awaiting fresh orders at the clan capital.	true
+message_event_text_text_bos_campmap_resource_acquired_tea	We have secured a source of tea, essential for entertainment establishments.	true
+message_event_text_text_gem_agent_jun_yours_bribe_fail	This man lacks even the wits to bribe a common soldier! Let us hope this isn't a common occurrence. 	true
+message_event_text_text_gem_agent_sou_yours_incitement_success	Chaos reigns! Our sou successfully incited a revolt in this province.	true
+message_event_text_text_alliance_declared	These two clans elected to form an alliance. This agreement will strengthen them both.	true
+message_event_text_text_bos_railway_theirs_first	Another clan has established Japan's first railway connection! This advanced method of transport allows armies and agents to move quickly between interconnected provinces; we would surely benefit from developing our own rail network.	true
+message_event_text_text_bos_agent_yours_ishin_level_up	Having resolved to return power to the Emperor, this ishin shishi is ready to develop his skills in anger.	true
+message_event_text_text_gem_agent_sou_yours_demoralisation_critical_fail	Our sou was caught attempting to demoralise an enemy force. He has been executed.	true
+message_event_text_text_bos_agent_enemy_ishin_assassin_success	One of our subjects has been wounded in an assassination attempt by an enemy ishin shishi.	true
+message_event_text_text_campmap_resource_acquired_stone	We have acquired a good source of stone, enabling the construction of superior castles and reducing local construction costs.	true
+message_event_text_text_gem_agent_shi_enemy_stall_fail	A rival shirabyoshi was seen attempting to distract our troops. Utterly devoted to their duty, they were not swayed by her performance.	true
+message_event_text_text_agent_recruited	An agent has been recruited to aid our cause.\\n\\n	true
+message_event_text_text_campmap_prestige_enemy_threat_to_shogun	The influence of this clan is far-reaching. Their growing power concerns the Shogun.	true
+message_event_text_text_gem_agent_jun_yours_bribe_critical_fail	This man failed us. Caught attempting to bribe the enemy, he was summarily put to death. 	true
+message_event_text_text_bos_railway_yours_first	We have established Japan's first railway connection! This advanced method of transport will allow us to move armies and agents quickly between interconnected railway stations, as long as they belong to us or to a clan with whom we have agreed military access.	true
+message_event_text_text_your_army_retreats_region	Due to the state of our diplomatic relations with the ruling clan, our army was compelled to withdraw from their territory.	true
+message_event_text_text_campmap_you_adopt_christianity	The turbulence of the times calls for radical new concepts. As such, we embrace Christianity. This will affect how some clans view our own and has placed our daimyo's honour in doubt.	true
+message_event_text_text_gem_agent_shi_yours_stall_critical_fail	Our shirabyoshi failed to distract the rival army and was executed.	true
+message_event_text_text_bos_agent_yours_shinsen_coerce_troops_critical_success	Even the most fearless of spirits can be broken! Our shinsengumi cold-heartedly coerced rival forces to join us.	true
+message_event_text_text_alliance_declared_yours	We successfully forged an alliance with another clan, strengthening us both.	true
+message_event_text_text_bos_agent_enemy_ishin_persuade_troops_critical_success	Treachery! Swayed by ishin shishi lies, our troops have abandoned our cause and joined the enemy.	true
+message_event_text_text_building_your_legendary_built_not_first	The construction of a legendary building is a matter of great pride. It is admired by all who see it.	true
+message_event_text_text_bos_campmap_your_slot_bombarded	An enemy fleet bombarded one of our provinces!	true
+message_event_text_text_campmap_prestige_threat_to_player_shogun	Our ever-growing renown makes the Shogun nervous; there are whispers upon the wind that he plots against our clan to halt our rise to power!	true
+message_event_text_text_gem_enemy_of_the_state	Power breeds fear among the weak. Fearful of our strength and influence, the imperial family has declared us enemies of the state. We must be prepared; no one can be relied upon to aid us, not even our sister family.	true
+message_event_text_text_agent_mis_enemy_demoralisation_success	This army was demoralised by the words of an enemy missionary.	true
+message_event_text_text_agent_mon_yours_incitement_critical_fail	This monk was executed for inciting unrest amongst the people.	true
+message_event_text_text_agent_mis_yours_incitement_critical_fail	Our missionary was executed in the course of his duty, having failed to incite rebellion amongst the people.	true
+message_event_text_text_campmap_resource_lost_warhorses	We have lost the source of our superior horses to the enemy, greatly reducing the effectiveness of our cavalry.	true
+message_event_text_text_gem_agent_sou_enemy_persuasion_success	Having had a crisis of conscience, this agent retreated to a place of solitude.	true
+message_event_text_text_trade_agreement_cancelled_embargo	One of our former trade partners has broken their agreement with us at the request of a third party. They will pay for meddling in our affairs!	true
+message_event_text_text_bos_campmap_resource_lost_cotton	We have lost all sources of cotton, preventing further development of our textiles industry.	true
+message_event_text_text_agent_mis_yours_persuasion_fail	Not all are ready to accept the word of God. Our missionary failed to  convert an enemy agent.	true
+message_event_text_text_agent_mon_yours_persuasion_fail	Some are too narrow minded to reach for enlightenment. We failed to broaden this enemy agent's mind.	true
+message_event_text_text_bos_agent_enemy_veteran_sabotage_building_critical_fail	An enemy foreign veteran was captured and executed for attempting the sabotage of a building.	true
+message_event_text_text_gem_agent_jun_yours_request_ally_critical_fail	The loyalty of some knows no bounds. Our junsatsushi failed to convince the people of this province to join us. His reward was death at their hands.	true
+message_event_text_text_clan_enemy_clan_family_destroyed	This clan’s ruling family has been eradicated. A distant relative has stepped forth to assume the mantle of daimyo and - for the time being - their clan’s future is secured. However, the turmoil following the loss of their daimyo and his kin will has left the clan vulnerable. We may wish to capitalise on this turn of events.	true
+message_event_text_text_bos_agent_yours_shinobi_sabotage_army_critical_success	Our shinobi succeeded in sabotaging the enemy army and escaped undetected.	true
+message_event_text_text_ambusher_discovered_yours	Our hidden army was spotted by forces belonging to another clan.	true
+message_event_text_text_bos_agent_enemy_ishin_assassin_critical_success	An enemy ishin shishi has assassinated one of our subjects. This will not stand!	true
+message_event_text_text_campmap_you_lost_kyoto	Beautiful Kyoto is lost to us, and with it the seat of all power in Japan. We must recapture it!	true
+message_event_text_text_copy_protection_message	You have loaded a game saved without an authentic copy of Total War: Shogun 2 installed. Consequently, the game may become unstable. To purchase a copy please visit http://store.steampowered.com/app/34330/.	true
+message_event_text_text_bos_agent_enemy_veteran_duel_fail	A foreign veteran challenged one of our own to single combat. Honourless in the face of defeat, he fled from the duel.	true
+message_event_text_text_gem_agent_sou_yours_persuasion_critical_success	Those uncertain of their beliefs are easy to lead astray. Our sou successfully convinced an enemy to abandon their cause.	true
+message_event_text_text_war_declared_your_ally	When an ally is attacked it is dishonourable merely to stand back and watch the fighting unfold. We should support him in this latest endeavour.	true
+message_event_text_text_bos_agent_yours_shinobi_level_up	Having developed a talent for subterfuge, this shinobi is ready to master his skills.	true
+message_event_text_text_bos_agent_yours_veteran_duel_fail	Our foreign veteran was defeated by his opponent in single combat, barely managing to escape with his life.	true
+message_event_text_text_agent_kun_yours_assassin_critical_fail	Dishonour! Our geisha failed in her mission and was executed by the enemy. 	true
+message_event_text_text_clan_other_daimyo_dies	The daimyo of another clan died. An honourable man, he is mourned by friend and foe alike. 	true
+message_event_text_text_clan_regent_wife_hostage	Following the death of our lord his honoured wife was named regent until their son is returned from captivity.	true
+message_event_text_text_bos_agent_enemy_shinobi_assassin_critical_fail	An enemy shinobi was apprehended and executed following an assassination attempt.	true
+message_event_text_text_campmap_ashikaga_become_shogun	The puppets have been returned to power! The Ashikaga Shogunate rules once again.	true
+message_event_text_text_gem_agent_sou_yours_demoralisation_fail	Our sou failed to spread despair amongst the enemy.	true
+message_event_text_text_campmap_they_adopt_christianity	In these times of turmoil people seek solace in religion. In its search for answers a rival clan chose to adopt Christianity.	true
+message_event_text_text_bos_agent_enemy_geisha_distract_garrison_critical_fail	Having attempted to distract a garrison from their duty, a rival geisha was caught and executed.	true
+message_event_text_text_your_spy_successful_army_sabotage	Our ninja succeeded in sabotaging his target army and escaped undetected.	true
+message_event_text_text_summary_resources	The ebb and flow of war has caused both us to gain and lose important natural resources. Essential to the economy and the business of war, we must strive to keep them secure at all times.	true
+message_event_text_text_camp_ikko_revolt	The people have risen up in revolt against us.	true
+message_event_text_text_bos_clan_level_increase	Owing to our modernisation efforts, we are now able to further develop our clan's military technologies and civil policies.	true
+message_event_text_text_clan_their_hostage_taken	Crippling a man's heart is far more effective than crippling his army. A young hostage was taken to assure the outcome of our diplomatic negotiations.	true
+message_event_text_text_bos_agent_yours_shinsen_level_up	Having resolved to support the Shogun until death, this shinsengumi is ready to develop his skills in anger.	true
+message_event_text_text_bos_agent_enemy_shinobi_sabotage_building_fail	An enemy shinobi was detected attempting to sabotage our building.	true
+message_event_text_text_campmap_religious_unrest	The people of this province do not share our religion; without action there could be insurrection!	true
+message_event_text_text_gem_agent_spy_enemy_subvert_fail	An enemy monomi was spotted moving amongst the men! Early detection prevented any misfortune from befalling the army.	true
+message_event_text_text_agent_kun_yours_assassin_success	This geisha failed us, having managed only to wound her target.	true
+message_event_text_text_bos_agent_yours_ishin_incite_revolt_critical_fail	Our ishin shishi was executed for attempting to incite unrest amongst the people.	true
+message_event_text_text_gem_character_gains_level_dancer	This shirabyoshi is ready to develop her skills, having worked her magic on friend and foe alike.	true
+message_event_text_text_building_their_legendary_begins	One of our rivals began construction of a legendary building.	true
+message_event_text_text_war_declared_you	This means war! Talk will not resolve our differences; the only remaining option is to put them all to the sword.	true
+message_event_text_text_clan_new_daimyo_retainer	Tragedy! Our honoured daimyo and his heirs have been destroyed by our enemies! In the absence of male descendants our lord has been succeeded by a distant relative. The future of the clan has been secured - for the time being - but the repercussions of our loss will affect the people for years to come.	true
+message_event_text_text_faction_destroyed	Even the mightiest of clans are of little consequence when faced with the power of our own!	true
+message_event_text_text_bos_agent_enemy_ishin_incite_revolt_critical_fail	An enemy ishin shishi was executed as punishment for trying to incite insurrection. Dissidents will not be tolerated. 	true
+message_event_text_text_clan_new_daimyo_heir_unrecruited	The daimyo is dead! Following the death of this honoured man his son has entered court life at the clan capital. Long may he reign!	true
+message_event_text_text_gem_agent_jun_yours_payoff_fail	It seems that money cannot buy everything. An enemy agent resisted our attempt to pay him off.	true
+message_event_text_text_bos_campmap_prestige_level_4_imperial	The civil war rages on, and our achievements in the Emperor's name have been without equal. In honour of your loyalty and dilligence, he has declared you regent!\\n\\nYou may now appoint a general to the office of commander-in-chief.	true
+message_event_text_text_region_captured	This province is now under our control. Widening our grip helps to increase overall wealth through taxation and trade.	true
+message_event_text_text_spy_successful_sabotage	A building was sabotaged by an enemy ninja. The culprit escaped undetected.	true
+message_event_text_text_your_capital_recaptured	We have reclaimed what is rightfully ours. The people are celebrating in the streets at the daimyo's return.	true
+message_event_text_text_campmap_you_meet_europe	Men have arrived from overseas to trade with us. We can defeat our enemies utterly with the deadly new weapons they have brought to our shores.	true
+message_event_text_text_your_spy_detected_escape_army_sabotage	Our ninja failed to sabotage the enemy army and was detected, somehow managing to escape with his life.	true
+message_event_text_text_trade_agreement_cancelled	Our relationship with this clan broke down to the extent that trade between us is cancelled forthwith.	true
+message_event_text_text_agent_mis_enemy_incitement_fail	The enemy's attempts to incite a revolt here have failed.	true
+message_event_text_text_agent_mon_enemy_incitement_fail	An enemy agent attempted to seed dissention amongst the people, but their loyalty to the clan never faltered.	true
+message_event_text_text_clan_marriage_daughter	A faithful general was rewarded with marriage to the daimyo's daughter. This will only increase his loyalty to the clan. 	true
+message_event_text_text_your_trade_route_raided	Enemy ships raided a valuable trade route belonging to our clan. They must be destroyed before trade can continue there.	true
+message_event_text_text_bos_campmap_resource_lost_copper	We have lost all sources of copper, preventing our development of strong ships and military ports.	true
+message_event_text_text_clan_character_executed	Death before dishonour! This man was executed as an example to others who would betray the clan.	true
+message_event_text_text_bos_tech_advance	\\n	true
+message_event_text_text_your_settlement_besieged	Our castle is under siege! The defenders will hold out for as long as possible, but it will not be long before supplies run out and they are compelled to surrender. It is vital that they sally out to meet their attackers before this happens.	true
+message_event_text_text_clan_character_defects	This man abandoned the clan! The maintenance of loyalty is vital and should be considered at all times.	true
+message_event_text_text_bos_campaign_won	Glorious! We have triumphed over adversity and succeeded in uniting the people of Japan; a new era of progress and prosperity awaits!	true
+message_event_text_text_bos_agent_enemy_shinobi_assassin_success	The enemy attempted to assassinate a member of our clan! Having succeeded only in wounding them, the assassin has now escaped. 	true
+message_event_text_text_bos_agent_yours_shinsen_assassin_critical_success	Through diligence and skill, our shinsengumi successfully assassinated his target.	true
+message_event_text_text_campmap_resource_acquired	We have acquired an important resource, allowing us advantageous new construction and recruitment opportunities.	true
+message_event_text_text_bos_agent_yours_shinobi_assassin_critical_success	Our shinobi successfully assassinated his target, using all the cunning and skill available to him.	true
+message_event_text_text_bos_attrition_bombardment	One of our fleets has been damaged by enemy coastal defences.	true
+message_event_text_text_movement_blocked	We are blocked from moving this way due to the presence of another. We must find an alternative route or attack them.	true
+message_event_text_text_bos_agent_yours_ishin_incite_revolt_fail	No amount of careful persuasion could convince the people of this settlement to rebel against their masters. 	true
+message_event_text_text_unit_recruited	A warlord is nothing without his warriors. Our new unit is ready to serve the clan. 	true
+message_event_text_text_bos_agent_enemy_shinsen_assassin_success	One of our subjects has been wounded in an assassination attempt by an enemy shinsengumi.	true
+message_event_text_text_gem_agent_jun_enemy_request_ally_success_partial	An enemy junsatsushi attempted to secure allegiance in one of our provinces. Some of our garrisoned forces betrayed us and joined his cause.	true
+message_event_text_text_gem_agent_jun_enemy_request_ally_success	Treachery! One of our provinces has abandoned our cause to throw their lot in with the enemy!	true
+message_event_text_text_bos_agent_enemy_shinobi_assassin_critical_success	One of our subjects met their end under suspicious circumstances. There is no mistaking the hand of the enemy in this event.	true
+message_event_text_text_bos_agent_enemy_shinsen_assassin_critical_success	An enemy shinsengumi has assassinated one of our subjects. This will not stand!	true
+message_event_text_text_bos_campmap_prestige_level_1_imperial	In return for service to the Emperor, you have been granted the rank of junior councillor to the Court.\\n\\nYou may now appoint a general to the office of inspector general.	true
+message_event_text_text_clan_new_daimyo_general	Tragedy! Our honoured daimyo and his heirs have been destroyed by our enemies! With his dying breath, the daimyo entrusted the fate of the clan to his most trusted warrior and bestowed upon him the honour of bearing the clan’s name. The future of the clan has been secured - for the time being  - but the repercussions of our loss will affect the people for years to come.	true
+message_event_text_text_campmap_resource_acquired_cotton	This source of excellent cotton allows us to provide warm, light and sturdy clothing for our people.	true
+message_event_text_text_bos_agent_yours_veteran_sabotage_building_fail	Our foreign veteran was spotted attempting to sabotage an enemy building and had to abandon his mission.	true
+message_event_text_text_bos_campmap_prestige_level_2_imperial	Our continued support of the Emperor pleases the Court greatly; for your efforts you have been promoted to senior councillor.\\n\\nYou may now appoint a general to the office of comptroller.	true
+message_event_text_text_bos_agent_enemy_shinobi_sabotage_building_critical_fail	An enemy shinobi was captured and executed whilst trying to sabotage one of our buildings.	true
+message_event_text_text_gem_agent_shi_yours_seduce_fail	Not all are swayed by a lady's charm. Our shirabyoshi falied to seduce an enemy.	true
+message_event_text_text_bos_campmap_prestige_level_3_imperial	Our clan grows strong, ever loyal to the Emperor's cause. In recognition of your long service, you have been promoted to chancellor of state!\\n\\nYou may now appoint a general to the office of chief of staff.	true
+message_event_text_text_clan_character_commits_seppuku	This man committed suicide at his lord's command, so preserving his family's honour.	true
+message_event_text_text_bos_agent_yours_shinsen_assassin_critical_fail	Our shinsengumi failed to eliminate his target. He was killed whilst attempting to escape.	true
+message_event_text_text_gem_agent_jun_enemy_request_ally_critical_fail	An enemy junsatsushi who sought the allegiance of those loyal to our cause has been put to the sword.	true
+message_event_text_text_bos_campmap_resource_lost_coal	We have lost all sources of coal, putting an end to our planned rail network.	true
+message_event_text_text_gem_agent_shi_enemy_seduce_fail	An enemy shirabyoshi attempted to seduce one of our subjects. Loyalty has prevailed, but we must be vigilant.	true
+message_event_text_text_bos_agent_enemy_shinobi_sabotage_army_critical_success	An enemy shinobi successfully sabotaged our army. This is an outrage!	true
+message_event_text_text_bos_agent_yours_shinobi_sabotage_building_critical_fail	Our shinobi failed to sabotage his target. He was captured and summarily executed. 	true
+message_event_text_text_internal_mission_failed	We failed to complete this mission in the allotted timeframe.	true
+message_event_text_text_military_access_expired	Our military access agreement with this clan has now ended. A new agreement must be brokered should we wish to continue unrestricted movement through their territory.	true
+message_event_text_text_bos_agent_enemy_shinobi_assassin_detected	Our men detected the presence of a rival shinobi. We must be cautious.	true
+message_event_text_text_attrition_winter	The bitter cold took its toll on our troops, some of whom did not survive the winter.	true
+message_event_text_text_your_spy_detected_execute_army_sabotage	Our ninja failed to sabotage his target army. He was caught and executed out-of-hand. 	true
+message_event_text_text_clan_your_hostage_given	Sometimes a man must sacrifice those things dearest to him for the greater good. A member of your family was made a hostage as part of a diplomatic deal.	true
+message_event_text_text_military_access_prompt	Our military access agreement with this clan draws to an end. A new agreement must be brokered should we wish to continue unrestricted movement through their territory.	true
+message_event_text_text_campmap_faction_encountered_you	We have encountered a clan with whom we have had no previous contact. We can now begin diplomatic negotiations with them.	true
+message_event_text_text_clan_marriage_son_diplo	The daimyo is dead! The love of a woman can calm even the most ferocious of men. The daimyo's daughter married into a rival clan as part of a diplomatic deal.	true
+message_event_text_text_bos_agent_yours_shinobi_assassin_detected	Our shinobi was detected by agents of another clan. He may now be vulnerable to their machinations.	true
+message_event_text_text_agent_kun_enemy_assassin_critical_fail	An enemy geisha was trapped and dealt with. She no longer poses a threat to the safety of the clan...or anyone else for that matter.	true
+message_event_text_text_your_slot_raided	The enemy raided our possessions. Any damaged buildings must be repaired if the flow of income is to be maintained.	true
+message_event_text_text_agent_kun_enemy_assassin_success	Alas! An enemy geisha succeeded in wounding this character. Luckily they have escaped with their life and continue to serve the clan. 	true
+message_event_text_text_gem_agent_spy_yours_subvert_fail	Our monomi failed to sabotage the enemy army and was detected, managing to escape with his life.	true
+message_event_text_text_alliance_broken	The alliance between these two great clans was broken.	true
+message_event_text_text_bos_agent_yours_shinobi_assassin_critical_fail	Our shinobi failed to eliminate his target. He was caught and executed whilst trying to escape.	true
+message_event_text_text_bos_agent_yours_geisha_distract_garrison_critical_success	The predictability of men! Our geisha successfully distracted part of an enemy garrison.	true
+message_event_text_text_gem_agent_spy_yours_subvert_critical_fail	Our monomi failed to sabotage his target army. He was caught and executed out-of-hand. 	true
+message_event_text_text_faction_joins_war_against_player	Treachery! This clan joined our enemies in their war against us.	true
+message_event_text_text_bos_agent_yours_geisha_distract_garrison_critical_fail	Our geisha was executed for attempting to distract an enemy garrison from their duty.	true
+message_event_text_text_bos_agent_enemy_geisha_distract_garrison_critical_success	The weakness of men knows no bounds. Some of our garrisoned forces have been distracted by a rival geisha.	true
+message_event_text_text_gem_agent_spy_enemy_subvert_critical_fail	An enemy monomi was captured and executed whilst trying to sabotage our army.	true
+message_event_text_text_agent_mis_yours_incitement_fail	No amount of careful persuasion could convince the people of this settlement to rebel against their masters. 	true
+message_event_text_text_agent_mon_yours_incitement_fail	No amount of careful persuasion could convince the people of this settlement to rebel against their masters. 	true
+message_event_text_text_campmap_they_meet_europe	Men have arrived from overseas to trade with a rival clan. Our agents tell us that the deadly new weapons they bring may tip the scales of power away from us.	true
+message_event_text_text_gem_campaign_won	Glorious! The people of Japan have been united beneath our banner; the tale of our ascension will be spoken of for generations to come!	true
+message_event_text_text_bos_agent_yours_shinobi_sabotage_building_fail	Our shinobi has been detected whilst attempting to sabotage an enemy building.	true
+message_event_text_text_war_starving_out	The men defending this castle cannot hold out much longer; the people are starving and many lie dying in the streets. Surrender is imminent!	true
+message_event_text_text_agent_kun_enemy_assassin_critical_success	The enemy succeeded in their assassination attempt. Having stolen this character's life, their geisha has slipped away into the night.	true
+message_event_text_text_bos_agent_yours_geisha_distract_army_fail	Our geisha failed to distract the rival army.	true
+message_event_text_text_your_bankruptcy_no_cash	The treasury is empty - the clan is using more money than is coming in through taxation and trade, consequently damaging our daimyo's honour.	true
+message_event_text_text_agent_kun_yours_assassin_critical_success	Our geisha successfully killed her target. 	true
+message_event_text_text_military_access_cancelled	This clan has prematurely ended our military access agreement. Perhaps they mean to betray us?	true
+message_event_text_text_bos_agent_enemy_geisha_distract_army_fail	A rival geisha was seen attempting to distract our troops. Utterly devoted to their duty, they were not swayed by her performance.	true
+message_event_text_text_character_gains_level_ikko_monk	This Ikko monk is ready to develop his skills, having fanatically devoted himself to the practice of his Jodo Shinshu beliefs.	true
+message_event_text_text_gem_agent_jun_enemy_payoff_fail	True to our lord and master, this agent refused an enemy junsatsushi's payoff attempt.	true
+message_event_text_text_your_bankruptcy_upkeep_warning	The clan's finances are in a dire state, without drastic measures the clan will soon be bankrupt!	true
+message_event_text_text_campmap_your_general_convalesced	Following a period of convalescence our general returned to duty at the clan capital.	true
+message_event_text_text_campmap_resource_acquired_spices	We have secured a supply of the finest incense, a key element to performing Buddhist rites.	true
+message_event_text_text_emergent_faction	From the ashes of war rises a new clan. If left unchecked it may gather strength and rise to challenge us one day.	true
+message_event_text_text_clan_character_disloyal	This man's loyalty is waning. Investigation by metsuke or the offer of marriage may bring him back into the fold.	true
+message_event_text_text_bos_agent_yours_veteran_level_up	This foreign veteran is ready to refine his skills, having long-developed his craft. 	true
+message_event_text_text_port_blockaded	Our fleet is blockading an enemy port, preventing trade flowing from the province.	true
+message_event_text_text_campmap_your_general_returns_to_capital	Our general was wounded in the thick of battle. 	true
+message_event_text_text_your_spy_successful_assassination	Our ninja successfully assassinated his target, using all the strength and cunning available to him.	true
+message_event_text_text_faction_joins_war	War is like a tornado, consuming everything in its path. A clan has joined its allies to fight a mutual enemy.	true
+message_event_text_text_campmap_resource_acquired_iron	Making a great sword requires skill, patience and access to the right materials. This source of superior iron will reduce the cost of recruiting troops.	true
+message_event_text_text_campmap_resource_acquired_wood	Not every tree is suitable for ship building. With a source of superior wood secured we can construct better ships.	true
+message_event_text_text_your_spy_wounded_assassination	Although unable to kill his target, our ninja succeeded in wounding and putting his adversary out of action for a while.	true
+message_event_text_text_clan_worthy_bride	A loyal retainer offers his daughter's hand in marriage; will this man take her as his bride?	true
+message_event_text_text_campmap_resource_acquired_silk	We have acquired a source of Chinese silk, fit for resplendent kimonos and other luxury clothing prized by entertainers and nobles alike.	true
+message_event_text_text_bos_agent_enemy_ishin_incite_revolt_fail	The enemy's attempts to incite a revolt here have failed; we must see to it that they do not try again.	true
+message_event_text_text_bos_agent_yours_shinsen_assassin_success	Our shinsengumi wounded his target, although he was unable to kill them. They have been temporarily put out of action.	true
+message_event_text_text_gem_agent_jun_yours_request_ally_success_partial	Our junsatsushi was unable to rally the people of this province to our cause. Nevertheless, some of the garrison have sworn themselves to our banner.	true
+message_event_text_text_gem_agent_jun_yours_request_ally_success	None can deny that ours is a noble cause! We have secured the allegiance of this province and those who swore to defend it.	true
+message_event_text_text_gem_agent_sou_enemy_demoralisation_fail	Despite enemy attempts to demoralise our forces, they remain ready to fight to the end.	true
+message_event_text_text_campmap_faction_encountered_them	A clan we have yet to come into contact with has scouted our territory. We can now begin diplomatic negotiations with them.	true
+message_event_text_text_agent_met_enemy_apprehension_fail	Another's so-called justice has little sway here! An enemy metsuke failed to indict one of our agents.	true
+message_event_text_text_your_spy_detected_escape	Our ninja failed to eliminate his target and was detected, somehow managing to escape the clutches of the enemy and his certain death.	true
+message_event_text_text_character_gains_level_missionary	This missionary is ready to develop his skills, having fervently devoted his thoughts for the benefit of the clan.	true
+message_event_text_text_agent_met_yours_apprehension_fail	An enemy agent escaped the grasp of our metsuke.	true
+message_event_text_text_bos_campmap_resource_lost_silk	We have lost all sources of silk, preventing us from further developing our textiles industry.	true
+message_event_text_text_gem_agent_sou_enemy_persuasion_critical_success	One of our agents turned his back on the clan following conversations with an enemy sou.	true
+message_event_text_text_bos_agent_enemy_veteran_sabotage_building_fail	A foreign veteran was seen attempting to sabotage a building. He was unsuccessful yet managed to evade capture.	true
+message_event_text_text_campmap_prestige_emperor_acknowledgement	Word of our achievements have reached the imperial court; His Imperial Majesty now watches our exploits with interest. As we continue to conquer and secure great victories, so our clan’s fame will continue to increase. We must tread cautiously; the Shogun will not take kindly to any who might threaten his authority.	true
+message_event_text_text_bos_agent_yours_shinobi_assassin_success	Although unable to kill his target, our shinobi wounded his adversary, temporarily putting him out of action.	true
+message_event_text_text_bos_campmap_resource_lost_iron	We have lost all sources of iron, putting an end to our planned advancement of dock facilities and ships.	true
+message_event_text_text_bos_agent_yours_ishin_assassin_critical_success	Driven by zeal, our ishin shishi successfully eliminated his target.	true
+message_event_text_text_agent_kun_enemy_detected	The enemy sent a geisha amongst us! Through the vigilance of our men she was rooted out before any damage was done.	true
+message_event_text_text_clan_new_daimyo_brother	The daimyo is dead! Having left no heirs to continue his great work, the power of our great lord passes to his honoured brother. 	true
+message_event_text_text_bos_camp_rebellion_shogun	Seditious Shogunate loyalists in this province have risen up in revolt against us!	true
+message_event_text_text_agent_mis_enemy_persuasion_fail	The enemy failed to persuade this agent to renounce his beliefs.	true
+message_event_text_text_agent_mon_enemy_persuasion_fail	Despite the best efforts of the enemy this agent stuck to their convictions.	true
+message_event_text_text_bos_agent_yours_veteran_sabotage_building_critical_fail	Our foreign veteran was captured and executed trying to sabotage an enemy building.	true
+message_event_text_text_bos_agent_enemy_shinsen_assassin_critical_fail	An enemy shinsengumi attempted to assassinate one of our subjects. He has been caught and executed.	true
+message_event_text_text_clan_new_daimyo_heir_recruited	This is a day for celebration! Our erstwhile daimyo's honoured son has assumed control of both the clan and our futures.	true

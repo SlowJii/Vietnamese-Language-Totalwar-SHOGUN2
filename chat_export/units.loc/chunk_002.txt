@@ -1,0 +1,83 @@
+=== CHUNK 2/6 — units.loc.tsv ===
+(Dịch 80 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[81] Carbine Cavalry
+[82] Yugekitai
+[83] Bow Hero
+[84] Bow Kobaya
+[85] Takeda Yari Cavalry
+[86] Chosokabe Bow Warrior Monks
+[87] Mori Fire Bomb Kobaya
+[88] Heavy Bune
+[89] The Spears of Shizugatake
+[90] Fire Bomb Kobaya
+[91] Hanzo's Shadows
+[92] Hattori Yari Samurai
+[93] Hojo Ujiyasu
+[94] Bow Ashigaru
+[95] Katana Dojo Samurai
+[96] Naginata Levy
+[97] Benkei's Blades
+[98] Bow Kachi
+[99] Fire Bomb Throwers
+[100] Marathon Monks
+[101] Samurai Hero
+[102] Hattori Bow Samurai
+[103] Sword Infantry
+[104] Armoured Frigate - Kaiyo Maru class
+[105] Heavy Bune
+[106] The Black Ship
+[107] Shinsengumi Police Force
+[108] Black Tortoise Force
+[109] Hattori Kisho Ninja
+[110] Black Bear Infantry
+[111] Fire Bomb Throwers
+[112] Ironclad - Kotetsu class
+[113] Samurai Large Ship
+[114] Yari Hero
+[115] Shogun Infantry
+[116] Gun boat - Chiyodagata class
+[118] European Cannons
+[119] Mori Wako Raiders
+[120] Naginata Levy Garrison
+[121] United States Marines
+[122] Imagawa Yoshimoto
+[123] Bow Warrior Monks
+[124] Mori Siege Tower Bune
+[125] Fire Projecting Mangonels
+[126] Wooden Corvette - Kanrin Maru class
+[127] Revolver Cavalry
+[128] Shogunate Guard Cavalry
+[129] Spear Levy
+[130] Shogunate Infantry
+[131] Shimazu Yoshihiro
+[132] Katana Ronin
+[133] Levy Infantry
+[134] Bow Kobaya
+[135] Katana Kachi
+[137] Katana Cavalry
+[138] Naginata Warrior Monk Hero
+[139] Hand Mortars
+[140] Siege Tower Bune
+[141] Mounted Samurai Hero
+[142] Pike Infantry
+[143] Takeda Bow Cavalry
+[144] Nihon Maru
+[145] O Ataka Bune
+[146] Bow Ashigaru
+[147] Matchlock Ashigaru
+[148] Limbered Parrott Gun
+[150] General's Bodyguard
+[151] Bow Cavalry
+[152] Matchlock Samurai
+[153] Sword Cavalry
+[154] Shimotsuma Nakayuki
+[155] Katana Samurai
+[156] Cannon Bune
+[157] Medium Bune
+[158] Ogigayatsu Tomosada
+[159] Kisho Ninja
+[160] Donderbuss Cavalry
+[161] Torpedo boat - Chiyodagata class
+[162] Bow Samurai
+[163] Spear Infantry

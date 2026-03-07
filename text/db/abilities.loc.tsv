@@ -1,0 +1,23 @@
+key	text	tooltip
+#Loc;1;text/db/abilities.loc		
+abilities_effect_text_can_hunt_down	Can apprehend and trial other agents.	true
+abilities_effect_text_can_sabotage	Can undertake sabotage missions.	true
+abilities_effect_text_can_exchange	Can merge with other pieces.	true
+abilities_effect_text_can_distract_garrison	PLACEHOLDER Can distract garrisons.	true
+abilities_effect_text_can_research	Can research technologies.	true
+abilities_effect_text_can_attack_land	Can instigate land battles.	true
+abilities_effect_text_can_spy	Can undertake spying missions.	true
+abilities_effect_text_can_build_fort	Can construct fort.	true
+abilities_effect_text_can_assassinate	Can undertake assassination missions.	true
+abilities_effect_text_can_convert_character	Can convert enemy agents.	true
+abilities_effect_text_can_seduce	Can seduce enemy characters.	true
+abilities_effect_text_can_attack_naval	Can instigate naval battles.	true
+abilities_effect_text_can_convert	Enables religious conversion.	true
+abilities_effect_text_Can_Hide_In_Woods	Enables hiding on the battlefield.	true
+abilities_effect_text_can_demoralise_army	Can demoralize enemy armies	true
+abilities_effect_text_can_build_religious	Can construct mission.	true
+abilities_effect_text_can_receive_duel	Can receive a duel challenge.	true
+abilities_effect_text_can_bribe	Can bribe enemy characters and castles.	true
+abilities_effect_text_can_duel	Enables duelling challenges.	true
+abilities_effect_text_can_sabotage_army	Can sabotage an army.	true
+abilities_effect_text_can_incite_revolt	Can incite a religious revolt in enemy territory.	true

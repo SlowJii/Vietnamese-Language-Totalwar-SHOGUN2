@@ -1,0 +1,38 @@
+key	text	tooltip
+#Loc;1;text/db/ui_unit_stats.loc		
+ui_unit_stats_onscreen_name_ship_missile_troop_marksmanship	Missile Accuracy	true
+ui_unit_stats_onscreen_name_ship_cannon_range	Cannon Range	true
+ui_unit_stats_tooltip_text_ship_cannon_range	This shows the effective range for this ship.	true
+ui_unit_stats_tooltip_text_ship_soldier_melee_defence	This determines the chance of your unit getting hit while in melee.||Unfortunately this is only for melee mode and will provide no protection from projectiles!	true
+ui_unit_stats_onscreen_name_ship_missile_troop_range	Missile Range	true
+ui_unit_stats_tooltip_text_ship_missile_troop_range	A long range enables you to hit enemies from a distance, but weapons still tend to be more accurate at shorter ranges.	true
+ui_unit_stats_tooltip_text_melee_bonus_vs_cav	This shows the melee bonus this unit receives when fighting against cavalry units.	true
+ui_unit_stats_onscreen_name_armour	Armour	true
+ui_unit_stats_tooltip_text_ship_hull_strength	The hull strength determines how much damage this ship will receive when hit.	true
+ui_unit_stats_tooltip_text_ship_soldier_melee_attack	This determines the chance of a successful hit on the enemy when the unit is engaged in melee.||Battle hardened troops will gain experience in melee and this skill will increase.	true
+ui_unit_stats_onscreen_name_ship_soldier_melee_attack	Melee Attack	true
+ui_unit_stats_onscreen_name_morale	Morale	true
+ui_unit_stats_tooltip_text_ship_missile_troop_marksmanship	This reflects the likelihood of hitting the enemy by fire.	true
+ui_unit_stats_onscreen_name_marksmanship	Accuracy	true
+ui_unit_stats_tooltip_text_marksmanship	This reflects the likelihood of hitting the enemy by fire.||Gaining experience in battle will improve this value.	true
+ui_unit_stats_onscreen_name_ship_soldier_melee_defence	Melee Defence	true
+ui_unit_stats_onscreen_name_melee_bonus_vs_cav	Bonus vs Cavalry	true
+ui_unit_stats_tooltip_text_ammo	The amount of ammunition this unit can carry into battle.||Once this has been used up the unit will be forced to switch to melee mode for any more fighting.||After the battle ammunition will be fully replenished.	true
+ui_unit_stats_onscreen_name_ammo	Ammunition	true
+ui_unit_stats_onscreen_name_range	Range	true
+ui_unit_stats_onscreen_name_melee_attack	Melee Attack	true
+ui_unit_stats_tooltip_text_melee_attack	This determines the chance of a successful hit on the enemy when the unit is engaged in melee.||Battle hardened troops will gain experience in melee and this skill will increase.	true
+ui_unit_stats_tooltip_text_melee_defence	This determines the chance of your unit getting hit while in melee.||Unfortunately this is only for melee mode and will provide no protection from projectiles!	true
+ui_unit_stats_onscreen_name_ship_manouverability	Manoeuvrability	true
+ui_unit_stats_tooltip_text_ship_manouverability	This determines the speed this ship can change course.	true
+ui_unit_stats_onscreen_name_melee_defence	Melee Defence	true
+ui_unit_stats_tooltip_text_range	A long range enables you to hit enemies from a distance, but weapons still tend to be more accurate at shorter ranges. 	true
+ui_unit_stats_onscreen_name_ship_cannons	Cannons	true
+ui_unit_stats_tooltip_text_ship_cannons	This shows the number of cannons for this ship.	true
+ui_unit_stats_tooltip_text_reload_skill	This is the speed this unit can reload.||This will be raised by gaining experience in battle.	true
+ui_unit_stats_onscreen_name_reload_skill	Reload Skill	true
+ui_unit_stats_tooltip_text_morale	A unit with high morale is less likely to rout in the face of danger.||Gaining experience on the battlefield will improve morale for this unit.	true
+ui_unit_stats_tooltip_text_charge_bonus	This increases a unit's melee attack when charging in.	true
+ui_unit_stats_onscreen_name_charge_bonus	Charge Bonus	true
+ui_unit_stats_tooltip_text_armour	This shows how resistant a unit is to missile fire and melee attacks.	true
+ui_unit_stats_onscreen_name_ship_hull_strength	Hull Strength	true

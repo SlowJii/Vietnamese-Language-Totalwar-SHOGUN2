@@ -1,0 +1,24 @@
+key	text	tooltip
+#Loc;1;text/db/town_wealth_growth_factors.loc		
+town_wealth_growth_factors_positive_tooltip_events	Enlightenment: %S ||Researching certain technologies increases economic growth.	true
+town_wealth_growth_factors_negative_tooltip_events	(placeholder)	true
+town_wealth_growth_factors_positive_tooltip_ministers	Ministers: %S||Your ministers encourage economic growth.	true
+town_wealth_growth_factors_positive_tooltip_traditionalism	(PLACEHOLDER) Stable Development: %S ||Maintain the balance of traditions and modernisation.	true
+town_wealth_growth_factors_negative_tooltip_ministers	Government: %S ||Your corrupt ministers harm economic growth.	true
+town_wealth_growth_factors_negative_tooltip_traditionalism	(PLACEHOLDER) Overdevelopment: %S ||You are modernising too fast. The populace is not ready for it. Try to accumulate more modernisation.	true
+town_wealth_growth_factors_positive_tooltip_education	Education: %S ||Increase this by developing your educational buildings such as universities and schools.	true
+town_wealth_growth_factors_positive_tooltip_industry	Industry: %S ||Increase this by developing your industrial buildings such as workshops and factories.	true
+town_wealth_growth_factors_negative_tooltip_tax	Tax: %S ||Tax rates are slowing economic growth.||Reduce this by lowering tax rates.	true
+town_wealth_growth_factors_negative_tooltip_technologies	(placeholder)	true
+town_wealth_growth_factors_positive_tooltip_technologies	Enlightenment: %S ||Researching certain technologies increases economic growth.	true
+town_wealth_growth_factors_negative_tooltip_global_food	Global Food Supply: %S ||Upgrade your farms to supply your castle towns with food	true
+town_wealth_growth_factors_positive_tooltip_port	Ports: %S ||Increase this by developing your trading ports and fisheries.	true
+town_wealth_growth_factors_positive_tooltip_global_food	Global Food Supply: %S ||Ensure you have enough farms to supply your upgraded castles	true
+town_wealth_growth_factors_negative_tooltip_government	Government: %S ||Your government type can harm economic growth.	true
+town_wealth_growth_factors_positive_tooltip_bankruptcy	s	true
+town_wealth_growth_factors_negative_tooltip_bankruptcy	Bankruptcy: %S ||To replenish your wealth you could disband units or try conquering new regions.||Alternatively you could make valuable trade agreements with economically powerful nations.	true
+town_wealth_growth_factors_positive_tooltip_government	Government: %S||Your government type encourages economic growth.	true
+town_wealth_growth_factors_positive_tooltip_modernisation	(PLACEHOLDER) Stable Development: %S ||Maintain the balance of traditions and modernisation.	true
+town_wealth_growth_factors_negative_tooltip_modernisation	(PLACEHOLDER Underdevelopment: %S ||You are modernising too slow. The populace is craving for it. Try to build modern buildings.	true
+town_wealth_growth_factors_positive_tooltip_roads	Roads: %S ||Increase this by developing your roads, which will improve trading.||Upgrade roads on the infrastructure tab at your region capital.	true
+town_wealth_growth_factors_negative_tooltip_discontent	Discontent: %S ||Protests and dissatisfaction are harming economic growth.	true
