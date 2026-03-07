@@ -1,0 +1,103 @@
+=== CHUNK 3/14 — ancillaries.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[200] Unmannered Samurai
+[201] Boastful Samurai
+[202] Unbalanced Spears
+[203] Guns are useless in the hands of idiots.
+[204] "We inform sir, and by doing so, form opinions in the capitals of the world."
+[205] The sure-footed way is its own reward.
+[206] For the huntsman, what else matters other than the chase?
+[207] There are strategies to everything, from love to conquest.
+[208] Oyabun
+[209] "One day, I will make a perfect blade. One day…"
+[210] Junsatsushi Inspector
+[211] Legendary Sojutsu Master
+[212] Surgeon
+[213] Monomi Spy
+[214] Master Netsuke Carver
+[215] Technique and honour separate the warrior on the battlefield from the peasant in the rice field.
+[216] Komuso Disguise
+[217] When you've few guns, make sure you fire often.
+[218] Poor Bloodstock
+[219] "Shhhh! Walls have ears."
+[220] Farmers' Almanac
+[221] "Americans, sir, respect achievement. And money."
+[222] Poisoned Tanto
+[223] Sack of Rice
+[224] Those who chase the dragon often become the prey.
+[225] Thomas Blake Glover
+[226] Minie Muzzle-loading Rifle
+[227] "No, he is a Christian."
+[228] Heroic Samurai
+[229]  To measure the stars is to diminish their grandeur.
+[230] Myriad Year Clock
+[231] Trading Post
+[232] Go Board
+[233] The man who reads the moods of the sea, and profits by his skill, has value above pearls to a naval commander.
+[234] There is wonder in all things of this world.
+[235] There is great honour in service to the Emperor.
+[236] Hero-Worshipping Boy
+[237] "Swords? Swords are for English girls!"
+[238] Sometimes, the sword is a distraction to the warrior.
+[239] Legendary Kote
+[240] Legendary Koto Player
+[241] Poison Collection
+[242] "I got my head stuck, and I still don't know what the cricket bat was for…"
+[243] Words on paper do not kill, but change lives.
+[244] "...And like that, he's gone!"
+[245] Loyal Fudai-Shu Retainers
+[246] Who ate all the noodles?
+[247] Sumo is the root of every martial art.
+[248] "…And like that, he's gone!"
+[249] Legendary Naginatajutsu Master
+[250] An extra pair of eyes will spot the hidden enemy.
+[251] Elephant Gun
+[252] "Rich country: strong army."
+[253] World-Weary
+[254] Jules Brunet
+[255] Sumo is the root of every martial art.
+[256] Who ate all the noodles?
+[257] Go Board
+[258] Mochiyari Gumi Spear-Bearer
+[259] Untrained Fugu Cook
+[260] Lotus Sect Adherent
+[261] No army that marches beneath the banner of Christ, blessed by the Holy Father, can ever suffer defeat!
+[262] Wizened Monk
+[263] European Firelock
+[264] Beaumont-Adams Revolver
+[265] Smoked Glass Spectacles
+[266] Legendary Biwa Player
+[267] Cold Snap
+[268] The image is an echo of a truth.
+[269] The world will provide.
+[270] Shipwrecked European
+[271] (Mostly) Reformed Ronin
+[272] Enlightenment is a song, drifting on the evening breeze.
+[273] Like a kyosha, we can only move forwards in life.
+[274] Gorgeous Mistress
+[275] Church Notary
+[276] Dickens' "Little Dorrit"
+[277] "It is good enough for the German Imperial army, and so good enough for anyone!"
+[278] There is always a last defence.
+[279] The horse gallops; the arrow flies; the master has done... nothing.
+[280] The first step towards a perfect tea ceremony is a nice tea cup.
+[281] Flute Player
+[282] French Letter
+[283] Disgraced Yakuza
+[284] A man who shares sake, and does not speak of what was spoken, should be held close.
+[285] The armour of a great hero, passed down the generations, is an honour to wear.
+[286] No task is humble if it is done well.
+[287] Mouldy Feed Stocks
+[288] Shaguma
+[289] Master Gun Maker
+[290] Such a small thing, to hold so much Christian virtue.
+[291] "I do not build BLOODY ENGLISH lighthouses!"
+[292] Government is the only duty of the governor.
+[293] A most magnificent way to travel, other than the oil stains.
+[294] Gosha Odosama Samurai Priest
+[295] To draw a sword and kill a man before he has blinked - that is skill.
+[296] Jujutsu Master
+[297] Itako
+[298] Light Horse Stud
+[299] The hidden knife is no less deadly for being expected.

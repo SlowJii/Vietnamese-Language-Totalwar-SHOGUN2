@@ -1,0 +1,103 @@
+=== CHUNK 8/14 — advice_levels.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[700] Settlement Defence
+[701] Cavalry against Outflanking
+[702] Sieges
+[703] Enemy Defending Hill
+[704] Religious Conversion
+[705] Avatar Conquest Mode
+[706] Multiplayer_battle
+[707] Offer Bait for Ambushes
+[708] The Call to War
+[709] Diplomacy
+[710] Port Assault
+[711] Enchant
+[712] Better Roads
+[713] Sendai
+[714] Recruitment
+[715] Clan Traits
+[716] Naval Invasion
+[717] Trade Posts
+[718] Join or Form a Clan
+[719] Clan Development
+[720] Avatar Conquest Mode
+[721] Obama
+[722] Clan Effects
+[723] Riots
+[724] Monomi
+[725] Sabotage
+[726] Avatar Conquest Mode
+[727] Honour
+[728] Gatling Guns
+[729] Avatar Conquest Mode
+[730] Garrisons
+[731] Coastal Assault!
+[732] We are the Chosokabe
+[733] Unit Experience
+[734] Review Panel
+[735] Multiplayer_battle
+[736] Summary
+[737] We are the Chosokabe
+[738] Railways
+[739] Attacking Hills
+[740] Fog of War
+[741] Coastal Assaults
+[742] We are the Takeda
+[743] Agents - Ninja
+[744] Farms & Agriculture
+[745] Tsu
+[746] Under-developed Roads
+[747] Missionaries
+[748] Coastal Assault!
+[749] Records
+[750] Port Battles
+[751] Geisha
+[752] Attaining Victory
+[753] Avatar Conquest Mode
+[754] Settlements
+[755] Unit Upkeep
+[756] Agents - Ninja
+[757] Joining a Drop-in Battle
+[758] View Armour Sets
+[759] Multiplayer_battle
+[760] We are the Takeda
+[761] Leaderboards
+[762] Honour
+[763] Avatar Conquest Mode
+[764] Public Order
+[765] Taxes
+[766] Bankruptcy Imminent!
+[767] Avatar Conquest Mode
+[768] We are the Takeda
+[769] Statistics
+[770] Junsatsushi
+[771] Technology
+[772] Avatar Conquest Mode
+[773] Joining a Drop-in Battle
+[774] Siege Assault
+[775] Army Sabotage
+[776] We are the Tokugawa
+[777] Scouting
+[778] Exchange Hostages
+[779] Drop-in Battles
+[780] Make Trade Agreements
+[781] Avatar Conquest Mode
+[782] Insufficient Tax Infrastructure
+[783] Multi-turn Moves
+[784] Attaining Victory
+[785] Avatar Conquest Mode
+[786] Under-developed Trade Network
+[787] Avatar Conquest Mode
+[788] Adoption of Generals
+[789] Sabotage
+[790] We are the Oda
+[791] Ambush Assault
+[792] Multiplayer_battle
+[793] Dilemmas
+[794] Being Shogun
+[795] Opening the Gates
+[796] Selection Groups
+[797] Avatar Conquest Mode
+[798] Religious Unrest
+[799] Battle List

@@ -1,0 +1,100 @@
+[200] Samurai thô lỗ
+[201] Samurai khoác lác
+[202] Thương mất cân bằng
+[203] Súng vô dụng trong tay kẻ ngu.
+[204] "Chúng tôi đưa tin, thưa ngài, và qua đó hình thành dư luận tại các thủ đô thế giới."
+[205] Con đường vững bước tự nó đã là phần thưởng.
+[206] Với thợ săn, còn điều gì quan trọng hơn cuộc truy đuổi?
+[207] Có chiến lược cho mọi thứ, từ tình yêu đến chinh phục.
+[208] Oyabun
+[209] "Một ngày nào đó ta sẽ rèn nên lưỡi kiếm hoàn hảo. Một ngày nào đó…"
+[210] Thanh tra Junsatsushi
+[211] Bậc thầy Sojutsu huyền thoại
+[212] Bác sĩ phẫu thuật
+[213] Gián điệp Monomi
+[214] Nghệ nhân Netsuke bậc thầy
+[215] Kỹ thuật và danh dự phân biệt chiến binh trên chiến trường với nông dân ngoài ruộng.
+[216] Cải trang Komuso
+[217] Khi có ít súng, hãy chắc rằng bạn bắn thường xuyên.
+[218] Ngựa giống kém
+[219] "Suỵt! Tường cũng có tai."
+[220] Niên giám nông dân
+[221] "Người Mỹ, thưa ngài, tôn trọng thành tựu. Và tiền bạc."
+[222] Tanto tẩm độc
+[223] Bao gạo
+[224] Kẻ đuổi theo rồng thường trở thành con mồi.
+[225] Thomas Blake Glover
+[226] Súng trường nạp đầu nòng Minie
+[227] "Không, hắn là người Cơ Đốc."
+[228] Samurai anh dũng
+[229] Đo đạc các vì sao là làm giảm vẻ vĩ đại của chúng.
+[230] Đồng hồ Vạn Niên
+[231] Trạm thương mại
+[232] Bàn cờ vây
+[233] Người hiểu tâm trạng của biển và kiếm lợi từ nó có giá trị hơn ngọc trai đối với đô đốc hải quân.
+[234] Thế gian có điều kỳ diệu trong mọi thứ.
+[235] Phục vụ Thiên Hoàng là vinh dự lớn lao.
+[236] Cậu bé tôn thờ anh hùng
+[237] "Kiếm ư? Kiếm là dành cho các cô gái Anh!"
+[238] Đôi khi thanh kiếm chỉ là sự xao lãng của chiến binh.
+[239] Kote huyền thoại
+[240] Nghệ nhân Koto huyền thoại
+[241] Bộ sưu tập độc dược
+[242] "Tôi mắc kẹt đầu vào đó, và vẫn không hiểu cây gậy cricket dùng làm gì…"
+[243] Lời viết trên giấy không giết người, nhưng thay đổi cuộc đời.
+[244] "...Và thế là hắn biến mất!"
+[245] Gia thần Fudai-Shu trung thành
+[246] Ai ăn hết mì rồi?
+[247] Sumo là gốc rễ của mọi võ thuật.
+[248] "…Và thế là hắn biến mất!"
+[249] Bậc thầy Naginatajutsu huyền thoại
+[250] Thêm một đôi mắt sẽ phát hiện kẻ địch ẩn nấp.
+[251] Súng săn voi
+[252] "Phú quốc cường binh."
+[253] Mệt mỏi với thế sự
+[254] Jules Brunet
+[255] Sumo là gốc rễ của mọi võ thuật.
+[256] Ai ăn hết mì rồi?
+[257] Bàn cờ vây
+[258] Người cầm thương Mochiyari Gumi
+[259] Đầu bếp fugu chưa được đào tạo
+[260] Tín đồ giáo phái Hoa Sen
+[261] Không đội quân nào hành quân dưới lá cờ của Chúa, được Đức Thánh Cha ban phước, có thể chịu thất bại!
+[262] Nhà sư già nua
+[263] Súng hỏa mai châu Âu
+[264] Súng lục Beaumont-Adams
+[265] Kính râm thủy tinh hun khói
+[266] Nghệ nhân Biwa huyền thoại
+[267] Đợt rét đậm
+[268] Hình ảnh là tiếng vọng của một sự thật.
+[269] Thế gian sẽ cung cấp.
+[270] Người châu Âu bị đắm tàu
+[271] Ronin (hầu như) đã cải tà quy chính
+[272] Giác ngộ là khúc ca trôi trên gió chiều.
+[273] Như quân kyosha, ta chỉ có thể tiến về phía trước trong đời.
+[274] Tình nhân tuyệt sắc
+[275] Công chứng viên nhà thờ
+[276] "Little Dorrit" của Dickens
+[277] "Nếu đủ tốt cho quân đội Đế quốc Đức, thì đủ tốt cho bất kỳ ai!"
+[278] Luôn có tuyến phòng thủ cuối cùng.
+[279] Ngựa phi; tên bay; bậc thầy... chẳng làm gì.
+[280] Bước đầu cho trà đạo hoàn hảo là một tách trà đẹp.
+[281] Người thổi sáo
+[282] Bao cao su
+[283] Yakuza bị thất sủng
+[284] Người chia sẻ sake mà không nói lại chuyện đã nói nên được giữ gần bên.
+[285] Bộ giáp của anh hùng vĩ đại, truyền qua nhiều thế hệ, là vinh dự khi được mặc.
+[286] Không việc gì là thấp kém nếu được làm tốt.
+[287] Thức ăn gia súc mốc
+[288] Shaguma
+[289] Bậc thầy chế tạo súng
+[290] Vật nhỏ bé chứa đựng nhiều đức hạnh Cơ Đốc.
+[291] "Tôi không xây hải đăng CHẾT TIỆT của bọn Anh!"
+[292] Cai trị là nghĩa vụ duy nhất của người cai trị.
+[293] Cách di chuyển vô cùng tráng lệ, trừ vết dầu.
+[294] Thầy tu Samurai Gosha Odosama
+[295] Rút kiếm và giết người trước khi hắn chớp mắt – đó là kỹ năng.
+[296] Bậc thầy Jujutsu
+[297] Itako
+[298] Trại giống ngựa nhẹ
+[299] Con dao giấu kín vẫn chết người dù bị đoán trước.

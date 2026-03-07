@@ -1,0 +1,9 @@
+=== CHUNK 3/3 — agent_culture_details.loc.tsv ===
+(Dịch 6 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[168] BASIC_SPENDING_BIAS_RECRUITMENT_ARMY
+[169] General. PLACEHOLDER.
+[170] General. PLACEHOLDER.
+[171] An Eastern Scholar is an educated man who can be sent into educational buildings to speed-up research, but cannot duel with other characters.
+[172] An Eastern Scholar is an educated man who can be sent into educational buildings to speed-up research, but cannot duel with other characters.
+[173] An Eastern Scholar is an educated man who can be sent into educational buildings to speed-up research, but cannot duel with other characters.

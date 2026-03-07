@@ -1,0 +1,103 @@
+=== CHUNK 6/14 — ancillaries.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[500] Tea Master Convert
+[501] Sticky-Fingered Storemaster
+[502] For the huntsman, what else matters other than the chase?
+[503] Legendary Item: Hachiman Crest
+[504] "We invented trains. Why bother with any inferior imitations?"
+[505] "American ingenuity, sir, has conquered continents to build the world's greatest railroads!"
+[506] Garden of Convalescence
+[507] "Do I look fat in this?"
+[508] Blade Master
+[509] Rock from Fuji-san
+[510] Armour does not weaken the spirit.
+[511] "Fight ME!"
+[512] Expensive. Foreign. Interesting bubbles...
+[513] Worn in battle by many great warriors, and sanctified by time, this is armour truly fit for a hero.
+[514] Jules Verne's "20,000 Leagues Under the Sea"
+[515] Telescope
+[516] Shogi Set
+[517] Secrets and lies travel in the same cart.
+[518] The strongest steel will not serve in a worthless cause.
+[519] Papal Flag
+[520] "There is no enemy: defeat your own fears!"
+[521] "Unbalanced? Nonsense! Next you'll be saying I'm unbalanced!"
+[522] Forage Parties
+[523] Pocket Watch
+[524] Rain, fog and water drive the devils from black powder
+[525] Sumi-e Brush Painting
+[526] Scroll of Inspirational verse
+[527] "The men respect me for it."
+[528] Accordion
+[529] "It is the gun by which Her Majesty would wish to be shot!"
+[530] Portrait of Queen Victoria
+[531] Legendary Item: Flawless Mount: 'Okage'
+[532] "So you see: there are no chop-sticks. There never were."
+[533] Toledo Sword
+[534] Cricket Bat
+[535] "Fire on the rise!"
+[536] "Do try the fish."
+[537] Monchujo
+[538] There is cunning in counting accurately.
+[539] The way of sword is far more than killing an enemy. Killing is not even a beginning to mastery.
+[540] "I am not here. I have never been here."
+[541] Scottish Tourist
+[542] "Hmmmm. Let me consider..."
+[543] The best in death dealing, furnished by American ingenuity.
+[544] "Just a little something I picked up on holiday…"
+[545] Hero-Worshipping Boy
+[546] Hanafuda Cards
+[547] Modernist
+[548] "He is no wajin, but his cured meats are indeed excellent!"
+[549] Tiddly-pom-pom-pom.
+[550] The terrible visage of this battle mask is enough to strike fear into the heart of any foe.
+[551] "Shhhh!"
+[552] Every ninja has his tricks.
+[553] American Businessman
+[554] Tom Paine's "Rights of Man"
+[555] Discreet Mistress
+[556] The edge is where the moment is decided.
+[557] "See what I mean? Too narrow across the withers."
+[558] "German know-how. German steel. German artillery. The best, naturally."
+[559] Poverty is sometimes the best concealment.
+[560] Armour is prudent in times of strife.
+[561] Psalter
+[562] Every boy needs his hero.
+[563] Muzzle-loading Muskets
+[564] Trade is beneath a samurai; money is not.
+[565] Naval Sextant
+[566] To draw a sword and kill a man before he has blinked - that is skill.
+[567] A samurai who saves his general, should be rewarded with the chance to repeat his gallantry.
+[568] Peasants cannot hide everything.
+[569] Some things do cut like a woman's tongue.
+[570] Favourite Mount
+[571] "Simple, sturdy, and soldier-proof. Deadly, in the right hands, too."
+[572] A mirror reveals much to one who would search deep within with an unflinching gaze.
+[573] Pedantic Gun Captain
+[574] A man who has turned against his own kind makes the best hunter when the time comes.
+[575] Cut-throat Razor
+[576] Meijin
+[577] Tax Farmer
+[578] Kyudo Master
+[579] Warriors without swords are useless in war.
+[580] "We are the force of the Red Sparrow!"
+[581] Don't lose your head!
+[582] Legendary Wakizashi
+[583] Kacchu-Mochi Armour-Bearer
+[584] The arts of flattery must be practiced, then may a client become comfortable.
+[585] Cold hands make strangers of familiar tasks.
+[586] Chinese Astrologer
+[587] Legendary Bladesmith
+[588] "Fools are always trapped by loyalty."
+[589] A man cannot walk two paths at once. A choice lies at the start of every journey.
+[590] Iron Abumi Stirrups
+[591] Yamabushi Guide
+[592] Myopic Captain
+[593] Soldier's Mistress
+[594] Heroic Ashigaru
+[595] Gokenin
+[596] "O! For a muse of fire…"
+[597] Kyudo Master
+[598] Master Bladesmith
+[599] Legendary Menpo

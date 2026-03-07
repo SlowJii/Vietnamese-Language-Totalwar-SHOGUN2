@@ -1,0 +1,794 @@
+{
+  "filename": "avatar_aesthetics_localised_source_lookups.loc.tsv",
+  "category": "ui",
+  "header_lines": [
+    "key\ttext\ttooltip",
+    "#Loc;1;text/db/avatar_aesthetics_localised_source_lookups.loc\t\t"
+  ],
+  "rows": [
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_united_in_conquest",
+      "text": "Complete Achievement: United in Conquest",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_army_on_the_march",
+      "text": "Complete Achievement: The Army on the March",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_advanced_firearms",
+      "text": "Complete Achievement: Advanced Firearms",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_man_the_defences",
+      "text": "Complete Achievement: Man the Defences",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_eradicate_the_iga",
+      "text": "Complete Achievement: Eradicate the Iga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_respectable_rule",
+      "text": "Complete Achievement: A Respectable Rule",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_headhunter",
+      "text": "Complete Achievement: Headhunter",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_uniter_of_japan",
+      "text": "Complete Achievement: Uniter of Japan",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_dragon_of_japan",
+      "text": "Complete Achievement: The Dragon of Japan",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_achievement_without_honour",
+      "text": "Complete Achievement: Achievement Without Honour",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_claw_of_the_tiger",
+      "text": "Complete Achievement: Claw of the Tiger",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_inspiring_counterattack",
+      "text": "Complete Achievement: Inspiring Counterattack",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_swift_and_deadly",
+      "text": "Complete Achievement: Swift and Deadly",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_experienced_taisho",
+      "text": "Complete Achievement: Experienced Taisho",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_tokugawa_victory",
+      "text": "Complete Achievement: Tokugawa Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_clan_comp_promotion",
+      "text": "Your clan must achieve promotion to a new clan competition tier to unlock this item.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_battle",
+      "text": "Random Post-Battle Drop",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_fearsome_commander_of_men",
+      "text": "Complete Achievement: Fearsome Commander of Men",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_balanced_attacker",
+      "text": "Complete Achievement: Balanced Attacker",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_chosokabe_victory",
+      "text": "Complete Achievement: Chosokabe Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_loyal_to_the_clan",
+      "text": "Complete Achievement: Loyal to the Clan",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_holder_of_shikoku",
+      "text": "Complete Achievement: Holder of Shikoku",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_spreading_like_wildfire",
+      "text": "Complete Achievement: Spreading Like Wildfire",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_against_all_odds",
+      "text": "Complete Achievement: Against All Odds",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_fear_no_horseman",
+      "text": "Complete Achievement: Fear No Horseman",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_legendary_force",
+      "text": "Complete Achievement: Legendary Force",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_zenlike_dedication",
+      "text": "Complete Achievement: Zen-like Dedication",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_serve_with_honour",
+      "text": "Complete Achievement: Serve with Honour",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_living_for_battle",
+      "text": "Complete Achievement: Living for Battle",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_gathering_storm",
+      "text": "Complete Achievement: The Gathering Storm",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_legendary_sohei",
+      "text": "Complete Achievement: Legendary Sohei",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_heroic_warriors",
+      "text": "Complete Achievement: Heroic Warriors",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_dishonoured_foe",
+      "text": "Complete Achievement: Dishonoured Foe",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_swathed_in_fire",
+      "text": "Complete Achievement: Swathed in Fire",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_one_rule_under_god",
+      "text": "Complete Achievement: One Rule Under God",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_shimazu_victory",
+      "text": "Complete Achievement: Shimazu Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_glittering_grand_cities",
+      "text": "Complete Achievement: Glittering Grand Cities",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_ikko_ikki_pdlc_source",
+      "text": "Purchase the Ikko-Ikki DLC",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_eradicate_the_ikko_ikki",
+      "text": "Complete Achievement: Eradicate the Ikko-Ikki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_unnecessary_force",
+      "text": "Complete Achievement: Unnecessary Force",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_path_of_the_leader",
+      "text": "Complete Achievement: Path of the Leader",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_holder_of_kyushu",
+      "text": "Complete Achievement: Holder of Kyushu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_bringer_of_death",
+      "text": "Complete Achievement: Bringer of Death",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_placeholder",
+      "text": "placeholder",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_master_interrogator",
+      "text": "Complete Achievement: Master Interrogator",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_agent_stealthy_blade",
+      "text": "Complete Achievement: Agent of the Stealthy Blade",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_divine_right",
+      "text": "Complete Achievement: Divine Right",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_belligerent_admiral",
+      "text": "Complete Achievement: Belligerent Admiral",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_military_might",
+      "text": "Complete Achievement: Military Might",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_elusive_strikeforce",
+      "text": "Complete Achievement: Elusive Strikeforce",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_stubborn_pursuer_of_victory",
+      "text": "Complete Achievement: Stubborn Pursuer of Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_commander_of_commoners",
+      "text": "Complete Achievement: Commander of Commoners",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_master_of_the_waves",
+      "text": "Complete Achievement: Master of the Waves",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_battlefield_dominance",
+      "text": "Complete Achievement: Battlefield Dominance",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_oda_victory",
+      "text": "Complete Achievement: Oda Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_berserk_charge",
+      "text": "Complete Achievement: Berserk Charge",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_soaring_fame",
+      "text": "Complete Achievement: Soaring Fame",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_famed_shogun",
+      "text": "Complete Achievement: Famed Shogun",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_mori_victory",
+      "text": "Complete Achievement: Mori Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_japan_torn_assunder",
+      "text": "Complete Achievement: Japan Torn Assunder",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_date_victory",
+      "text": "Complete Achievement: Date Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_takeda_victory",
+      "text": "Complete Achievement: Takeda Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_forged_in_the_hottest_flame",
+      "text": "Complete Achievement: Forged in the Hottest Flame",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_uesugi_victory",
+      "text": "Complete Achievement: Uesugi Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_carve_a_path",
+      "text": "Complete Achievement: Carve a Path",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_exceptional_warriors",
+      "text": "Complete Achievement: Exceptional Warriors",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_clan_comp_winner",
+      "text": "Your clan must win tier 1 of the clan competition to unlock this item.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_there_can_be_only_one",
+      "text": "Complete Achievement: There Can Be Only One",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_servant_of_god",
+      "text": "Complete Achievement: Servant of God",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_armour_set",
+      "text": "Armour Set",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_onna_bugeisha",
+      "text": "Complete Achievement: Onna-Bugeisha",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_clan_comp_tier_1_promotion",
+      "text": "Your clan must achieve promotion to tier 1 of the clan competition to unlock this item.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_campaign",
+      "text": "Avatar Campaign Map Region",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_stranglehold",
+      "text": "Complete Achievement: Stranglehold",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_hojo_victory",
+      "text": "Complete Achievement: Hojo Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_castle_stormer",
+      "text": "Complete Achievement: Castle-Stormer",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_starting",
+      "text": "Starting Equipment",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_source_lookups_description_achievement_trade_route_monopoly",
+      "text": "Complete Achievement: Trade Route Monopoly",
+      "tooltip": "true",
+      "empty": false
+    }
+  ],
+  "translatable": [
+    {
+      "row_index": 0,
+      "text": "Complete Achievement: United in Conquest"
+    },
+    {
+      "row_index": 1,
+      "text": "Complete Achievement: The Army on the March"
+    },
+    {
+      "row_index": 2,
+      "text": "Complete Achievement: Advanced Firearms"
+    },
+    {
+      "row_index": 3,
+      "text": "Complete Achievement: Man the Defences"
+    },
+    {
+      "row_index": 4,
+      "text": "Complete Achievement: Eradicate the Iga"
+    },
+    {
+      "row_index": 5,
+      "text": "Complete Achievement: A Respectable Rule"
+    },
+    {
+      "row_index": 6,
+      "text": "Complete Achievement: Headhunter"
+    },
+    {
+      "row_index": 7,
+      "text": "Complete Achievement: Uniter of Japan"
+    },
+    {
+      "row_index": 8,
+      "text": "Complete Achievement: The Dragon of Japan"
+    },
+    {
+      "row_index": 9,
+      "text": "Complete Achievement: Achievement Without Honour"
+    },
+    {
+      "row_index": 10,
+      "text": "Complete Achievement: Claw of the Tiger"
+    },
+    {
+      "row_index": 11,
+      "text": "Complete Achievement: Inspiring Counterattack"
+    },
+    {
+      "row_index": 12,
+      "text": "Complete Achievement: Swift and Deadly"
+    },
+    {
+      "row_index": 13,
+      "text": "Complete Achievement: Experienced Taisho"
+    },
+    {
+      "row_index": 14,
+      "text": "Complete Achievement: Tokugawa Victory"
+    },
+    {
+      "row_index": 15,
+      "text": "Your clan must achieve promotion to a new clan competition tier to unlock this item."
+    },
+    {
+      "row_index": 16,
+      "text": "Random Post-Battle Drop"
+    },
+    {
+      "row_index": 17,
+      "text": "Complete Achievement: Fearsome Commander of Men"
+    },
+    {
+      "row_index": 18,
+      "text": "Complete Achievement: Balanced Attacker"
+    },
+    {
+      "row_index": 19,
+      "text": "Complete Achievement: Chosokabe Victory"
+    },
+    {
+      "row_index": 20,
+      "text": "Complete Achievement: Loyal to the Clan"
+    },
+    {
+      "row_index": 21,
+      "text": "Complete Achievement: Holder of Shikoku"
+    },
+    {
+      "row_index": 22,
+      "text": "Complete Achievement: Spreading Like Wildfire"
+    },
+    {
+      "row_index": 23,
+      "text": "Complete Achievement: Against All Odds"
+    },
+    {
+      "row_index": 24,
+      "text": "Complete Achievement: Fear No Horseman"
+    },
+    {
+      "row_index": 25,
+      "text": "Complete Achievement: Legendary Force"
+    },
+    {
+      "row_index": 26,
+      "text": "Complete Achievement: Zen-like Dedication"
+    },
+    {
+      "row_index": 27,
+      "text": "Complete Achievement: Serve with Honour"
+    },
+    {
+      "row_index": 28,
+      "text": "Complete Achievement: Living for Battle"
+    },
+    {
+      "row_index": 29,
+      "text": "Complete Achievement: The Gathering Storm"
+    },
+    {
+      "row_index": 30,
+      "text": "Complete Achievement: Legendary Sohei"
+    },
+    {
+      "row_index": 31,
+      "text": "Complete Achievement: Heroic Warriors"
+    },
+    {
+      "row_index": 32,
+      "text": "Complete Achievement: Dishonoured Foe"
+    },
+    {
+      "row_index": 33,
+      "text": "Complete Achievement: Swathed in Fire"
+    },
+    {
+      "row_index": 34,
+      "text": "Complete Achievement: One Rule Under God"
+    },
+    {
+      "row_index": 35,
+      "text": "Complete Achievement: Shimazu Victory"
+    },
+    {
+      "row_index": 36,
+      "text": "Complete Achievement: Glittering Grand Cities"
+    },
+    {
+      "row_index": 37,
+      "text": "Purchase the Ikko-Ikki DLC"
+    },
+    {
+      "row_index": 38,
+      "text": "Complete Achievement: Eradicate the Ikko-Ikki"
+    },
+    {
+      "row_index": 39,
+      "text": "Complete Achievement: Unnecessary Force"
+    },
+    {
+      "row_index": 40,
+      "text": "Complete Achievement: Path of the Leader"
+    },
+    {
+      "row_index": 41,
+      "text": "Complete Achievement: Holder of Kyushu"
+    },
+    {
+      "row_index": 42,
+      "text": "Complete Achievement: Bringer of Death"
+    },
+    {
+      "row_index": 43,
+      "text": "placeholder"
+    },
+    {
+      "row_index": 44,
+      "text": "Complete Achievement: Master Interrogator"
+    },
+    {
+      "row_index": 45,
+      "text": "Complete Achievement: Agent of the Stealthy Blade"
+    },
+    {
+      "row_index": 46,
+      "text": "Complete Achievement: Divine Right"
+    },
+    {
+      "row_index": 47,
+      "text": "Complete Achievement: Belligerent Admiral"
+    },
+    {
+      "row_index": 48,
+      "text": "Complete Achievement: Military Might"
+    },
+    {
+      "row_index": 49,
+      "text": "Complete Achievement: Elusive Strikeforce"
+    },
+    {
+      "row_index": 50,
+      "text": "Complete Achievement: Stubborn Pursuer of Victory"
+    },
+    {
+      "row_index": 51,
+      "text": "Complete Achievement: Commander of Commoners"
+    },
+    {
+      "row_index": 52,
+      "text": "Complete Achievement: Master of the Waves"
+    },
+    {
+      "row_index": 53,
+      "text": "Complete Achievement: Battlefield Dominance"
+    },
+    {
+      "row_index": 54,
+      "text": "Complete Achievement: Oda Victory"
+    },
+    {
+      "row_index": 55,
+      "text": "Complete Achievement: Berserk Charge"
+    },
+    {
+      "row_index": 56,
+      "text": "Complete Achievement: Soaring Fame"
+    },
+    {
+      "row_index": 57,
+      "text": "Complete Achievement: Famed Shogun"
+    },
+    {
+      "row_index": 58,
+      "text": "Complete Achievement: Mori Victory"
+    },
+    {
+      "row_index": 59,
+      "text": "Complete Achievement: Japan Torn Assunder"
+    },
+    {
+      "row_index": 60,
+      "text": "Complete Achievement: Date Victory"
+    },
+    {
+      "row_index": 61,
+      "text": "Complete Achievement: Takeda Victory"
+    },
+    {
+      "row_index": 62,
+      "text": "Complete Achievement: Forged in the Hottest Flame"
+    },
+    {
+      "row_index": 63,
+      "text": "Complete Achievement: Uesugi Victory"
+    },
+    {
+      "row_index": 64,
+      "text": "Complete Achievement: Carve a Path"
+    },
+    {
+      "row_index": 65,
+      "text": "Complete Achievement: Exceptional Warriors"
+    },
+    {
+      "row_index": 66,
+      "text": "Your clan must win tier 1 of the clan competition to unlock this item."
+    },
+    {
+      "row_index": 67,
+      "text": "Complete Achievement: There Can Be Only One"
+    },
+    {
+      "row_index": 68,
+      "text": "Complete Achievement: Servant of God"
+    },
+    {
+      "row_index": 69,
+      "text": "Armour Set"
+    },
+    {
+      "row_index": 70,
+      "text": "Complete Achievement: Onna-Bugeisha"
+    },
+    {
+      "row_index": 71,
+      "text": "Your clan must achieve promotion to tier 1 of the clan competition to unlock this item."
+    },
+    {
+      "row_index": 72,
+      "text": "Avatar Campaign Map Region"
+    },
+    {
+      "row_index": 73,
+      "text": "Complete Achievement: Stranglehold"
+    },
+    {
+      "row_index": 74,
+      "text": "Complete Achievement: Hojo Victory"
+    },
+    {
+      "row_index": 75,
+      "text": "Complete Achievement: Castle-Stormer"
+    },
+    {
+      "row_index": 76,
+      "text": "Starting Equipment"
+    },
+    {
+      "row_index": 77,
+      "text": "Complete Achievement: Trade Route Monopoly"
+    }
+  ],
+  "total_chunks": 1,
+  "chunk_size": 80
+}

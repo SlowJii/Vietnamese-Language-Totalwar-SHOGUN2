@@ -1,0 +1,78 @@
+[0] Hoàn thành Thành tựu: United in Conquest
+[1] Hoàn thành Thành tựu: The Army on the March
+[2] Hoàn thành Thành tựu: Advanced Firearms
+[3] Hoàn thành Thành tựu: Man the Defences
+[4] Hoàn thành Thành tựu: Eradicate the Iga
+[5] Hoàn thành Thành tựu: A Respectable Rule
+[6] Hoàn thành Thành tựu: Headhunter
+[7] Hoàn thành Thành tựu: Uniter of Japan
+[8] Hoàn thành Thành tựu: The Dragon of Japan
+[9] Hoàn thành Thành tựu: Achievement Without Honour
+[10] Hoàn thành Thành tựu: Claw of the Tiger
+[11] Hoàn thành Thành tựu: Inspiring Counterattack
+[12] Hoàn thành Thành tựu: Swift and Deadly
+[13] Hoàn thành Thành tựu: Experienced Taisho
+[14] Hoàn thành Thành tựu: Tokugawa Victory
+[15] Gia tộc của bạn phải được thăng hạng lên bậc mới trong giải đấu gia tộc để mở khóa vật phẩm này.
+[16] Phần thưởng ngẫu nhiên sau trận đánh
+[17] Hoàn thành Thành tựu: Fearsome Commander of Men
+[18] Hoàn thành Thành tựu: Balanced Attacker
+[19] Hoàn thành Thành tựu: Chosokabe Victory
+[20] Hoàn thành Thành tựu: Loyal to the Clan
+[21] Hoàn thành Thành tựu: Holder of Shikoku
+[22] Hoàn thành Thành tựu: Spreading Like Wildfire
+[23] Hoàn thành Thành tựu: Against All Odds
+[24] Hoàn thành Thành tựu: Fear No Horseman
+[25] Hoàn thành Thành tựu: Legendary Force
+[26] Hoàn thành Thành tựu: Zen-like Dedication
+[27] Hoàn thành Thành tựu: Serve with Honour
+[28] Hoàn thành Thành tựu: Living for Battle
+[29] Hoàn thành Thành tựu: The Gathering Storm
+[30] Hoàn thành Thành tựu: Legendary Sohei
+[31] Hoàn thành Thành tựu: Heroic Warriors
+[32] Hoàn thành Thành tựu: Dishonoured Foe
+[33] Hoàn thành Thành tựu: Swathed in Fire
+[34] Hoàn thành Thành tựu: One Rule Under God
+[35] Hoàn thành Thành tựu: Shimazu Victory
+[36] Hoàn thành Thành tựu: Glittering Grand Cities
+[37] Mua DLC Ikko-Ikki
+[38] Hoàn thành Thành tựu: Eradicate the Ikko-Ikki
+[39] Hoàn thành Thành tựu: Unnecessary Force
+[40] Hoàn thành Thành tựu: Path of the Leader
+[41] Hoàn thành Thành tựu: Holder of Kyushu
+[42] Hoàn thành Thành tựu: Bringer of Death
+[43] placeholder
+[44] Hoàn thành Thành tựu: Master Interrogator
+[45] Hoàn thành Thành tựu: Agent of the Stealthy Blade
+[46] Hoàn thành Thành tựu: Divine Right
+[47] Hoàn thành Thành tựu: Belligerent Admiral
+[48] Hoàn thành Thành tựu: Military Might
+[49] Hoàn thành Thành tựu: Elusive Strikeforce
+[50] Hoàn thành Thành tựu: Stubborn Pursuer of Victory
+[51] Hoàn thành Thành tựu: Commander of Commoners
+[52] Hoàn thành Thành tựu: Master of the Waves
+[53] Hoàn thành Thành tựu: Battlefield Dominance
+[54] Hoàn thành Thành tựu: Oda Victory
+[55] Hoàn thành Thành tựu: Berserk Charge
+[56] Hoàn thành Thành tựu: Soaring Fame
+[57] Hoàn thành Thành tựu: Famed Shogun
+[58] Hoàn thành Thành tựu: Mori Victory
+[59] Hoàn thành Thành tựu: Japan Torn Assunder
+[60] Hoàn thành Thành tựu: Date Victory
+[61] Hoàn thành Thành tựu: Takeda Victory
+[62] Hoàn thành Thành tựu: Forged in the Hottest Flame
+[63] Hoàn thành Thành tựu: Uesugi Victory
+[64] Hoàn thành Thành tựu: Carve a Path
+[65] Hoàn thành Thành tựu: Exceptional Warriors
+[66] Gia tộc của bạn phải chiến thắng bậc 1 của giải đấu gia tộc để mở khóa vật phẩm này.
+[67] Hoàn thành Thành tựu: There Can Be Only One
+[68] Hoàn thành Thành tựu: Servant of God
+[69] Bộ giáp
+[70] Hoàn thành Thành tựu: Onna-Bugeisha
+[71] Gia tộc của bạn phải được thăng hạng lên bậc 1 của giải đấu gia tộc để mở khóa vật phẩm này.
+[72] Vùng bản đồ Chiến dịch Hóa thân
+[73] Hoàn thành Thành tựu: Stranglehold
+[74] Hoàn thành Thành tựu: Hojo Victory
+[75] Hoàn thành Thành tựu: Castle-Stormer
+[76] Trang bị khởi đầu
+[77] Hoàn thành Thành tựu: Trade Route Monopoly

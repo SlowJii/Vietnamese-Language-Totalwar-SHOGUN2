@@ -1,0 +1,79 @@
+=== CHUNK 17/17 — advice_levels.loc.tsv ===
+(Dịch 76 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[1280] Port Blockaded
+[1281] Drop-in Battle Available
+[1282] Declare War
+[1283] Castle Towns
+[1284] Your Clan
+[1285] Guard Mode Button
+[1286] Light Cavalry Tactics
+[1287] Post-battle Statistics
+[1288] Raiding Trade Routes
+[1289] Missile Superiority
+[1290] Mastery of the Arts
+[1291] Radar Map
+[1292] Arts
+[1293] Expendable Troops
+[1294] Diplomacy
+[1295] Drop-in Battles
+[1296] Occupying & Looting
+[1297] Under-developed Port
+[1298] Seasons
+[1299] Construction
+[1300] Food Shortages
+[1301] Driving Off Light Troops
+[1302] Cavalry against Outflanking
+[1303] Cavalry in Defence
+[1304] Betrayal of Allies
+[1305] Repair Button
+[1306] Draw their Fire
+[1307] Enemy Movement Extents
+[1308] Betrayal of Allies
+[1309] Wooden Stakes
+[1310] Camera Controls
+[1311] Agent Details
+[1312] Find a Weak Spot
+[1313] Farms & Food
+[1314] Light Cavalry Tactics
+[1315] Movement of Fleets
+[1316] Unrest & Public Order
+[1317] Feigning a Rout
+[1318] Attacking River Crossings
+[1319] Shogun
+[1320] Happiness
+[1321] Encircle the Enemy
+[1322] Stop Movement
+[1323] Naval Invasion
+[1324] Farms & Agriculture
+[1325] Cavalry Charges
+[1326] Cavalry against Bayonets
+[1327] Ports
+[1328] The Cavalry Cycle
+[1329] Fighting to the Death
+[1330] Agents - Ninja
+[1331] Farms & Food
+[1332] Alliance
+[1333] Study Their Lines
+[1334] Camera Controls
+[1335] Ambush
+[1336] Arts
+[1337] Movement - Multi-turn Move
+[1338] Construction
+[1339] Missile Cavalry
+[1340] Castle Upgrade
+[1341] Alliance
+[1342] Unit Details
+[1343] General Commissions
+[1344] Armies
+[1345] Trade Agreement
+[1346] Auto-management
+[1347] Defence against Cavalry
+[1348] War
+[1349] Seasons & Date
+[1350] Finance
+[1351] Battle Results
+[1352] Outflanking with Cavalry
+[1353] Enrage the Enemy
+[1354] Battle Timer
+[1355] Sieges

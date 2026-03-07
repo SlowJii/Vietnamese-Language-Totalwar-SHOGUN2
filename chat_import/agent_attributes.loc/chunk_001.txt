@@ -1,0 +1,29 @@
+[0] %+n để Nghiên cứu.
+[1] Kỹ thuật công thành
+[2] Điểm di chuyển trên bộ
+[3] Chỉ huy trên bộ
+[4] %+n khi Đấu tay đôi bằng súng lục.
+[5] %+n %% vào điểm công trình phòng thủ chiến trường.
+[6] Nhiệt huyết tôn giáo
+[7] %+n vào Mưu kế
+[8] Mưu kế
+[10] %+n khi Đấu tay đôi bằng kiếm.
+[11] Thương mại
+[12] Đấu kiếm
+[13] %+n %% vào điểm công trình vây hãm.
+[14] Kỹ năng Mưu kế
+[15] Chỉ huy trên biển
+[16] Sĩ khí
+[17] %+n vào Sĩ khí quân đội.
+[18] %+n vào Chỉ huy trong các trận hải chiến.
+[19] Sĩ khí
+[20] Kỹ năng Quản lý
+[21] %+n vào Sĩ khí hạm đội.
+[22] %+n vào Quản lý.
+[23] Kỹ năng Nghiên cứu
+[24] %+n vào Chỉ huy trong các trận đánh trên bộ.
+[25] Đấu súng lục
+[26] Kỹ thuật phòng thủ trên bộ
+[27] %+n vào Nhiệt huyết.
+[28] %+n %% vào phạm vi di chuyển của quân đội.
+[29] %+n vào Mưu kế.

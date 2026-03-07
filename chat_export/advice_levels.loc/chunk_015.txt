@@ -1,0 +1,83 @@
+=== CHUNK 15/17 — advice_levels.loc.tsv ===
+(Dịch 80 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[1120] Public Order
+[1121] Provinces
+[1122] Ports
+[1123] Veteran Troops
+[1124] Multiplayer_battle
+[1125] Movement of Armies
+[1126] The Otomo
+[1127] Trade Post
+[1128] We are the Mori
+[1129] Entertainment
+[1130] Fighting with Cavalry
+[1131] Agents - Metsuke
+[1132] Finance
+[1133] Scupper Ships
+[1134] Sou
+[1135] Persuade Troops
+[1136] Research Goals
+[1137] Avatar Conquest Mode
+[1138] Loyalty
+[1139] Repression
+[1140] Stay in Cover
+[1141] Zones of Control
+[1142] Camera Bookmarks
+[1143] Upkeep Too Great!
+[1144] Disembarkation
+[1145] Leaving Castle Towns
+[1146] Outflanking Infantry
+[1147] Drop-in Battles
+[1148] Foreign Piece Selected
+[1149] Ports
+[1150] Recruitment
+[1151] Review Panel
+[1152] Avoid Their Elite
+[1153] Sabotage
+[1154] Trade Route Raided
+[1155] Wooden Stakes
+[1156] Game Speed Controls
+[1157] Movement
+[1158] Recruitment
+[1159] Help Buttons
+[1160] Sengoku Jidai
+[1161] The Delay Phase
+[1162] Long-standing Trade Agreements
+[1163] Fixing & Killing Forces
+[1164] Prepare for Battle!
+[1165] War
+[1166] Go for the Throat
+[1167] Attrition
+[1168] Falling Behind
+[1169] Resources
+[1170] Military Access
+[1171] Target Their Best
+[1172] Rallying the Troops
+[1173] Art Details
+[1174] Province Specialities
+[1175] Trade Route Raided
+[1176] War
+[1177] Wako
+[1178] Group Formations Button
+[1179] Retainers
+[1180] Generals
+[1181] Balance of Power
+[1182] The Finance Panel
+[1183] Insufficient Tax Infrastructure
+[1184] Scorched Earth Policy
+[1185] Kill Their General
+[1186] Arts
+[1187] Group Button
+[1188] Camera Controls
+[1189] Assassination
+[1190] Bankrupt!
+[1191] Passive Spying
+[1192] Waiting in Ambush
+[1193] Movement of Armies
+[1194] Undeveloped Trade Network
+[1195] Allied, Neutral or Enemy Character Details
+[1196] Quell Rebellions Quickly!
+[1197] Order of Deployment
+[1198] Mines
+[1199] Fight Downhill

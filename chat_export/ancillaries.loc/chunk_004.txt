@@ -1,0 +1,103 @@
+=== CHUNK 4/14 — ancillaries.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[300] Master Armourer
+[301] Open Basketwork Quivers
+[302] Disguised Ninja
+[303] Bunraku Puppeteer
+[304] Tajima Arrow-Cutter
+[305] Okinawan Pirate Captain
+[306] Cat
+[307] Legendary Kenjutsu Master
+[308] Observation Balloon
+[309] Volcanic Pistol
+[310] Sword Madman
+[311] Way of the Ikko Ikki
+[312] Clan Specialism Retainer: Cavalry Training Network
+[313] Chinese Pirate
+[314] Legendary Iaijutsu Master
+[315] "Her Majesty's Envoy Extraordinary, Minister Plenipotentiary and Consul-General in Japan, at your service."
+[316] Meaning is not measured in gold.
+[317] Marine Chronometer
+[318] Wrought in iron, death comes from the flames.
+[319] Legendary Spy Master
+[320] A monk remains a man, with a man's honour.
+[321] Noble Student
+[322] Clan Specialism Retainer: Sword Training Network
+[323] Delicacy in all things, even a cup of tea.
+[324] "I am the Spirit of Dark and Lonely Water, ready to trap the unwary, the show-off, the fool…"
+[325] Like a kyosha, we can only move forwards in life.
+[326] Meditation helps.
+[327] "The living God and his Son will not be denied, even in this heathen land of devilry!"
+[328] Yabusame Master
+[329] The palsy and the pox will kill a man as surely as any blade.
+[330] Snider Breech-loading Rifle
+[331] Incorrect Calibration
+[332] Enryakuji Fugitive
+[333] Doubt gnaws at the even the smallest grain of faith.
+[334] With the English on their doorstep, French admirals have every incentive to be good.
+[335] The way of sword is far more than killing an enemy. Killing is not even a beginning to mastery.
+[336] Dreyse Needle Gun
+[337] Bladed Fan
+[338] The word must be spoken for the deed to begin.
+[339] Komuso
+[340] "British stodge, German stodge, or French panache: those are your choices!"
+[341] The heart beats faster in the presence of beauty.
+[342] "Your sins are grievous, my son, but forgiveness of its children is the soul of the Church."
+[343] Armour must be cunningly made, or it is a dead weight.
+[344] "Would you deny a holy man his only support?"
+[345] Cherry blossom falls,/poetry on the Spring breeze:/Swords cease their clashing.
+[346] Damp Powder
+[347] Tiger Claws
+[348] Peasants cannot hide everything.
+[349] Bokken
+[350] "They will do as I say, my lord. And we will profit by it."
+[351] "Is it warm in here?"
+[352] "It is the very latest fashion in the palaces of Europe."
+[353] Mummified Mermaid
+[354] Ambitious Mistress
+[355] Metsuke Inspector
+[356] To serve with supreme elegance is to put a man at his ease, and thereby breach his defences.
+[357] Wig-wag Flags
+[358] Mark of Fanaticism
+[359] "I have little skill with wounds in the back. I cannot treat cowardice!"
+[360] A horse's speed is only a good as the oats it is fed.
+[361] An extra pair of eyes will spot the hidden enemy.
+[362] To serve with supreme elegance is to put a man at his ease, and thereby breach his defences.
+[363] Veteran Corvette Crew
+[364] Bisento
+[365] A single thrust, and life is gone.
+[366] Life leaves easily when the shinobigatana calls.
+[367] Townsman Disguise
+[368] "You won't feel a thing."
+[369] "54 seconds: not bad. Not outstanding either! Again!"
+[370] Penny Dreadful
+[371] Words sent across the land bring action in their wake.
+[372] Legendary Menpo
+[373] Euphonium
+[374] Legendary Ninja Leader
+[375] Straw Practice Dummy
+[376] Ainu Servant
+[377] Martini-Henry Breechloader
+[378] Dull eye and drooping ear speak eloquently of the suffering within.
+[379] Poisoned Tanto
+[380] When men lift their eyes to heaven, their hearts follow.
+[381] "My love, you can do so much better…"
+[382] Knowledge is better than rumour.
+[383] Wealth is a full rice bowl.
+[384] Pirate Captain
+[385] To cripple a horse is to stop the warrior.
+[386] Legendary Haiku Poet
+[387] Onsen Geisha
+[388] Warriors without swords are useless in war.
+[389] Legendary Do
+[390] Food nourishes the spirit as well as the body.
+[391] Tried, tested and out-dated.
+[392] "I begin to understand how little I understand these Americans…"
+[393] Mirror of the Moon People
+[394] A good horse will carry a general into battle and think the sword no more fearsome than a butterfly.
+[395] Clothes maketh the man.
+[396] Skilled Weaponsmith
+[397] "I find a nine iron persuasive."
+[398] Livestock Pestilence
+[399] Gorgeous Mistress

@@ -1,0 +1,281 @@
+key	text	tooltip
+#Loc;1;text/db/avatar_aesthetics.loc		
+avatar_aesthetics_localised_name_legs_uesugi_kenshin	Suneate bảo vệ ống chân của Uesugi Kenshin	true
+avatar_aesthetics_localised_name_helm_uesugi_kenshin	Mũ Kabuto của Uesugi Kenshin	true
+avatar_aesthetics_localised_name_legs_tokugawa_ieyasu	Suneate bảo vệ ống chân của Tokugawa Ieyasu	true
+avatar_aesthetics_localised_name_helm_bos_clan_comp_winner	Mũ của Nhà vô địch Gia tộc	true
+avatar_aesthetics_localised_name_horse_basic_palomino	Ngựa đốm	true
+avatar_aesthetics_localised_name_horse_samurai_grey	Ngựa xám Samurai	true
+avatar_aesthetics_localised_name_thigh_uesugi_kenshin	Haidate bảo vệ đùi của Uesugi Kenshin	true
+avatar_aesthetics_localised_name_crest_default_blank	Không huy hiệu	true
+avatar_aesthetics_localised_name_helm_blade_master	Mũ Kabuto: Bậc thầy Kiếm thuật	true
+avatar_aesthetics_localised_name_chest_maeda_toshie	Giáp ngực Do của Maeda Toshie	true
+avatar_aesthetics_localised_name_chest_uesugi_kenshin	Giáp ngực Do của Uesugi Kenshin	true
+avatar_aesthetics_localised_name_helm_oda_nobunaga	Mũ Kabuto của Oda Nobunaga	true
+avatar_aesthetics_localised_name_shoulder_multicolour_laced	Giáp vai Sode: Dây buộc nhiều màu	true
+avatar_aesthetics_localised_name_sashimono_multicolour_laced	Sashimono: Dây buộc nhiều màu	true
+avatar_aesthetics_localised_name_shoulders_hosokawa_tadaoki	Giáp vai Sode của Hosokawa Tadaoki	true
+avatar_aesthetics_localised_name_arms_tokugawa_ieyasu	Tay giáp Kote của Tokugawa Ieyasu	true
+avatar_aesthetics_localised_name_thigh_western_style	Haidate bảo vệ đùi: Kiểu phương Tây	true
+avatar_aesthetics_localised_name_chest_western_style	Giáp ngực Do: Kiểu phương Tây	true
+avatar_aesthetics_localised_name_helm_tokugawa_ieyasu	Mũ Kabuto của Tokugawa Ieyasu	true
+avatar_aesthetics_localised_name_mask_oda_nobunaga	Mặt nạ Men Yoroi của Oda Nobunaga	true
+avatar_aesthetics_localised_name_sashimono_default	Sashimono: Bộ binh	true
+avatar_aesthetics_localised_name_arms_shogun	Tay giáp Kote của Shogun	true
+avatar_aesthetics_localised_name_chest_morning_glory	Giáp ngực Do: Hoa bìm bìm	true
+avatar_aesthetics_localised_name_helm_default_kabuto	Mũ Kabuto	true
+avatar_aesthetics_localised_name_shoulders_tokugawa_ieyasu	Giáp vai Sode của Tokugawa Ieyasu	true
+avatar_aesthetics_localised_name_thigh_oda_nobunaga	Haidate bảo vệ đùi của Oda Nobunaga	true
+avatar_aesthetics_localised_name_horse_masked_grey	Ngựa xám đeo mặt nạ	true
+avatar_aesthetics_localised_name_legs_default_samurai_leg_1	Suneate Samurai	true
+avatar_aesthetics_localised_name_horse_basic_chestnut	Ngựa hạt dẻ	true
+avatar_aesthetics_localised_name_chest_shogun	Giáp ngực Do của Shogun	true
+avatar_aesthetics_localised_name_crest_shogun	Huy hiệu của Shogun	true
+avatar_aesthetics_localised_name_horse_samurai_bay	Ngựa nâu Samurai	true
+avatar_aesthetics_localised_name_sashimono_tokugawa_ieyasu	Sashimono của Tokugawa Ieyasu	true
+avatar_aesthetics_localised_name_horse_samurai_tan	Ngựa vàng nhạt Samurai	true
+avatar_aesthetics_localised_name_crest_ach_won_clanmap_season	Huy hiệu thành tựu: Trung thành với Gia tộc	true
+avatar_aesthetics_localised_name_sashimono_hosokawa_tadaoki	Sashimono của Hosokawa Tadaoki	true
+avatar_aesthetics_localised_name_boshin_arm_late_samurai_1	Đồng phục Samurai cuối kỳ 1: Kimono Samurai có bảo vệ tay	true
+avatar_aesthetics_localised_name_boshin_arm_late_samurai_3	Đồng phục Samurai cuối kỳ 3: Áo sơ mi hiện đại	true
+avatar_aesthetics_localised_name_boshin_arm_late_samurai_2	Đồng phục Samurai cuối kỳ 2: Kimono Samurai	true
+avatar_aesthetics_localised_name_crest_ach_won_clanmap_region	Huy hiệu tiêu chuẩn	true
+avatar_aesthetics_localised_name_arms_oda_nobunaga	Tay giáp Kote của Oda Nobunaga	true
+avatar_aesthetics_localised_name_legs_oda_nobunaga	Suneate bảo vệ ống chân của Oda Nobunaga	true
+avatar_aesthetics_localised_name_mask_tokugawa_ieyasu	Mặt nạ Men Yoroi của Tokugawa Ieyasu	true
+avatar_aesthetics_localised_name_arms_morning_glory	Tay giáp Kote: Hoa bìm bìm	true
+avatar_aesthetics_localised_name_horse_samurai_brown	Ngựa nâu Samurai	true
+avatar_aesthetics_localised_name_chest_blade_master	Giáp ngực Do: Bậc thầy Kiếm thuật	true
+avatar_aesthetics_localised_name_helm_maeda_toshie	Mũ Kabuto của Maeda Toshie	true
+avatar_aesthetics_localised_name_crest_blade_master	Huy hiệu Datemono: Bậc thầy Kiếm thuật	true
+avatar_aesthetics_localised_name_arms_uesugi_kenshin	Tay giáp Kote của Uesugi Kenshin	true
+avatar_aesthetics_localised_name_helm_western_style	Mũ Kabuto: Kiểu phương Tây	true
+avatar_aesthetics_localised_name_legs_shogun	Suneate bảo vệ ống chân của Shogun	true
+avatar_aesthetics_localised_name_legs_morning_glory	Suneate bảo vệ ống chân: Hoa bìm bìm	true
+avatar_aesthetics_localised_name_sword_shogun	Katana của Shogun	true
+avatar_aesthetics_localised_name_crest_oda_nobunaga	Huy hiệu Datemono của Oda Nobunaga	true
+avatar_aesthetics_localised_name_helm_catfish_tail	Mũ Kabuto: Đuôi cá trê	true
+avatar_aesthetics_localised_name_chest_oda_nobunaga	Giáp ngực Do của Oda Nobunaga	true
+avatar_aesthetics_localised_name_helm_morning_glory	Mũ Kabuto: Hoa bìm bìm	true
+avatar_aesthetics_localised_name_mask_shogun	Mặt nạ Menpo của Shogun	true
+avatar_aesthetics_localised_name_thigh_shogun	Haidate bảo vệ đùi của Shogun	true
+avatar_aesthetics_localised_name_mask_western_style	Mặt nạ Men Yoroi: Kiểu phương Tây	true
+avatar_aesthetics_localised_name_bow_default	Cung Yumi tiêu chuẩn 1	true
+avatar_aesthetics_localised_name_mask_catfish_tail	Mặt nạ Men Yoroi: Vảy cá trê	true
+avatar_aesthetics_localised_name_boshin_leg_late_samurai_2	Đồng phục Samurai cuối kỳ 2: Hakama Samurai nhiều màu	true
+avatar_aesthetics_localised_name_boshin_leg_late_samurai_3	Đồng phục Samurai cuối kỳ 3: Quần truyền thống	true
+avatar_aesthetics_localised_name_boshin_leg_late_samurai_1	Đồng phục Samurai cuối kỳ 1: Hakama Samurai sọc	true
+avatar_aesthetics_localised_name_helm_default_zunari_kabuto	Mũ Kabuto Zunari	true
+avatar_aesthetics_localised_name_sashimono_default_cavalry	Sashimono: Kỵ binh	true
+avatar_aesthetics_localised_name_boshin_helmet_shinsengumi_2	Đồng phục Shinsengumi 2: Jingasa hình nón	true
+avatar_aesthetics_localised_name_boshin_helmet_shinsengumi_1	Đồng phục Shinsengumi 1: Jingasa nhỏ hiện đại	true
+avatar_aesthetics_localised_name_helm_kawari_kabuto	Mũ Kabuto: Kawari Kabuto	true
+avatar_aesthetics_localised_name_crest_ach_1_quick_battle	Huy hiệu thành tựu: Một Triều Đại Đáng Kính	true
+avatar_aesthetics_localised_name_crest_ach_1_drop_in_battle	Huy hiệu thành tựu: Chỉ huy của Dân thường	true
+avatar_aesthetics_localised_name_crest_clan_comp_promotion	Huy hiệu: Thăng hạng Gia tộc trong Clan Competition	true
+avatar_aesthetics_localised_name_crest_ach_army_colour_change	Huy hiệu thành tựu: Rèn luyện trong ngọn lửa nóng nhất	true
+avatar_aesthetics_localised_name_legs_date_masamune	Suneate bảo vệ ống chân của Date Masamune	true
+avatar_aesthetics_localised_name_legs_ikko_ikki_feet	Ikko-Ikki chân trần	true
+avatar_aesthetics_localised_name_chest_goldfish_scale	Giáp ngực Do: Vảy cá vàng	true
+avatar_aesthetics_localised_name_crest_goldfish_scale	Huy hiệu Datemono: Vảy cá vàng	true
+avatar_aesthetics_localised_name_crest_naoe_kanetsugu	Huy hiệu Datemono của Naoe Kanetsugu	true
+avatar_aesthetics_localised_name_chest_scale_cuirass	Giáp ngực Do: Vảy	true
+avatar_aesthetics_localised_name_crest_golden_scale_cuirass	Huy hiệu Datemono: Vảy vàng	true
+avatar_aesthetics_localised_name_chest_silver_scale_cuirass	Giáp ngực Do: Vảy bạc	true
+avatar_aesthetics_localised_name_chest_golden_scale_cuirass	Giáp ngực Do: Vảy vàng	true
+avatar_aesthetics_localised_name_boshin_leg_modern_4	Đồng phục hiện đại 4: Quần kỵ binh	true
+avatar_aesthetics_localised_name_boshin_leg_modern_1	Đồng phục hiện đại 1: Quần có xà cạp tối màu	true
+avatar_aesthetics_localised_name_boshin_leg_modern_3	Đồng phục hiện đại 3: Quần hiện đại	true
+avatar_aesthetics_localised_name_boshin_leg_modern_2	Đồng phục hiện đại 2: Quần có xà cạp trắng	true
+avatar_aesthetics_localised_name_helm_date_masamune	Mũ Kabuto của Date Masamune	true
+avatar_aesthetics_localised_name_shoulder_default_jin_baori_1	Áo khoác Jin Baori	true
+avatar_aesthetics_localised_name_boshin_leg_french_1	Đồng phục Pháp: Quần lính thủy đánh bộ Pháp	true
+avatar_aesthetics_localised_name_mask_goldfish_scale	Mặt nạ Men Yoroi: Vảy cá vàng	true
+avatar_aesthetics_localised_name_thigh_goldfish_scale	Haidate bảo vệ đùi: Vảy cá vàng	true
+avatar_aesthetics_localised_name_arms_golden_scale_cuirass	Tay giáp Kote: Vảy vàng	true
+avatar_aesthetics_localised_name_legs_golden_scale_cuirass	Suneate bảo vệ ống chân: Vảy vàng	true
+avatar_aesthetics_localised_name_arms_silver_scale_cuirass	Tay giáp Kote: Vảy bạc	true
+avatar_aesthetics_localised_name_chest_kato_kiyomasa	Giáp ngực Do của Kato Kiyomasa	true
+avatar_aesthetics_localised_name_legs_silver_scale_cuirass	Suneate bảo vệ ống chân: Vảy bạc	true
+avatar_aesthetics_localised_name_boshin_leg_british_1	Đồng phục Anh: Quần sĩ quan Royal Marine	true
+avatar_aesthetics_localised_name_boshin_arm_british_1	Đồng phục Anh: Áo tunic sĩ quan Royal Marine	true
+avatar_aesthetics_localised_name_boshin_helmet_late_samurai_2	Đồng phục Samurai cuối kỳ 2: Jingasa giấy	true
+avatar_aesthetics_localised_name_boshin_helmet_late_samurai_3	Đồng phục Samurai cuối kỳ 3: Jingasa sĩ quan	true
+avatar_aesthetics_localised_name_boshin_helmet_late_samurai_1	Đồng phục Samurai cuối kỳ 1: Băng đô	true
+avatar_aesthetics_localised_name_crest_default_crescent_crest	Huy hiệu Lưỡi liềm	true
+avatar_aesthetics_localised_name_shoulders_toyotomi_hideyoshi	Giáp vai Sode của Toyotomi Hideyoshi	true
+avatar_aesthetics_localised_name_helm_goldfish_scale	Mũ Kabuto: Vảy cá vàng	true
+avatar_aesthetics_localised_name_legs_goldfish_scale	Suneate bảo vệ ống chân: Vảy cá vàng	true
+avatar_aesthetics_localised_name_boshin_arm_modern_4	Đồng phục hiện đại 4: Áo tunic đơn giản	true
+avatar_aesthetics_localised_name_boshin_arm_modern_1	Đồng phục hiện đại 1: Áo tunic kiểu Pháp	true
+avatar_aesthetics_localised_name_boshin_arm_modern_3	Đồng phục hiện đại 3: Áo tunic ngắn hiện đại	true
+avatar_aesthetics_localised_name_boshin_arm_modern_2	Đồng phục hiện đại 2: Áo tunic dài hiện đại	true
+avatar_aesthetics_localised_name_shoulders_sparse_point_laced	Giáp vai Sode: Dây buộc điểm thưa	true
+avatar_aesthetics_localised_name_helm_naoe_kanetsugu	Mũ Kabuto của Naoe Kanetsugu	true
+avatar_aesthetics_localised_name_thigh_silver_scale_cuirass	Haidate bảo vệ đùi: Vảy bạc	true
+avatar_aesthetics_localised_name_thigh_golden_scale_cuirass	Haidate bảo vệ đùi: Vảy vàng	true
+avatar_aesthetics_localised_name_boshin_arm_french_1	Đồng phục Pháp: Áo tunic lính thủy đánh bộ Pháp	true
+avatar_aesthetics_localised_name_arms_date_masamune	Tay giáp Kote của Date Masamune	true
+avatar_aesthetics_localised_name_crest_date_masamune	Huy hiệu Datemono của Date Masamune	true
+avatar_aesthetics_localised_name_helm_ikko_ikki_hood	Mũ trùm Ikko-Ikki	true
+avatar_aesthetics_localised_name_mask_golden_scale_cuirass	Mặt nạ Men Yoroi: Vảy vàng	true
+avatar_aesthetics_localised_name_mask_silver_scale_cuirass	Mặt nạ Men Yoroi: Vảy bạc	true
+avatar_aesthetics_localised_name_chest_kawari_kabuto	Giáp ngực Do: Kawari Kabuto	true
+avatar_aesthetics_localised_name_crest_default_circle_crest	Huy hiệu Hình tròn	true
+avatar_aesthetics_localised_name_arms_kato_kiyomasa	Tay giáp Kote của Kato Kiyomasa	true
+avatar_aesthetics_localised_name_heads_default_head_3	Đầu quý tộc 2	true
+avatar_aesthetics_localised_name_heads_default_head_2	Đầu quý tộc 1	true
+avatar_aesthetics_localised_name_heads_default_head_1	Đầu người già	true
+avatar_aesthetics_localised_name_heads_default_head_7	Đầu quý tộc 6	true
+avatar_aesthetics_localised_name_heads_default_head_6	Đầu quý tộc 5	true
+avatar_aesthetics_localised_name_heads_default_head_5	Đầu quý tộc 4	true
+avatar_aesthetics_localised_name_heads_default_head_4	Đầu quý tộc 3	true
+avatar_aesthetics_localised_name_heads_default_head_9	Đầu quý tộc 8	true
+avatar_aesthetics_localised_name_heads_default_head_8	Đầu quý tộc 7	true
+avatar_aesthetics_localised_name_chest_date_masamune	Giáp ngực Do của Date Masamune	true
+avatar_aesthetics_localised_name_helm_scale_cuirass	Mũ Kabuto: Vảy	true
+avatar_aesthetics_localised_name_boshin_leg_officer_2	Đồng phục sĩ quan 2: Quần sĩ quan kỵ binh	true
+avatar_aesthetics_localised_name_boshin_leg_officer_1	Đồng phục sĩ quan 1: Quần sĩ quan	true
+avatar_aesthetics_localised_name_boshin_arm_officer_2	Đồng phục sĩ quan 2: Áo khoác sĩ quan sang trọng	true
+avatar_aesthetics_localised_name_boshin_arm_officer_1	Đồng phục sĩ quan 1: Áo khoác sĩ quan	true
+avatar_aesthetics_localised_name_shoulders_gempei_1	Giáp vai Sode Gempei 1	true
+avatar_aesthetics_localised_name_shoulders_gempei_2	Giáp vai Sode Gempei 2	true
+avatar_aesthetics_localised_name_shoulders_gempei_3	Giáp vai Sode Gempei 3	true
+avatar_aesthetics_localised_name_helm_golden_scale_cuirass	Mũ Kabuto: Vảy vàng	true
+avatar_aesthetics_localised_name_helm_silver_scale_cuirass	Mũ Kabuto: Vảy bạc	true
+avatar_aesthetics_localised_name_mask_default_hanbo_1	Mặt nạ Hanbo Men Yoroi 1	true
+avatar_aesthetics_localised_name_mask_default_hanbo_2	Mặt nạ Hanbo Men Yoroi 2	true
+avatar_aesthetics_localised_name_crest_default_small_crest	Huy hiệu nhỏ	true
+avatar_aesthetics_localised_name_horse_basic_brown	Ngựa nâu	true
+avatar_aesthetics_localised_name_heads_default_head_10	Đầu quý tộc 9	true
+avatar_aesthetics_localised_name_helm_kato_kiyomasa	Mũ Kabuto của Kato Kiyomasa	true
+avatar_aesthetics_localised_name_arms_goldfish_scale	Tay giáp Kote: Vảy cá vàng	true
+avatar_aesthetics_localised_name_sashimono_toyotomi_hideyoshi	Sashimono của Toyotomi Hideyoshi	true
+avatar_aesthetics_localised_name_helm_honda_tadakatsu	Mũ Kabuto của Honda Tadakatsu	true
+avatar_aesthetics_localised_name_crest_ach_1_naval_battle	Huy hiệu thành tựu: Thành tựu không danh dự	true
+avatar_aesthetics_localised_name_horse_masked_brown	Ngựa nâu đeo mặt nạ	true
+avatar_aesthetics_localised_name_mask_kato_kiyomasa	Mặt nạ Men Yoroi của Kato Kiyomasa	true
+avatar_aesthetics_localised_name_crest_ach_clan_leaderboard_top_1	Huy hiệu tiêu chuẩn	true
+avatar_aesthetics_localised_name_legs_gempei_3	Suneate Gempei 3	true
+avatar_aesthetics_localised_name_legs_gempei_2	Suneate Gempei 2	true
+avatar_aesthetics_localised_name_legs_gempei_1	Suneate Gempei 1	true
+avatar_aesthetics_localised_name_arms_gempei_2	Tay giáp Kote Gempei 2	true
+avatar_aesthetics_localised_name_arms_gempei_3	Tay giáp Kote Gempei 3	true
+avatar_aesthetics_localised_name_arms_gempei_1	Tay giáp Kote Gempei 1	true
+avatar_aesthetics_localised_name_crest_sparse_point_laced	Huy hiệu Datemono: Dây buộc điểm thưa	true
+avatar_aesthetics_localised_name_horse_basic_bay	Ngựa nâu đỏ	true
+avatar_aesthetics_localised_name_horse_basic_tan	Ngựa vàng nhạt	true
+avatar_aesthetics_localised_name_chest_toyotomi_hideyoshi	Giáp ngực Do của Toyotomi Hideyoshi	true
+avatar_aesthetics_localised_name_shoulders_ikko_ikki_robe	Áo choàng Ikko-Ikki	true
+avatar_aesthetics_localised_name_sashimono_golden_scale_cuirass	Sashimono: Vảy vàng	true
+avatar_aesthetics_localised_name_chest_akechi_mitsuharu	Giáp ngực Do của Akechi Mitsuharu	true
+avatar_aesthetics_localised_name_thigh_gempei_1	Haidate Gempei 1	true
+avatar_aesthetics_localised_name_thigh_gempei_2	Haidate Gempei 2	true
+avatar_aesthetics_localised_name_crest_triple_hollyhock	Huy hiệu Datemono: Ba lá thục quỳ	true
+avatar_aesthetics_localised_name_thigh_toyotomi_hideyoshi	Haidate bảo vệ đùi của Toyotomi Hideyoshi	true
+avatar_aesthetics_localised_name_boshin_helmet_french_1	Đồng phục Pháp: Mũ sĩ quan lính thủy đánh bộ Pháp	true
+avatar_aesthetics_localised_name_mask_toyotomi_hideyoshi	Mặt nạ Men Yoroi của Toyotomi Hideyoshi	true
+avatar_aesthetics_localised_name_boshin_helmet_modern_4	Đồng phục hiện đại 4: Tóc giả lớn	true
+avatar_aesthetics_localised_name_boshin_helmet_modern_1	Đồng phục hiện đại 1: Mũ Quân đoàn Lê dương Pháp	true
+avatar_aesthetics_localised_name_boshin_helmet_modern_2	Đồng phục hiện đại 2: Mũ hiện đại	true
+avatar_aesthetics_localised_name_boshin_helmet_modern_3	Đồng phục hiện đại 3: Jingasa hiện đại	true
+avatar_aesthetics_localised_name_shoulders_goldfish_scale	Giáp vai Sode: Vảy cá vàng	true
+avatar_aesthetics_localised_name_helm_sparse_point_laced	Mũ Kabuto: Dây buộc điểm thưa	true
+avatar_aesthetics_localised_name_crest_ach_clan_leaderboard_top_100	Huy hiệu tiêu chuẩn	true
+avatar_aesthetics_localised_name_legs_toyotomi_hideyoshi	Suneate của Toyotomi Hideyoshi	true
+avatar_aesthetics_localised_name_helm_toyotomi_hideyoshi	Mũ Kabuto của Toyotomi Hideyoshi	true
+avatar_aesthetics_localised_name_crest_gempei_2	Huy hiệu Gempei 2	true
+avatar_aesthetics_localised_name_crest_gempei_3	Huy hiệu Gempei 3	true
+avatar_aesthetics_localised_name_crest_gempei_1	Huy hiệu Gempei 1	true
+avatar_aesthetics_localised_name_chest_gempei_1	Giáp ngực Gempei 1	true
+avatar_aesthetics_localised_name_chest_gempei_2	Giáp ngực Gempei 2	true
+avatar_aesthetics_localised_name_chest_gempei_3	Giáp ngực Gempei 3	true
+avatar_aesthetics_localised_name_arms_default_chainmail_2	Tay giáp Oda-gote	true
+avatar_aesthetics_localised_name_shoulders_kato_kiyomasa	Giáp vai Sode của Kato Kiyomasa	true
+avatar_aesthetics_localised_name_mask_sparse_point_laced	Mặt nạ Men Yoroi: Dây buộc điểm thưa	true
+avatar_aesthetics_localised_name_boshin_leg_american_1	Đồng phục Mỹ 1: Quần sĩ quan Thủy quân Lục chiến Mỹ	true
+avatar_aesthetics_localised_name_boshin_leg_american_2	Đồng phục Mỹ 2: Quần Thủy quân Lục chiến Mỹ	true
+avatar_aesthetics_localised_name_crest_ach_won_5_clanmap_regions	Huy hiệu thành tựu: Bóp nghẹt	true
+avatar_aesthetics_localised_name_shoulders_date_masamune	Giáp vai Sode của Date Masamune	true
+avatar_aesthetics_localised_name_crest_ach_clan_leaderboard_top_25	Huy hiệu tiêu chuẩn	true
+avatar_aesthetics_localised_name_crest_ach_clan_leaderboard_top_10	Huy hiệu tiêu chuẩn	true
+avatar_aesthetics_localised_name_crest_honda_tadakatsu	Huy hiệu Datemono của Honda Tadakatsu	true
+avatar_aesthetics_localised_name_helm_akechi_mitsuharu	Mũ Kabuto của Akechi Mitsuharu	true
+avatar_aesthetics_localised_name_boshin_arm_shinsengumi_2	Đồng phục Shinsengumi 2: Kimono Shinsengumi 2	true
+avatar_aesthetics_localised_name_boshin_arm_shinsengumi_1	Đồng phục Shinsengumi 1: Kimono Shinsengumi 1	true
+avatar_aesthetics_localised_name_boshin_leg_shinsengumi_2	Đồng phục Shinsengumi 2: Hakama Shinsengumi sọc	true
+avatar_aesthetics_localised_name_boshin_leg_shinsengumi_1	Đồng phục Shinsengumi 1: Hakama Shinsengumi nhiều màu	true
+avatar_aesthetics_localised_name_helm_triple_hollyhock	Mũ Kabuto: Ba lá thục quỳ	true
+avatar_aesthetics_localised_name_mask_gempei_1	Mặt nạ Men Yoroi Gempei	true
+avatar_aesthetics_localised_name_crest_ach_25_percent_all_drops	Huy hiệu thành tựu: Phản công truyền cảm hứng	true
+avatar_aesthetics_localised_name_crest_ach_50_percent_all_drops	Huy hiệu thành tựu: Bậc thầy của đại dương	true
+avatar_aesthetics_localised_name_crest_ach_75_percent_all_drops	Huy hiệu thành tựu: Tiêu diệt Ikko-Ikki	true
+avatar_aesthetics_localised_name_arms_toyotomi_hideyoshi	Tay giáp Kote của Toyotomi Hideyoshi	true
+avatar_aesthetics_localised_name_helm_gempei_3	Mũ Kabuto Gempei 3	true
+avatar_aesthetics_localised_name_helm_gempei_2	Mũ Kabuto Gempei 2	true
+avatar_aesthetics_localised_name_helm_gempei_1	Mũ Kabuto Gempei 1	true
+avatar_aesthetics_localised_name_sashimono_goldfish_scale	Sashimono: Vảy cá vàng	true
+avatar_aesthetics_localised_name_boshin_arm_american_2	Đồng phục Mỹ 2: Áo tunic Thủy quân Lục chiến Mỹ	true
+avatar_aesthetics_localised_name_boshin_arm_american_1	Đồng phục Mỹ 1: Áo tunic sĩ quan Thủy quân Lục chiến Mỹ	true
+avatar_aesthetics_localised_name_shoulders_silver_scale_cuirass	Giáp vai Sode: Vảy bạc	true
+avatar_aesthetics_localised_name_shoulders_golden_scale_cuirass	Giáp vai Sode: Vảy vàng	true
+avatar_aesthetics_localised_name_helm_hosokawa_tadaoki	Mũ Kabuto của Hosokawa Tadaoki	true
+avatar_aesthetics_localised_name_arms_ichinotani	Tay giáp Kote: Ichinotani	true
+avatar_aesthetics_localised_name_shoulders_oda_nobunaga	Giáp vai Sode của Oda Nobunaga	true
+avatar_aesthetics_localised_name_legs_default_strip_armour_leg	Suneate Ashigaru	true
+avatar_aesthetics_localised_name_boshin_helmet_british_1	Đồng phục Anh: Mũ Royal Marine	true
+avatar_aesthetics_localised_name_bow_default_3	Cung Yumi tiêu chuẩn 3	true
+avatar_aesthetics_localised_name_bow_default_2	Cung Yumi tiêu chuẩn 2	true
+avatar_aesthetics_localised_name_crest_clan_comp_tier_1_promotion	Huy hiệu: Thăng hạng Clan Competition Tier 1	true
+avatar_aesthetics_localised_name_crest_clan_comp_winner	Huy hiệu của Nhà vô địch Gia tộc	true
+avatar_aesthetics_localised_name_horse_samurai_palomino	Ngựa đốm Samurai	true
+avatar_aesthetics_localised_name_helm_default_momonari	Mũ Kabuto Momonari	true
+avatar_aesthetics_localised_name_chest_tokugawa_ieyasu	Giáp ngực Do của Tokugawa Ieyasu	true
+avatar_aesthetics_localised_name_crest_tokugawa_ieyasu	Huy hiệu Datemono của Tokugawa Ieyasu	true
+avatar_aesthetics_localised_name_chest_default_laced_okegawa_do	Giáp ngực Dangae-Do	true
+avatar_aesthetics_localised_name_horse_basic_grey	Ngựa xám	true
+avatar_aesthetics_localised_name_boshin_helmet_american_1	Đồng phục Mỹ 1: Mũ sĩ quan Thủy quân Lục chiến Mỹ	true
+avatar_aesthetics_localised_name_boshin_helmet_american_2	Đồng phục Mỹ 2: Mũ Thủy quân Lục chiến Mỹ	true
+avatar_aesthetics_localised_name_horse_masked_chestnut	Ngựa hạt dẻ đeo mặt nạ	true
+avatar_aesthetics_localised_name_crest_ach_1_land_battle	Huy hiệu thành tựu: Lực lượng tấn công khó nắm bắt	true
+avatar_aesthetics_localised_name_mask_hosokawa_tadaoki	Mặt nạ Men Yoroi của Hosokawa Tadaoki	true
+avatar_aesthetics_localised_name_shoulders_uesugi_kenshin	Giáp vai Sode của Uesugi Kenshin	true
+avatar_aesthetics_localised_name_horse_masked_tan	Ngựa vàng nhạt đeo mặt nạ	true
+avatar_aesthetics_localised_name_horse_masked_bay	Ngựa nâu đỏ đeo mặt nạ	true
+avatar_aesthetics_localised_name_sword_default_3	Katana tiêu chuẩn 3	true
+avatar_aesthetics_localised_name_sword_default_2	Katana tiêu chuẩn 2	true
+avatar_aesthetics_localised_name_thigh_multicolour_laced	Haidate bảo vệ đùi: Dây buộc nhiều màu	true
+avatar_aesthetics_localised_name_chest_multicolour_laced	Giáp ngực Do: Dây buộc nhiều màu	true
+avatar_aesthetics_localised_name_mask_default_laced_mask	Mặt nạ Men Yoroi tiêu chuẩn	true
+avatar_aesthetics_localised_name_thigh_tokugawa_ieyasu	Haidate bảo vệ đùi của Tokugawa Ieyasu	true
+avatar_aesthetics_localised_name_crest_hosokawa_tadaoki	Huy hiệu Datemono của Hosokawa Tadaoki	true
+avatar_aesthetics_localised_name_chest_hosokawa_tadaoki	Giáp ngực Do của Hosokawa Tadaoki	true
+avatar_aesthetics_localised_name_shoulder_shogun	Giáp vai Sode của Shogun	true
+avatar_aesthetics_localised_name_horse_samurai_chestnut	Ngựa hạt dẻ Samurai	true
+avatar_aesthetics_localised_name_helm_clan_comp_winner	Mũ Kabuto: Nhà vô địch Gia tộc	true
+avatar_aesthetics_localised_name_chest_itakura_katsushige	Giáp ngực Do của Itakura Katsushige	true
+avatar_aesthetics_localised_name_crest_itakura_katsushige	Huy hiệu Datemono của Itakura Katsushige	true
+avatar_aesthetics_localised_name_crest_multicolour_laced	Huy hiệu: Dây buộc nhiều màu	true
+avatar_aesthetics_localised_name_arms_multicolour_laced	Tay giáp Kote: Dây buộc nhiều màu	true
+avatar_aesthetics_localised_name_arms_default_strip_armour_arm	Tay giáp Kote đơn giản	true
+avatar_aesthetics_localised_name_horse_masked_palomino	Ngựa đốm đeo mặt nạ	true
+avatar_aesthetics_localised_name_helm_ichinotani	Mũ Kabuto: Ichinotani	true
+avatar_aesthetics_localised_name_chest_default_mogami_do	Giáp Mogami-Do	true
+avatar_aesthetics_localised_name_mask_multicolour_laced	Mặt nạ Men Yoroi: Dây buộc nhiều màu	true
+avatar_aesthetics_localised_name_helm_bos_clan_comp_cap_tier_1_promotion	Mũ: Thăng hạng Clan Competition Tier 1	true
+avatar_aesthetics_localised_name_sashimono_default_blank	Không Sashimono	true
+avatar_aesthetics_localised_name_thigh_default_haidate	Haidate bảo vệ đùi	true
+avatar_aesthetics_localised_name_sword_default	Katana tiêu chuẩn 1	true
+avatar_aesthetics_localised_name_crest_ach_joined_clan	Huy hiệu thành tựu: Phục vụ với danh dự	true
+avatar_aesthetics_localised_name_legs_multicolour_laced	Suneate: Dây buộc nhiều màu	true
+avatar_aesthetics_localised_name_chest_default_hotoke_do	Giáp Yukinoshita-Do	true
+avatar_aesthetics_localised_name_thigh_hosokawa_tadaoki	Haidate bảo vệ đùi của Hosokawa Tadaoki	true
+avatar_aesthetics_localised_name_helm_itakura_katsushige	Mũ Kabuto của Itakura Katsushige	true
+avatar_aesthetics_localised_name_helm_bos_clan_comp_cap_promotion	Mũ: Thăng hạng Clan Competition	true
+avatar_aesthetics_localised_name_helm_multicolour_laced	Mũ Kabuto: Dây buộc nhiều màu	true
+avatar_aesthetics_localised_name_legs_hosokawa_tadaoki	Suneate của Hosokawa Tadaoki	true
+avatar_aesthetics_localised_name_arms_hosokawa_tadaoki	Tay giáp Kote của Hosokawa Tadaoki	true
+avatar_aesthetics_localised_name_helm_legendary_kabuto_of_ykok	Kabuto huyền thoại của Shogun	true
+avatar_aesthetics_localised_name_chest_ichinotani	Giáp ngực Do: Ichinotani	true
+avatar_aesthetics_localised_name_boshin_helmet_officer_2	Đồng phục sĩ quan 2: Tóc giả cầu kỳ	true
+avatar_aesthetics_localised_name_boshin_helmet_officer_1	Đồng phục sĩ quan 1: Mũ sĩ quan	true

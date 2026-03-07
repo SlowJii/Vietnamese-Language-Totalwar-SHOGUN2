@@ -1,0 +1,83 @@
+=== CHUNK 1/3 — agent_culture_details.loc.tsv ===
+(Dịch 80 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[0] A Spy is also a saboteur and assassin who can be sent into a target city to report its contents and sabotage buildings. To attempt an assassination select a target character.
+[1] A Spy is also a saboteur and assassin who can be sent into a target city to report its contents and sabotage buildings. To attempt an assassination select a target character.
+[2] Arrr! Ye scurvy pirate! (PLACEHOLDER)
+[3] Arrr! Ye scurvy pirate! (PLACEHOLDER)
+[4] Arrr! Ye scurvy pirate! (PLACEHOLDER)
+[5] Arrr! Ye scurvy pirate! (PLACEHOLDER)
+[6] An Orthodox Missionary is a religious teacher who preaches the Orthodox faith. Placing them within a region will cause a gradual conversion to the Orthodox faith amongst the population. They will continue to automatically convert a population until moved.
+[7] Ninja are masters of artifice and infiltration. Their ninjutsu skills enable them to spy upon enemies or sabotage their armies and castle towns, whilst moving through their lands undetected. They are also expert assassins, striking from the shadows to kill enemy generals and agents alike. Their infliltration skills also make ninja invaluable scouts for their clan's armies, whilst their underworld connections keep them abreast of comings and goings when visiting friendly provinces.
+[9] A Scout is a spy, saboteur, and assassin who can be sent into a target city to report its contents and sabotage buildings. To attempt an assassination select a target character.
+[10] Minister. PLACEHOLDER.
+[11] Minister. PLACEHOLDER.
+[12] Minister. PLACEHOLDER.
+[13] Minister. PLACEHOLDER.
+[14] Minister. PLACEHOLDER.
+[15] Minister. PLACEHOLDER.
+[16] An Imam is a religious teacher who spreads word of Islam around the world. Placing an Imam with a region will cause a gradual conversion to Islam amongst the population. They will continue to automatically convert a region until moved.
+[17] An Imam is a religious teacher who spreads word of Islam around the world. Placing an Imam with a region will cause a gradual conversion to Islam amongst the population. They will continue to automatically convert a region until moved.
+[18] Monks are ardent proponents of the teachings of Buddha. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Monks are also able to convert populations to Buddhism and enemy agents to abandon their missions in favour of a life of peace and self-reflection. They are particularly effective when used against metsuke. 
+[19] Missionaries are fervent evangelists of the Christian way. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Missionaries are also able to convert populations to Christianity and enemy agents to abandon their missions in favour of a life of god-fearing penance. They are particularly effective when used against metsuke.
+[20] A Gentleman is an educated man who can be sent into educational buildings to speed-up research, and can also duel with Spies and other Gentlemen. Select a target character in order to challenge them to a duel.
+[21] A Gentleman is an educated man who can be sent into educational buildings to speed-up research, and can also duel with Spies and other Gentlemen. Select a target character in order to challenge them to a duel.
+[22] Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents.
+[23] Colonel. PLACEHOLDER.
+[24] Colonel. PLACEHOLDER.
+[26] Colonel. PLACEHOLDER.
+[27] Colonel. PLACEHOLDER.
+[28] Metsuke are unscrupulous executors of their daimyo's authority, directing their cunning to the control of their clan's disaffected generals and people. They are also able to bribe enemy armies and towns. Metsuke may seek to apprehend and bring enemy agents to 'justice', and are particularly effective at uncovering and countering ninja activity. 
+[29] A Brahmin is a religious teacher who spreads word of the Hindu faith around the world. Placing a Brahmin within a region will cause a gradual conversion to Hinduism amongst the population. They will continue to automatically convert a region until moved.
+[30] A Catholic Missionary is a religious teacher who spreads the word of Catholicism. Placing a Missionary within a region will cause a gradual conversion to Catholicism amongst the population. They will continue to automatically convert a region until moved.
+[31] Captain. PLACEHOLDER.
+[32] Captain. PLACEHOLDER.
+[33] Captain. PLACEHOLDER.
+[34] Captain. PLACEHOLDER.
+[35] Captain. PLACEHOLDER.
+[36] Captain. PLACEHOLDER.
+[37] Bandit. PLACEHOLDER.
+[38] Colonel. PLACEHOLDER.
+[39] Colonel. PLACEHOLDER.
+[40] Bandit. PLACEHOLDER.
+[41] A Hashishin is a spy, saboteur, and assassin who can be sent into a target city to report on its contents and sabotage buildings. To attempt an assassination select a target character.
+[42] A Thugee is a spy, saboteur and assassin who can be sent into a target city to report on its contents and sabotage buildings. To attempt an assassination select a target character.
+[43] A Hashishin is a spy, saboteur, and assassin who can be sent into a target city to report on its contents and sabotage buildings. To attempt an assassination select a target character.
+[44] Admirals.PLACEHOLDER
+[45] Admirals.PLACEHOLDER
+[46] Admirals.PLACEHOLDER
+[47] Admirals.PLACEHOLDER
+[48] Bandit. PLACEHOLDER.
+[49] Bandit. PLACEHOLDER.
+[50] Pirate
+[51] Pirate
+[52] Spy
+[53] Spy
+[54] Ninja
+[55] Orthodox Missionary
+[56] Pirate
+[57] Pirate
+[58] Scout
+[59] Captain
+[60] Minister
+[61] Minister
+[62] Minister
+[63] Minister
+[64] Imam
+[65] Imam
+[66] Minister
+[67] Minister
+[68] Missionary
+[69] Monk
+[70] General
+[71] Orgeneral
+[72] Orgeneral
+[73] General
+[74] Eastern Scholar
+[75] Eastern Scholar
+[76] General
+[77] Eastern Scholar
+[78] Admiral
+[79] Protestant Missionary
+[80] Hashishin
+[81] Thugee

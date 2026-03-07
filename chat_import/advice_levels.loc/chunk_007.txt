@@ -1,0 +1,100 @@
+[600] Những diễn biến này sẽ cần vài lượt nữa mới hoàn thành. Trong lúc đó, bạn có thể tăng cường lực lượng hoặc cải thiện đường sá và nông trại trong lãnh địa. Tôi sẽ tư vấn lại khi thành trì hoàn thành.
+[601] Kỵ binh gây thêm thương vong khi tung đòn xung phong đầu tiên nhờ động lực tấn công. Chu kỳ xung phong – rút lui – xung phong sẽ gây tổn thất tối đa cho địch với thiệt hại tối thiểu cho ta. Lặp lại cho đến khi kết thúc.
+[602] Trong cây gia tộc Chosokabe, chọn chân dung Chikayasu. Nhấn vào các nút bổ nhiệm để giao cho ông ta một chức vụ và nhận các phần thưởng tương ứng. Chỉ nam giới trưởng thành trong gia tộc hoặc tướng đã được thăng cấp mới có thể nhận chức vụ. Lòng trung thành của tướng sẽ tăng lên và cả gia tộc cũng được hưởng lợi.
+[603] Đạo quân này hiện đang ở vị trí có thể phục kích kẻ địch đi ngang qua. Tuy nhiên hãy nhớ rằng kẻ địch ẩn mình cũng có thể phục kích quân ta theo cách tương tự!
+[604] Đồng hồ trận chiến cho biết còn bao nhiêu thời gian trước khi trận chiến kết thúc. Bên tấn công phải đánh tan hoặc tiêu diệt bên phòng thủ trong thời gian giới hạn, nếu không sẽ thua trận. Bên phòng thủ chỉ cần cầm chân đối phương là có thể thắng, ngay cả khi bị ít quân hơn.
+[605] Khi tấn công một thị trấn lâu đài, cả hai bên đều có nhiều lựa chọn. Bên tấn công cũng có thể bao vây lâu đài và theo thời gian khiến kẻ địch đầu hàng vì đói. Nhưng lần này bạn phải nhanh chóng! Hãy chiếm lâu đài ngay bây giờ: tiêu diệt lũ Kono phản bội đáng khinh.
+[606] Bộ binh chất lượng thấp hữu ích để giữ chân quân địch trong khi bạn vòng sang sườn hoặc phía sau. Tuy nhiên, chất lượng càng thấp thì họ càng dễ vỡ trận và bỏ chạy.
+[607] Giờ đây bạn đã được biết đến trên đất liền, việc giao thương với một gia tộc ở Honshu là hợp lý. Hãy chọn nút ngoại giao ở góc dưới bên phải màn hình.
+[608] Trận chiến “drop-in” cho phép bạn tìm một người chơi thật thay thế AI của gia tộc trong trận chiến chiến dịch, hoặc tham gia chiến dịch của người khác để chiến đấu thay AI. Điều này được thực hiện thông qua hệ thống chiến đấu trực tuyến. Thông tin chi tiết có trong bách khoa toàn thư, truy cập qua nút ở góc trên bên trái màn hình.
+[609] Tuyệt vời, gia tộc Kono đã bị tiêu diệt và Iyo thuộc về bạn! Người dân Iyo sẽ không hài lòng khi có chủ mới. Đừng cướp phá, vì điều đó làm giảm trật tự công cộng; hãy chiếm đóng Iyo để duy trì trật tự và sử dụng các công trình của tỉnh.
+[610] Tỉnh này có một cảng chưa được phát triển hết tiềm năng. Nâng cấp cảng cho phép đóng tàu lớn hơn và tốt hơn, giao thương với nước ngoài và tăng thu nhập.
+[611] Đã đến lúc chuyển sang lượt tiếp theo. Khi kết thúc lượt, các mệnh lệnh của bạn sẽ được thực hiện và các gia tộc khác cũng sẽ hành động. Họ sẽ phát triển lãnh thổ và di chuyển quân trước khi bạn giành lại quyền điều khiển. Hãy nhấn nút kết thúc lượt.
+[612] Tab này hiển thị tất cả các công trình hiện có trong thị trấn lâu đài và tỉnh xung quanh. Di chuột để xem những gì có thể xây dựng. Nhấp chuột phải vào hình để xem mô tả. Nhấp chuột trái để thêm công trình vào hàng đợi xây dựng, nhấp lại để hủy. Chi phí nằm bên dưới, thời gian xây dựng ở góc trên trái. Một số công trình yêu cầu phải nghiên cứu nghệ thuật nhất định trước.
+[613] Các nông trại trong lãnh thổ không sản xuất đủ lương thực cho các thị trấn lâu đài, gây thiếu lương thực ở một số tỉnh. Hãy nâng cấp nông trại càng sớm càng tốt để cải thiện nguồn cung, nếu không nạn đói sẽ làm gia tăng bất mãn.
+[614] Kỵ binh nhẹ rất hiệu quả khi truy đuổi bộ binh nhẹ và quân quấy rối. Họ thường che chắn lực lượng chính hoặc quấy rối các đơn vị cô lập, vì vậy tiêu diệt họ luôn là chiến thuật tốt nếu bạn bắt được họ.
+[615] Đặt kỵ binh ở hai cánh sẽ tạo sự linh hoạt. Họ có thể chặn các đòn đánh vòng sườn của địch hoặc tự thực hiện đòn vòng sườn khi có cơ hội.
+[616] Chúng ta đang phong tỏa thành công một cảng địch. Điều này không ngăn họ đóng hoặc sửa tàu, nhưng toàn bộ thu nhập thương mại qua cảng sẽ bị đình chỉ trong thời gian phong tỏa.
+[617] Bảng này cho phép lựa chọn các “nghệ thuật” mang lại lợi thế cho gia tộc. Chỉ cần chọn mục muốn nghiên cứu. Không cần công trình để bắt đầu, nhưng một số công trình yêu cầu phải làm chủ nghệ thuật nhất định trước khi xây dựng.
+[618] Bản đồ radar cho phép nhìn toàn cảnh trận chiến, hiển thị vị trí đơn vị ta, kẻ địch nhìn thấy được và địa hình để lập kế hoạch tấn công. Dùng nút + và – để phóng to hoặc thu nhỏ.
+[619] Tốt: khi quân đội bạn đến Sanuki, bạn sẽ hoàn thành bushido. Hãy nhớ quay lại bảng nghệ thuật để nghiên cứu chi nhằm cải thiện kinh tế và chính quyền.
+[620] Trận chiến này có thể chơi dạng drop-in battle, nghĩa là người chơi khác có thể chỉ huy quân AI, tạo thử thách lớn hơn. Nhấn nút drop-in để tìm đối thủ trực tuyến hoặc mời bạn.
+[621] Tùy chọn này dùng để chính thức tuyên chiến với gia tộc khác. Tuy nhiên hãy cân nhắc hậu quả. Mặc định có tùy chọn yêu cầu đồng minh hỗ trợ.
+[622] Tại đây bạn có thể xem danh tiếng gia tộc, đặc tính gia tộc, quan hệ ngoại giao, nhiệm vụ và điều kiện chiến thắng. Mọi daimyo đều muốn trở thành Shogun — và Chosokabe Motochika cũng vậy.
+[623] Chế độ phòng thủ (Guard Mode) khiến đơn vị chiến đấu phòng ngự, giữ đội hình và không truy đuổi kẻ địch bỏ chạy.
+[624] Kỵ binh nhẹ là mồi nhử tuyệt vời. Bạn có thể dụ địch vào phục kích hoặc kéo chúng ra khỏi đội hình.
+[625] Thống kê trận chiến hiển thị tại đây, cùng tình trạng từng đơn vị hoặc tàu sống sót.
+[626] Tàu buôn của địch là mục tiêu hợp pháp trong chiến tranh. Nhấp chuột phải vào tuyến thương mại để cướp bóc hạm đội thương mại của họ.
+[627] Khi đối đầu với kẻ địch có quân bắn xa mạnh hơn, hãy nhanh chóng áp sát cận chiến.
+[628] Tùy chọn này dùng để thiết lập liên minh quân sự. Đồng minh có thể hỗ trợ khi chiến tranh.
+[629] Quân quấy rối bắt đầu trận với chế độ skirmish, nghĩa là họ sẽ rút lui để giữ khoảng cách bắn an toàn.
+[630] Tinh thần chiến đấu (morale) quyết định khả năng giữ vững đội hình trong trận.
+[631] Có một nhà sư Kono gần Tosa! Hãy mở tab gia tộc để xem quan hệ ngoại giao.
+[632] Một tuyến thương mại đã được mở với đối tác mới. Hãy bảo vệ nó.
+[633] Kẻ địch thường dùng kỵ binh đánh vòng sườn, nên giữ bộ binh dự bị ở hai cánh.
+[634] Nếu muốn tập trung vào chiến tranh, bạn có thể tự động hóa thuế.
+[635] Nhấn nút dấu tích để xác nhận tuyên chiến.
+[636] Trong trò chơi, mỗi lượt đại diện cho bốn mùa: xuân, hạ, thu, đông.
+[637] Khi thuế thay đổi, màu tỉnh trên bản đồ radar sẽ đổi từ đỏ sang vàng rồi xanh.
+[638] Nếu đòn đánh vòng sườn bị chặn, hãy hủy và giữ vị trí đe dọa để ghim quân địch.
+[639] Sau trận chiến, bảng này hiển thị thương vong và kinh nghiệm nhận được.
+[640] Khiêu khích kẻ địch phòng thủ bằng cách làm chúng tức giận.
+[641] Khi bị bao vây, binh lính sẽ chiến đấu đến chết vì không còn đường chạy.
+[642] Liên minh với gia tộc khác có thể giúp chống lại Miyoshi.
+[643] Ninja là sát thủ tài giỏi: do thám, ám sát hoặc phá hoại.
+[644] Nâng cấp ruộng lúa sẽ tạo thêm lương thực mỗi mùa.
+[645] Nơi địch mạnh thì tránh, nơi địch yếu thì đánh.
+[646] Điều khiển camera bản đồ chiến dịch bằng các phím W A S D.
+[647] Bạn có thể nghiên cứu nghệ thuật quân sự và dân sự để tăng sức mạnh gia tộc.
+[648] Bao vây và bắn vào sườn hoặc phía sau kẻ địch thường là chiến thuật tốt.
+[649] Quân đội của bạn sẽ hành quân tới Iyo.
+[650] Yari ashigaru của bạn đã vào đồn trú trong thị trấn lâu đài.
+[651] Công trình nâng cấp đang được xây dựng.
+[652] Đồng minh sẽ giữ con tin trong hai năm.
+[653] Bảng này hiển thị thông tin chi tiết của một loại đơn vị.
+[654] Kỵ binh nhẹ rất phù hợp để trinh sát chiến trường.
+[655] Dân chúng đang bất mãn vì thuế cao.
+[656] Nhấp chuột phải để di chuyển hạm đội.
+[657] Giả vờ rút lui có thể dụ địch rời vị trí phòng thủ.
+[658] Khi tấn công qua sông, hãy dùng tên bắn làm suy yếu địch trước.
+[659] Gia tộc Miyoshi đã bị tiêu diệt. Hòa bình có thể trở lại… nhưng bao lâu?
+[660] Mức độ hạnh phúc của dân phụ thuộc vào nhiều yếu tố như thuế, lương thực, giải trí và quân đồn trú.
+[661] Nhấn Backspace để dừng di chuyển quân, hạm đội hoặc đặc vụ.
+[662] Quân đội trên hạm đội có thể thực hiện đổ bộ.
+[663] Khi áp đảo quân số, hãy bao vây và tiêu diệt hoàn toàn.
+[664] Nông trại tăng cả thu nhập và lương thực.
+[665] Luôn thực hiện cú xung phong cuối bằng nhấp chuột phải kép với kỵ binh.
+[666] Tấn công bộ binh giáo từ sườn bằng kỵ binh.
+[667] Iyo có một cảng, cung cấp thu nhập và đóng tàu.
+[668] Kỵ binh không thích hợp giữ tuyến phòng thủ tĩnh.
+[669] Phá vỡ liên minh sẽ làm giảm uy tín ngoại giao.
+[670] Nút này dùng để sửa chữa tàu trong trận hải chiến.
+[671] Bộ binh chất lượng thấp có thể làm mồi cho tên địch.
+[672] Khi phòng thủ lãnh thổ, hãy xem phạm vi di chuyển của quân địch.
+[673] Tấn công đồng minh lâu năm sẽ ảnh hưởng cách các gia tộc khác nhìn nhận bạn.
+[674] Tránh cho kỵ binh xung phong vào cọc gỗ.
+[675] Bảng này hiển thị thông tin đặc vụ của gia tộc.
+[676] Điều khiển camera chiến trường bằng chuột và phím.
+[677] Không chỉ đánh vòng sườn, bạn cũng có thể phá vỡ một điểm yếu trên tuyến địch.
+[678] Mục tiêu dễ bắn
+[679] Nút rút lui
+[680] Giai đoạn triển khai quân
+[681] Chế độ Avatar Conquest
+[682] Rời khỏi khu định cư
+[683] Chúng ta là Chosokabe
+[684] Chúng ta là Ikko Ikki
+[685] Ám sát
+[686] Miễn thuế cho tỉnh
+[687] Vị lãnh chúa
+[688] Quân đồn trú
+[689] Yêu cầu trung thành
+[690] Chế độ Avatar Conquest
+[691] Phạm vi di chuyển của quân địch
+[692] Sự kiện
+[693] Chúng ta là Shimazu
+[694] Shinobi
+[695] Tải nhanh & Lưu nhanh
+[696] Hợp nhất tàn dư hạm đội
+[697] Thương mại
+[698] Chúng ta là Ikko Ikki
+[699] Phòng thủ cảng

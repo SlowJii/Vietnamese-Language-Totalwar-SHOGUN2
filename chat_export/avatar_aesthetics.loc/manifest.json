@@ -1,0 +1,2804 @@
+{
+  "filename": "avatar_aesthetics.loc.tsv",
+  "category": "ui",
+  "header_lines": [
+    "key\ttext\ttooltip",
+    "#Loc;1;text/db/avatar_aesthetics.loc\t\t"
+  ],
+  "rows": [
+    {
+      "key": "avatar_aesthetics_localised_name_legs_uesugi_kenshin",
+      "text": "Suneate Greaves of Uesugi Kenshin",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_uesugi_kenshin",
+      "text": "Kabuto Helmet of Uesugi Kenshin",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_legs_tokugawa_ieyasu",
+      "text": "Suneate Greaves of Tokugawa Ieyasu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_bos_clan_comp_winner",
+      "text": "Cap of the Clan Champions",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_horse_basic_palomino",
+      "text": "Dappled Horse",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_horse_samurai_grey",
+      "text": "Samurai Grey Horse",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_thigh_uesugi_kenshin",
+      "text": "Haidate Thigh-Shields of Uesugi Kenshin",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_default_blank",
+      "text": "No crest",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_blade_master",
+      "text": "Kabuto Helmet: Blade Master",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_maeda_toshie",
+      "text": "Do Cuirass of Maeda Toshie",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_uesugi_kenshin",
+      "text": "Do Cuirass of Uesugi Kenshin",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_oda_nobunaga",
+      "text": "Kabuto Helmet of Oda Nobunaga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_shoulder_multicolour_laced",
+      "text": "Sode Shoulder Guards: Multicolour Laced",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_sashimono_multicolour_laced",
+      "text": "Sashimono: Multicolour Laced",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_shoulders_hosokawa_tadaoki",
+      "text": "Sode Shoulder Guards of Hosokawa Tadaoki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_tokugawa_ieyasu",
+      "text": "Kote Armoured Sleeves of Tokugawa Ieyasu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_thigh_western_style",
+      "text": "Haidate Thigh-Shields: Western Style",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_western_style",
+      "text": "Do Cuirass: Western Style",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_tokugawa_ieyasu",
+      "text": "Kabuto Helmet of Tokugawa Ieyasu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_mask_oda_nobunaga",
+      "text": "Men Yoroi Face Armour of Oda Nobunaga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_sashimono_default",
+      "text": "Sashimono: Infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_shogun",
+      "text": "Kote Armoured Sleeves of the Shogun",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_morning_glory",
+      "text": "Do Cuirass: Morning Glory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_default_kabuto",
+      "text": "Kabuto Helmet",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_shoulders_tokugawa_ieyasu",
+      "text": "Sode Shoulder Guards of Tokugawa Ieyasu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_thigh_oda_nobunaga",
+      "text": "Haidate Thigh-Shields of Oda Nobunaga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_horse_masked_grey",
+      "text": "Masked Grey Horse",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_legs_default_samurai_leg_1",
+      "text": "Samurai Suneate Greaves",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_horse_basic_chestnut",
+      "text": "Chestnut Horse",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_shogun",
+      "text": "Do Cuirass of the Shogun",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_shogun",
+      "text": "Crest of the Shogun",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_horse_samurai_bay",
+      "text": "Samurai Bay Horse",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_sashimono_tokugawa_ieyasu",
+      "text": "Sashimono of Tokugawa Ieyasu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_horse_samurai_tan",
+      "text": "Samurai Tan Horse",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_ach_won_clanmap_season",
+      "text": "Achievement Crest: Loyal to the Clan",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_sashimono_hosokawa_tadaoki",
+      "text": "Sashimono of Hosokawa Tadaoki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_arm_late_samurai_1",
+      "text": "Late Samurai Uniform 1: Arm Guard Samurai Kimono",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_arm_late_samurai_3",
+      "text": "Late Samurai Uniform 3: Modern Shirt",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_arm_late_samurai_2",
+      "text": "Late Samurai Uniform 2: Samurai Kimono",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_ach_won_clanmap_region",
+      "text": "Standard Crest",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_oda_nobunaga",
+      "text": "Kote Armoured Sleeves of Oda Nobunaga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_legs_oda_nobunaga",
+      "text": "Suneate Greaves of Oda Nobunaga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_mask_tokugawa_ieyasu",
+      "text": "Men Yoroi Face Armour of Tokugawa Ieyasu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_morning_glory",
+      "text": "Kote Armoured Sleeves: Morning Glory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_horse_samurai_brown",
+      "text": "Samurai Brown Horse",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_blade_master",
+      "text": "Do Cuirass: Blade Master",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_maeda_toshie",
+      "text": "Kabuto Helmet of Maeda Toshie",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_blade_master",
+      "text": "Datemono Crest: Blade Master",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_uesugi_kenshin",
+      "text": "Kote Armoured Sleeves of Uesugi Kenshin",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_western_style",
+      "text": "Kabuto Helmet: Western Style",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_legs_shogun",
+      "text": "Suneate Greaves of the Shogun",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_legs_morning_glory",
+      "text": "Suneate Greaves: Morning Glory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_sword_shogun",
+      "text": "Katana of the Shogun",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_oda_nobunaga",
+      "text": "Datemono Crest of Oda Nobunaga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_catfish_tail",
+      "text": "Kabuto Helmet: Catfish Tail",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_oda_nobunaga",
+      "text": "Do Cuirass of Oda Nobunaga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_morning_glory",
+      "text": "Kabuto Helmet: Morning Glory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_mask_shogun",
+      "text": "Menpo Mask of the Shogun",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_thigh_shogun",
+      "text": "Haidate Thigh-Shields of the Shogun",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_mask_western_style",
+      "text": "Men Yoroi Face Armour: Western Style",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_bow_default",
+      "text": "Standard Yumi Bow 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_mask_catfish_tail",
+      "text": "Men Yoroi Face Armour: Catfish Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_leg_late_samurai_2",
+      "text": "Late Samurai Uniform 2: Colourful Samurai Hakama",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_leg_late_samurai_3",
+      "text": "Late Samurai Uniform 3: Traditional Trousers",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_leg_late_samurai_1",
+      "text": "Late Samurai Uniform 1: Striped Samurai Hakana",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_default_zunari_kabuto",
+      "text": "Zunari Kabuto Helmet",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_sashimono_default_cavalry",
+      "text": "Sashimono: Cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_helmet_shinsengumi_2",
+      "text": "Shinsengumi Uniform 2: Cone Jingasa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_helmet_shinsengumi_1",
+      "text": "Shinsengumi Uniform 1: Modern Small Jingasa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_kawari_kabuto",
+      "text": "Kabuto Helmet: Kawari Kabuto",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_ach_1_quick_battle",
+      "text": "Achievement Crest: A Respectable Rule",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_ach_1_drop_in_battle",
+      "text": "Achievement Crest: Commander of Commoners",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_clan_comp_promotion",
+      "text": "Crest: Clan Competition Tier Promotion",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_ach_army_colour_change",
+      "text": "Achievement Crest: Forged in the Hottest Flame",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_legs_date_masamune",
+      "text": "Suneate Greaves of Date Masamune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_legs_ikko_ikki_feet",
+      "text": "Ikko-Ikki Barefoot",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_goldfish_scale",
+      "text": "Do Cuirass: Goldfish Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_goldfish_scale",
+      "text": "Datemono Crest: Goldfish Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_naoe_kanetsugu",
+      "text": "Datemono Crest of Naoe Kanetsugu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_scale_cuirass",
+      "text": "Do Cuirass: Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_golden_scale_cuirass",
+      "text": "Datemono Crest: Golden Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_silver_scale_cuirass",
+      "text": "Do Cuirass: Silver Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_golden_scale_cuirass",
+      "text": "Do Cuirass: Golden Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_leg_modern_4",
+      "text": "Modern Uniform 4: Cavalry Trousers",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_leg_modern_1",
+      "text": "Modern Uniform 1: Dark Gaiter Trousers",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_leg_modern_3",
+      "text": "Modern Uniform 3: Modern Trousers",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_leg_modern_2",
+      "text": "Modern Uniform 2: White Gaiter Trousers",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_date_masamune",
+      "text": "Kabuto Helmet of Date Masamune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_shoulder_default_jin_baori_1",
+      "text": "Jin Baori Surcoat",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_leg_french_1",
+      "text": "French Uniform: French Marine Trousers",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_mask_goldfish_scale",
+      "text": "Men Yoroi Face Armour: Goldfish Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_thigh_goldfish_scale",
+      "text": "Haidate Thigh-Shields: Goldfish Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_golden_scale_cuirass",
+      "text": "Kote Armoured Sleeves: Golden Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_legs_golden_scale_cuirass",
+      "text": "Suneate Greaves: Golden Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_silver_scale_cuirass",
+      "text": "Kote Armoured Sleeves: Silver Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_kato_kiyomasa",
+      "text": "Do Cuirass of Kato Kiyomasa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_legs_silver_scale_cuirass",
+      "text": "Suneate Greaves: Silver Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_leg_british_1",
+      "text": "British Uniform: Royal Marine Officer Trousers",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_arm_british_1",
+      "text": "British Uniform: Royal Marine Officer Tunic",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_helmet_late_samurai_2",
+      "text": "Late Samurai Uniform 2: Paper Jingasa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_helmet_late_samurai_3",
+      "text": "Late Samurai Uniform 3: Officer Jingasa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_helmet_late_samurai_1",
+      "text": "Late Samurai Uniform 1: Headband",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_default_crescent_crest",
+      "text": "Crescent Crest",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_shoulders_toyotomi_hideyoshi",
+      "text": "Sode Shoulder Guards of Toyotomi Hideyoshi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_goldfish_scale",
+      "text": "Kabuto Helmet: Goldfish Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_legs_goldfish_scale",
+      "text": "Suneate Greaves: Goldfish Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_arm_modern_4",
+      "text": "Modern Uniform 4: Simple Tunic",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_arm_modern_1",
+      "text": "Modern Uniform 1: French-Style Tunic",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_arm_modern_3",
+      "text": "Modern Uniform 3: Modern Short Tunic",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_arm_modern_2",
+      "text": "Modern Uniform 2: Modern Long Tunic",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_shoulders_sparse_point_laced",
+      "text": "Sode Shoulder Guards: Sparse Point Laced",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_naoe_kanetsugu",
+      "text": "Kabuto Helmet of Naoe Kanetsugu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_thigh_silver_scale_cuirass",
+      "text": "Haidate Thigh-Shields: Silver Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_thigh_golden_scale_cuirass",
+      "text": "Haidate Thigh-Shields: Golden Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_arm_french_1",
+      "text": "French Uniform: French Marine Tunic",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_date_masamune",
+      "text": "Kote Armoured Sleeves of Date Masamune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_date_masamune",
+      "text": "Datemono Crest of Date Masamune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_ikko_ikki_hood",
+      "text": "Ikko-Ikki Hood",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_mask_golden_scale_cuirass",
+      "text": "Men Yoroi Face Armour: Golden Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_mask_silver_scale_cuirass",
+      "text": "Men Yoroi Face Armour: Silver Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_kawari_kabuto",
+      "text": "Do Cuirass: Kawari Kabuto",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_default_circle_crest",
+      "text": "Circle Crest",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_kato_kiyomasa",
+      "text": "Kote Armoured Sleeves of Kato Kiyomasa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_heads_default_head_3",
+      "text": "Noble Head 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_heads_default_head_2",
+      "text": "Noble Head 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_heads_default_head_1",
+      "text": "Old Head",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_heads_default_head_7",
+      "text": "Noble Head 6",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_heads_default_head_6",
+      "text": "Noble Head 5",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_heads_default_head_5",
+      "text": "Noble Head 4",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_heads_default_head_4",
+      "text": "Noble Head 3",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_heads_default_head_9",
+      "text": "Noble Head 8",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_heads_default_head_8",
+      "text": "Noble Head 7",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_date_masamune",
+      "text": "Do Cuirass of Date Masamune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_scale_cuirass",
+      "text": "Kabuto Helmet: Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_leg_officer_2",
+      "text": "Officer Uniform 2: Cavalry Officer Trousers",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_leg_officer_1",
+      "text": "Officer Uniform 1: Officer Trousers",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_arm_officer_2",
+      "text": "Officer Uniform 2: Fancy Officer Coat",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_arm_officer_1",
+      "text": "Officer Uniform 1: Officer Coat",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_shoulders_gempei_1",
+      "text": "Gempei Sode Shoulder Guards 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_shoulders_gempei_2",
+      "text": "Gempei Sode Shoulder Guards 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_shoulders_gempei_3",
+      "text": "Gempei Sode Shoulder Guards 3",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_golden_scale_cuirass",
+      "text": "Kabuto Helmet: Golden Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_silver_scale_cuirass",
+      "text": "Kabuto Helmet: Silver Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_mask_default_hanbo_1",
+      "text": "Hanbo Men Yoroi Face Armour 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_mask_default_hanbo_2",
+      "text": "Hanbo Men Yoroi Face Armour 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_default_small_crest",
+      "text": "Small Crest",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_horse_basic_brown",
+      "text": "Brown Horse",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_heads_default_head_10",
+      "text": "Noble Head 9",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_kato_kiyomasa",
+      "text": "Kabuto Helmet of Kato Kiyomasa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_goldfish_scale",
+      "text": "Kote Armoured Sleeves: Goldfish Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_sashimono_toyotomi_hideyoshi",
+      "text": "Sashimono of Toyotomi Hideyoshi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_honda_tadakatsu",
+      "text": "Kabuto Helmet of Honda Tadakatsu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_ach_1_naval_battle",
+      "text": "Achievement Crest: Achievement Without Honour",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_horse_masked_brown",
+      "text": "Masked Brown Horse",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_mask_kato_kiyomasa",
+      "text": "Men Yoroi Face Armour of Kato Kiyomasa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_ach_clan_leaderboard_top_1",
+      "text": "Standard Crest",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_legs_gempei_3",
+      "text": "Gempei Suneate Greaves 3",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_legs_gempei_2",
+      "text": "Gempei Suneate Greaves 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_legs_gempei_1",
+      "text": "Gempei Suneate Greaves 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_gempei_2",
+      "text": "Gempei Kote Armoured Sleeves 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_gempei_3",
+      "text": "Gempei Kote Armoured Sleeves 3",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_gempei_1",
+      "text": "Gempei Kote Armoured Sleeves 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_sparse_point_laced",
+      "text": "Datemono Crest: Sparse Point Laced",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_horse_basic_bay",
+      "text": "Bay Horse",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_horse_basic_tan",
+      "text": "Tan Horse",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_toyotomi_hideyoshi",
+      "text": "Do Cuirass of Toyotomi Hideyoshi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_shoulders_ikko_ikki_robe",
+      "text": "Ikko-Ikki Robe",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_sashimono_golden_scale_cuirass",
+      "text": "Sashimono: Golden Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_akechi_mitsuharu",
+      "text": "Do Cuirass of Akechi Mitsuharu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_thigh_gempei_1",
+      "text": "Gempei Haidate Thigh-Shields 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_thigh_gempei_2",
+      "text": "Gempei Haidate Thigh-Shields 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_triple_hollyhock",
+      "text": "Datemono Crest: Triple Hollyhock",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_thigh_toyotomi_hideyoshi",
+      "text": "Haidate Thigh-Shields of Toyotomi Hideyoshi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_helmet_french_1",
+      "text": "French Uniform: French Marine Officer Cap",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_mask_toyotomi_hideyoshi",
+      "text": "Men Yoroi Face Armour of Toyotomi Hideyoshi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_helmet_modern_4",
+      "text": "Modern Uniform 4: Large Wig",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_helmet_modern_1",
+      "text": "Modern Uniform 1: French Foreign Legion Hat",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_helmet_modern_2",
+      "text": "Modern Uniform 2: Modern Cap",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_helmet_modern_3",
+      "text": "Modern Uniform 3: Modern Jingasa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_shoulders_goldfish_scale",
+      "text": "Sode Shoulder Guards: Goldfish Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_sparse_point_laced",
+      "text": "Kabuto Helmet: Sparse Point Laced",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_ach_clan_leaderboard_top_100",
+      "text": "Standard Crest",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_legs_toyotomi_hideyoshi",
+      "text": "Suneate Greaves Toyotomi Hideyoshi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_toyotomi_hideyoshi",
+      "text": "Kabuto Helmet of Toyotomi Hideyoshi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_gempei_2",
+      "text": "Gempei Crest 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_gempei_3",
+      "text": "Gempei Crest 3",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_gempei_1",
+      "text": "Gempei Crest 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_gempei_1",
+      "text": "Gempei Chest 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_gempei_2",
+      "text": "Gempei Chest 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_gempei_3",
+      "text": "Gempei Chest 3",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_default_chainmail_2",
+      "text": "Oda-gote Armoured Sleeves",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_shoulders_kato_kiyomasa",
+      "text": "Sode Shoulder Guards of Kato Kiyomasa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_mask_sparse_point_laced",
+      "text": "Men Yoroi Face Armour: Sparse Point Laced",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_leg_american_1",
+      "text": "American Uniform 1: US Marine Officer Trousers",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_leg_american_2",
+      "text": "American Uniform 2: US Marine Trousers",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_ach_won_5_clanmap_regions",
+      "text": "Achievement Crest: Stranglehold",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_shoulders_date_masamune",
+      "text": "Sode Shoulder Guards of Date Masamune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_ach_clan_leaderboard_top_25",
+      "text": "Standard Crest",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_ach_clan_leaderboard_top_10",
+      "text": "Standard Crest",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_honda_tadakatsu",
+      "text": "Datemono Crest of Honda Tadakatsu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_akechi_mitsuharu",
+      "text": "Kabuto Helmet of Akechi Mitsuharu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_arm_shinsengumi_2",
+      "text": "Shinsengumi Uniform 2: Shinsengumi Kimono 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_arm_shinsengumi_1",
+      "text": "Shinsengumi Uniform 1: Shinsengumi Kimono 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_leg_shinsengumi_2",
+      "text": "Shinsengumi Uniform 2: Striped Shinsengumi Hakama",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_leg_shinsengumi_1",
+      "text": "Shinsengumi Uniform 1: Colourful Shinsengumi Hakama",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_triple_hollyhock",
+      "text": "Kabuto Helmet: Triple Hollyhock",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_mask_gempei_1",
+      "text": "Gempei Men Yoroi Face Armour",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_ach_25_percent_all_drops",
+      "text": "Achievement Crest: Inspiring Counterattack",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_ach_50_percent_all_drops",
+      "text": "Achievement Crest: Master of the Waves",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_ach_75_percent_all_drops",
+      "text": "Achievement Crest: Eradicate the Ikko-Ikki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_toyotomi_hideyoshi",
+      "text": "Kote Armoured Sleeves of Toyotomi Hideyoshi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_gempei_3",
+      "text": "Gempei Kabuto Helmet 3",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_gempei_2",
+      "text": "Gempei Kabuto Helmet 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_gempei_1",
+      "text": "Gempei Kabuto Helmet 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_sashimono_goldfish_scale",
+      "text": "Sashimono: Goldfish Scale ",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_arm_american_2",
+      "text": "American Uniform 2: US Marine Tunic",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_arm_american_1",
+      "text": "American Uniform 1: US Marine Officer Tunic",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_shoulders_silver_scale_cuirass",
+      "text": "Sode Shoulder Guards: Silver Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_shoulders_golden_scale_cuirass",
+      "text": "Sode Shoulder Guards: Golden Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_hosokawa_tadaoki",
+      "text": "Kabuto Helmet of Hosokawa Tadaoki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_ichinotani",
+      "text": "Kote Armoured Sleeves: Ichinotani",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_shoulders_oda_nobunaga",
+      "text": "Sode Shoulder Guards of Oda Nobunaga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_legs_default_strip_armour_leg",
+      "text": "Ashigaru Suneate Greaves",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_helmet_british_1",
+      "text": "British Uniform : Royal Marine Cap",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_bow_default_3",
+      "text": "Standard Yumi Bow 3",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_bow_default_2",
+      "text": "Standard Yumi Bow 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_clan_comp_tier_1_promotion",
+      "text": "Crest: Clan Competition Tier 1 Promotion",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_clan_comp_winner",
+      "text": "Crest of the Clan Champions",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_horse_samurai_palomino",
+      "text": "Samurai Dappled Horse",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_default_momonari",
+      "text": "Momonari Kabuto Helmet",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_tokugawa_ieyasu",
+      "text": "Do Cuirass of Tokugawa Ieyasu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_tokugawa_ieyasu",
+      "text": "Datemono Crest of Tokugawa Ieyasu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_default_laced_okegawa_do",
+      "text": "Dangae-Do Cuirass",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_horse_basic_grey",
+      "text": "Grey Horse",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_helmet_american_1",
+      "text": "American Uniform 1: US Marine Officer Cap",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_helmet_american_2",
+      "text": "American Uniform 2: US Marine Cap",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_horse_masked_chestnut",
+      "text": "Masked Chestnut Horse",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_ach_1_land_battle",
+      "text": "Achievement Crest: Elusive Strikeforce",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_mask_hosokawa_tadaoki",
+      "text": "Men Yoroi Face Armour of Hosokawa Tadaoki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_shoulders_uesugi_kenshin",
+      "text": "Sode Shoulder Guards of Uesugi Kenshin",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_horse_masked_tan",
+      "text": "Masked Tan Horse",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_horse_masked_bay",
+      "text": "Masked Bay Horse",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_sword_default_3",
+      "text": "Standard Katana 3",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_sword_default_2",
+      "text": "Standard Katana 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_thigh_multicolour_laced",
+      "text": "Haidate Thigh-Shields: Multicolour Laced",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_multicolour_laced",
+      "text": "Do Cuirass: Multicolour Laced",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_mask_default_laced_mask",
+      "text": "Standard Men Yoroi Face Armour",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_thigh_tokugawa_ieyasu",
+      "text": "Haidate Thigh-Shields of Tokugawa Ieyasu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_hosokawa_tadaoki",
+      "text": "Datemono Crest of Hosokawa Tadaoki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_hosokawa_tadaoki",
+      "text": "Do Cuirass of Hosokawa Tadaoki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_shoulder_shogun",
+      "text": "Sode Shoulder Guards of the Shogun",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_horse_samurai_chestnut",
+      "text": "Samurai Chestnut Horse",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_clan_comp_winner",
+      "text": "Kabuto Helmet: Clan Champions",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_itakura_katsushige",
+      "text": "Do Cuirass of Itakura Katsushige",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_itakura_katsushige",
+      "text": "Datemono Crest of Itakura Katsushige",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_multicolour_laced",
+      "text": "Crest: Multicolour Laced",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_multicolour_laced",
+      "text": "Kote Armoured Sleeves: Multicolour Laced",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_default_strip_armour_arm",
+      "text": "Simple Kote Armoured Sleeves",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_horse_masked_palomino",
+      "text": "Masked Dappled Horse",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_ichinotani",
+      "text": "Kabuto Helmet: Ichinotani",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_default_mogami_do",
+      "text": "Mogami-Do Cuirass",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_mask_multicolour_laced",
+      "text": "Men Yoroi Face Armour: Multicolour Laced",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_bos_clan_comp_cap_tier_1_promotion",
+      "text": "Cap: Clan Competition Tier 1 Promotion",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_sashimono_default_blank",
+      "text": "No Sashimono",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_thigh_default_haidate",
+      "text": "Haidate Thigh-Shields",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_sword_default",
+      "text": "Standard Katana 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_crest_ach_joined_clan",
+      "text": "Achievement Crest: Serve With Honour",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_legs_multicolour_laced",
+      "text": "Suneate Greaves: Multicolour Laced",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_default_hotoke_do",
+      "text": "Yukinoshita-Do Cuirass",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_thigh_hosokawa_tadaoki",
+      "text": "Haidate Thigh-Shields of Hosokawa Tadaoki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_itakura_katsushige",
+      "text": "Kabuto Helmet of Itakura Katsushige",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_bos_clan_comp_cap_promotion",
+      "text": "Cap: Clan Competition Tier Promotion",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_multicolour_laced",
+      "text": "Kabuto Helmet: Multicolour Laced",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_legs_hosokawa_tadaoki",
+      "text": "Suneate Greaves of Hosokawa Tadaoki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_arms_hosokawa_tadaoki",
+      "text": "Kote Armoured Sleeves of Hosokawa Tadaoki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_helm_legendary_kabuto_of_ykok",
+      "text": "Legendary Kabuto of The Shogun",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_chest_ichinotani",
+      "text": "Do Cuirass: Ichinotani",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_helmet_officer_2",
+      "text": "Officer Uniform 2: Elaborate Wig",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetics_localised_name_boshin_helmet_officer_1",
+      "text": "Officer Uniform 1: Officer Cap",
+      "tooltip": "true",
+      "empty": false
+    }
+  ],
+  "translatable": [
+    {
+      "row_index": 0,
+      "text": "Suneate Greaves of Uesugi Kenshin"
+    },
+    {
+      "row_index": 1,
+      "text": "Kabuto Helmet of Uesugi Kenshin"
+    },
+    {
+      "row_index": 2,
+      "text": "Suneate Greaves of Tokugawa Ieyasu"
+    },
+    {
+      "row_index": 3,
+      "text": "Cap of the Clan Champions"
+    },
+    {
+      "row_index": 4,
+      "text": "Dappled Horse"
+    },
+    {
+      "row_index": 5,
+      "text": "Samurai Grey Horse"
+    },
+    {
+      "row_index": 6,
+      "text": "Haidate Thigh-Shields of Uesugi Kenshin"
+    },
+    {
+      "row_index": 7,
+      "text": "No crest"
+    },
+    {
+      "row_index": 8,
+      "text": "Kabuto Helmet: Blade Master"
+    },
+    {
+      "row_index": 9,
+      "text": "Do Cuirass of Maeda Toshie"
+    },
+    {
+      "row_index": 10,
+      "text": "Do Cuirass of Uesugi Kenshin"
+    },
+    {
+      "row_index": 11,
+      "text": "Kabuto Helmet of Oda Nobunaga"
+    },
+    {
+      "row_index": 12,
+      "text": "Sode Shoulder Guards: Multicolour Laced"
+    },
+    {
+      "row_index": 13,
+      "text": "Sashimono: Multicolour Laced"
+    },
+    {
+      "row_index": 14,
+      "text": "Sode Shoulder Guards of Hosokawa Tadaoki"
+    },
+    {
+      "row_index": 15,
+      "text": "Kote Armoured Sleeves of Tokugawa Ieyasu"
+    },
+    {
+      "row_index": 16,
+      "text": "Haidate Thigh-Shields: Western Style"
+    },
+    {
+      "row_index": 17,
+      "text": "Do Cuirass: Western Style"
+    },
+    {
+      "row_index": 18,
+      "text": "Kabuto Helmet of Tokugawa Ieyasu"
+    },
+    {
+      "row_index": 19,
+      "text": "Men Yoroi Face Armour of Oda Nobunaga"
+    },
+    {
+      "row_index": 20,
+      "text": "Sashimono: Infantry"
+    },
+    {
+      "row_index": 21,
+      "text": "Kote Armoured Sleeves of the Shogun"
+    },
+    {
+      "row_index": 22,
+      "text": "Do Cuirass: Morning Glory"
+    },
+    {
+      "row_index": 23,
+      "text": "Kabuto Helmet"
+    },
+    {
+      "row_index": 24,
+      "text": "Sode Shoulder Guards of Tokugawa Ieyasu"
+    },
+    {
+      "row_index": 25,
+      "text": "Haidate Thigh-Shields of Oda Nobunaga"
+    },
+    {
+      "row_index": 26,
+      "text": "Masked Grey Horse"
+    },
+    {
+      "row_index": 27,
+      "text": "Samurai Suneate Greaves"
+    },
+    {
+      "row_index": 28,
+      "text": "Chestnut Horse"
+    },
+    {
+      "row_index": 29,
+      "text": "Do Cuirass of the Shogun"
+    },
+    {
+      "row_index": 30,
+      "text": "Crest of the Shogun"
+    },
+    {
+      "row_index": 31,
+      "text": "Samurai Bay Horse"
+    },
+    {
+      "row_index": 32,
+      "text": "Sashimono of Tokugawa Ieyasu"
+    },
+    {
+      "row_index": 33,
+      "text": "Samurai Tan Horse"
+    },
+    {
+      "row_index": 34,
+      "text": "Achievement Crest: Loyal to the Clan"
+    },
+    {
+      "row_index": 35,
+      "text": "Sashimono of Hosokawa Tadaoki"
+    },
+    {
+      "row_index": 36,
+      "text": "Late Samurai Uniform 1: Arm Guard Samurai Kimono"
+    },
+    {
+      "row_index": 37,
+      "text": "Late Samurai Uniform 3: Modern Shirt"
+    },
+    {
+      "row_index": 38,
+      "text": "Late Samurai Uniform 2: Samurai Kimono"
+    },
+    {
+      "row_index": 39,
+      "text": "Standard Crest"
+    },
+    {
+      "row_index": 40,
+      "text": "Kote Armoured Sleeves of Oda Nobunaga"
+    },
+    {
+      "row_index": 41,
+      "text": "Suneate Greaves of Oda Nobunaga"
+    },
+    {
+      "row_index": 42,
+      "text": "Men Yoroi Face Armour of Tokugawa Ieyasu"
+    },
+    {
+      "row_index": 43,
+      "text": "Kote Armoured Sleeves: Morning Glory"
+    },
+    {
+      "row_index": 44,
+      "text": "Samurai Brown Horse"
+    },
+    {
+      "row_index": 45,
+      "text": "Do Cuirass: Blade Master"
+    },
+    {
+      "row_index": 46,
+      "text": "Kabuto Helmet of Maeda Toshie"
+    },
+    {
+      "row_index": 47,
+      "text": "Datemono Crest: Blade Master"
+    },
+    {
+      "row_index": 48,
+      "text": "Kote Armoured Sleeves of Uesugi Kenshin"
+    },
+    {
+      "row_index": 49,
+      "text": "Kabuto Helmet: Western Style"
+    },
+    {
+      "row_index": 50,
+      "text": "Suneate Greaves of the Shogun"
+    },
+    {
+      "row_index": 51,
+      "text": "Suneate Greaves: Morning Glory"
+    },
+    {
+      "row_index": 52,
+      "text": "Katana of the Shogun"
+    },
+    {
+      "row_index": 53,
+      "text": "Datemono Crest of Oda Nobunaga"
+    },
+    {
+      "row_index": 54,
+      "text": "Kabuto Helmet: Catfish Tail"
+    },
+    {
+      "row_index": 55,
+      "text": "Do Cuirass of Oda Nobunaga"
+    },
+    {
+      "row_index": 56,
+      "text": "Kabuto Helmet: Morning Glory"
+    },
+    {
+      "row_index": 57,
+      "text": "Menpo Mask of the Shogun"
+    },
+    {
+      "row_index": 58,
+      "text": "Haidate Thigh-Shields of the Shogun"
+    },
+    {
+      "row_index": 59,
+      "text": "Men Yoroi Face Armour: Western Style"
+    },
+    {
+      "row_index": 60,
+      "text": "Standard Yumi Bow 1"
+    },
+    {
+      "row_index": 61,
+      "text": "Men Yoroi Face Armour: Catfish Scale"
+    },
+    {
+      "row_index": 62,
+      "text": "Late Samurai Uniform 2: Colourful Samurai Hakama"
+    },
+    {
+      "row_index": 63,
+      "text": "Late Samurai Uniform 3: Traditional Trousers"
+    },
+    {
+      "row_index": 64,
+      "text": "Late Samurai Uniform 1: Striped Samurai Hakana"
+    },
+    {
+      "row_index": 65,
+      "text": "Zunari Kabuto Helmet"
+    },
+    {
+      "row_index": 66,
+      "text": "Sashimono: Cavalry"
+    },
+    {
+      "row_index": 67,
+      "text": "Shinsengumi Uniform 2: Cone Jingasa"
+    },
+    {
+      "row_index": 68,
+      "text": "Shinsengumi Uniform 1: Modern Small Jingasa"
+    },
+    {
+      "row_index": 69,
+      "text": "Kabuto Helmet: Kawari Kabuto"
+    },
+    {
+      "row_index": 70,
+      "text": "Achievement Crest: A Respectable Rule"
+    },
+    {
+      "row_index": 71,
+      "text": "Achievement Crest: Commander of Commoners"
+    },
+    {
+      "row_index": 72,
+      "text": "Crest: Clan Competition Tier Promotion"
+    },
+    {
+      "row_index": 73,
+      "text": "Achievement Crest: Forged in the Hottest Flame"
+    },
+    {
+      "row_index": 74,
+      "text": "Suneate Greaves of Date Masamune"
+    },
+    {
+      "row_index": 75,
+      "text": "Ikko-Ikki Barefoot"
+    },
+    {
+      "row_index": 76,
+      "text": "Do Cuirass: Goldfish Scale"
+    },
+    {
+      "row_index": 77,
+      "text": "Datemono Crest: Goldfish Scale"
+    },
+    {
+      "row_index": 78,
+      "text": "Datemono Crest of Naoe Kanetsugu"
+    },
+    {
+      "row_index": 79,
+      "text": "Do Cuirass: Scale"
+    },
+    {
+      "row_index": 80,
+      "text": "Datemono Crest: Golden Scale"
+    },
+    {
+      "row_index": 81,
+      "text": "Do Cuirass: Silver Scale"
+    },
+    {
+      "row_index": 82,
+      "text": "Do Cuirass: Golden Scale"
+    },
+    {
+      "row_index": 83,
+      "text": "Modern Uniform 4: Cavalry Trousers"
+    },
+    {
+      "row_index": 84,
+      "text": "Modern Uniform 1: Dark Gaiter Trousers"
+    },
+    {
+      "row_index": 85,
+      "text": "Modern Uniform 3: Modern Trousers"
+    },
+    {
+      "row_index": 86,
+      "text": "Modern Uniform 2: White Gaiter Trousers"
+    },
+    {
+      "row_index": 87,
+      "text": "Kabuto Helmet of Date Masamune"
+    },
+    {
+      "row_index": 88,
+      "text": "Jin Baori Surcoat"
+    },
+    {
+      "row_index": 89,
+      "text": "French Uniform: French Marine Trousers"
+    },
+    {
+      "row_index": 90,
+      "text": "Men Yoroi Face Armour: Goldfish Scale"
+    },
+    {
+      "row_index": 91,
+      "text": "Haidate Thigh-Shields: Goldfish Scale"
+    },
+    {
+      "row_index": 92,
+      "text": "Kote Armoured Sleeves: Golden Scale"
+    },
+    {
+      "row_index": 93,
+      "text": "Suneate Greaves: Golden Scale"
+    },
+    {
+      "row_index": 94,
+      "text": "Kote Armoured Sleeves: Silver Scale"
+    },
+    {
+      "row_index": 95,
+      "text": "Do Cuirass of Kato Kiyomasa"
+    },
+    {
+      "row_index": 96,
+      "text": "Suneate Greaves: Silver Scale"
+    },
+    {
+      "row_index": 97,
+      "text": "British Uniform: Royal Marine Officer Trousers"
+    },
+    {
+      "row_index": 98,
+      "text": "British Uniform: Royal Marine Officer Tunic"
+    },
+    {
+      "row_index": 99,
+      "text": "Late Samurai Uniform 2: Paper Jingasa"
+    },
+    {
+      "row_index": 100,
+      "text": "Late Samurai Uniform 3: Officer Jingasa"
+    },
+    {
+      "row_index": 101,
+      "text": "Late Samurai Uniform 1: Headband"
+    },
+    {
+      "row_index": 102,
+      "text": "Crescent Crest"
+    },
+    {
+      "row_index": 103,
+      "text": "Sode Shoulder Guards of Toyotomi Hideyoshi"
+    },
+    {
+      "row_index": 104,
+      "text": "Kabuto Helmet: Goldfish Scale"
+    },
+    {
+      "row_index": 105,
+      "text": "Suneate Greaves: Goldfish Scale"
+    },
+    {
+      "row_index": 106,
+      "text": "Modern Uniform 4: Simple Tunic"
+    },
+    {
+      "row_index": 107,
+      "text": "Modern Uniform 1: French-Style Tunic"
+    },
+    {
+      "row_index": 108,
+      "text": "Modern Uniform 3: Modern Short Tunic"
+    },
+    {
+      "row_index": 109,
+      "text": "Modern Uniform 2: Modern Long Tunic"
+    },
+    {
+      "row_index": 110,
+      "text": "Sode Shoulder Guards: Sparse Point Laced"
+    },
+    {
+      "row_index": 111,
+      "text": "Kabuto Helmet of Naoe Kanetsugu"
+    },
+    {
+      "row_index": 112,
+      "text": "Haidate Thigh-Shields: Silver Scale"
+    },
+    {
+      "row_index": 113,
+      "text": "Haidate Thigh-Shields: Golden Scale"
+    },
+    {
+      "row_index": 114,
+      "text": "French Uniform: French Marine Tunic"
+    },
+    {
+      "row_index": 115,
+      "text": "Kote Armoured Sleeves of Date Masamune"
+    },
+    {
+      "row_index": 116,
+      "text": "Datemono Crest of Date Masamune"
+    },
+    {
+      "row_index": 117,
+      "text": "Ikko-Ikki Hood"
+    },
+    {
+      "row_index": 118,
+      "text": "Men Yoroi Face Armour: Golden Scale"
+    },
+    {
+      "row_index": 119,
+      "text": "Men Yoroi Face Armour: Silver Scale"
+    },
+    {
+      "row_index": 120,
+      "text": "Do Cuirass: Kawari Kabuto"
+    },
+    {
+      "row_index": 121,
+      "text": "Circle Crest"
+    },
+    {
+      "row_index": 122,
+      "text": "Kote Armoured Sleeves of Kato Kiyomasa"
+    },
+    {
+      "row_index": 123,
+      "text": "Noble Head 2"
+    },
+    {
+      "row_index": 124,
+      "text": "Noble Head 1"
+    },
+    {
+      "row_index": 125,
+      "text": "Old Head"
+    },
+    {
+      "row_index": 126,
+      "text": "Noble Head 6"
+    },
+    {
+      "row_index": 127,
+      "text": "Noble Head 5"
+    },
+    {
+      "row_index": 128,
+      "text": "Noble Head 4"
+    },
+    {
+      "row_index": 129,
+      "text": "Noble Head 3"
+    },
+    {
+      "row_index": 130,
+      "text": "Noble Head 8"
+    },
+    {
+      "row_index": 131,
+      "text": "Noble Head 7"
+    },
+    {
+      "row_index": 132,
+      "text": "Do Cuirass of Date Masamune"
+    },
+    {
+      "row_index": 133,
+      "text": "Kabuto Helmet: Scale"
+    },
+    {
+      "row_index": 134,
+      "text": "Officer Uniform 2: Cavalry Officer Trousers"
+    },
+    {
+      "row_index": 135,
+      "text": "Officer Uniform 1: Officer Trousers"
+    },
+    {
+      "row_index": 136,
+      "text": "Officer Uniform 2: Fancy Officer Coat"
+    },
+    {
+      "row_index": 137,
+      "text": "Officer Uniform 1: Officer Coat"
+    },
+    {
+      "row_index": 138,
+      "text": "Gempei Sode Shoulder Guards 1"
+    },
+    {
+      "row_index": 139,
+      "text": "Gempei Sode Shoulder Guards 2"
+    },
+    {
+      "row_index": 140,
+      "text": "Gempei Sode Shoulder Guards 3"
+    },
+    {
+      "row_index": 141,
+      "text": "Kabuto Helmet: Golden Scale"
+    },
+    {
+      "row_index": 142,
+      "text": "Kabuto Helmet: Silver Scale"
+    },
+    {
+      "row_index": 143,
+      "text": "Hanbo Men Yoroi Face Armour 1"
+    },
+    {
+      "row_index": 144,
+      "text": "Hanbo Men Yoroi Face Armour 2"
+    },
+    {
+      "row_index": 145,
+      "text": "Small Crest"
+    },
+    {
+      "row_index": 146,
+      "text": "Brown Horse"
+    },
+    {
+      "row_index": 147,
+      "text": "Noble Head 9"
+    },
+    {
+      "row_index": 148,
+      "text": "Kabuto Helmet of Kato Kiyomasa"
+    },
+    {
+      "row_index": 149,
+      "text": "Kote Armoured Sleeves: Goldfish Scale"
+    },
+    {
+      "row_index": 150,
+      "text": "Sashimono of Toyotomi Hideyoshi"
+    },
+    {
+      "row_index": 151,
+      "text": "Kabuto Helmet of Honda Tadakatsu"
+    },
+    {
+      "row_index": 152,
+      "text": "Achievement Crest: Achievement Without Honour"
+    },
+    {
+      "row_index": 153,
+      "text": "Masked Brown Horse"
+    },
+    {
+      "row_index": 154,
+      "text": "Men Yoroi Face Armour of Kato Kiyomasa"
+    },
+    {
+      "row_index": 155,
+      "text": "Standard Crest"
+    },
+    {
+      "row_index": 156,
+      "text": "Gempei Suneate Greaves 3"
+    },
+    {
+      "row_index": 157,
+      "text": "Gempei Suneate Greaves 2"
+    },
+    {
+      "row_index": 158,
+      "text": "Gempei Suneate Greaves 1"
+    },
+    {
+      "row_index": 159,
+      "text": "Gempei Kote Armoured Sleeves 2"
+    },
+    {
+      "row_index": 160,
+      "text": "Gempei Kote Armoured Sleeves 3"
+    },
+    {
+      "row_index": 161,
+      "text": "Gempei Kote Armoured Sleeves 1"
+    },
+    {
+      "row_index": 162,
+      "text": "Datemono Crest: Sparse Point Laced"
+    },
+    {
+      "row_index": 163,
+      "text": "Bay Horse"
+    },
+    {
+      "row_index": 164,
+      "text": "Tan Horse"
+    },
+    {
+      "row_index": 165,
+      "text": "Do Cuirass of Toyotomi Hideyoshi"
+    },
+    {
+      "row_index": 166,
+      "text": "Ikko-Ikki Robe"
+    },
+    {
+      "row_index": 167,
+      "text": "Sashimono: Golden Scale"
+    },
+    {
+      "row_index": 168,
+      "text": "Do Cuirass of Akechi Mitsuharu"
+    },
+    {
+      "row_index": 169,
+      "text": "Gempei Haidate Thigh-Shields 1"
+    },
+    {
+      "row_index": 170,
+      "text": "Gempei Haidate Thigh-Shields 2"
+    },
+    {
+      "row_index": 171,
+      "text": "Datemono Crest: Triple Hollyhock"
+    },
+    {
+      "row_index": 172,
+      "text": "Haidate Thigh-Shields of Toyotomi Hideyoshi"
+    },
+    {
+      "row_index": 173,
+      "text": "French Uniform: French Marine Officer Cap"
+    },
+    {
+      "row_index": 174,
+      "text": "Men Yoroi Face Armour of Toyotomi Hideyoshi"
+    },
+    {
+      "row_index": 175,
+      "text": "Modern Uniform 4: Large Wig"
+    },
+    {
+      "row_index": 176,
+      "text": "Modern Uniform 1: French Foreign Legion Hat"
+    },
+    {
+      "row_index": 177,
+      "text": "Modern Uniform 2: Modern Cap"
+    },
+    {
+      "row_index": 178,
+      "text": "Modern Uniform 3: Modern Jingasa"
+    },
+    {
+      "row_index": 179,
+      "text": "Sode Shoulder Guards: Goldfish Scale"
+    },
+    {
+      "row_index": 180,
+      "text": "Kabuto Helmet: Sparse Point Laced"
+    },
+    {
+      "row_index": 181,
+      "text": "Standard Crest"
+    },
+    {
+      "row_index": 182,
+      "text": "Suneate Greaves Toyotomi Hideyoshi"
+    },
+    {
+      "row_index": 183,
+      "text": "Kabuto Helmet of Toyotomi Hideyoshi"
+    },
+    {
+      "row_index": 184,
+      "text": "Gempei Crest 2"
+    },
+    {
+      "row_index": 185,
+      "text": "Gempei Crest 3"
+    },
+    {
+      "row_index": 186,
+      "text": "Gempei Crest 1"
+    },
+    {
+      "row_index": 187,
+      "text": "Gempei Chest 1"
+    },
+    {
+      "row_index": 188,
+      "text": "Gempei Chest 2"
+    },
+    {
+      "row_index": 189,
+      "text": "Gempei Chest 3"
+    },
+    {
+      "row_index": 190,
+      "text": "Oda-gote Armoured Sleeves"
+    },
+    {
+      "row_index": 191,
+      "text": "Sode Shoulder Guards of Kato Kiyomasa"
+    },
+    {
+      "row_index": 192,
+      "text": "Men Yoroi Face Armour: Sparse Point Laced"
+    },
+    {
+      "row_index": 193,
+      "text": "American Uniform 1: US Marine Officer Trousers"
+    },
+    {
+      "row_index": 194,
+      "text": "American Uniform 2: US Marine Trousers"
+    },
+    {
+      "row_index": 195,
+      "text": "Achievement Crest: Stranglehold"
+    },
+    {
+      "row_index": 196,
+      "text": "Sode Shoulder Guards of Date Masamune"
+    },
+    {
+      "row_index": 197,
+      "text": "Standard Crest"
+    },
+    {
+      "row_index": 198,
+      "text": "Standard Crest"
+    },
+    {
+      "row_index": 199,
+      "text": "Datemono Crest of Honda Tadakatsu"
+    },
+    {
+      "row_index": 200,
+      "text": "Kabuto Helmet of Akechi Mitsuharu"
+    },
+    {
+      "row_index": 201,
+      "text": "Shinsengumi Uniform 2: Shinsengumi Kimono 2"
+    },
+    {
+      "row_index": 202,
+      "text": "Shinsengumi Uniform 1: Shinsengumi Kimono 1"
+    },
+    {
+      "row_index": 203,
+      "text": "Shinsengumi Uniform 2: Striped Shinsengumi Hakama"
+    },
+    {
+      "row_index": 204,
+      "text": "Shinsengumi Uniform 1: Colourful Shinsengumi Hakama"
+    },
+    {
+      "row_index": 205,
+      "text": "Kabuto Helmet: Triple Hollyhock"
+    },
+    {
+      "row_index": 206,
+      "text": "Gempei Men Yoroi Face Armour"
+    },
+    {
+      "row_index": 207,
+      "text": "Achievement Crest: Inspiring Counterattack"
+    },
+    {
+      "row_index": 208,
+      "text": "Achievement Crest: Master of the Waves"
+    },
+    {
+      "row_index": 209,
+      "text": "Achievement Crest: Eradicate the Ikko-Ikki"
+    },
+    {
+      "row_index": 210,
+      "text": "Kote Armoured Sleeves of Toyotomi Hideyoshi"
+    },
+    {
+      "row_index": 211,
+      "text": "Gempei Kabuto Helmet 3"
+    },
+    {
+      "row_index": 212,
+      "text": "Gempei Kabuto Helmet 2"
+    },
+    {
+      "row_index": 213,
+      "text": "Gempei Kabuto Helmet 1"
+    },
+    {
+      "row_index": 214,
+      "text": "Sashimono: Goldfish Scale "
+    },
+    {
+      "row_index": 215,
+      "text": "American Uniform 2: US Marine Tunic"
+    },
+    {
+      "row_index": 216,
+      "text": "American Uniform 1: US Marine Officer Tunic"
+    },
+    {
+      "row_index": 217,
+      "text": "Sode Shoulder Guards: Silver Scale"
+    },
+    {
+      "row_index": 218,
+      "text": "Sode Shoulder Guards: Golden Scale"
+    },
+    {
+      "row_index": 219,
+      "text": "Kabuto Helmet of Hosokawa Tadaoki"
+    },
+    {
+      "row_index": 220,
+      "text": "Kote Armoured Sleeves: Ichinotani"
+    },
+    {
+      "row_index": 221,
+      "text": "Sode Shoulder Guards of Oda Nobunaga"
+    },
+    {
+      "row_index": 222,
+      "text": "Ashigaru Suneate Greaves"
+    },
+    {
+      "row_index": 223,
+      "text": "British Uniform : Royal Marine Cap"
+    },
+    {
+      "row_index": 224,
+      "text": "Standard Yumi Bow 3"
+    },
+    {
+      "row_index": 225,
+      "text": "Standard Yumi Bow 2"
+    },
+    {
+      "row_index": 226,
+      "text": "Crest: Clan Competition Tier 1 Promotion"
+    },
+    {
+      "row_index": 227,
+      "text": "Crest of the Clan Champions"
+    },
+    {
+      "row_index": 228,
+      "text": "Samurai Dappled Horse"
+    },
+    {
+      "row_index": 229,
+      "text": "Momonari Kabuto Helmet"
+    },
+    {
+      "row_index": 230,
+      "text": "Do Cuirass of Tokugawa Ieyasu"
+    },
+    {
+      "row_index": 231,
+      "text": "Datemono Crest of Tokugawa Ieyasu"
+    },
+    {
+      "row_index": 232,
+      "text": "Dangae-Do Cuirass"
+    },
+    {
+      "row_index": 233,
+      "text": "Grey Horse"
+    },
+    {
+      "row_index": 234,
+      "text": "American Uniform 1: US Marine Officer Cap"
+    },
+    {
+      "row_index": 235,
+      "text": "American Uniform 2: US Marine Cap"
+    },
+    {
+      "row_index": 236,
+      "text": "Masked Chestnut Horse"
+    },
+    {
+      "row_index": 237,
+      "text": "Achievement Crest: Elusive Strikeforce"
+    },
+    {
+      "row_index": 238,
+      "text": "Men Yoroi Face Armour of Hosokawa Tadaoki"
+    },
+    {
+      "row_index": 239,
+      "text": "Sode Shoulder Guards of Uesugi Kenshin"
+    },
+    {
+      "row_index": 240,
+      "text": "Masked Tan Horse"
+    },
+    {
+      "row_index": 241,
+      "text": "Masked Bay Horse"
+    },
+    {
+      "row_index": 242,
+      "text": "Standard Katana 3"
+    },
+    {
+      "row_index": 243,
+      "text": "Standard Katana 2"
+    },
+    {
+      "row_index": 244,
+      "text": "Haidate Thigh-Shields: Multicolour Laced"
+    },
+    {
+      "row_index": 245,
+      "text": "Do Cuirass: Multicolour Laced"
+    },
+    {
+      "row_index": 246,
+      "text": "Standard Men Yoroi Face Armour"
+    },
+    {
+      "row_index": 247,
+      "text": "Haidate Thigh-Shields of Tokugawa Ieyasu"
+    },
+    {
+      "row_index": 248,
+      "text": "Datemono Crest of Hosokawa Tadaoki"
+    },
+    {
+      "row_index": 249,
+      "text": "Do Cuirass of Hosokawa Tadaoki"
+    },
+    {
+      "row_index": 250,
+      "text": "Sode Shoulder Guards of the Shogun"
+    },
+    {
+      "row_index": 251,
+      "text": "Samurai Chestnut Horse"
+    },
+    {
+      "row_index": 252,
+      "text": "Kabuto Helmet: Clan Champions"
+    },
+    {
+      "row_index": 253,
+      "text": "Do Cuirass of Itakura Katsushige"
+    },
+    {
+      "row_index": 254,
+      "text": "Datemono Crest of Itakura Katsushige"
+    },
+    {
+      "row_index": 255,
+      "text": "Crest: Multicolour Laced"
+    },
+    {
+      "row_index": 256,
+      "text": "Kote Armoured Sleeves: Multicolour Laced"
+    },
+    {
+      "row_index": 257,
+      "text": "Simple Kote Armoured Sleeves"
+    },
+    {
+      "row_index": 258,
+      "text": "Masked Dappled Horse"
+    },
+    {
+      "row_index": 259,
+      "text": "Kabuto Helmet: Ichinotani"
+    },
+    {
+      "row_index": 260,
+      "text": "Mogami-Do Cuirass"
+    },
+    {
+      "row_index": 261,
+      "text": "Men Yoroi Face Armour: Multicolour Laced"
+    },
+    {
+      "row_index": 262,
+      "text": "Cap: Clan Competition Tier 1 Promotion"
+    },
+    {
+      "row_index": 263,
+      "text": "No Sashimono"
+    },
+    {
+      "row_index": 264,
+      "text": "Haidate Thigh-Shields"
+    },
+    {
+      "row_index": 265,
+      "text": "Standard Katana 1"
+    },
+    {
+      "row_index": 266,
+      "text": "Achievement Crest: Serve With Honour"
+    },
+    {
+      "row_index": 267,
+      "text": "Suneate Greaves: Multicolour Laced"
+    },
+    {
+      "row_index": 268,
+      "text": "Yukinoshita-Do Cuirass"
+    },
+    {
+      "row_index": 269,
+      "text": "Haidate Thigh-Shields of Hosokawa Tadaoki"
+    },
+    {
+      "row_index": 270,
+      "text": "Kabuto Helmet of Itakura Katsushige"
+    },
+    {
+      "row_index": 271,
+      "text": "Cap: Clan Competition Tier Promotion"
+    },
+    {
+      "row_index": 272,
+      "text": "Kabuto Helmet: Multicolour Laced"
+    },
+    {
+      "row_index": 273,
+      "text": "Suneate Greaves of Hosokawa Tadaoki"
+    },
+    {
+      "row_index": 274,
+      "text": "Kote Armoured Sleeves of Hosokawa Tadaoki"
+    },
+    {
+      "row_index": 275,
+      "text": "Legendary Kabuto of The Shogun"
+    },
+    {
+      "row_index": 276,
+      "text": "Do Cuirass: Ichinotani"
+    },
+    {
+      "row_index": 277,
+      "text": "Officer Uniform 2: Elaborate Wig"
+    },
+    {
+      "row_index": 278,
+      "text": "Officer Uniform 1: Officer Cap"
+    }
+  ],
+  "total_chunks": 3,
+  "chunk_size": 100
+}

@@ -1,0 +1,100 @@
+[500] Sự phản bội của gia tộc Kono không thể dung thứ! Hãy hành động nhanh chóng và tiêu diệt chúng! Chọn toàn bộ quân đội của bạn rồi nhấp chuột phải vào tỉnh Iyo ở phía bắc. Đây là tuyên bố chiến tranh!
+[501] Chiến thắng trong một trận chiến không chỉ phụ thuộc vào quân số – sự cân bằng giữa các đơn vị và năng lực của tướng lĩnh cũng rất quan trọng. Hãy xem tỷ lệ sức mạnh và thông tin tiếp viện trước khi quyết định chiến đấu, nhưng hãy cẩn thận – nếu chúng ta bị tấn công thì có thể không tránh được giao chiến! Các nút ở phía dưới bảng này đại diện cho các lựa chọn chiến đấu. Di chuột lên chúng để xem chức năng của từng nút.
+[502] Vì Awaji hiện nằm dưới quyền kiểm soát của bạn, bạn có thể tuyển các đơn vị warrior monk và các đặc vụ monk tại các ngôi chùa.
+[503] Những phần bản đồ hai chiều là do sương mù chiến tranh. Mặc dù vị trí địa lý, biên giới và một số thành trì đã được biết rõ, nhưng nếu không có đặc vụ và hạm đội thì các gia tộc vẫn không biết được sự di chuyển của quân đội và đặc vụ của nhau – thường là cho đến khi đã quá muộn! Điều này được mô phỏng bằng sương mù chiến tranh. Chúng ta phải dùng lực lượng của mình để phát hiện âm mưu của đối thủ trước khi họ hành động chống lại ta!
+[504] Gia tộc đã phá sản, nhưng chúng ta có thể đảo ngược tình thế và tăng thu nhập bằng cách thiết lập các tuyến thương mại mới. Điều này được thực hiện thông qua việc đàm phán các hiệp định thương mại trong bảng ngoại giao.
+[505] Wako là những tên cướp biển hoạt động trên biển, chúng sẽ tấn công các tuyến thương mại và làm giảm thu nhập từ chúng, đặc biệt khi tuyến đường không được hạm đội của ta tuần tra đầy đủ. Hãy nhớ kiểm tra nạn cướp biển mỗi mùa.
+[506] Tùy tùng của một nhân vật bao gồm các vật phẩm, trợ lý và những người theo hầu mà các nhân vật vĩ đại tích lũy trong sự nghiệp. Thỉnh thoảng nhân vật sẽ tăng thêm tùy tùng bằng cách chọn từ một nhóm vật phẩm và con người có sẵn, và sự hiện diện của họ sẽ ảnh hưởng đến khả năng của nhân vật.
+[507] Các đơn vị hoặc tàu được nhóm lại có thể được đặt vào nhiều đội hình cố định. Chọn đội hình từ các tùy chọn bên trái. Di chuột lên mỗi đội hình để xem tác dụng của nó. Nhấp lại vào nút này để đóng menu đội hình.
+[508] Một đơn vị quân của bạn đã bị bao vây. Vì không còn đường rút lui nên họ sẽ chiến đấu đến chết! Nếu binh lính của bạn phá được vòng vây, họ sẽ rút chạy khỏi chiến trường.
+[509] Nút boarding ra lệnh cho tàu của chúng ta áp sát tàu mục tiêu và cử một nhóm vũ trang lên tàu để chiếm giữ. Việc áp mạn đòi hỏi kỹ năng và lòng dũng cảm cao của binh lính tham gia, và có thể hủy bỏ bất cứ lúc nào bằng cách bỏ chọn nút hoặc ra lệnh khác.
+[510] Nhấn phím space sau khi đã ra lệnh sẽ hiển thị vị trí mà các đơn vị của bạn sẽ di chuyển tới dưới dạng bóng mờ trên chiến trường. Hãy dùng nó làm tham chiếu khi triển khai quân.
+[511] Thông tin về bất kỳ nhân vật, quân đội, hạm đội, cảng hoặc thành trì được chọn sẽ hiển thị tại đây. Với quân đội và hạm đội, các đơn vị hoặc tàu cấu thành sẽ được hiển thị.
+[512] Cảng, nông trại và các công trình đặc biệt nằm xa thành chính, vì vậy cần lập kế hoạch chiến lược và bố trí quân đồn trú cẩn thận để bảo vệ tài sản của chúng ta.
+[513] Bảng này cung cấp thông tin về cách hiệu ứng của một nghệ thuật (art) được áp dụng trong trò chơi, cùng với mô tả chi tiết chức năng của nó. Một số nghệ thuật cần thiết để xây dựng công trình nhất định, vì vậy hãy đọc kỹ thông tin và kiểm tra bách khoa toàn thư.
+[514] Các tướng có thể dùng khả năng rally để nâng cao tinh thần của bất kỳ đơn vị nào và cố gắng ngăn quân đang tháo chạy khỏi chiến trường – ngoại trừ những đơn vị đã tan vỡ hoàn toàn. Khi kích hoạt, con trỏ có thể đặt ở bất kỳ đâu trong phạm vi ảnh hưởng của vị tướng.
+[515] Bạn nên khiến gia tộc Kono phải trả giá cho sự hỗn xược của chúng! Nhấp vào tùy chọn declare war.
+[516] Thưa chủ nhân, một tuyến thương mại trên biển của chúng ta đang bị hạm đội địch tấn công! Nếu không can thiệp, chúng sẽ tiếp tục cướp bóc hàng hóa và thu nhập của chúng ta.
+[517] Các tài nguyên tự nhiên hoặc công trình văn hóa đặc trưng của tỉnh này vẫn chưa được khai thác hết tiềm năng. Phát triển các địa điểm này có thể mang lại бонус cho gia tộc như: hạnh phúc, kinh nghiệm đơn vị và đặc vụ, thu nhập, độ chính xác vũ khí, chất lượng giáp, v.v.
+[518] Tab xây dựng hiển thị tất cả công trình ở tỉnh Tosa. Di chuột lên chúng để xem các công trình mới có thể xây. Có một ô xây dựng trống trong thành; di chuột lên đó và chọn archery range.
+[519] Nhiều tỉnh có tài nguyên tự nhiên hữu ích. Khai thác chúng sẽ tăng thu nhập từ thương mại, và đôi khi cải thiện chất lượng vũ khí và áo giáp. Hãy xây hoặc nâng cấp nông trại, mỏ và công trình đặc sản của tỉnh.
+[520] Thưa chủ nhân, đã lâu chúng ta chưa nắm vững nghệ thuật mới nào và đối thủ sẽ nhanh chóng vượt xa. Những khái niệm giúp gia tộc có lợi thế có thể được phát triển trong bảng mastery of the arts.
+[521] Khi bắn tên vào quân địch, hãy nhắm vào các đơn vị tinh nhuệ nhất của chúng. Chúng chết cũng dễ như đám quân ô hợp.
+[522] Quyền đi lại quân sự là biểu tượng của sự tin tưởng giữa hai gia tộc và có thể được cấp trong thời gian giới hạn hoặc vô hạn. Các gia tộc đồng minh thường dễ chấp nhận yêu cầu này hơn.
+[523] Các đơn vị có thể được tuyển trực tiếp bởi một vị tướng ngoài chiến trường. Chọn tab tuyển quân, nhấp chuột trái vào đơn vị để thêm vào hàng đợi và nhấp lại để xóa. Khi sẵn sàng, đơn vị sẽ đến gặp tướng và nhập vào quân đội của ông ta. Lưu ý: họ không thể băng qua biển để gia nhập.
+[524] Khi hai đơn vị bộ binh cầm giáo chiến đấu, kết quả thường phụ thuộc vào chất lượng và quân số. Hãy đảm bảo bạn có ưu thế tại chỗ – hoặc gửi thêm quân hỗ trợ.
+[525] Khi phòng thủ tại điểm vượt sông, tốt nhất nên đứng lùi để tránh tầm bắn của cung thủ địch. Khi lực lượng chính của chúng bắt đầu vượt sông, hãy đưa vài đơn vị lên chặn.
+[526] Đặc vụ đối địch có thể bị loại bỏ bằng ám sát. Chọn mục tiêu cho ninja của bạn. Hãy cân nhắc tỷ lệ thành công trước khi ra lệnh, vì thất bại có thể dẫn đến bị bắt và xử tử.
+[527] Bảng này hiển thị thông tin về một vị tướng của gia tộc: tên, tuổi, cấp bậc, tính cách, kỹ năng quân sự, tùy tùng và khả năng chỉ huy. Bạn cũng có thể truy cập cây kỹ năng.
+[528] Nút run chuyển đổi giữa chạy và đi bộ. Chạy giúp di chuyển nhanh nhưng sẽ làm binh lính mệt mỏi.
+[529] Nếu kẻ địch đang chuẩn bị tấn công, đôi khi tốt hơn nên để chúng tiến lên và tự làm mệt mình.
+[530] Hãy giành thế chủ động bằng các cuộc cơ động buộc kẻ địch phải phản ứng. Ngay cả khi không tiếp tục, chúng cũng bận đối phó với bạn.
+[531] Trước khi bắt đầu chiến tranh mới, nên nâng cấp lâu đài. Chọn Iyo rồi nhấp vào công trình stronghold.
+[532] Chúng ta có thể yêu cầu một gia tộc đặt cấm vận thương mại với gia tộc khác. Điều này hủy mọi giao thương giữa họ.
+[533] Thưa chủ nhân! Một cuộc nổi dậy vũ trang đang xảy ra ở tỉnh lân cận! Nó có thể lan tới lãnh thổ của chúng ta, hãy tăng quân đồn trú hoặc giảm thuế.
+[534] Tosa cần nhiều hơn nông dân được huấn luyện để bảo vệ thành! Samurai là câu trả lời, nhưng phải tuyển ở dojo. Hãy mở tab xây dựng.
+[535] Những đội quân quá nhỏ có thể bị tiêu diệt nếu bị tấn công. Hãy hợp nhất chúng: chọn một đội rồi nhấp chuột phải vào đội khác để nhập lại.
+[536] Bảng này dùng để hợp nhất quân đội hoặc hạm đội thủ công. Chọn đơn vị rồi nhấn nút trung tâm để chuyển sang lực lượng khác.
+[537] Kỵ binh là lực lượng đánh sườn tuyệt vời. Chúng có thể vòng ra sau đội hình địch để tấn công bên hông hoặc phía sau.
+[538] Khi bị áp đảo quân số, hãy luôn giữ khả năng rút lui để giảm thương vong.
+[539] Tab này liệt kê tất cả đặc vụ của gia tộc, điểm hành động, vị trí và tên của họ.
+[540] Khi cờ của đơn vị chuyển sang màu trắng, họ đang tháo chạy và không còn nghe lệnh. Tướng của bạn có thể tập hợp lại họ.
+[541] Khi có hạm đội thương mại, hãy nhấp phải vào một trade post gần rìa bản đồ để bắt đầu buôn bán.
+[542] Tướng cấp bậc cao hơn triển khai quân sau tướng cấp thấp hơn, cho phép họ xem đội hình đối thủ trước.
+[543] Mỏ giúp khai thác tài nguyên dưới lòng đất như vàng và sắt.
+[544] Nổi dậy sẽ mạnh dần theo thời gian nếu không bị dập tắt. Chúng ta phải hành động nhanh chóng.
+[545] Để chiếm một thành trì kiên cố thường phải bao vây. Quân ta bao quanh thành để làm quân địch chết đói hoặc tấn công trực tiếp.
+[546] Nếu có thể, hãy chiến đấu từ trên cao xuống. Bên ở cao luôn có lợi thế.
+[547] Nút này hủy lệnh và khiến đơn vị dừng lại.
+[548] Sửa chữa công trình tốn thời gian và tiền bạc, nhưng sẽ khôi phục công dụng của nó.
+[549] Giờ Chosokabe Motochika đã an toàn, hãy di chuyển camera tới Tosa bằng phím W, A, S, D.
+[550] Nút ám sát ra lệnh cho đặc vụ giết mục tiêu khi đến nơi. Có tỷ lệ thành công và thất bại có thể dẫn đến bị xử tử.
+[551] Gia tộc phá sản vì đế chế mở rộng nhanh hơn hệ thống quản lý thuế. Hãy giải tán đơn vị dư thừa và nâng cấp lâu đài.
+[552] Quân đội, hạm đội hoặc đặc vụ có thể tiết lộ thông tin về lực lượng địch trong tầm nhìn.
+[553] Giết tướng địch sớm sẽ giáng đòn nặng vào tinh thần quân đội của chúng.
+[554] Cuộc sống không chỉ có chiến tranh. Hãy nghiên cứu arts để đạt vinh quang.
+[555] Nút này nhóm các đơn vị lại để ra lệnh cùng lúc.
+[556] Bảng này hiển thị thông tin về nhân vật đồng minh, trung lập hoặc địch.
+[557] Nhấp phải để di chuyển quân, tấn công quân địch hoặc lên tàu.
+[558] Chúng ta chưa tận dụng hết cơ sở hạ tầng thương mại của tỉnh này. Hãy nâng cấp cảng và công trình đặc sản.
+[559] Một số đơn vị có khả năng ẩn nấp tốt. Hãy đặt họ ở sườn để đánh úp.
+[560] Đồi là vị trí phòng thủ tốt vì lợi thế độ cao.
+[561] Tiền có thể được dùng làm bồi thường chiến tranh, cống nạp hoặc thiện chí.
+[562] Kho bạc không đủ tiền xây dựng mùa này. Hãy tăng thuế hoặc giải tán quân.
+[563] Bảng tài chính hiển thị thông tin kinh tế của gia tộc.
+[564] Thanh balance of power theo dõi sức mạnh tương đối của hai bên.
+[565] Em trai của Chosokabe Motochika đã trưởng thành và trở thành tướng.
+[566] Đế chế lớn khiến việc thu thuế khó khăn. Hãy nâng cấp lâu đài để tăng kiểm soát.
+[567] Khi rút lui, đôi khi nên phá hủy công trình để kẻ chiếm đóng không hưởng lợi.
+[568] Nâng cấp đường sẽ tăng thương mại, tầm nhìn và tốc độ hành quân.
+[569] Kho bạc hiển thị tiền của gia tộc. Nông trại tạo lương thực, lâu đài tiêu thụ.
+[570] Thuế quá cao khiến dân bất mãn. Hãy giảm thanh thuế cho tới khi tỉnh không còn đỏ.
+[571] Cờ trắng nhấp nháy nghĩa là quân đang dao động. Dùng tướng để tăng tinh thần.
+[572] Ninja không thể đánh cả đội quân, nhưng có thể phá hoại. Hãy dùng sabotage army.
+[573] Bảng ngoại giao cho phép xem quan hệ và ký thỏa thuận. Chọn gia tộc Matsuda.
+[574] Có thể yêu cầu đồng minh tham chiến cùng chúng ta.
+[575] Triển khai quân trên đồi luôn là ý hay.
+[576] Hãy giữ đội hình kín. Khoảng trống lớn sẽ khiến quân địch chọc thủng.
+[577] Thay vì chạy đua chiếm cao điểm, hãy tiếp cận bí mật.
+[578] Với thu nhập thương mại tăng và quân tại Iyo được bổ sung, đã đến lúc tấn công tỉnh khác.
+[579] Sau khi chiếm thành, hãy để lại quân đồn trú để kiểm soát nổi loạn.
+[580] Phản công bộ binh đúng lúc có thể phá đội hình địch.
+[581] Quân Chosokabe đã tổn thất sau trận Motoyama. Hãy tuyển quân để phục hồi lực lượng.
+[582] Bảng này hiển thị thống kê của tỉnh: kinh tế, trật tự công cộng, lương thực và tôn giáo.
+[583] Một gia tộc chỉ có thể triển khai tối đa 20 đơn vị trong trận.
+[584] Samurai rất đắt! Quân đội lớn có thể khiến bạn phá sản.
+[585] Để lên tàu, chọn quân rồi nhấp phải vào hạm đội.
+[586] Dân chúng hạnh phúc hơn khi thuế giảm, kinh tế tỉnh phục hồi. Nhưng mối đe dọa mới đang xuất hiện…
+[587] Tướng có thể tăng tinh thần cho quân gần đó.
+[588] Gia tộc phá sản vì chi phí duy trì quân đội quá cao.
+[589] Đánh sườn bằng cách vòng ra sau đội hình địch.
+[590] Tùy chọn này yêu cầu gia tộc bỏ liên minh với gia tộc khác.
+[591] Khi chiến đấu ở đèo núi, hãy bám sát vách núi để bảo vệ sườn.
+[592] Bạn sắp hết tiền. Hãy tăng thuế hoặc giải tán quân.
+[593] Fire-at-will có thể bật/tắt để tiết kiệm đạn.
+[594] Kẻ địch sẽ cố vượt qua phòng thủ hoặc tấn công trực diện. Dùng cung thủ và quân cận chiến để giữ thành.
+[595] Gia tộc Kono và Miyoshi không thân thiện với Chosokabe. Hãy tuyển thêm samurai cung thủ để bảo vệ Tosa.
+[596] Đội hình thẳng không phải lúc nào cũng tốt. Đội hình gấp khúc có thể tạo lợi thế 2 đánh 1.
+[597] Skirmish mode giúp quân giữ khoảng cách và tránh cận chiến.
+[598] Kỵ binh chạy nhanh không phải mục tiêu tốt cho cung thủ.
+[599] Thành trì là trung tâm của tỉnh, nơi có lâu đài và công trình quân sự, đồng thời tiêu thụ nhiều lương thực.

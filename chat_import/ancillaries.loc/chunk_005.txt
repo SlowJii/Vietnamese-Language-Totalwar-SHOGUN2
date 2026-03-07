@@ -1,0 +1,100 @@
+[400] "Thử đứng yên xem khi có người bắn súng ngay trên đầu anh!"
+[401] "Chúng ta là lực lượng Thanh Long!"
+[402] Kỷ luật có nhiều hình thức.
+[403] Kuge
+[404] Kote huyền thoại
+[405] "Đó không phải cách chúng tôi làm ở Trung Hoa, thưa chủ công."
+[406] Tóc như ánh mặt trời, mắt như bầu trời quang đãng…
+[407] Mỗi người Pháp đều có trái tim của kỵ binh.
+[408] "Ngươi sẽ không cảm thấy gì đâu."
+[409] Một người đàn ông nên luôn ăn mặc chỉnh tề.
+[410] Bậc thầy rèn kiếm
+[411] placeholder text: iron abumi stirrups
+[412] Bậc thầy trống Taiko
+[413] Bradshaw
+[414] Cải trang hoàn hảo!
+[415] Nước hoa Eau de Cologne
+[416] Ta không ở đây. Ta chưa từng ở đây.
+[417] Mọi thứ đều có thể hoàn thiện.
+[418] "Chủ công chỉ cần nói một lời, cá sẽ được cho ăn no…"
+[419] Hãy khiến từng phát bắn đều đáng giá.
+[420] Xe tiếp tế
+[421] Xưởng giáp nổi tiếng
+[422] Giáo lý của Rennyo
+[423] Kỳ thủ cờ vây huyền thoại
+[424] Cận vệ Gokamon
+[425] Bậc thầy Kyudo huyền thoại
+[426] Không điều gì trong trận chiến nên là bất ngờ.
+[427] Kinh văn Shugendo
+[428] Trái tim, lòng trung thành và vận mệnh của một người có thể đọc được nếu biết giải nghĩa đúng dấu hiệu.
+[429] "Đừng chém vào kẻ địch. Hãy hoàn thiện nhát chém!"
+[430] "Một ngày nào đó ta sẽ mang một thứ như thế này trong túi!"
+[431] "Bàn về Chiến tranh" của von Clausewitz
+[432] Thi nhân Haiku huyền thoại
+[433] Huấn luyện là trận chiến không máu.
+[434] Sĩ quan Yumi
+[435] Ô kiếm
+[436] Kinh văn Nembutsu Zen
+[437] Yên chiến nhẹ Gunjingura
+[438] Không có kho dự trữ, quân đội sớm trở thành đám đông đói khát.
+[439] Ngực của chiến binh có thể bị xuyên bởi ngàn mũi tên, nhưng khi trái tim vẫn chính trực thì điều đó có nghĩa gì?
+[440] Danna
+[441] Plinky-plunky-plinky-plunky-plunk.
+[442] "Ta sẽ ca ngợi chiến tranh tổng lực!"
+[443] "Này! Thật cổ quái! Đó là kiếm à?"
+[444] "Tôi say quá để làm sát thủ!"
+[445] Tình nhân ranh mãnh
+[446] Ronin ngoan cố
+[447] Thanh kiếm phải hòa làm một với bàn tay.
+[448] "Ôi chết tiệt cái kính này! Có trúng không? Trung sĩ?"
+[449] Xà phòng Pháp
+[450] Mọi thanh kiếm đều nguy hiểm: bậc thầy đảm bảo rằng chỉ kẻ địch phải lo sợ điều đó.
+[451] Cải trang thường dân
+[452] Cải trang nhà sư
+[453] Nghệ thuật bắn cung không bao giờ nên bị lãng quên, vì nó nằm ở cốt lõi của samurai xưa.
+[454] Cải trang Ronin
+[455] Cải trang kẻ điên
+[456] Cải trang Geisha
+[457] Cải trang hoàn hảo!
+[458] Bọn cướp ngựa
+[459] Dung mạo đáng sợ của chiếc mặt nạ chiến này đủ khiến mọi kẻ thù khiếp đảm.
+[460] "Chạy nước đôi, nhanh!"
+[461] Con đường cũ không phải lúc nào cũng tốt nhất.
+[462] Yakuza
+[463] Trinh sát kỵ mã
+[464] Đầu bếp fugu
+[465] Đầu bếp sushi
+[466] Smith & Wesson Army No.2
+[467] Tình nhân quá tham vọng
+[468] Rượu mạnh là sự an ủi với người này, là công cụ với người khác.
+[469] "Twang!"
+[470] "Tất nhiên, thưa chủ công. Một bài hát nữa về hoa. Ngay đây."
+[471] Thanh kiếm chỉ nổi danh trong tay người xứng đáng.
+[472] Ernest Mason Satow
+[473] "Đừng tìm kiếm trí tuệ. Nó sẽ tìm đến ngươi."
+[474] "Suỵt!"
+[475] Ngay cả điều đơn giản nhất cũng phải được tinh thông.
+[476] Nhịp trống vang lên như nhịp tim.
+[477] Trường bắn
+[478] Thấu hiểu là trung tâm của mọi thứ.
+[479] Thuế và pháo kích đều dựa vào đo đạc đất đai chính xác.
+[480] Francois Leonce Verny
+[481] Burakumin
+[482] Bác sĩ phẫu thuật
+[483] Giày trượt Plimpton Rocking
+[484] Hoa tiêu
+[485] Không phải trò chơi. Chiến tranh. Không đổ máu.
+[486] "Anh không phân biệt được mạn phải với mạn trái sao?"
+[487] Maiko
+[488] "Bang!"
+[489] "Tôi chỉ đại diện cho lợi ích của Hợp chủng quốc Hoa Kỳ vĩ đại, thưa ngài!"
+[490] Godokoro
+[491] Con người phải được dẫn dắt trong trận chiến.
+[492] Có những lập luận thép chứng minh vì sao Hải quân Hoàng gia thống trị đại dương.
+[493] Mục tiêu đang nóng lòng chờ mũi tên.
+[494] Nòng súng xoắn rãnh
+[495] Chỉ bậc vĩ đại nhất mới dám rút kiếm của nữ thần. Chỉ kẻ ngu mới đứng chống lại nó.
+[496] Khi trái tim thuần khiết, mũi tên sẽ tìm được đường.
+[497] Samurai cải đạo
+[498] Ashigaru cải đạo
+[499] Geisha cải đạo

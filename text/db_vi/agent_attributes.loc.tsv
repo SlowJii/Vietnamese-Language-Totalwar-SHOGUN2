@@ -1,0 +1,32 @@
+key	text	tooltip
+#Loc;1;text/db/agent_attributes.loc		
+agent_attributes_effect_text_research	%+n để Nghiên cứu.	true
+agent_attributes_name_land_siege_engineering	Kỹ thuật công thành	true
+agent_attributes_name_movement_points_land	Điểm di chuyển trên bộ	true
+agent_attributes_name_command_land	Chỉ huy trên bộ	true
+agent_attributes_effect_text_duelling_pistols	%+n khi Đấu tay đôi bằng súng lục.	true
+agent_attributes_effect_text_land_defence_engineering	%+n %% vào điểm công trình phòng thủ chiến trường.	true
+agent_attributes_name_zeal	Nhiệt huyết tôn giáo	true
+agent_attributes_effect_text_cunning	%+n vào Mưu kế	true
+agent_attributes_name_cunning	Mưu kế	true
+agent_attributes_effect_text_trade	PLACEHOLDER (agent_attributes.effect_text)	true
+agent_attributes_effect_text_duelling_swords	%+n khi Đấu tay đôi bằng kiếm.	true
+agent_attributes_name_trade	Thương mại	true
+agent_attributes_name_duelling_swords	Đấu kiếm	true
+agent_attributes_effect_text_land_siege_engineering	%+n %% vào điểm công trình vây hãm.	true
+agent_attributes_name_subterfuge	Kỹ năng Mưu kế	true
+agent_attributes_name_command_sea	Chỉ huy trên biển	true
+agent_attributes_name_morale_land	Sĩ khí	true
+agent_attributes_effect_text_morale_land	%+n vào Sĩ khí quân đội.	true
+agent_attributes_effect_text_command_sea	%+n vào Chỉ huy trong các trận hải chiến.	true
+agent_attributes_name_morale_sea	Sĩ khí	true
+agent_attributes_name_management	Kỹ năng Quản lý	true
+agent_attributes_effect_text_morale_sea	%+n vào Sĩ khí hạm đội.	true
+agent_attributes_effect_text_management	%+n vào Quản lý.	true
+agent_attributes_name_research	Kỹ năng Nghiên cứu	true
+agent_attributes_effect_text_command_land	%+n vào Chỉ huy trong các trận đánh trên bộ.	true
+agent_attributes_name_duelling_pistols	Đấu súng lục	true
+agent_attributes_name_land_defence_engineering	Kỹ thuật phòng thủ trên bộ	true
+agent_attributes_effect_text_zeal	%+n vào Nhiệt huyết.	true
+agent_attributes_effect_text_movement_points_land	%+n %% vào phạm vi di chuyển của quân đội.	true
+agent_attributes_effect_text_subterfuge	%+n vào Mưu kế.	true

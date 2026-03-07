@@ -1,0 +1,214 @@
+key	text	tooltip
+#Loc;1;text/db/achievements.loc		
+achievements_description_ACHIEVEMENT_A_CREATE_SECOND_AVATAR	Tạo một Hóa thân thứ hai để sử dụng trong chế độ Chinh phục Hóa thân.	true
+achievements_description_ACHIEVEMENT_C_CONTROL_KYUSHU	Kiểm soát toàn bộ các Tỉnh trên đảo Kyushu trong chiến dịch.	true
+achievements_title_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_ODA	Chiến thắng Oda	true
+achievements_title_ACHIEVEMENT_B_HAKODATE_WON	Hành trình kết thúc	true
+achievements_description_ACHIEVEMENT_B_WIN_20_NAVAL_BATTLES	Thắng 20 trận hải chiến trong chế độ nhiều người chơi.	true
+achievements_description_ACHIEVEMENT_B_SINK_ENEMY_SHIP_WITH_RAMMING	Đánh chìm tàu địch bằng cách đâm trực diện.	true
+achievements_description_ACHIEVEMENT_C_WIN_GAME_AS_CHRISTIAN	Hoàn thành một chiến dịch với một Lãnh chúa theo Kitô giáo.	true
+achievements_title_ACHIEVEMENT_C_FIGHT_DROP_IN_BATTLE	Kẻ thách đấu tay đôi	true
+achievements_title_ACHIEVEMENT_A_5_CLAN_REGIONS_SIMULTANEOUSLY_OWNED	Thế bóp nghẹt	true
+achievements_title_ACHIEVEMENT_C_WIN_MP_VS_CAMPAIGN_GIVING_OTHER_PLAYER_GOLD	Kẻ thù bị ô nhục	true
+achievements_title_ACHIEVEMENT_C_5_NAVAL_BOMBARDMENTS_WITH_TOSA	Cha đẻ của Hải quân Hoàng gia	true
+achievements_title_ACHIEVEMENT_B_WIN_BATTLE_NO_RANGED	Xung phong cuồng nộ	true
+achievements_description_ACHIEVEMENT_B_WIN_20_RANKED_BATTLES	Thắng 50 trận đấu ghép trận trong nhiều người chơi.	true
+achievements_description_ACHIEVEMENT_B_WIN_25_RANKED_BATTLES	Thắng 25 trận đấu ghép trận trong nhiều người chơi.	true
+achievements_description_ACHIEVEMENT_B_WIN_BATTLE_NO_RANGED	Thắng một trận nhiều người chơi mà quân đội không có đơn vị tầm xa.	true
+achievements_title_ACHIEVEMENT_B_WIN_MP_BATTLE_LESS_THAN_15_PERCENT_LOSSES	Nhanh và chí mạng	true
+achievements_description_ACHIEVEMENT_C_FIGHT_DROP_IN_BATTLE	Tham gia một trận đánh drop-in.	true
+achievements_title_ACHIEVEMENT_C_ATTAIN_MAX_LEVEL_ALL_AGENTS	Ý nguyện của Người sẽ thành	true
+achievements_description_ACHIEVEMENT_B_FIELD_ENTIRELY_HEROES	Thắng một trận với đội quân chỉ gồm các đơn vị Anh hùng và Tướng quân của bạn.	true
+achievements_title_ACHIEVEMENT_B_WIN_BATTLE_ONNA_BUGEISHA_AS_GENERAL	Onna-Bugeisha	true
+achievements_description_ACHIEVEMENT_B_PLAY_10_BATTLES	Chơi 10 trận nhiều người chơi bất kỳ.	true
+achievements_title_ACHIEVEMENT_B_WIN_20_NAVAL_BATTLES	Bậc thầy của đại dương	true
+achievements_title_ACHIEVEMENT_B_SINK_ENEMY_SHIP_WITH_RAMMING	Mặc kệ phóng lôi	true
+achievements_description_ACHIEVEMENT_C_BECOME_SHOGUN	Đạt mục tiêu tối thượng và trở thành Đại Soái trong chiến dịch lớn.	true
+achievements_description_ACHIEVEMENT_B_HAKODATE_WON	Hoàn thành tất cả các trận đánh lịch sử.	true
+achievements_description_ACHIEVEMENT_C_WIN_CHOSOKABE_CAMPAIGN	Hoàn thành một chiến dịch với Gia tộc Chosokabe.	true
+achievements_description_ACHIEVEMENT_B_SINK_ENEMY_SHIP_WITH_TORPEDOES	Đánh chìm tàu địch bằng phóng lôi.	true
+achievements_description_ACHIEVEMENT_B_WIN_BATTLE_EVERY_TYPE_OF_UNIT	Thắng một trận với đội quân có ít nhất một đơn vị của mọi loại (đao bộ binh, kỵ binh, cung binh, thần cơ bộ binh, trường thương bộ binh, naginata).	true
+achievements_title_ACHIEVEMENT_A_CREATE_SECOND_AVATAR	Song long	true
+achievements_description_ACHIEVEMENT_B_RALLY_5_UNITS	Thành công tập hợp lại 5 đơn vị cùng lúc bằng một lần dùng kỹ năng hiệu triệu của Tướng quân.	true
+achievements_title_ACHIEVEMENT_B_MIYAKO_BAY_1	Nữ tướng sắt	true
+achievements_title_ACHIEVEMENT_C_WIN_SHIMAZU_CAMPAIGN	Chiến thắng Shimazu	true
+achievements_title_ACHIEVEMENT_C_MAX_LEVEL_MISSIONARY	Tôi tớ của Thượng Đế	true
+achievements_description_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_TAKEDA	Hoàn thành một chiến dịch với Gia tộc Takeda.	true
+achievements_title_ACHIEVEMENT_B_BEAT_CA_STAFF_VIRAL	Lan rộng như cháy rừng	true
+achievements_description_ACHIEVEMENT_C_OBTAIN_MAX_LEVEL_UNIT	Đạt được một đơn vị cấp tối đa trong chiến dịch lớn.	true
+achievements_description_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_HOJO	Hoàn thành một chiến dịch với Gia tộc Hojo.	true
+achievements_title_ACHIEVEMENT_A_JOIN_A_CLAN	Phụng sự với Danh dự	true
+achievements_title_ACHIEVEMENT_C_WIN_UESUGI_CAMPAIGN	Chiến thắng Uesugi	true
+achievements_title_ACHIEVEMENT_C_WIN_EASY_CAMPAIGN	Khởi đầu đầy hứa hẹn	true
+achievements_description_ACHIEVEMENT_B_AIZU_1	Thắng Trận Aizu sau khi khiêu khích cả bốn đạo quân ẩn cùng lúc.	true
+achievements_title_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_HOJO	Chiến thắng Hojo	true
+achievements_title_ACHIEVEMENT_C_WIN_MEDIUM_CAMPAIGN	Một triều đại đáng kính	true
+achievements_description_ACHIEVEMENT_B_TOBA_FUSHIMI_1	Truy kích và đánh tan một đơn vị địch khi chúng cố rút lui khỏi Trận Toba-Fushimi.	true
+achievements_description_ACHIEVEMENT_B_TOBA_FUSHIMI_2	Chơi một trận đánh lịch sử.	true
+achievements_description_ACHIEVEMENT_B_WIN_10_ATTACKING_SIEGES	Thắng 10 trận vây hãm với vai trò tấn công.	true
+achievements_description_ACHIEVEMENT_C_WIN_SHIMAZU_CAMPAIGN	Hoàn thành một chiến dịch với Gia tộc Shimazu.	true
+achievements_description_ACHIEVEMENT_C_MAX_LEVEL_MISSIONARY	Có được một nhà truyền giáo cấp tối đa.	true
+achievements_description_ACHIEVEMENT_B_MIYAKO_BAY_1	Hoàn thành Trận Vịnh Miyako với thiết giáp hạm Kotetsu chịu dưới 25% sát thương.	true
+achievements_description_ACHIEVEMENT_C_RESEARCH_GUNPOWDER_TECH_FIRST	Trở thành Gia tộc đầu tiên trong chiến dịch đạt được bậc thầy thuốc súng.	true
+achievements_description_ACHIEVEMENT_C_MAX_LEVEL_MONK	Có được một nhà sư cấp tối đa.	true
+achievements_description_ACHIEVEMENT_WIN_LEGENDARY_CAMPAIGN	Hoàn thành chiến dịch ở độ khó huyền thoại.	true
+achievements_description_ACHIEVEMENT_B_AS_DEFENDER_RECAPTURE_A_TOWER	Với vai trò phòng thủ, chiếm lại một tháp.	true
+achievements_title_ACHIEVEMENT_C_MAX_LEVEL_METSUKE	Bậc thầy thẩm vấn	true
+achievements_title_ACHIEVEMENT_C_3_ASSASSINATIONS_WITH_SHINSENGUMI	Sói của Mibu	true
+achievements_description_ACHIEVEMENT_A_DEFEAT_BOSHIN_ARMY_WITH_SHOGUN	Đánh bại một đạo quân Fall of the Samurai bằng quân đội Shogun 2.	true
+achievements_title_ACHIEVEMENT_C_MIDWINTER	Khúc cầu siêu cho người chết	true
+achievements_title_ACHIEVEMENT_WIN_LEGENDARY_CAMPAIGN	Chống lại mọi nghịch cảnh	true
+achievements_description_ACHIEVEMENT_C_POSESS_ALL_TRADE_NODES	Kiểm soát toàn bộ các điểm thương mại trên bản đồ chiến dịch cùng lúc.	true
+achievements_title_ACHIEVEMENT_B_WIN_BATTLE_NO_SPEAR	Không sợ kỵ binh	true
+achievements_title_ACHIEVEMENT_C_WIN_HARD_CAMPAIGN	Đại Soái lừng danh	true
+achievements_title_ACHIEVEMENT_C_CONNECT_A_RAILWAY	Lên tàu nào!	true
+achievements_description_ACHIEVEMENT_C_WIN_BATTLE_WITH_BRITISH_SHIPS	Thắng một trận với tàu Anh trong hạm đội của bạn.	true
+achievements_title_ACHIEVEMENT_B_WIN_100_RANKED_BATTLES	Rồng của Nhật Bản	true
+achievements_title_ACHIEVEMENT_C_WIN_DATE_CAMPAIGN	Chiến thắng Date	true
+achievements_description_ACHIEVEMENT_B_UENO_1	Thắng Trận Ueno mà không chiếm bất kỳ công trình chùa then chốt nào.	true
+achievements_description_ACHIEVEMENT_B_WIN_BATTLE_NO_CAVALRY	Thắng một trận nhiều người chơi mà quân đội không có đơn vị kỵ binh (trừ Tướng quân).	true
+achievements_title_ACHIEVEMENT_C_MAX_LEVEL_GENERAL	Chỉ huy đáng sợ của binh sĩ	true
+achievements_title_ACHIEVEMENT_C_WIN_CAMPAIGN_AFTER_DECLARING_INDEPENDENCE	Cộng hòa Ezo	true
+achievements_description_ACHIEVEMENT_B_4_ASHIGARU_UNITS_WHOLE_BATTLE	Giữ ít nhất 4 đơn vị Ashigaru trong suốt trận mà không đơn vị nào bỏ chạy.	true
+achievements_title_ACHIEVEMENT_C_WIN_MORI_CAMPAIGN	Chiến thắng Mori	true
+achievements_title_ACHIEVEMENT_A_VETERAN_UNIT_LEVEL_5	Chiến binh xuất chúng	true
+achievements_title_ACHIEVEMENT_C_GIFT_ARMY_OR_NAVY_IN_COOP	Gói quà sẵn	true
+achievements_title_ACHIEVEMENT_C_WIN_MP_COOP_CAMPAIGN	Hợp nhất trong chinh phục	true
+achievements_description_ACHIEVEMENT_C_WIN_MP_COOP_CAMPAIGN	Thắng một chiến dịch hợp tác nhiều người chơi.	true
+achievements_description_ACHIEVEMENT_B_WIN_10_DEFENDING_SIEGES	Thắng 10 trận vây hãm với vai trò phòng thủ.	true
+achievements_description_ACHIEVEMENT_A_VETERAN_UNIT_LEVEL_5	Thông qua hệ thống Hóa thân, đưa một đơn vị Lão binh lên cấp 4.	true
+achievements_description_ACHIEVEMENT_B_WIN_MP_BATTLE	Thắng trận nhiều người chơi đầu tiên của bạn.	true
+achievements_description_ACHIEVEMENT_A_DEFEAT_SHOGUN_ARMY_WITH_BOSHIN	Đánh bại một đạo quân Shogun 2 bằng quân đội Fall of the Samurai.	true
+achievements_title_ACHIEVEMENT_A_CAPTURE_ALL_AVATAR_CAMPAIGN_REGIONS	Người thống nhất Nhật Bản	true
+achievements_title_ACHIEVEMENT_C_WIN_MP_VS_CAMPAIGN	Nhật Bản chia rẽ	true
+achievements_title_ACHIEVEMENT_C_SINK_CARAVEL_OR_NIHON_MARU	Đô đốc hiếu chiến	true
+achievements_description_ACHIEVEMENT_C_CONSTRUCT_3_TRADE_DISTRICTS_WITH_SATSUMA	Khi chơi Satsuma, xây dựng khu thương mại và giao thương với một cường quốc nước ngoài trong cùng chiến dịch.	true
+achievements_title_ACHIEVEMENT_C_CONSTRUCT_3_TRADE_DISTRICTS_WITH_SATSUMA	Cánh cổng sang phương Tây	true
+achievements_title_ACHIEVEMENT_B_KILL_10000_MEN_WITH_ARTILLERY	Đòn đánh nặng nề	true
+achievements_title_ACHIEVEMENT_B_WIN_10_DEFENDING_SIEGES	Giữ vững phòng tuyến	true
+achievements_description_ACHIEVEMENT_A_CAPTURE_ALL_AVATAR_CAMPAIGN_REGIONS	Chiếm toàn bộ các Tỉnh trên bản đồ chiến dịch Hóa thân.	true
+achievements_title_ACHIEVEMENT_C_RESEARCH_8TH_TIER_TECH_WITH_NAGOKA	Một trăm bao gạo	true
+achievements_title_ACHIEVEMENT_B_HOLD_ALL_KEY_BUILDINGS_2_MINS	Thống trị chiến trường	true
+achievements_title_ACHIEVEMENT_A_VETERAN_UNIT_LEVEL_10	Chiến binh anh dũng	true
+achievements_description_ACHIEVEMENT_B_WIN_BATTLE_NO_SPEAR	Thắng một trận nhiều người chơi mà quân đội không có đơn vị giáo.	true
+achievements_description_ACHIEVEMENT_B_BEAT_CA_STAFF_VIRAL	Đánh bại một nhân viên Creative Assembly trong trận chiến hoặc bất kỳ ai đã có thành tựu này.	true
+achievements_description_ACHIEVEMENT_A_CAPTURE_15_AVATAR_CAMPAIGN_REGIONS	Chiếm 15 Tỉnh trên bản đồ chiến dịch Hóa thân.	true
+achievements_title_ACHIEVEMENT_C_WIPE_OUT_IKKO_IKKI	Tiêu diệt Ikko-Ikki	true
+achievements_description_ACHIEVEMENT_C_KILL_10000_ENEMY_SOLDIERS	Thu thập 10.000 thủ cấp binh lính địch.	true
+achievements_title_ACHIEVEMENT_B_HAKODATE_1	Mười hoàn hảo	true
+achievements_title_ACHIEVEMENT_C_INCITE_3_REBELLIONS_WITH_ISHIN_SHISHI	Kẻ kích động	true
+achievements_description_ACHIEVEMENT_C_WIN_UESUGI_CAMPAIGN	Hoàn thành chiến dịch với Gia tộc Uesugi.	true
+achievements_description_ACHIEVEMENT_A_JOIN_A_CLAN	Gia nhập một Gia tộc nhiều người chơi trong Shogun 2.	true
+achievements_description_ACHIEVEMENT_C_WIN_MEDIUM_CAMPAIGN	Hoàn thành chiến dịch ở độ khó thường.	true
+achievements_title_ACHIEVEMENT_B_WIN_10_ATTACKING_SIEGES	Kẻ công phá thành trì	true
+achievements_description_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_ODA	Hoàn thành chiến dịch với Gia tộc Oda.	true
+achievements_description_ACHIEVEMENT_A_5_CLAN_REGIONS_SIMULTANEOUSLY_OWNED	Gia tộc của bạn giữ đồng thời 5 Tỉnh trên bản đồ chiến dịch Gia tộc nhiều người chơi.	true
+achievements_description_ACHIEVEMENT_C_WIN_MP_VS_CAMPAIGN_GIVING_OTHER_PLAYER_GOLD	Thắng một chiến dịch đối đầu nhiều người chơi dù đã cho đối thủ 10.000 Thạch gạo (Koku).	true
+achievements_description_ACHIEVEMENT_C_ATTAIN_MAX_LEVEL_ALL_AGENTS	Có được đặc vụ cấp tối đa của mỗi loại.	true
+achievements_description_ACHIEVEMENT_B_WIN_BATTLE_ONNA_BUGEISHA_AS_GENERAL	Thắng một trận vây hãm phòng thủ với Onna Bushi làm Tướng quân.	true
+achievements_title_ACHIEVEMENT_B_PLAY_10_BATTLES	Taisho dày dạn	true
+achievements_title_ACHIEVEMENT_RANK_1_SHOGUN_LADDER	Chỉ có thể có một	true
+achievements_title_ACHIEVEMENT_A_MAX_OUT_AVATAR_SKILLS_TREE	Con đường của người lãnh đạo	true
+achievements_title_ACHIEVEMENT_C_RESEARCH_EPIC_ARCHITECTURE_FIRST	Những đại đô thị rực rỡ	true
+achievements_title_ACHIEVEMENT_A_CAPTURE_15_AVATAR_CAMPAIGN_REGIONS	Mở đường tiến quân	true
+achievements_title_ACHIEVEMENT_B_RALLY_5_UNITS	Phản công truyền cảm hứng	true
+achievements_description_ACHIEVEMENT_C_WIPE_OUT_IKKO_IKKI	Xóa sổ Ikko-Ikki trong chiến dịch.	true
+achievements_description_ACHIEVEMENT_B_HAKODATE_1	Hoàn thành Trận Hakodate mà không có đơn vị Hoàng gia nào bỏ chạy.	true
+achievements_title_ACHIEVEMENT_C_WIN_3_AMBUSH_BATTLES_WITH_JOZAI	Danh dự truyền đời	true
+achievements_description_ACHIEVEMENT_B_WIN_200_MULTIPLAYER_BATTLES	Thắng 200 trận nhiều người chơi bất kỳ.	true
+achievements_title_ACHIEVEMENT_C_OBTAIN_MAX_LEVEL_UNIT	Sống vì chiến trận	true
+achievements_description_ACHIEVEMENT_C_WIN_EASY_CAMPAIGN	Hoàn thành chiến dịch ở độ khó dễ.	true
+achievements_title_ACHIEVEMENT_C_CONTROL_SHIKOKU	Chủ nhân của Shikoku	true
+achievements_description_ACHIEVEMENT_C_RESEARCH_EPIC_ARCHITECTURE_FIRST	Trở thành Gia tộc đầu tiên trong chiến dịch làm chủ nghệ thuật kiến trúc vĩ đại.	true
+achievements_title_ACHIEVEMENT_B_BURN_CASTLE_DOWN_AND_WIN_BATTLE	Hỏa ngục cao ngất	true
+achievements_title_ACHIEVEMENT_B_OSAKA_1	Cuộc chiến gian nan	true
+achievements_title_ACHIEVEMENT_A_MAX_POINTS_IN_BOSHIN_SKILLS_TREE	Chiến binh lão luyện	true
+achievements_description_ACHIEVEMENT_B_WIN_25_LAND_BATTLES	Thắng 25 trận đánh trên bộ.	true
+achievements_description_ACHIEVEMENT_C_BOMBARDMENT_WITH_FRENCH_IRONCLAD	Thực hiện oanh kích bằng thiết giáp hạm Pháp trong hạm đội của bạn.	true
+achievements_title_ACHIEVEMENT_C_WIN_GAME_AS_CHRISTIAN	Một triều đại dưới Thượng Đế	true
+achievements_title_ACHIEVEMENT_B_WIN_20_RANKED_BATTLES	Kẻ mang đến cái chết	true
+achievements_title_ACHIEVEMENT_B_WIN_25_RANKED_BATTLES	Móng vuốt của hổ	true
+achievements_title_ACHIEVEMENT_B_WIPE_OUT_A_UNIT	Lực lượng không cần thiết	true
+achievements_title_ACHIEVEMENT_B_WIN_BATTLE_50_PERCENT_MATCHLOCK	Bao trùm trong biển lửa	true
+achievements_description_ACHIEVEMENT_B_WIN_MP_BATTLE_LESS_THAN_15_PERCENT_LOSSES	Thắng một trận nhiều người chơi với tổn thất dưới 15% quân ban đầu.	true
+achievements_title_ACHIEVEMENT_C_BOMBARDMENT_WITH_FRENCH_IRONCLAD	L'Ocean là của ta!	true
+achievements_description_ACHIEVEMENT_A_MAX_OUT_AVATAR_SKILLS_TREE	Dùng hết số điểm tối đa trong cây kỹ năng của Hóa thân.	true
+achievements_description_ACHIEVEMENT_RANK_1_SHOGUN_LADDER	Đạt vinh dự tối thượng và đứng hạng 1 trên bảng xếp hạng Shogun Ladder nhiều người chơi.	true
+achievements_description_ACHIEVEMENT_A_MAX_POINTS_IN_BOSHIN_SKILLS_TREE	Tối đa hóa một cây kỹ năng Hóa thân Fall of the Samurai.	true
+achievements_title_ACHIEVEMENT_B_FIELD_ENTIRELY_HEROES	Lực lượng huyền thoại	true
+achievements_title_ACHIEVEMENT_C_BECOME_SHOGUN	Thiên mệnh	true
+achievements_title_ACHIEVEMENT_STEAM_SUMMER_SALE	Đứa con của mùa hạ	true
+achievements_title_ACHIEVEMENT_B_WIN_BATTLE_EVERY_TYPE_OF_UNIT	Kẻ tấn công cân bằng	true
+achievements_title_ACHIEVEMENT_C_RESEARCH_SHIH_TECH_FIRST	Sức mạnh quân sự	true
+achievements_title_ACHIEVEMENT_C_IGA_CLAN	Tiêu diệt Hattori	true
+achievements_description_ACHIEVEMENT_C_WIN_MP_VS_CAMPAIGN	Thắng một chiến dịch đối đầu nhiều người chơi.	true
+achievements_description_ACHIEVEMENT_C_MAX_LEVEL_GENERAL	Có được một Tướng quân cấp tối đa trong chiến dịch.	true
+achievements_description_ACHIEVEMENT_C_WIN_CAMPAIGN_AFTER_DECLARING_INDEPENDENCE	Tuyên bố độc lập và hoàn thành chiến dịch.	true
+achievements_description_ACHIEVEMENT_C_WIN_LEGENDARY_CAMPAIGN_SHOGUNATE	Hoàn thành chiến dịch ở độ khó huyền thoại khi chơi Aizu, Jozai hoặc Nagaoka.	true
+achievements_title_ACHIEVEMENT_B_WIN_BATTLE_NO_CAVALRY	Cơn bão đang tụ	true
+achievements_description_ACHIEVEMENT_C_OBTAIN_100_FAME_IN_20_TURNS	Đạt 100 danh tiếng trong 50 lượt.	true
+achievements_title_ACHIEVEMENT_B_4_ASHIGARU_UNITS_WHOLE_BATTLE	Chỉ huy của dân thường	true
+achievements_description_ACHIEVEMENT_C_SINK_CARAVEL_OR_NIHON_MARU	Đánh chìm một Nanban Trade Ship hoặc soái hạm Nihon Maru trong hải chiến.	true
+achievements_description_ACHIEVEMENT_C_GIFT_ARMY_OR_NAVY_IN_COOP	Tặng cho đồng minh hợp tác của bạn một đạo quân hoặc hạm đội.	true
+achievements_description_ACHIEVEMENT_C_WIN_MORI_CAMPAIGN	Hoàn thành chiến dịch với Gia tộc Mori.	true
+achievements_title_ACHIEVEMENT_C_MAX_LEVEL_NINJA	Đặc vụ của lưỡi dao ẩn	true
+achievements_title_ACHIEVEMENT_WIN_HARD_CAMPAIGN	Kẻ theo đuổi chiến thắng bền bỉ	true
+achievements_title_ACHIEVEMENT_C_WIN_LEGENDARY_CAMPAIGN_SHOGUNATE	Anh hùng của Mạc phủ	true
+achievements_title_ACHIEVEMENT_B_WIN_MP_BATTLE	Tôi luyện trong ngọn lửa nóng nhất	true
+achievements_description_ACHIEVEMENT_C_RESEARCH_SHIH_TECH_FIRST	Trở thành Gia tộc đầu tiên trong chiến dịch làm chủ nghệ thuật Shih.	true
+achievements_description_ACHIEVEMENT_C_IGA_CLAN	Xóa sổ Gia tộc Hattori trong chiến dịch.	true
+achievements_title_ACHIEVEMENT_C_RESEARCH_GUNPOWDER_TECH_FIRST	Hỏa khí tiên tiến	true
+achievements_title_ACHIEVEMENT_B_ALL_UNITS_HIDDEN	Lực lượng tấn công khó nắm bắt	true
+achievements_description_ACHIEVEMENT_A_EARN_20_CLAN_TOKENS	Tự mình kiếm được 20 Thẻ tộc	true
+achievements_description_ACHIEVEMENT_C_WIN_BATTLE_WITH_AMERICAN_MARINES	Thắng một trận với Thủy quân lục chiến Hoa Kỳ trong quân đội của bạn.	true
+achievements_description_ACHIEVEMENT_C_ATTAIN_MAX_MODERNISATION	Đạt cấp phát triển Gia tộc tối đa.	true
+achievements_title_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_TOKUGAWA	Chiến thắng Tokugawa	true
+achievements_description_ACHIEVEMENT_B_SINK_HMS_WARRIOR	Đánh chìm một tàu lớp HMS Warrior.	true
+achievements_description_ACHIEVEMENT_C_MAX_LEVEL_METSUKE	Có được một metsuke cấp tối đa.	true
+achievements_title_ACHIEVEMENT_B_AS_DEFENDER_RECAPTURE_A_TOWER	Đáng gờm	true
+achievements_title_ACHIEVEMENT_B_SINK_HMS_WARRIOR	Khắc tinh của chiến binh	true
+achievements_description_ACHIEVEMENT_C_3_ASSASSINATIONS_WITH_SHINSENGUMI	Khi chơi Aizu, thực hiện 3 vụ ám sát tướng thành công trong cùng chiến dịch bằng Shinsengumi.	true
+achievements_description_ACHIEVEMENT_C_RESEARCH_8TH_TIER_TECH_WITH_NAGOKA	Khi chơi Nagaoka, nghiên cứu một công nghệ bậc tám bất kỳ.	true
+achievements_description_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_TOKUGAWA	Hoàn thành chiến dịch với Gia tộc Tokugawa.	true
+achievements_title_ACHIEVEMENT_C_WIN_BATTLE_WITH_AMERICAN_MARINES	Semper Fi	true
+achievements_title_ACHIEVEMENT_C_ATTAIN_MAX_MODERNISATION	Đón nhận cái mới	true
+achievements_title_ACHIEVEMENT_C_WIN_LEGENDARY_CAMPAIGN_IMPERIAL	Anh hùng của Đế quốc	true
+achievements_description_ACHIEVEMENT_C_MIDWINTER	Thắng một trận vây hãm phòng thủ với Lãnh chúa của bạn trong bất kỳ lượt mùa đông nào.	true
+achievements_description_ACHIEVEMENT_C_WIN_HARD_CAMPAIGN	Hoàn thành chiến dịch ở độ khó khó.	true
+achievements_description_ACHIEVEMENT_B_ALL_UNITS_HIDDEN	Giữ toàn bộ quân đội của bạn (trừ Tướng quân) ẩn nấp đồng thời hơn 30 giây.	true
+achievements_description_ACHIEVEMENT_C_CONNECT_A_RAILWAY	Xây dựng đường sắt giữa 2 Tỉnh.	true
+achievements_description_ACHIEVEMENT_C_WIN_DATE_CAMPAIGN	Hoàn thành chiến dịch với Gia tộc Date.	true
+achievements_title_ACHIEVEMENT_C_WIN_BATTLE_WITH_BRITISH_SHIPS	Rule, Britannia!	true
+achievements_title_ACHIEVEMENT_A_EARN_20_CLAN_TOKENS	Trung thành với Gia tộc	true
+achievements_title_ACHIEVEMENT_C_MAX_LEVEL_MONK	Sohei huyền thoại	true
+achievements_title_ACHIEVEMENT_A_DEFEAT_BOSHIN_ARMY_WITH_SHOGUN	Giữ gìn truyền thống	true
+achievements_description_ACHIEVEMENT_C_WIN_LEGENDARY_CAMPAIGN_IMPERIAL	Hoàn thành chiến dịch ở độ khó huyền thoại khi chơi Satsuma, Tosa hoặc Choshu.	true
+achievements_description_ACHIEVEMENT_B_HOLD_ALL_KEY_BUILDINGS_2_MINS	Trên bản đồ có nhiều công trình then chốt, liên minh của bạn chiếm giữ tất cả cùng lúc.	true
+achievements_title_ACHIEVEMENT_C_POSESS_ALL_TRADE_NODES	Độc quyền tuyến thương mại	true
+achievements_description_ACHIEVEMENT_A_VETERAN_UNIT_LEVEL_10	Thông qua hệ thống Hóa thân, đưa một đơn vị Lão binh lên cấp 9.	true
+achievements_description_ACHIEVEMENT_B_WIN_100_RANKED_BATTLES	Thắng 100 trận đấu ghép trận trong nhiều người chơi.	true
+achievements_title_ACHIEVEMENT_B_UENO_1	Đòn giáng vào đền chùa	true
+achievements_title_ACHIEVEMENT_C_OBTAIN_100_FAME_IN_20_TURNS	Danh tiếng bay cao	true
+achievements_description_ACHIEVEMENT_C_MAX_LEVEL_NINJA	Có được một ninja cấp tối đa trong chiến dịch.	true
+achievements_description_ACHIEVEMENT_WIN_HARD_CAMPAIGN	Hoàn thành chiến dịch ở độ khó rất khó.	true
+achievements_description_ACHIEVEMENT_B_KILL_10000_MEN_WITH_ARTILLERY	Gọi hỗ trợ hỏa lực hải quân trong trận đánh trên bộ.	true
+achievements_title_ACHIEVEMENT_A_DEFEAT_SHOGUN_ARMY_WITH_BOSHIN	Hiện đại hóa	true
+achievements_description_ACHIEVEMENT_B_OSAKA_1	Thắng Trận Osaka sau khi cả hai cây cầu bị quân phòng thủ phá hủy.	true
+achievements_title_ACHIEVEMENT_C_CONTROL_KYUSHU	Chủ nhân của Kyushu	true
+achievements_description_ACHIEVEMENT_B_BURN_CASTLE_DOWN_AND_WIN_BATTLE	Với vai trò tấn công, đốt cổng, tháp và tenshu của lâu đài bằng hỏa tiễn rồi thắng trận.	true
+achievements_description_ACHIEVEMENT_B_WIPE_OUT_A_UNIT	Tiêu diệt hoàn toàn một đơn vị địch.	true
+achievements_description_ACHIEVEMENT_B_WIN_BATTLE_50_PERCENT_MATCHLOCK	Thắng một trận nhiều người chơi khi hơn 50% quân đội của bạn là thần cơ bộ binh.	true
+achievements_title_ACHIEVEMENT_B_WIN_25_LAND_BATTLES	Đạo quân đang hành quân	true
+achievements_description_ACHIEVEMENT_C_5_NAVAL_BOMBARDMENTS_WITH_TOSA	Khi chơi Tosa, thực hiện 5 cuộc oanh kích hải quân trong cùng chiến dịch.	true
+achievements_description_ACHIEVEMENT_STEAM_SUMMER_SALE	Lãnh chúa của bạn thắng 3 trận đánh trên bộ liên tiếp trong mùa hè.	true
+achievements_title_ACHIEVEMENT_B_SINK_ENEMY_SHIP_WITH_TORPEDOES	Đầu đạn	true
+achievements_title_ACHIEVEMENT_C_WIN_CHOSOKABE_CAMPAIGN	Chiến thắng Chosokabe	true
+achievements_title_ACHIEVEMENT_C_WIN_CAMPAIGN_AS_TAKEDA	Chiến thắng Takeda	true
+achievements_description_ACHIEVEMENT_C_WIN_3_AMBUSH_BATTLES_WITH_JOZAI	Khi chơi Jozai, thắng 3 trận phục kích trong cùng chiến dịch.	true
+achievements_title_ACHIEVEMENT_B_WIN_200_MULTIPLAYER_BATTLES	Tận tâm như thiền	true
+achievements_title_ACHIEVEMENT_C_KILL_10000_ENEMY_SOLDIERS	Thợ săn thủ cấp	true
+achievements_description_ACHIEVEMENT_C_INCITE_3_REBELLIONS_WITH_ISHIN_SHISHI	Khi chơi Choshu, kích động 3 cuộc nổi dậy trong cùng chiến dịch bằng ishin shishi.	true
+achievements_title_ACHIEVEMENT_B_AIZU_1	Quả cầu phá hoại	true
+achievements_title_ACHIEVEMENT_B_TOBA_FUSHIMI_1	Không dưới sự canh gác của ta	true
+achievements_title_ACHIEVEMENT_B_TOBA_FUSHIMI_2	Một hành trình bắt đầu	true
+achievements_description_ACHIEVEMENT_C_CONTROL_SHIKOKU	Kiểm soát toàn bộ các Tỉnh trên đảo Shikoku trong chiến dịch.	true

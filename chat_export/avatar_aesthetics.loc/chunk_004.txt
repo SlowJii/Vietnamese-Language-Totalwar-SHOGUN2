@@ -1,0 +1,42 @@
+=== CHUNK 4/4 — avatar_aesthetics.loc.tsv ===
+(Dịch 39 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[240] Masked Tan Horse
+[241] Masked Bay Horse
+[242] Standard Katana 3
+[243] Standard Katana 2
+[244] Haidate Thigh-Shields: Multicolour Laced
+[245] Do Cuirass: Multicolour Laced
+[246] Standard Men Yoroi Face Armour
+[247] Haidate Thigh-Shields of Tokugawa Ieyasu
+[248] Datemono Crest of Hosokawa Tadaoki
+[249] Do Cuirass of Hosokawa Tadaoki
+[250] Sode Shoulder Guards of the Shogun
+[251] Samurai Chestnut Horse
+[252] Kabuto Helmet: Clan Champions
+[253] Do Cuirass of Itakura Katsushige
+[254] Datemono Crest of Itakura Katsushige
+[255] Crest: Multicolour Laced
+[256] Kote Armoured Sleeves: Multicolour Laced
+[257] Simple Kote Armoured Sleeves
+[258] Masked Dappled Horse
+[259] Kabuto Helmet: Ichinotani
+[260] Mogami-Do Cuirass
+[261] Men Yoroi Face Armour: Multicolour Laced
+[262] Cap: Clan Competition Tier 1 Promotion
+[263] No Sashimono
+[264] Haidate Thigh-Shields
+[265] Standard Katana 1
+[266] Achievement Crest: Serve With Honour
+[267] Suneate Greaves: Multicolour Laced
+[268] Yukinoshita-Do Cuirass
+[269] Haidate Thigh-Shields of Hosokawa Tadaoki
+[270] Kabuto Helmet of Itakura Katsushige
+[271] Cap: Clan Competition Tier Promotion
+[272] Kabuto Helmet: Multicolour Laced
+[273] Suneate Greaves of Hosokawa Tadaoki
+[274] Kote Armoured Sleeves of Hosokawa Tadaoki
+[275] Legendary Kabuto of The Shogun
+[276] Do Cuirass: Ichinotani
+[277] Officer Uniform 2: Elaborate Wig
+[278] Officer Uniform 1: Officer Cap

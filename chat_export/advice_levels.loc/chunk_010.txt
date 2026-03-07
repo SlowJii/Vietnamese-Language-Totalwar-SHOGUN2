@@ -1,0 +1,103 @@
+=== CHUNK 10/14 — advice_levels.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[900] Agents - Ninja
+[901] Cavalry against Bayonets
+[902] Unit Replenishment
+[903] Mountain Passes
+[904] Rebellion!
+[905] Alliance
+[906] Skills
+[907] We are the Date
+[908] We are the Minamoto
+[909] Avatar Conquest Mode
+[910] Avatar Conquest Mode
+[911] Agents - Monk
+[912] Clans
+[913] Rebel Army
+[914] Turn Times
+[915] Not Enough Cash!
+[916] Ports
+[917] Choshu
+[918] Provinces
+[919] Stables
+[920] Tax Exempt Province
+[921] Payoffs
+[922] Action Points Exhausted
+[923] Satsuma
+[924] Character Traits
+[925] Team Setup Screen
+[926] Shinsengumi
+[927] Construction
+[928] Attrition
+[929] Avatar Conquest Mode
+[930] Attrition
+[931] Fleets
+[932] Dilemmas
+[933] We are the Uesugi
+[934] We are the Tokugawa
+[935] Betrayal of Allies
+[936] Movement
+[937] Campaign Games List
+[938] Ship Experience
+[939] Influence
+[940] Upgradable Tower Defences
+[941] Avatar Conquest Mode
+[942] Avatar Conquest Mode
+[943] Multiplayer_battle
+[944] Increase Movement Speed
+[945] Agents - Metsuke
+[946] Ambush Defence
+[947] Spy Networks
+[948] Blockading Ports
+[949] Religious Unrest
+[950] Heroes
+[951] Retainers
+[952] We are the Tokugawa
+[953] Foreign Veteran
+[954] Market Forces
+[955] Cavalry in Reserve
+[956] Unit Upkeep
+[957] Trade Routes
+[958] Reinforcement Order
+[959] Opening the Gates
+[960] Ladders
+[961] Camera Controls
+[962] Clan Development Details
+[963] Diggin In
+[964] Ishin Shishi
+[965] Rebellions
+[966] Multiplayer_battle
+[967] Bribery
+[968] The Encyclopaedia
+[969] We are the Mori
+[970] Naval Fire Support
+[971] Metsuke
+[972] Trade Posts
+[973] Happiness
+[974] War of Attrition
+[975] Trade Agreement
+[976] We are the Hojo
+[977] Province Details Panel
+[978] Capture Iyo
+[979] Province Details
+[980] We are the Hojo
+[981] Seduction
+[982] Modernisation
+[983] Repairing Damaged Buildings
+[984] High Ground
+[985] Inspiring the Troops
+[986] Diplomatic Negotiations
+[987] Instil Discipline
+[988] Avatar Conquest Mode
+[989] Sieges
+[990] Legendary Buildings
+[991] Clan Competition Map
+[992] Allegiance
+[993] Foreign Trade Routes
+[994] Facing Cavalry
+[995] Taxation by Clan
+[996] Provincial Resources
+[997] Diplomatic Relations
+[998] Arrange Marriage
+[999] Province Details Panel

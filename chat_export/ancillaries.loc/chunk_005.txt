@@ -1,0 +1,103 @@
+=== CHUNK 5/14 — ancillaries.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[400] "YOU try standing still whilst someone fires a gun over your head!"
+[401] "We are the force of the Blue Dragon!"
+[402] Discipline comes in many forms.
+[403] Kuge
+[404] Legendary Kote
+[405] "That is not how we do it in China, my lord."
+[406] Hair like sunlight, eyes like the unclouded sky…
+[407] Every Frenchman has a cavalryman's heart.
+[408] "You won't feel a thing."
+[409] A man should always dress smartly.
+[410] Master Bladesmith
+[411] placeholder text: iron abumi stirrups
+[412] Taiko Drum Master
+[413] Bradshaw
+[414] Incredible Disguise!
+[415] Eau de Cologne
+[416] I am not here. I have never been here. 
+[417] Everything can be perfected.
+[418] "My lord need only say the word, and the fish will be well fed…"
+[419] Make every shot count.
+[420] Supply Wagon
+[421] Famous Armoury
+[422] Rennyo's Teachings
+[423] Legendary Go Player
+[424] Gokamon Bodyguard
+[425] Legendary Kyudo Master
+[426] Nothing in battle should be a surprise.
+[427] Shugendo Texts
+[428] Much can be read of a man's heart, loyalties and destiny if one only has the skill to interpret the signs correctly.
+[429] "Do not cut at your enemy. Perfect the stroke!"
+[430] "One day, I will carry one of these in my pocket!"
+[431] von Clausewitz's "On War"
+[432] Legendary Haiku Poet
+[433] Drill is a battle without blood.
+[434] Yumi Officer
+[435] Sword Umbrella
+[436] Nembutsu Zen Text
+[437] Lightweight Gunjingura War Saddle
+[438] Without stores, an army soon becomes a hungry mob.
+[439] A warrior's chest may be pierced by a thousand arrows but, as long as his heart is true, what does it matter?
+[440] Danna
+[441] Plinky-plunky-plinky-plunky-plunk.
+[442] "I will sing in praise of total war!"
+[443] "I say! How quaint! Is that a sword?"
+[444] "I'm too drunk to be an assassin!"
+[445] Foxy Mistress
+[446] Unrepentant Ronin
+[447] The sword must be one with the hand.
+[448] "Oh, drat these spectacles! Was that a hit? Sergeant?"
+[449] French Soap
+[450] All swords are dangerous: a master ensures that only the enemy needs worry about that danger.
+[451] Townsman Disguise
+[452] Monk Disguise
+[453] The art of the bow should never be neglected, for it lies at the heart of what it once was to be samurai.
+[454] Ronin Disguise
+[455] Madman Disguise
+[456] Geisha Disguise
+[457] Incredible Disguise!
+[458] Bandit Horse Thieves
+[459] The terrible visage of this battle mask is enough to strike fear into the heart of any foe.
+[460] "At the double, men!"
+[461] The old ways are not always the best.
+[462] Yakuza
+[463] Mounted Scout
+[464] Fugu chef
+[465] Sushi chef
+[466] Smith & Wesson Army No.2
+[467] Over-ambitious Mistress
+[468] Strong drink is a comfort to some, a tool for others.
+[469] "Twang!"
+[470] "Of course, my lord. Another song about blossoms. Right away."
+[471] A sword acquires fame only in the hands of a worthy man.
+[472] Ernest Mason Satow
+[473] "Do not look for wisdom. It will find you."
+[474] "Shhhh!"
+[475] Even the simplest thing must be mastered.
+[476] The beat of the drum echoes the heart.
+[477] Target Range
+[478] Understanding is at the centre of all.
+[479] Taxes and artillery bombardments rely on accurate land measurements.
+[480] Francois Leonce Verny
+[481] Burakumin
+[482] Surgeon
+[483] Plimpton Rocking Skate
+[484] Pilot
+[485] Not a game. War. Without blood.
+[486] "Don't you know your starboard from your larboard?"
+[487] Maiko
+[488] "Bang!"
+[489] "I represent only the interests of the great United States of America, sir!"
+[490] Godokoro
+[491] Men must be lead in battle.
+[492] There are ironclad arguments as to why the Royal Navy rules the waves.
+[493] The target waits impatiently for the arrow.
+[494] Rifled Barrels
+[495] Only the very greatest would contemplate drawing the sword of a goddess. Only a fool would stand against it.
+[496] When the heart is pure, the arrow finds a way.
+[497] Samurai Convert
+[498] Ashigaru Convert
+[499] Geisha Convert

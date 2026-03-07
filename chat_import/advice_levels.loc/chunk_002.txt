@@ -1,0 +1,100 @@
+[100] Kẻ địch đã mở một cuộc tấn công ven biển vào một trong những đạo quân của ta trên chiến trường. Nếu chấp nhận, quân ta sẽ tiến ra giao chiến với quân tấn công. Nếu từ chối tham chiến, lực lượng của ta sẽ rút lui.
+[101] Thẻ Records dùng để ghi lại các thông tin quan trọng về những sự kiện đã xảy ra và các thống kê được thu thập trong suốt chiến dịch.
+[102] Nếu bạn tấn công một cảng khi có hạm đội đang neo đậu tại đó, bạn sẽ phải chiến đấu trong một trận chiến cảng. Điều này tương tự như một cuộc vây hãm, trong đó hạm đội đang neo đậu đóng vai trò phòng thủ và được hỗ trợ bởi các công trình phòng thủ ven biển.
+[103] Geisha là một nghệ sĩ giải trí truyền thống, sử dụng kỹ năng của mình để mê hoặc, truyền cảm hứng, giải trí và đánh lạc hướng. Geisha có thể dùng khả năng mê hoặc để thuyết phục mục tiêu gia nhập phe ta. Họ cũng có thể giải trí cho giới quý tộc ở các thị trấn thân thiện để tăng trưởng của thị trấn và truyền cảm hứng cho các tướng lĩnh đồng minh ngoài chiến trường, từ đó tăng lòng trung thành và chống lại nỗ lực hối lộ hoặc mê hoặc của điệp viên địch. Xem phần nhân vật trong bách khoa toàn thư để biết thêm chi tiết.
+[104] Chiến tranh Boshin là cuộc xung đột giữa lực lượng của Mạc phủ và phe của Thiên Hoàng. Mỗi gia tộc phải tuyên thệ trung thành với một trong hai bên. Mục tiêu của chiến dịch là giành được sự trung thành với phe ta và chiếm lãnh thổ. Khi danh tiếng của gia tộc đạt đến một mức nhất định, chúng ta phải chọn đứng về một bên hoặc cố gắng tự mình kiểm soát đất nước. Lựa chọn cuối cùng sẽ khiến hầu hết đồng minh quay lưng chống lại chúng ta.
+[105] Vì các kỹ năng có chi phí khác nhau, khi dùng điểm kỹ năng, chi phí duy trì đơn vị này sẽ tăng lên. Mọi thay đổi chi phí có thể xem trong phần mô tả của kỹ năng. Khi hoàn tất, nhấn nút dấu tích để quay lại thẻ Veteran.
+[106] Khu định cư là trung tâm hành chính chính của một tỉnh. Tùy theo quy mô, nó được phân loại thành thị trấn, thị trấn lớn, thành phố, đô thị và phủ. Tại đây cũng có các công trình thương mại và quân sự.
+[107] Tiền sẽ bị trừ khỏi kho bạc của chúng ta vào đầu mỗi lượt để trả lương và cung cấp nhu yếu phẩm cho quân đội. Đây được gọi là chi phí duy trì đơn vị.
+[108] Thẻ Summary hiển thị các thông tin quan trọng về tình trạng của gia tộc như hiệu ứng thưởng và danh tiếng của gia tộc tại một nơi để dễ tham khảo. Di chuột vào để xem chi tiết.
+[109] Chúng ta là Chosokabe. Cho đến gần đây, quê hương Tosa của chúng ta do gia tộc Ichijo kiểm soát và chúng ta là chư hầu của họ. Sự suy giảm uy tín của Ichijo trong tỉnh cùng với ảnh hưởng ngày càng tăng của chúng ta đã cho phép chúng ta chiếm quyền kiểm soát. Giờ đây, chỉ còn việc tiêu diệt tàn dư kháng cự của Ichijo. Khi điều đó hoàn tất, không gì có thể ngăn cản việc chinh phục Shikoku.
+[110] Đường sắt có thể được xây dựng tại các tỉnh có công trình đặc biệt phù hợp. Mỗi gia tộc chỉ có một tuyến. Cả quân đội và điệp viên đều có thể sử dụng đường sắt. Nhấp chuột phải vào ga để di chuyển tới đó như với bất kỳ mục tiêu nào. Khi đến ga, bản đồ các điểm đến sẽ hiện ra và bạn có thể chọn để di chuyển tức thì. Bạn cũng có thể dùng ga của các gia tộc đã cấp quyền đi lại quân sự cho mình.
+[111] Khi tấn công kẻ địch trên đồi, hãy tiến lên theo sườn dốc thoai thoải nhất, ngay cả khi mất nhiều thời gian hơn. Như vậy binh lính sẽ ít bị kiệt sức khi lên đến đỉnh.
+[112] Những phần bản đồ dạng hai chiều “được vẽ” là do sương mù chiến tranh. Mặc dù vị trí địa lý, biên giới và khu định cư được biết rõ, nhưng nếu không có điệp viên và hạm đội thì các gia tộc không thể biết được sự di chuyển của lực lượng đối phương cho đến khi quá muộn. Sương mù chiến tranh mô phỏng điều này. Hãy dùng lực lượng của ta để khám phá âm mưu của kẻ thù trước khi chúng hành động!
+[113] Khi bạn đã hài lòng với diện mạo avatar của mình, hãy đặt tên cho anh ta và nhấn nút dấu tích để tiếp tục.
+[114] Quân lính có thể đồn trú trong khu định cư để phòng thủ khi bị tấn công. Khi ở đó họ cũng giúp răn đe xu hướng nổi loạn của dân cư.
+[115] Kẻ địch đã mở một cuộc tấn công ven biển vào quân ta đang đồn trú trong thị trấn lâu đài. Nếu chấp nhận, quân ta sẽ xuất kích giao chiến, nhưng nếu thua trận thì địch sẽ tự động vây thành. Nếu từ chối chiến đấu, thành sẽ lập tức bị vây hãm.
+[116] Đối thủ của chúng ta, Kono, cũng nhắm tới mục tiêu giống ta – kiểm soát hòn đảo. Vì vậy việc chiếm tỉnh Iyo của họ là ưu tiên. Dù không quá quan trọng về chiến lược, Iyo sẽ giúp mở rộng lãnh thổ và đưa ta gần hơn với Honshu. Chúng ta hiện chưa xung đột với Sogo hay Miyoshi, nhưng khuất phục hoặc tiêu diệt họ sẽ giúp ta kiểm soát hoàn toàn Shikoku và tiếp cận tài nguyên cần thiết để mở rộng.
+[117] Khi đơn vị chiến đấu và sống sót qua các trận chiến, họ sẽ tích lũy kinh nghiệm, giúp cải thiện khả năng chiến đấu sau này. Kinh nghiệm cũng tăng tinh thần, khiến đơn vị ít bỏ chạy hơn khi chịu áp lực hoặc mệt mỏi.
+[118] Thông tin về nhân vật, quân đội, hạm đội, cảng hoặc khu định cư đang được chọn sẽ hiển thị tại đây. Với quân đội và hạm đội, các đơn vị cấu thành cũng được hiển thị.
+[119] Đền thờ tăng tinh thần cho tất cả đơn vị.
+[120] Thẻ Taxes hiển thị dự kiến thu nhập, tác động của thuế lên trật tự công cộng và cho phép điều chỉnh mức thuế cho từng tỉnh. Tại đây cũng có thể bật quản lý thuế và xây dựng bằng AI.
+[121] Thưa chủ nhân… chúng ta gần như phá sản. Nếu không giảm chi tiêu, kho bạc sẽ cạn trong năm mùa. Chúng ta phải giải tán đơn vị, tăng thương mại hoặc tăng thuế để tăng thu nhập.
+[122] Đây là màn hình Retainer nơi hiển thị tất cả thuộc hạ có thể dùng. Retainer chủ yếu giúp tăng sức mạnh quân đội hoặc gây bất lợi cho quân địch. Khi avatar đạt cấp 1, bạn có thể dùng 2 retainer mỗi trận; cấp càng cao thì càng dùng được nhiều.
+[123] Khi gia tộc ta ngày càng lớn mạnh, Shogun chắc chắn sẽ hành động chống lại chúng ta. Sự gần gũi với Kyoto khiến chúng ta trở thành mối đe dọa. Nếu họ không dừng lại, chúng ta sẽ phải tự hành động vì lợi ích của Nhật Bản.
+[124] Màn hình Statistics hiển thị thành tích Steam và thống kê sự nghiệp của avatar.
+[125] Junsatsushi là cảnh sát mật của chúng ta, tuyển từ chuỗi công trình barter. Họ đảm bảo lòng trung thành của tướng lĩnh, giảm tham nhũng để tăng thu nhập, bảo vệ thị trấn và quân đội khỏi hoạt động gián điệp của địch.
+[126] Có nhiều công nghệ mới có thể nghiên cứu để đưa chúng ta gần chiến thắng hơn. Mở bảng phát triển gia tộc bằng nút ở góc dưới phải màn hình.
+[127] Mỗi avatar cần một lá cờ chiến trận. Chọn thiết kế cờ và điều chỉnh màu sắc theo ý thích.
+[128] Sự tuân phục với daimyo được đo bằng trật tự công cộng. Nếu bất mãn vượt quá mức cho phép, bạo loạn có thể xảy ra. Hãy giữ thuế hợp lý, đủ lương thực và đồn trú quân để ngăn nổi loạn.
+[129] Dùng lực lượng nhỏ làm mồi nhử phục kích. Để chúng trông dễ bị tấn công và giấu lực lượng chính ở gần đó.
+[130] Ta có thể kêu gọi một gia tộc tham chiến khi đang đàm phán ngoại giao giữa hai đồng minh hoặc khi lập liên minh mới. Từ chối hỗ trợ chiến tranh không phá vỡ liên minh nhưng sẽ gây phạt quan hệ ngoại giao.
+[131] Một số gia tộc cần thêm “động lực” để chấp nhận thỏa thuận. Bạn có thể đề nghị tiền một lần hoặc trả định kỳ. Sau đó gửi đề xuất cho gia tộc Matsuda.
+[132] Vì cảng này bị tấn công khi có tàu neo đậu nên phải diễn ra trận vây hãm cảng. Nếu có phòng thủ ven biển, pháo bờ biển sẽ hỗ trợ. Để chiến thắng phải tiêu diệt hạm đội phòng thủ hoặc phá hủy công sự cảng.
+[133] Geisha có thể dùng sắc đẹp và mưu mẹo để thuyết phục điệp viên hoặc tướng địch có lòng trung thành dao động gia nhập phe ta. Tuy nhiên nếu thất bại cô ấy có thể bị bắt và xử tử.
+[134] Nâng cấp hệ thống đường sá trong tỉnh sẽ tăng khả năng thương mại, tầm nhìn, phát hiện điệp viên, tăng phạm vi di chuyển quân và tốc độ bổ sung quân số.
+[135] Lãnh địa Sendai – hậu duệ của gia tộc Date thời Sengoku. Chúng ta phải tập hợp lực lượng ủng hộ Shogun ở miền bắc và bảo vệ Kyoto cùng Edo.
+[136] Đây là các đơn vị có thể tuyển mộ. Di chuột vào thẻ đơn vị để xem chi tiết trước khi tuyển. Hãy chọn một đơn vị yari ashigaru.
+[137] Mỗi gia tộc có các đặc tính gia tộc (clan traits) riêng. Chúng có hiệu ứng thưởng hoặc phạt và tồn tại vĩnh viễn.
+[138] Nhấn Ctrl + S để lưu nhanh game trên bản đồ chiến dịch. Nhấn Ctrl + L để tải bản lưu gần nhất.
+[139] Các hạm đội nhỏ dễ bị tiêu diệt bởi lực lượng mạnh hơn, vì vậy nên hợp nhất chúng lại.
+[140] Thẻ Trade hiển thị giá tài nguyên, đối tác thương mại và lợi nhuận xuất khẩu. Một số đơn vị và công trình yêu cầu tài nguyên nhất định.
+[141] Chúng ta là Ikko Ikki, những tín đồ sùng đạo của Jodo Shinshu do nhà sư Rennyo dẫn dắt trong thời Onin War…
+[142] Để chiến thắng trận cảng, kẻ địch phải phá hủy hạm đội của ta hoặc cảng. Nếu có phòng thủ ven biển, pháo sẽ tự động bắn vào mục tiêu.
+[143] Khu định cư không có quân đồn trú sẽ tự tạo đơn vị phòng thủ khi bị tấn công.
+[144] Cách tốt nhất để tránh bị đánh bọc sườn là ngăn quân địch thực hiện điều đó. Luôn bố trí kỵ binh ở hai cánh.
+[145] Khi nhìn thấy lâu đài của Kono, chọn quân đội và nhấp chuột phải vào lâu đài để bắt đầu vây hãm.
+[146] Pháo binh là cách tốt để buộc kẻ địch trên đồi phải di chuyển.
+[147] Sư sãi (Monk) có thể cải đạo dân cư và điệp viên sang tôn giáo của mình.
+[148] Đơn vị mới nhận sau trận trước có thể thêm vào quân đội từ danh sách đơn vị.
+[149] Sword dojo tăng tấn công cận chiến và lực xung phong cho mọi đơn vị.
+[150] Quân lính có thể đồn trú trong thị trấn lâu đài để phòng thủ khi bị tấn công. Khi ở đó họ cũng đóng vai trò răn đe những xu hướng nổi loạn trong dân chúng.
+[151] Junsatsushi có thể thuyết phục dân cư của một thị trấn lâu đài thuộc gia tộc khác cùng với quân đồn trú tuyên thệ trung thành với gia tộc của chủ nhân ông ta. Không thể yêu cầu trung thành nếu ảnh hưởng của gia tộc ta trong tỉnh thấp hơn 50%. Để thực hiện, chọn junsatsushi rồi nhấp chuột phải vào mục tiêu và chọn “request allegiance”. Tuy nhiên nếu thất bại, điệp viên của ta có thể bị bắt và xử tử.
+[152] Để chọn một retainer cho trận chiến tiếp theo, nhấp đúp chuột trái vào biểu tượng retainer hoặc kéo thả vào ô retainer trống ở bên phải màn hình. Di chuột vào biểu tượng để xem thông tin. Khi xong, nhấn dấu tích để đóng bảng.
+[153] Khi phòng thủ lãnh thổ, việc biết quân địch có thể di chuyển xa đến đâu là rất quan trọng. Nhấp vào đạo quân địch để xem phạm vi di chuyển của họ. Nếu một đạo quân chặn đường, địa hình tại điểm nghẽn sẽ được đánh dấu. Ta phải đánh bại họ hoặc tìm đường khác.
+[154] Thẻ này tập hợp tất cả báo cáo, bản tóm tắt và thông báo liên quan đến gia tộc. Nhấp vào một mục để xem nội dung. Khi sự kiện quan trọng xảy ra, bảng này sẽ tự động mở.
+[155] Chúng ta là Shimazu. Đây là thời khắc thuận lợi cho gia tộc: chúng ta đã trở thành chủ nhân của tỉnh Satsuma và còn tiếp xúc với một con tàu buôn từ phương Tây xa xôi. Những người nanban mang đến cơ hội thương mại lớn và quan trọng hơn là teppo – súng hỏa mai. Việc thiết lập quan hệ thương mại với họ nên là ưu tiên hàng đầu.
+[156] Shinobi hoạt động như sát thủ, gián điệp, kẻ phá hoại và trinh sát, được tuyển từ chuỗi công trình quân sự truyền thống. Khi đi cùng quân đội, họ tăng tầm nhìn và khả năng di chuyển. Shinobi vô hình với kẻ địch cho đến khi bị phát hiện.
+[157] Khi tấn công kẻ địch không chịu di chuyển, hãy ngồi lại và bắn vào họ nếu có thể. Ngay cả khi họ có ưu thế về quân bắn xa thì đôi khi vẫn đáng để thử.
+[158] Nút Withdraw khiến đơn vị hoặc tàu rời khỏi chiến trường bằng con đường ngắn nhất tới rìa bản đồ. Có thể gọi họ quay lại bất cứ lúc nào trước khi rời hẳn chiến trường.
+[159] Trong giai đoạn triển khai quân, bạn có thể bí mật sắp xếp đơn vị trong khu vực triển khai. Tướng địch sẽ triển khai ở phía đối diện. Bên tấn công luôn triển khai trước. Khi sẵn sàng chiến đấu, nhấn nút gong.
+[160] Giờ bạn đã sẵn sàng kiểm soát toàn bộ Nhật Bản và các vùng biển xung quanh. Một con tàu đã được đặt gần tỉnh khởi đầu của bạn. Nó có thể dùng để chiếm vùng biển và cho phép avatar tiếp cận các tỉnh ven biển lân cận.
+[161] Có ba cách để đưa quân ra khỏi khu định cư: Chọn khu định cư rồi nhấp chuột phải tới điểm muốn đến. Chọn một đơn vị rồi nhấp chuột phải tới điểm muốn đến. Kéo thả đơn vị ra bản đồ. Nhấn Ctrl + click trái để chọn nhiều đơn vị cùng lúc.
+[162] Những con ngựa tốt ở Awa giúp chúng ta có kỵ binh vượt trội, còn đá ở Sanuki giúp xây dựng lâu đài kiên cố. Đây cũng là những tài nguyên thương mại giá trị. Tuy nhiên sức mạnh gia tăng sẽ khiến Kyoto chú ý và Shogun có thể huy động các chư hầu chống lại chúng ta.
+[163] Dưới sự bảo vệ của gia tộc Shimozuma, chúng ta được bảo đảm an toàn bởi những chiến binh sùng đạo nhất. Tuy nhiên chẳng bao lâu nữa chúng ta sẽ lại bị đe dọa. Việc quay lại tỉnh Omi sẽ rất có lợi vì đất đai màu mỡ và có ninja địa phương hỗ trợ khi chiến tranh bùng nổ.
+[164] Điệp viên đối địch có thể bị loại bỏ bằng ám sát. Chọn mục tiêu cho shinobi và xem tỷ lệ thành công trước khi xác nhận. Thất bại có thể dẫn đến việc bị bắt và xử tử.
+[165] Nếu gặp khó khăn trong việc duy trì trật tự công cộng, có thể miễn thuế tạm thời cho tỉnh cho đến khi dân chúng ổn định hoặc có đủ quân đồn trú. Điều này đặc biệt hữu ích sau khi chiếm tỉnh mới.
+[166] Daimyo là lãnh đạo gia tộc và cũng là một vị tướng tài. Ông có thể chỉ huy quân đội như bất kỳ tướng nào khác. Tuy nhiên ông cũng có thể bị giết, vì vậy cần tránh rủi ro không cần thiết.
+[167] Bảng Clan Panel cho phép bạn tạo hoặc tham gia một clan multiplayer. Việc tham gia clan giúp mở khóa các kỹ năng đơn vị veteran tốt nhất.
+[168] Bảng này cho phép chọn công nghệ để nghiên cứu nhằm tạo lợi thế trước đối thủ. Chỉ cần chọn công nghệ mong muốn. Một số công trình yêu cầu công nghệ nhất định trước khi xây dựng.
+[169] Trước khi tiếp tục hành trình chinh phục Nhật Bản, bạn nên khám phá màn hình Avatar. Chọn nút avatar trên thanh công cụ.
+[170] Lãnh địa Obama – gia tộc Sakai trung thành với Tokugawa. Chúng ta phải ngăn chặn phe ủng hộ Thiên Hoàng và bảo vệ Kyoto cũng như Edo.
+[171] Các hiệu ứng thưởng từ sự kiện, nhiệm vụ, lựa chọn hoặc clan traits sẽ hiển thị ở đây. Một số vĩnh viễn, số khác chỉ kéo dài vài lượt.
+[172] Khi bất mãn quá lớn, nông dân sẽ nổi loạn. Nguyên nhân có thể gồm: danh dự daimyo thấp, thiếu lương thực, thuế cao, quân địch hoành hành hoặc bất ổn tôn giáo.
+[173] Monomi hoạt động như sát thủ, gián điệp, kẻ phá hoại và trinh sát, được tuyển từ công trình đặc biệt của tỉnh. Họ có thể lập mạng lưới gián điệp trong thị trấn lâu đài để phát hiện lực lượng địch ẩn nấp.
+[174] Dùng shinobi để phá hoại công trình của địch. Nhấp chuột phải vào khu định cư và chọn công trình cần phá hoại.
+[175] Avatar của bạn cũng cần một quê hương và binh lính. Hãy chọn tỉnh khởi đầu cẩn thận vì mỗi tỉnh có lợi ích khác nhau.
+[176] Daimyo không có loyalty mà có honour (danh dự). Nếu danh dự giảm, lòng trung thành của các tướng cũng giảm.
+[177] Gatling gun là loại súng máy sơ khai với nhiều nòng quay. Nó có tốc độ bắn cực cao và sát thương lớn nhưng kíp vận hành sẽ bị tiêu diệt nhanh nếu bị cận chiến.
+[178] Gửi nhiều tàu buôn đến cùng một trạm thương mại để tăng phần hàng hóa, hoặc cướp tuyến thương mại của địch để chiếm thu nhập của họ. Tuy nhiên tấn công thương mại là hành động chiến tranh.
+[179] Nếu lâu đài hoặc quân đội bị tấn công từ biển, phe phòng thủ có thể chặn đánh. Nếu không, kẻ tấn công sẽ lập tức vây thành.
+[180] Đơn vị sống sót qua các trận chiến sẽ tích lũy kinh nghiệm, giúp tăng tinh thần và khả năng chiến đấu.
+[181] Cây gia phả của gia tộc, người thừa kế của daimyo và các chức vụ cố vấn được hiển thị trong bảng quản lý gia tộc.
+[182] Bạn có thể nhấn biểu tượng Fight Battle hoặc Battle List để tìm đối thủ online. Khi khám phá các tỉnh có dojo, bạn sẽ mở khóa thêm nhiều loại quân.
+[183] Foreign veteran có thể thách đấu tay đôi với bất kỳ điệp viên nào (trừ geisha). Kết quả là một bên bị thương hoặc chết. Nếu không giết được đối thủ đã thách đấu, gia tộc bạn sẽ bị phạt ngoại giao.
+[184] Quân đội bị tổn thất cần bổ sung quân số. Nếu có tướng và đang ở tỉnh thân thiện, việc bổ sung sẽ tự động diễn ra.
+[185] Chọn nút Back để quay lại bản đồ chinh phục của avatar.
+[186] Một retainer mới đã được mở khóa. Nhấn nút hiển thị retainers để sử dụng phần thưởng này.
+[187] Các đơn vị veteran bị tổn thất phải được để ngoài quân đội trong một trận để hồi phục hoàn toàn.
+[188] Nút Melee khóa các đơn vị vào chế độ cận chiến. Mọi lệnh tấn công sẽ trở thành đánh tay đôi cho đến khi tắt chế độ.
+[189] Vậy là thỏa thuận đã được ký kết. Mùa tới sẽ rất thịnh vượng! Khi sẵn sàng, hãy nhấn End Turn.
+[190] Chúng ta là Taira. Chiến lược quân sự và chính trị vượt trội đã giúp chúng ta gần như kiểm soát toàn bộ đất nước, đánh bại Fujiwara và khuất phục Minamoto…
+[191] Shinsengumi có thể trấn áp dân chúng bất mãn bằng cách tăng mức đàn áp trong thị trấn.
+[192] Lãnh địa Jozai – gia tộc Hayashi trung thành với Mạc phủ. Chúng ta phải bảo vệ Shogun và ngăn kẻ thù chiếm Edo hoặc Kyoto.
+[193] Một đơn vị mới đã được mở khóa và có thể sử dụng.
+[194] Các tướng coi trọng chức vụ quân sự hơn dân sự, nhưng cả hai đều tăng lòng trung thành và mang lại nhiều lợi ích.
+[195] Tanemune phải chịu trách nhiệm cho cuộc xung đột đã gây ra. Sau khi đánh bại ông ta, chúng ta phải tái thiết và đối phó với gia tộc Mogami.
+[196] Nếu khó giữ trật tự công cộng, có thể ngừng thu thuế tạm thời cho đến khi dân cư ổn định hoặc có đủ quân đồn trú.
+[197] Trong cây kỹ năng avatar, bạn có thể dùng điểm kỹ năng vừa nhận để mở các kỹ năng mới.
+[198] Sau khi chiếm khu định cư, cần để lại quân đồn trú đủ mạnh để dập tắt bất ổn cho đến khi dân cư ổn định.
+[199] Tuyến thương mại của Miyoshi giờ đã dễ bị tấn công. Hãy chọn hạm đội và nhấp chuột phải vào tuyến thương mại của họ để cướp bóc, từ đó chiếm một phần thu nhập thương mại của họ.

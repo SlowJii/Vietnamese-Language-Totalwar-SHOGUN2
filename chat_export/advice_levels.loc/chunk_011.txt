@@ -1,0 +1,103 @@
+=== CHUNK 11/14 — advice_levels.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[1000] Capture Sanuki
+[1001] Clan Fame
+[1002] Avatar Conquest Mode
+[1003] Outflanking with Cavalry
+[1004] Army & Fleet Management
+[1005] Clan Development Levels
+[1006] Multiplayer_battle
+[1007] Dilemmas
+[1008] Looting
+[1009] The Clan Management Panel
+[1010] Shirabyoshi
+[1011] Naval Bombardment
+[1012] Coastal Assault!
+[1013] Trade Routes
+[1014] We are the Date
+[1015] Unit Abilities
+[1016] Diplomacy
+[1017] Construction
+[1018] Assassination
+[1019] We are the Fujiwara
+[1020] Looting
+[1021] Video Tutorials
+[1022] General Commissions
+[1023] We are the Date
+[1024] Exempting Provinces from Taxation
+[1025] Avatar Conquest Mode
+[1026] Province Control
+[1027] Raiding
+[1028] Geishas
+[1029] Go Forth & Conquer!
+[1030] Incite Revolt
+[1031] Passive Spying
+[1032] Avatar Conquest Mode
+[1033] Unit Experience
+[1034] Clan Management
+[1035] Conquest Map
+[1036] Single Combat
+[1037] Unit Replenishment
+[1038] Avatar Conquest Mode
+[1039] Avatar Conquest Mode
+[1040] Multiplayer_battle
+[1041] Melee Button
+[1042] Diplomacy
+[1043] We are the Taira
+[1044] Subdue Dissidents
+[1045] Jozai
+[1046] Avatar Conquest Mode
+[1047] General's Influence
+[1048] Cavalry Fatigue
+[1049] New Vassal Clan
+[1050] War of Attrition
+[1051] War
+[1052] The Daimyo
+[1053] Avatar Conquest Mode
+[1054] Exchange Hostages
+[1055] Castle Upgrade
+[1056] We are the Hojo
+[1057] Customising Your Avatar
+[1058] Revealing the Map
+[1059] Nagaoka
+[1060] Family & Council
+[1061] Becoming Shogun
+[1062] We are the Hattori
+[1063] Armies
+[1064] Incite Revolt
+[1065] Avatar Conquest Mode
+[1066] Saga
+[1067] Monks
+[1068] Avatar Conquest Mode
+[1069] Multiplayer_battle
+[1070] Rioting!
+[1071] Spy Networks
+[1072] Natural Disasters
+[1073] Avatar Conquest Mode
+[1074] Castle Towns & Ports
+[1075] Indoctrination
+[1076] Ship Upgrades
+[1077] Avatar Conquest Mode
+[1078] Recruitment in the Field
+[1079] Movement Points Exhausted
+[1080] Modify Retainers
+[1081] Avatar Conquest Mode
+[1082] Agent Recruitment
+[1083] Losing Money
+[1084] Character Upgrade
+[1085] Coastal Defences
+[1086] Rally Populace
+[1087] Multiplayer_battle
+[1088] Reinforcements
+[1089] Scouting
+[1090] We are the Hattori
+[1091] Boarding Ships
+[1092] Victory Conditions & Missions
+[1093] User Interface
+[1094] Friendly Fire
+[1095] Bankrupt!
+[1096] Character Upgrade
+[1097] Instil Fervour
+[1098] Avatar Conquest Mode
+[1099] Apprehension

@@ -1,0 +1,574 @@
+{
+  "filename": "aide_de_camp_speeches.loc.tsv",
+  "category": "dialogue",
+  "header_lines": [
+    "key\ttext\ttooltip",
+    "#Loc;1;text/db/aide_de_camp_speeches.loc\t\t"
+  ],
+  "rows": [
+    {
+      "key": "aide_de_camp_speeches_text_adc_enemy_gates_captured",
+      "text": "The gates are ours!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_enemy_walls_breached",
+      "text": "The walls are destroyed! Into the breach!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_enemy_reinforcements",
+      "text": "Beware! Enemy reinforcements have arrived my lord!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_tower_lost",
+      "text": "The enemy have taken a tower!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_unit_lost",
+      "text": "Our entire unit has perished, my lord!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_ship_lost",
+      "text": "Our ship has been destroyed! All hands are lost!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_enemy_has_gatling_guns",
+      "text": "My Lord; the enemy army contains the deadly gatling gun weapon",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_tower_destroyed",
+      "text": "Our tower has fallen to their fire!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_allied_hidden_unit_spotted",
+      "text": "The enemy has discovered our ally's hidden troops!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_fort_about_to_be_captured",
+      "text": "Sir! We cannot hold this position much longer!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_ship_boom",
+      "text": "Our ship has exploded!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_enemy_tower_captured",
+      "text": "We have captured their tower, my lord!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_gates_lost",
+      "text": "Our gate has fallen to the enemy!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_general_attacked",
+      "text": "Our general is in grave danger, my lord!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_torpedo_near",
+      "text": "Beware! A torpedo approaches our fleet",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_enemy_allied_general_killed",
+      "text": "The enemy has lost a vital ally, my lord!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_enemy_fort_getting_captured",
+      "text": "Onwards, sir, onwards, the fort is falling!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_admiral_attacked",
+      "text": "Our general is under threat, my lord! He is too important to lose!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_enemy_general_killed",
+      "text": "My lord, their general has fallen! A cutting blow!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_ship_surrendered",
+      "text": "One of our ships has chosen dishonour, my lord!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_naval_bombardment",
+      "text": "Sir! The enemy have called in a bombardment. It may target our position!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_unit_out_of_ammo",
+      "text": "One of our units have used all its ammunition, my lord.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_enemy_tower_destroyed",
+      "text": "Our weapons made short work of their tower!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_enemy_admiral_killed",
+      "text": "Their general has fallen! A devastating loss for the enemy!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_losing",
+      "text": "All hope is failing, my lord! The battle is almost done!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_weather_rain",
+      "text": "The weather looks ominous, my lord! We should be wary of misfires.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_general_injured",
+      "text": "Our general has been injured, my lord! He lives, but must leave the battle!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_allied_general_killed",
+      "text": "Our ally has fallen to the enemy my lord! A terrible loss!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_unit_suppressed",
+      "text": "One of our units is under suppression fire!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_enemy_ally_destroyed",
+      "text": "Their ally has abandoned them! Now we have them!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_enemy_captured_strategic_point",
+      "text": "They now control a key position, my lord!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_ship_being_boarded",
+      "text": "Here they come! Prepare to repel boarders!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_allied_fleet_destroyed",
+      "text": "Bah! Our esteemed ally has turned about, leaving us to the mercy of our foes!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_ship_within_coastal_battery",
+      "text": "Beware! Our ship is in range of a coastal battery",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_enemy_hidden_unit_spotted",
+      "text": "Hidden units, my lord, treacherously meant to ambush us!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_building_captured",
+      "text": "We have captured a building, my lord!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_ship_routed",
+      "text": "One of our ships is withdrawing!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_hidden_unit_spotted",
+      "text": "Our hidden units have been discovered my lord!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_unit_routed",
+      "text": "Our men are running from the battlefield: a shameful display!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_unit_exhausted",
+      "text": "The men are fatigued, my lord, and some must rest!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_winning",
+      "text": "My lord, a glorious victory will soon be yours!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_ally_destroyed",
+      "text": "My lord! Our ally has fled, abandoning us to the enemy!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_ally_attacked",
+      "text": "Our allies are under attack!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_player_is_attacker",
+      "text": "My Lord, a friendly reminder that you are the attacker",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_general_killed",
+      "text": "This is a black day! Our general has fallen , my lord.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_admiral_killed",
+      "text": "Our general has fallen, my lord! Our men are shaken by this terrible event!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_unit_line_of_sight_obstructed",
+      "text": "We cannot see our targets but will try to hit them",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_walls_breached",
+      "text": "Our walls crumble under the pounding of their weapons!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_reinforcements",
+      "text": "Reinforcements have arrived!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_ship_demasted",
+      "text": "One of our ships has lost its sails! It may not last much longer in such a state!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_enemy_fort_about_to_be_captured",
+      "text": "The fort is but moments from being ours, sir!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_player_is_defender",
+      "text": "My Lord, a friendly reminder that you are the defender",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_enemy_naval_bombardment",
+      "text": "Naval bombardment incoming!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_fort_getting_captured",
+      "text": "Sir, our defences are breached and failing!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_own_ship_on_fire",
+      "text": "Fire! One of our ships has been set ablaze!",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "aide_de_camp_speeches_text_adc_enemy_captured_building",
+      "text": "They have captured a building, my lord!",
+      "tooltip": "true",
+      "empty": false
+    }
+  ],
+  "translatable": [
+    {
+      "row_index": 0,
+      "text": "The gates are ours!"
+    },
+    {
+      "row_index": 1,
+      "text": "The walls are destroyed! Into the breach!"
+    },
+    {
+      "row_index": 2,
+      "text": "Beware! Enemy reinforcements have arrived my lord!"
+    },
+    {
+      "row_index": 3,
+      "text": "The enemy have taken a tower!"
+    },
+    {
+      "row_index": 4,
+      "text": "Our entire unit has perished, my lord!"
+    },
+    {
+      "row_index": 5,
+      "text": "Our ship has been destroyed! All hands are lost!"
+    },
+    {
+      "row_index": 6,
+      "text": "My Lord; the enemy army contains the deadly gatling gun weapon"
+    },
+    {
+      "row_index": 7,
+      "text": "Our tower has fallen to their fire!"
+    },
+    {
+      "row_index": 8,
+      "text": "The enemy has discovered our ally's hidden troops!"
+    },
+    {
+      "row_index": 9,
+      "text": "Sir! We cannot hold this position much longer!"
+    },
+    {
+      "row_index": 10,
+      "text": "Our ship has exploded!"
+    },
+    {
+      "row_index": 11,
+      "text": "We have captured their tower, my lord!"
+    },
+    {
+      "row_index": 12,
+      "text": "Our gate has fallen to the enemy!"
+    },
+    {
+      "row_index": 13,
+      "text": "Our general is in grave danger, my lord!"
+    },
+    {
+      "row_index": 14,
+      "text": "Beware! A torpedo approaches our fleet"
+    },
+    {
+      "row_index": 15,
+      "text": "The enemy has lost a vital ally, my lord!"
+    },
+    {
+      "row_index": 16,
+      "text": "Onwards, sir, onwards, the fort is falling!"
+    },
+    {
+      "row_index": 17,
+      "text": "Our general is under threat, my lord! He is too important to lose!"
+    },
+    {
+      "row_index": 18,
+      "text": "My lord, their general has fallen! A cutting blow!"
+    },
+    {
+      "row_index": 19,
+      "text": "One of our ships has chosen dishonour, my lord!"
+    },
+    {
+      "row_index": 20,
+      "text": "Sir! The enemy have called in a bombardment. It may target our position!"
+    },
+    {
+      "row_index": 21,
+      "text": "One of our units have used all its ammunition, my lord."
+    },
+    {
+      "row_index": 22,
+      "text": "Our weapons made short work of their tower!"
+    },
+    {
+      "row_index": 23,
+      "text": "Their general has fallen! A devastating loss for the enemy!"
+    },
+    {
+      "row_index": 24,
+      "text": "All hope is failing, my lord! The battle is almost done!"
+    },
+    {
+      "row_index": 25,
+      "text": "The weather looks ominous, my lord! We should be wary of misfires."
+    },
+    {
+      "row_index": 26,
+      "text": "Our general has been injured, my lord! He lives, but must leave the battle!"
+    },
+    {
+      "row_index": 27,
+      "text": "Our ally has fallen to the enemy my lord! A terrible loss!"
+    },
+    {
+      "row_index": 28,
+      "text": "One of our units is under suppression fire!"
+    },
+    {
+      "row_index": 29,
+      "text": "Their ally has abandoned them! Now we have them!"
+    },
+    {
+      "row_index": 30,
+      "text": "They now control a key position, my lord!"
+    },
+    {
+      "row_index": 31,
+      "text": "Here they come! Prepare to repel boarders!"
+    },
+    {
+      "row_index": 32,
+      "text": "Bah! Our esteemed ally has turned about, leaving us to the mercy of our foes!"
+    },
+    {
+      "row_index": 33,
+      "text": "Beware! Our ship is in range of a coastal battery"
+    },
+    {
+      "row_index": 34,
+      "text": "Hidden units, my lord, treacherously meant to ambush us!"
+    },
+    {
+      "row_index": 35,
+      "text": "We have captured a building, my lord!"
+    },
+    {
+      "row_index": 36,
+      "text": "One of our ships is withdrawing!"
+    },
+    {
+      "row_index": 37,
+      "text": "Our hidden units have been discovered my lord!"
+    },
+    {
+      "row_index": 38,
+      "text": "Our men are running from the battlefield: a shameful display!"
+    },
+    {
+      "row_index": 39,
+      "text": "The men are fatigued, my lord, and some must rest!"
+    },
+    {
+      "row_index": 40,
+      "text": "My lord, a glorious victory will soon be yours!"
+    },
+    {
+      "row_index": 41,
+      "text": "My lord! Our ally has fled, abandoning us to the enemy!"
+    },
+    {
+      "row_index": 42,
+      "text": "Our allies are under attack!"
+    },
+    {
+      "row_index": 43,
+      "text": "My Lord, a friendly reminder that you are the attacker"
+    },
+    {
+      "row_index": 44,
+      "text": "This is a black day! Our general has fallen , my lord."
+    },
+    {
+      "row_index": 45,
+      "text": "Our general has fallen, my lord! Our men are shaken by this terrible event!"
+    },
+    {
+      "row_index": 46,
+      "text": "We cannot see our targets but will try to hit them"
+    },
+    {
+      "row_index": 47,
+      "text": "Our walls crumble under the pounding of their weapons!"
+    },
+    {
+      "row_index": 48,
+      "text": "Reinforcements have arrived!"
+    },
+    {
+      "row_index": 49,
+      "text": "One of our ships has lost its sails! It may not last much longer in such a state!"
+    },
+    {
+      "row_index": 50,
+      "text": "The fort is but moments from being ours, sir!"
+    },
+    {
+      "row_index": 51,
+      "text": "My Lord, a friendly reminder that you are the defender"
+    },
+    {
+      "row_index": 52,
+      "text": "Naval bombardment incoming!"
+    },
+    {
+      "row_index": 53,
+      "text": "Sir, our defences are breached and failing!"
+    },
+    {
+      "row_index": 54,
+      "text": "Fire! One of our ships has been set ablaze!"
+    },
+    {
+      "row_index": 55,
+      "text": "They have captured a building, my lord!"
+    }
+  ],
+  "total_chunks": 1,
+  "chunk_size": 80
+}

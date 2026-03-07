@@ -1,0 +1,60 @@
+[0] Bộ giáp: Scale Cuirass
+[1] Bộ giáp: Blade Master
+[2] Gia huy: Thăng cấp Gia tộc Bậc 1
+[3] Gia huy thành tựu: Chiếm 1 Vùng Clanmap
+[4] Gia huy thành tựu: Tham gia 1 Trận đánh Drop-In
+[5] Gia huy thành tựu: Chiến thắng Mùa giải Gia tộc
+[6] Bộ giáp: Oda Nobunaga
+[7] Bộ giáp: Kato Kiyomasa
+[8] Đồng phục Shinsengumi 2
+[9] Đồng phục Shinsengumi 1
+[10] Gia huy thành tựu: Gia nhập Gia tộc
+[11] Bộ giáp: Toyotomi Hideyoshi
+[12] Bộ giáp: Maeda Toshie
+[13] Bộ giáp: Date Masamune
+[14] Bộ giáp: Kawari Kabuto
+[15] Bộ giáp: Sparse Point Laced
+[16] Đồng phục Samurai Hậu kỳ 3
+[17] Đồng phục Samurai Hậu kỳ 2
+[18] Bộ giáp: Catfish Tail
+[19] Món giáp: Clan Champions
+[20] Bộ giáp: Itakura Katsushige
+[21] Gia huy thành tựu: Tham gia 1 Trận hải chiến
+[22] Bộ giáp: Ichinotani
+[23] Bộ giáp: Morning Glory
+[24] Bộ giáp: Kiểu phương Tây
+[25] Bộ giáp: Silver Scale Cuirass
+[26] Bộ giáp: Golden Scale Cuirass
+[27] Gia huy thành tựu: Tham gia 1 Trận đánh Nhanh
+[28] Gia huy thành tựu: Bảng xếp hạng Gia tộc Top 25
+[29] Gia huy thành tựu: Đổi màu Quân đội
+[30] Gia huy thành tựu: Bảng xếp hạng Gia tộc Top 10
+[31] Gia huy thành tựu: Chiếm 5 Vùng Clanmap
+[32] Bộ giáp: Multicolour Laced
+[33] Bộ giáp: Honda Tadakatsu
+[34] Đồng phục Hiện đại 3
+[35] Đồng phục Hiện đại 2
+[36] Đồng phục Hiện đại 4
+[37] Gia huy: Thăng cấp Gia tộc
+[38] Đồng phục Pháp
+[39] Bộ giáp: Akechi Mitsuharu
+[40] Bộ giáp: Triple Hollyhock
+[41] Đồng phục Mỹ 1
+[42] Đồng phục Mỹ 2
+[43] Gia huy thành tựu: Bảng xếp hạng Gia tộc Top 1
+[44] Bộ giáp: Uesugi Kenshin
+[45] Bộ giáp: Default PLACEHOLDER
+[46] Gia huy thành tựu: Bảng xếp hạng Gia tộc Top 100
+[47] Bộ giáp: Hosokawa Tadaoki
+[48] Đồng phục Anh
+[49] Bộ giáp: Robes of the Ikko Ikki
+[50] Đồng phục Sĩ quan 2
+[51] Đồng phục Sĩ quan 1
+[52] Bộ giáp: Goldfish Scale
+[53] Gia huy thành tựu: Thu thập 25% tất cả vật phẩm
+[54] Gia huy thành tựu: Thu thập 50% tất cả vật phẩm
+[55] Gia huy thành tựu: Thu thập 75% tất cả vật phẩm
+[56] Bộ giáp: Naoe Kanetsugu
+[57] Gia huy thành tựu: Tham gia 1 Trận đánh Trên bộ
+[58] Bộ giáp của Đại Soái
+[59] Bộ giáp: Tokugawa Ieyasu

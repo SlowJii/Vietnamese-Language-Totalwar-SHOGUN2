@@ -1,0 +1,100 @@
+[1100] Đặc vụ – Ninja
+[1101] Bản đồ radar & danh sách
+[1102] Ủy viên
+[1103] Thám hiểm
+[1104] Lực lượng trừng phạt
+[1105] Chế độ Avatar Conquest
+[1106] Ngoại giao giữa các gia tộc
+[1107] Quân kỳ cựu
+[1108] Hỏa lực hải quân yểm trợ
+[1109] Sự giàu có của tỉnh & phát triển thị trấn
+[1110] Tài nguyên tỉnh
+[1111] Chúng ta là Hattori
+[1112] Hiển thị cây kỹ năng
+[1113] Ám sát
+[1114] Chế độ Avatar Conquest
+[1115] Khu định cư không có quân đồn trú
+[1116] Giám sát
+[1117] Cảng
+[1118] Chúng ta là Mori
+[1119] Chế độ Avatar Conquest
+[1120] Trật tự công cộng
+[1121] Các tỉnh
+[1122] Cảng
+[1123] Quân kỳ cựu
+[1124] Trận chiến nhiều người chơi
+[1125] Di chuyển quân đội
+[1126] Gia tộc Otomo
+[1127] Trạm thương mại
+[1128] Chúng ta là Mori
+[1129] Giải trí
+[1130] Chiến đấu bằng kỵ binh
+[1131] Đặc vụ – Metsuke
+[1132] Tài chính
+[1133] Đánh đắm tàu
+[1134] Sou
+[1135] Thuyết phục binh lính
+[1136] Mục tiêu nghiên cứu
+[1137] Chế độ Avatar Conquest
+[1138] Lòng trung thành
+[1139] Đàn áp
+[1140] Giữ trong nơi ẩn nấp
+[1141] Vùng kiểm soát
+[1142] Đánh dấu camera
+[1143] Chi phí duy trì quá cao!
+[1144] Đổ bộ
+[1145] Rời khỏi thị trấn lâu đài
+[1146] Đánh vòng sườn bộ binh
+[1147] Trận Drop-in
+[1148] Đã chọn đơn vị nước ngoài
+[1149] Cảng
+[1150] Tuyển mộ
+[1151] Bảng xem lại
+[1152] Tránh quân tinh nhuệ của chúng
+[1153] Phá hoại
+[1154] Tuyến thương mại bị cướp phá
+[1155] Cọc gỗ phòng thủ
+[1156] Điều khiển tốc độ game
+[1157] Di chuyển
+[1158] Tuyển mộ
+[1159] Nút trợ giúp
+[1160] Sengoku Jidai
+[1161] Giai đoạn trì hoãn
+[1162] Hiệp định thương mại lâu dài
+[1163] Cố định và tiêu diệt lực lượng
+[1164] Chuẩn bị chiến đấu!
+[1165] Chiến tranh
+[1166] Đánh vào điểm yếu chí mạng
+[1167] Tiêu hao
+[1168] Tụt lại phía sau
+[1169] Tài nguyên
+[1170] Quyền đi lại quân sự
+[1171] Nhắm vào đơn vị mạnh nhất của chúng
+[1172] Tập hợp binh lính
+[1173] Chi tiết nghệ thuật
+[1174] Đặc sản tỉnh
+[1175] Tuyến thương mại bị cướp phá
+[1176] Chiến tranh
+[1177] Wako (hải tặc)
+[1178] Nút đội hình nhóm
+[1179] Tùy tùng
+[1180] Tướng lĩnh
+[1181] Cán cân sức mạnh
+[1182] Bảng tài chính
+[1183] Hạ tầng thuế không đủ
+[1184] Chính sách tiêu thổ
+[1185] Giết tướng của chúng
+[1186] Nghệ thuật
+[1187] Nút nhóm
+[1188] Điều khiển camera
+[1189] Ám sát
+[1190] Phá sản!
+[1191] Do thám thụ động
+[1192] Chờ phục kích
+[1193] Di chuyển quân đội
+[1194] Mạng lưới thương mại chưa phát triển
+[1195] Chi tiết nhân vật đồng minh, trung lập hoặc địch
+[1196] Dập tắt nổi dậy nhanh chóng!
+[1197] Thứ tự triển khai quân
+[1198] Mỏ
+[1199] Chiến đấu từ trên dốc xuống

@@ -1,0 +1,100 @@
+[400] Các đơn vị cựu binh sẽ được thêm vào danh sách tuyển quân tiêu chuẩn khi chiến dịch của bạn tiến triển. Nếu một đơn vị chiến đấu xuất sắc trong trận chiến, bạn sẽ có thể tuyển mộ nó dưới dạng cựu binh. Sau đó đơn vị này sẽ xuất hiện trong tab đơn vị cựu binh trong suốt phần còn lại của chiến dịch. Nó sẽ tiếp tục tích lũy kinh nghiệm khi chiến đấu. Số lượng cựu binh bạn có thể tuyển mộ bị giới hạn, nhưng sẽ tăng lên khi cấp độ avatar của bạn tăng, được hiển thị bằng các ô được đánh dấu trong tab đơn vị cựu binh.
+[401] Hoàn thành một bộ giáp sẽ mở khóa một tùy tùng quý giá cho quân đội của bạn.
+[402] Ngoại giao cho phép gia tộc đàm phán về liên minh, chiến tranh và thương mại. Để bắt đầu thương lượng với gia tộc khác, hãy chọn họ từ danh sách thả xuống gắn với bản đồ radar và nhấp đúp vào đó. Ngoài ra, bạn có thể nhấn nút ngoại giao ở góc dưới bên phải màn hình rồi chọn gia tộc từ đó.
+[403] Khi tích lũy kinh nghiệm, các đơn vị cựu binh sẽ nhận được kỹ năng và khả năng mới thông qua nút kỹ năng trên bảng thông tin đơn vị. Tổn thất của cựu binh được giữ lại qua các trận chiến và có thể theo dõi trên bảng này. Một đơn vị cựu binh sẽ hồi phục đầy đủ quân số nếu không tham gia trận chiến.
+[404] Nếu có hạm đội gần đó, bạn có thể gọi hỏa lực hỗ trợ bằng nút hỗ trợ pháo hải quân trên bảng tổng kết trận đánh. Sau khi nhấn, chỉ cần nhấp chuột trái vào khu vực chiến trường bạn muốn bắn phá. Lệnh bắn hỗ trợ có thể hủy bằng cách nhấp chuột phải vào bất kỳ nơi nào trên đất liền hoặc biển ngoài giao diện. Hỏa lực hỗ trợ vốn không chính xác nên các đơn vị đồng minh đứng gần có thể chịu thiệt hại ngoài ý muốn.
+[405] Sự giàu có của một tỉnh là tổng thu nhập cơ bản từ khu định cư, trang trại, cảng và các công trình đặc biệt của tỉnh, trừ đi thuế. Thu nhập ròng này hiển thị ở góc dưới bên trái của bảng chi tiết tỉnh. Phần dưới bên phải hiển thị các yếu tố ảnh hưởng đến tăng trưởng kinh tế bổ sung của khu định cư trong lượt tiếp theo và các lượt sau.
+[406] Nhiều tỉnh có công trình đặc biệt như trường học, mỏ hoặc địa điểm linh thiêng. Các tài nguyên này có thể được phát triển, trao đổi hoặc dùng để xây dựng các công trình cao cấp hơn. Tất cả đều rất đáng sở hữu.
+[407] Chúng ta là Hattori. Trong nhiều năm tỉnh của chúng ta đã chống lại âm mưu của các lãnh chúa — một liên minh các gia tộc độc lập được bảo vệ bởi sự am hiểu địa hình và bậc thầy ninjutsu phái Iga. Nhưng thời thế đã thay đổi. Khi chiến tranh giữa các gia tộc leo thang, những thế lực mới đang trỗi dậy. Các gia tộc lớn này khao khát chinh phục và sẽ làm mọi thứ để khẳng định sức mạnh. Sự an toàn của quê hương Iga và người dân phải được bảo vệ.
+[408] Bạn có thể phân bổ kỹ năng khi avatar tăng cấp. Mỗi cấp sẽ nhận được hai điểm kỹ năng; các điểm có thể dùng được hiển thị ở góc dưới bên phải của bảng.
+[409] Đặc vụ đối địch có thể bị loại bỏ bằng ám sát. Hãy chọn mục tiêu cho ishin shishi của chúng ta tiêu diệt. Trước khi xác nhận lệnh, hãy cân nhắc liệu tỷ lệ thành công có đáng với rủi ro hay không, vì thất bại có thể dẫn đến bị bắt và xử tử.
+[410] Tuyệt vời! Bạn đang tiến tới kiểm soát một tỉnh mới và nhận phần thưởng của nó. Phần thưởng của tỉnh có thể xem bằng cách đưa chuột lên tỉnh mà bạn quan tâm.
+[411] Chúng ta đang bỏ trống khu định cư của mình; điều này có thể dẫn đến việc nó bị chiếm và gia tộc bị tiêu diệt trước khi chiến dịch kịp bắt đầu!
+[412] Metsuke có thể phát hiện và bắt giữ đặc vụ địch. Thành công sẽ dẫn đến việc chúng bị giam giữ hoặc xử tử.
+[413] Hãy di chuyển ninja của bạn vào tỉnh Sanuki ở lượt tiếp theo; đặc vụ không thể sử dụng ngay sau khi được tuyển mộ.
+[414] Nhấp vào bất kỳ khu vực nào trên bản đồ radar để chuyển nhanh đến đó. Nút + và - cho phép phóng to hoặc thu nhỏ bản đồ. Danh sách quân đội, hạm đội, đặc vụ, tỉnh của gia tộc, các gia tộc lân cận, cùng các thông báo, sự kiện, nhiệm vụ và điều kiện chiến thắng có thể xem bằng các nút ở dưới bản đồ radar.
+[415] Các chức vụ ủy viên có thể được giao cho thành viên gia đình hoặc thành viên khác của gia tộc, chia thành chức vụ quân sự và dân sự. Ngoài việc tăng lòng trung thành của tướng, mỗi chức vụ còn mang lại một lợi ích trong lĩnh vực chuyên môn của họ. Nhấn nút dấu hỏi để xem chi tiết trong bách khoa toàn thư.
+[416] Hãy gửi một con tàu dọc theo bờ biển Honshu để tìm kiếm các gia tộc ở đó.
+[417] Việc cướp phá các tuyến thương mại phía tây bởi hải tặc địa phương hoặc những kẻ săn vận may phương Tây cuối cùng sẽ dẫn đến các hành động trừng phạt của hải quân nước ngoài trong khu vực. Những lực lượng này không thuộc Mạc phủ hay phe Hoàng gia; họ chỉ bảo vệ lợi ích của quốc gia mình.
+[418] Bạn sẽ thấy thông tin cựu binh của mình hiển thị trên màn hình. Bạn có thể nhập tên cho đơn vị trong hộp thoại dưới hình ảnh của nó hoặc nhấn nút cọ vẽ để tùy chỉnh. Hãy cải thiện đơn vị này bằng cách chọn nâng cấp kỹ năng. Nhấn nút “+” được đánh dấu để thực hiện.
+[419] Khó có thể làm hài lòng tất cả mọi người, nhưng cân bằng giữa thuế và trật tự công cộng sẽ giúp gia tộc phát triển. Khi đã hài lòng với thuế và thu nhập, hãy đóng các bảng. Nhấn nút kết thúc lượt để áp dụng thay đổi.
+[420] Hãy cẩn thận với tài chính sau khi chiếm được tàu: bạn phải trả chi phí bảo trì cho chúng! Bạn có thể tiết kiệm tiền bằng cách giảm số lượng tàu. Chọn một tàu rồi nhấn nút đánh chìm để tháo dỡ và thu hồi chi phí.
+[421] Sou có thể truyền cảm hứng cho quân đội đồng minh hoặc xoa dịu dân chúng bằng lời giảng đạo, đồng thời làm suy giảm tinh thần quân địch, giảm khả năng hối lộ thành công, cảm hóa đặc vụ địch khiến họ giải nghệ, hoặc kích động dân chúng nổi loạn. Sou được tuyển từ chuỗi công trình Phật giáo. Bản tính tin người khiến họ dễ bị ám sát bởi monomi, hối lộ bởi junsatsushi hoặc quyến rũ bởi shirabyoshi.
+[422] Ishin shishi có thể thuyết phục một vị tướng hoặc quân đồn trú đổi phe sang phía chúng ta. Nếu thành công, có khả năng một hoặc nhiều đơn vị của họ cũng sẽ đổi phe. Thuyết phục một đội quân trung lập tương đương với tuyên chiến với gia tộc của họ. Sau khi thuyết phục thành công, một đội quân ở lãnh thổ trung lập hoặc thân thiện sẽ rút về lãnh thổ của ta trừ khi có hiệp ước cho phép hành quân. Chọn ishin shishi và nhấp chuột phải vào quân đội mục tiêu để thử thuyết phục.
+[423] Hãy chọn công nghệ bạn muốn nghiên cứu. Trò chơi sẽ đánh dấu các công nghệ tiền đề, chọn lộ trình ngắn nhất và nghiên cứu từng cái cho đến khi đạt mục tiêu. Nếu không chọn mục tiêu, trò chơi sẽ tự nghiên cứu các công nghệ cùng loại cho đến khi hoàn thành toàn bộ nhánh.
+[424] Đây là bảng nâng cấp kỹ năng đơn vị cựu binh. Giống như cây kỹ năng của avatar, điểm kỹ năng nhận được từ kinh nghiệm chiến đấu. Một số kỹ năng bị khóa và yêu cầu điều kiện nhất định. Di chuột lên kỹ năng để xem chi tiết rồi nhấp chuột trái để chọn.
+[425] Mỗi tướng có chỉ số trung thành quyết định khả năng bị hối lộ hoặc phản bội gia tộc. Trung thành chịu ảnh hưởng bởi danh dự của daimyo, chiến thắng vinh quang, hôn nhân trong gia tộc, được chọn làm người kế vị, đặc điểm tính cách, lựa chọn trong các tình huống và việc được bổ nhiệm chức vụ. Nếu trung thành quá thấp, có thể buộc phải ra lệnh cho họ thực hiện seppuku.
+[426] Đàn áp là việc duy trì quyền lực bằng sự hiện diện của quân đồn trú. Các chấm xám trong mục trật tự công cộng biểu thị mức độ đàn áp từ quân đồn trú. Điều này giúp giữ trật tự nhưng nếu dân chúng nổi dậy sau thời gian bị đàn áp mạnh thì rất khó dập tắt.
+[427] Metsuke được tuyển tại các công trình chợ. Awa có một chợ; bạn có thể tuyển metsuke ở đó.
+[428] Kỵ binh nhẹ khắc chế quân nhẹ, kỵ binh nặng khắc chế kỵ binh nhẹ. Tất cả kỵ binh đều yếu trước giáo. Hãy chọn mục tiêu phù hợp cho kỵ binh của bạn.
+[429] Nếu một đội quân có thể tiếp viện cho đội khác, một đường màu vàng sẽ xuất hiện nối giữa chúng khi bạn di chuột qua. Nếu đường màu đỏ xuất hiện giữa hai đội quân nghĩa là họ là kẻ thù của bạn và sẽ hỗ trợ nhau chống lại bạn.
+[430] Sự hiện diện của ninja trong quân đội sẽ tăng tầm nhìn và khoảng cách di chuyển trong một mùa, đồng thời giảm khả năng bị nhà sư hoặc giáo sĩ làm suy giảm tinh thần.
+[431] Gia tộc Ashikaga — nhà Mạc chúa — là mối quan tâm lớn. Chúng ta từng chiến đấu chống Mạc phủ và có thể sớm lại xung đột. Tuy nhiên tiến quân đến Yamashiro và Kyoto khi chưa đủ mạnh là hành động điên rồ. Mở rộng sang các tỉnh lân cận ít nguy hiểm hơn vì lãnh chúa ở đó không quá mạnh hay tham vọng. Có bằng chứng ninjutsu được luyện tập ở Omi; chiếm tỉnh này sẽ giúp tăng tiềm năng ninja trong chiến đấu và gián điệp.
+[432] Tàu có thể vận chuyển quân đội sang đất liền. Chọn quân đội rồi nhấp chuột phải vào hạm đội của bạn. Sau đó nhấp chuột phải lên đất liền để di chuyển và đổ bộ. Điều này sẽ tiêu tốn điểm hành động của lượt.
+[433] Đơn vị này không thể di chuyển thêm nữa trong lượt này. Nó sẽ hoạt động lại vào mùa tiếp theo.
+[434] Bạn có thể xem các tùy tùng và chọn họ cho trận chiến tiếp theo. Tùy tùng là người, công trình hoặc vật phẩm mang lại бонус cho quân đội. Sau khi khám phá thành công một tỉnh trong trận chiến, tùy tùng tương ứng sẽ xuất hiện ở đây. Khi avatar mạnh hơn, tối đa năm tùy tùng có thể dùng cùng lúc.
+[435] Chào mừng đến với chế độ Avatar Conquest. Tại đây bạn sẽ tạo và quản lý vị tướng avatar của riêng mình để sử dụng trong chiến đấu.
+[436] Thưa chủ nhân, chúng ta chưa tuyển đặc vụ nào. Các đặc vụ như ninja, geisha và cựu binh ngoại quốc được tuyển qua một số công trình và có thể thực hiện nhiều nhiệm vụ từ phá hoại, ám sát đến đánh lạc hướng và đấu tay đôi. Hãy đọc mục nhân vật trong bách khoa toàn thư để biết cách tuyển và sử dụng họ.
+[437] Thưa chủ nhân, chúng ta đang mất tiền rất nhanh; chẳng bao lâu nữa ngân khố sẽ cạn! Có vài cách để khắc phục: tăng thuế nếu có thể, nâng cấp lâu đài để thu thuế hiệu quả hơn, thiết lập thêm hiệp ước và tuyến thương mại hoặc giải tán các đơn vị không cần thiết.
+[438] Một nhân vật đã tích lũy kinh nghiệm và tăng cấp. Bạn có thể chọn kỹ năng cho anh ta. Nhấp chuột phải vào chân dung nhân vật để mở bảng chi tiết, sau đó nhấn nút cây kỹ năng ở góc trên bên phải.
+[439] Phòng thủ ven biển là các khẩu đội pháo đặt gần cảng để ngăn hạm đội địch đổ bộ quân vào tỉnh. Tầm bắn được hiển thị trên bản đồ và hạm đội địch kết thúc lượt trong phạm vi này sẽ chịu tổn thất. Để đổ bộ vào tỉnh, hạm đội phải vào tầm bắn và tấn công cảng. Xem bách khoa toàn thư để biết chi tiết.
+[440] Ishin shishi có thể tập hợp dân chúng ủng hộ Hoàng gia bằng cách tăng mức độ hài lòng trong khu định cư. Khi lòng trung thành với Thiên Hoàng tăng, hiệu ứng hạnh phúc cũng tăng. Chọn ishin shishi rồi nhấp chuột phải vào khu định cư để bắt đầu vận động dân chúng.
+[441] Avatar có thể được thăng cấp khi đạt cấp 10, giúp tăng uy tín. Mức uy tín được thể hiện bằng màu sao xếp hạng, từ đồng lên đến kim cương.
+[442] Thưa chủ nhân! Bạo loạn đã nổ ra trong tỉnh này vì nông dân rất bất mãn. Chúng ta có thể xoa dịu họ bằng cách giảm thuế hoặc gửi quân đàn áp. Dù chọn cách nào, phải hành động nhanh trước khi bạo loạn biến thành nổi dậy!
+[443] Đặt ninja trong một thị trấn lâu đài sẽ cho phép anh ta thiết lập mạng lưới gián điệp. Điều này tăng tầm nhìn từ tỉnh, giúp phát hiện đặc vụ và quân đội ẩn, đồng thời giảm khả năng nhà sư hoặc giáo sĩ kích động nổi loạn.
+[444] Nhật Bản thường xảy ra hoạt động núi lửa, động đất, lũ lụt, hạn hán, sóng thần, hỏa hoạn và bão. Những thảm họa này có thể xảy ra bất cứ lúc nào. Bỏ qua điềm báo mà không thực hiện nghi lễ cần thiết cũng có thể dẫn đến thảm họa. Hậu quả có thể là công trình bị hư hại, giảm tăng trưởng và tài sản của tỉnh hoặc giảm sản xuất lương thực khiến dân chúng bất mãn.
+[445] Avatar của bạn đã di chuyển đến một tỉnh có tùy tùng. Để nhận phần thưởng này, bạn phải thắng một trận chiến. Hãy nhấn nút trận chiến ghép trận.
+[446] Quân đội của chúng ta không thể vào các cảng hoặc công trình ngoài thị trấn lâu đài, dù là của ta, đồng minh hay kẻ địch. Tuy nhiên các công trình này có thể được bảo vệ nếu nằm trong vùng kiểm soát của quân đội. Cảng và lâu đài của kẻ địch có thể bị cướp phá giống tuyến thương mại; chỉ cần chọn quân đội và nhấp chuột phải vào mục tiêu để tấn công.
+[447] Sou có thể cảm hóa đặc vụ đối địch (không phải tướng) khiến họ giải nghệ và đi tu. Thường họ sẽ ở trong tu viện vài lượt trước khi trở về thủ đô của lãnh chúa; trong trường hợp cực đoan họ có thể ở lại vĩnh viễn. Chọn sou, nhấp chuột phải vào đặc vụ mục tiêu và chọn “indoctrinate”. Nhưng hãy nhớ có nguy cơ bị bắt và xử tử nếu thất bại.
+[448] Tiến bộ công nghệ có thể nâng cấp tàu. Tất cả tàu mặc định làm bằng gỗ; nghiên cứu công nghệ thích hợp sẽ giúp chúng được bọc đồng hoặc sắt để tăng tốc độ và giáp.
+[449] Bây giờ hãy nhấn nút tìm trận để ghép với đối thủ.
+[450] Đơn vị có thể được tuyển trực tiếp bởi tướng ngoài chiến trường. Chọn tab tuyển quân rồi nhấp chuột trái vào đơn vị để thêm vào hàng đợi và nhấp lại để hủy. Khi sẵn sàng, đơn vị sẽ đi đến vị tướng và gia nhập quân đội. Lưu ý họ không thể băng qua biển để gia nhập.
+[451] Tab Gia đình & Hội đồng hiển thị thông tin các thành viên gia đình daimyo. Dùng bảng này để chỉ định người kế vị và bổ nhiệm tướng vào các chức vụ quân sự hoặc dân sự.
+[452] Nếu daimyo của chúng ta muốn trở thành Shogun — người cai trị quân sự toàn Nhật Bản — chúng ta phải đánh bại Mạc phủ hiện tại, gia tộc Ashikaga, và chiếm giữ Kyoto trong bốn mùa. Khi đó Thiên Hoàng sẽ tuyên bố lãnh đạo gia tộc chúng ta là Shogun.
+[453] Nếu vấn đề tâm linh quan trọng hơn, Yamato và Ise ở phía đông nam nổi tiếng với truyền thống tôn giáo mạnh mẽ. Tiếp tục phát triển sức mạnh và quan hệ ngoại giao sẽ giúp chúng ta sẵn sàng khi Ashikaga tấn công. Iga-ryu ninjutsu sẽ chiến thắng.
+[454] Tab này liệt kê tất cả quân đội của gia tộc, điểm hành động còn lại, vị trí hiện tại, tên tướng chỉ huy, lòng trung thành và số quân. Có thể sắp xếp theo từng mục.
+[455] Kích động dân chúng thành công sẽ gây ra nổi dậy tại tỉnh mục tiêu. Mức ủng hộ Hoàng gia càng cao thì khả năng thành công càng lớn. Hãy cân nhắc rủi ro trước khi ra lệnh vì thất bại có thể dẫn đến bị bắt và xử tử.
+[456] Bạn lại được ghép với một đội quân AI. Nếu muốn chỉnh quân đội hãy nhấn nút chỉnh sửa quân, nếu không hãy nhấn dấu tích để bắt đầu trận chiến.
+[457] Lãnh địa Saga. Gia tộc Nabeshima của chúng ta từ lâu đã bảo vệ Nagasaki — điểm liên lạc duy nhất của Nhật Bản với phương Tây trong thời kỳ bế quan. Nhờ đó chúng ta hiểu rõ công nghệ và lối sống phương Tây. Chúng ta sẽ dùng hiểu biết này để lật đổ Mạc chúa và khôi phục quyền lực cho Thiên Hoàng vì lợi ích của Nhật Bản! Trước tiên cần liên minh với các gia tộc trung thành với Hoàng gia ở Kyushu và tiêu diệt những kẻ vẫn ủng hộ Mạc phủ. Sau đó phải xây dựng hải quân để hỗ trợ đồng minh trên đất liền; Kyoto và Edo phải thuộc quyền Hoàng gia! Khi chiến tranh toàn diện bùng nổ, người dân Saga sẽ ở tuyến đầu dẫn dắt Nhật Bản tới tương lai huy hoàng. Thiên Hoàng vạn tuế!
+[458] Các nhà sư có thể cải đạo người khác sang Phật giáo, truyền cảm hứng cho quân đồng minh hoặc xoa dịu dân chúng, đồng thời làm suy giảm tinh thần quân địch, giảm khả năng hối lộ thành công, cảm hóa metsuke khiến họ giải nghệ hoặc kích động nổi loạn. Nhà sư được tuyển từ chuỗi công trình Phật giáo và dễ bị ninja hoặc geisha ám sát.
+[459] Tuyệt vời, bạn đã đánh bại kẻ địch và giành quyền kiểm soát một tỉnh mới.
+[460] Võ đường cung thuật tăng tốc độ nạp cho tất cả đơn vị bắn xa và phục hồi đạn cho các đơn vị gần đó.
+[461] Hãy dành thời gian khám phá giao diện chiến đấu. Nhấn các nút và biểu tượng để xem chức năng. Thông tin chi tiết có thể xem qua tooltip hoặc bách khoa toàn thư ở góc trên bên trái màn hình.
+[462] Hãy cẩn thận khi bắn vào kẻ địch đang giao chiến với quân của bạn; bạn có thể giết cả binh lính của mình!
+[463] Thưa chủ nhân, chúng ta đã phá sản! Không còn tiền trong ngân khố. Có thể khắc phục bằng cách tăng thuế, thiết lập thêm hiệp ước thương mại hoặc giải tán các đơn vị không cần thiết.
+[464] Bảng cây kỹ năng cho thấy cách nhân vật học và cải thiện khả năng. Mỗi điểm kỹ năng có thể dùng để chọn một kỹ năng mới. Di chuột để xem chi tiết trước khi chọn.
+[465] Ishin shishi có thể truyền nhiệt huyết cho quân đội mà họ đi cùng, cải thiện sức mạnh xung phong. Mức tăng phụ thuộc vào kinh nghiệm của ishin shishi.
+[466] Hãy bắt đầu bằng cách thử các bộ giáp và trang phục để thiết lập ngoại hình cho avatar. Bạn có thể thay đổi màu sắc bằng vòng chọn màu.
+[467] Điều kiện chiến thắng và nhiệm vụ được lưu ở đây. Ngoài việc trở thành Shogun, mỗi gia tộc còn phải chinh phục các lãnh thổ nhất định để chiến thắng.
+[468] Giai đoạn trì hoãn cho phép bạn tận dụng thời tiết bằng cách chọn điều kiện phù hợp cho quân mình. Ví dụ nếu địch có nhiều vũ khí bắn xa, chiến đấu dưới mưa sẽ giảm hiệu quả của họ.
+[469] Chào mừng đến Sengoku Jidai — “thời đại chiến quốc”. Đây là đảo Shikoku, xa Kyoto và Thiên Hoàng. Sau cái chết của cha mình, Chosokabe Motochika trở thành daimyo của gia tộc. Hãy chọn ông ta.
+[470] Trong các bảng giao diện bạn sẽ thấy nút dấu hỏi ở góc trên bên phải. Đây là nút trợ giúp, mở trang bách khoa toàn thư liên quan.
+[471] Bộ binh là lực lượng giữ chân tốt để kỵ binh vòng ra hai bên tiêu diệt kẻ địch, nhưng nhiều sự kết hợp giữa kỵ binh, bộ binh và quân bắn xa đều có thể hiệu quả.
+[472] Các đối tác thương mại lâu năm sẽ dần cải thiện quan hệ ngoại giao và tăng thu nhập từ tuyến thương mại.
+[473] Bây giờ hãy đưa daimyo về nơi an toàn. Chọn Motochika rồi nhấp chuột phải vào Tosa.
+[474] Điều khiển tốc độ trận chiến cho phép tăng hoặc giảm tốc độ. Bạn có thể tạm dừng, làm chậm hoặc tăng tốc gấp đôi hay gấp bốn.
+[475] Tab này hiển thị tất cả đơn vị hoặc tàu có thể tuyển từ công trình đang chọn.
+[476] Nhấn nút phá hoại để ninja cố gắng phá hủy một công trình. Có tỷ lệ thành công và thất bại có thể dẫn đến bị bắt.
+[477] Bộ binh nhẹ mang cọc gỗ để chống kỵ binh. Có thể triển khai chúng bằng nút trên bảng điều khiển chiến đấu.
+[478] Chúng ta đã cướp phá thành công tuyến thương mại của kẻ địch. Thu nhập của họ giảm và hàng hóa được chuyển sang cho chúng ta.
+[479] Bảng tổng kết chứa thẻ đơn vị hoặc tàu. Nhấp vào thẻ để chọn, nhấp đúp để chuyển camera đến đơn vị.
+[480] Yari ashigaru đã được đưa vào hàng đợi tuyển quân. Chi phí đã trừ khỏi ngân khố. Họ sẽ sẵn sàng trong một lượt.
+[481] Bạn vừa chọn nhân vật của gia tộc khác. Bạn không thể ra lệnh cho họ. Hãy chọn nhân vật của chúng ta.
+[482] Bây giờ hãy chọn tab tuyển quân của bảng tỉnh.
+[483] Tấn công bộ binh từ phía sau là cách hiệu quả nhất để kỵ binh tiêu diệt họ.
+[484] Khi có thể tham gia trận drop-in, một nút sẽ xuất hiện trên bảng trước trận.
+[485] Đừng bắt đầu trận bằng cách đánh với đơn vị tinh nhuệ của địch.
+[486] Awa đã thất thủ. Bạn có những con ngựa tốt nhất Nhật Bản.
+[487] Đội hình nêm tăng sức mạnh xung phong của kỵ binh.
+[488] Bảng này hiển thị cách hiệu ứng công trình hoạt động trong trò chơi.
+[489] Tổn thất là mất quân do đào ngũ, bệnh tật… Đơn vị sẽ chịu tổn thất nếu kết thúc lượt xa lâu đài vào mùa đông.
+[490] Hãy giữ một số quân dự bị phía sau tuyến đầu.
+[491] Thưa chủ nhân, một tuyến thương mại đường bộ của chúng ta đang bị tấn công.
+[492] Nếu quân bạn có ưu thế hỏa lực, bạn có thể buộc quân phòng thủ rời khỏi đồi bằng tên.
+[493] Giữ chân kẻ địch rồi đánh vào điểm yếu của họ.
+[494] Các chỉ huy hải quân giỏi luôn thích nghi chiến thuật với môi trường.
+[495] Thưa chủ nhân, cảng của chúng ta đã bị phong tỏa.
+[496] La bàn điều khiển được dùng để tinh chỉnh lệnh di chuyển.
+[497] Khi dùng bộ binh nhẹ hoặc quân quấy rối, đừng đuổi theo quá xa.
+[498] Giấu các đơn vị mạnh phía sau có thể dụ địch tấn công liều lĩnh.
+[499] Shikoku sẽ do một gia tộc thống trị! Sớm thôi bạn phải đến Honshu để tìm thêm tài nguyên và của cải.

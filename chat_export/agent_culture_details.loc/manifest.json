@@ -1,0 +1,1722 @@
+{
+  "filename": "agent_culture_details.loc.tsv",
+  "category": "ui",
+  "header_lines": [
+    "key\ttext\ttooltip",
+    "#Loc;1;text/db/agent_culture_details.loc\t\t"
+  ],
+  "rows": [
+    {
+      "key": "agent_culture_details_description_text_57",
+      "text": "A Spy is also a saboteur and assassin who can be sent into a target city to report its contents and sabotage buildings. To attempt an assassination select a target character.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_56",
+      "text": "A Spy is also a saboteur and assassin who can be sent into a target city to report its contents and sabotage buildings. To attempt an assassination select a target character.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_55",
+      "text": "Arrr! Ye scurvy pirate! (PLACEHOLDER)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_54",
+      "text": "Arrr! Ye scurvy pirate! (PLACEHOLDER)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_53",
+      "text": "Arrr! Ye scurvy pirate! (PLACEHOLDER)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_52",
+      "text": "Arrr! Ye scurvy pirate! (PLACEHOLDER)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_51",
+      "text": "An Orthodox Missionary is a religious teacher who preaches the Orthodox faith. Placing them within a region will cause a gradual conversion to the Orthodox faith amongst the population. They will continue to automatically convert a population until moved.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_50",
+      "text": "Ninja are masters of artifice and infiltration. Their ninjutsu skills enable them to spy upon enemies or sabotage their armies and castle towns, whilst moving through their lands undetected. They are also expert assassins, striking from the shadows to kill enemy generals and agents alike. Their infliltration skills also make ninja invaluable scouts for their clan's armies, whilst their underworld connections keep them abreast of comings and goings when visiting friendly provinces.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_59",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_58",
+      "text": "A Scout is a spy, saboteur, and assassin who can be sent into a target city to report its contents and sabotage buildings. To attempt an assassination select a target character.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_47",
+      "text": "Minister. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_46",
+      "text": "Minister. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_45",
+      "text": "Minister. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_44",
+      "text": "Minister. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_43",
+      "text": "Minister. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_42",
+      "text": "Minister. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_41",
+      "text": "An Imam is a religious teacher who spreads word of Islam around the world. Placing an Imam with a region will cause a gradual conversion to Islam amongst the population. They will continue to automatically convert a region until moved.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_40",
+      "text": "An Imam is a religious teacher who spreads word of Islam around the world. Placing an Imam with a region will cause a gradual conversion to Islam amongst the population. They will continue to automatically convert a region until moved.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_49",
+      "text": "Monks are ardent proponents of the teachings of Buddha. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Monks are also able to convert populations to Buddhism and enemy agents to abandon their missions in favour of a life of peace and self-reflection. They are particularly effective when used against metsuke. ",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_48",
+      "text": "Missionaries are fervent evangelists of the Christian way. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Missionaries are also able to convert populations to Christianity and enemy agents to abandon their missions in favour of a life of god-fearing penance. They are particularly effective when used against metsuke.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_37",
+      "text": "A Gentleman is an educated man who can be sent into educational buildings to speed-up research, and can also duel with Spies and other Gentlemen. Select a target character in order to challenge them to a duel.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_36",
+      "text": "A Gentleman is an educated man who can be sent into educational buildings to speed-up research, and can also duel with Spies and other Gentlemen. Select a target character in order to challenge them to a duel.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_35",
+      "text": "Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_34",
+      "text": "Colonel. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_33",
+      "text": "Colonel. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_32",
+      "text": "PLACEHOLDER Colonel lvl 0",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_31",
+      "text": "Colonel. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_30",
+      "text": "Colonel. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_39",
+      "text": "Metsuke are unscrupulous executors of their daimyo's authority, directing their cunning to the control of their clan's disaffected generals and people. They are also able to bribe enemy armies and towns. Metsuke may seek to apprehend and bring enemy agents to 'justice', and are particularly effective at uncovering and countering ninja activity. ",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_38",
+      "text": "A Brahmin is a religious teacher who spreads word of the Hindu faith around the world. Placing a Brahmin within a region will cause a gradual conversion to Hinduism amongst the population. They will continue to automatically convert a region until moved.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_27",
+      "text": "A Catholic Missionary is a religious teacher who spreads the word of Catholicism. Placing a Missionary within a region will cause a gradual conversion to Catholicism amongst the population. They will continue to automatically convert a region until moved.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_26",
+      "text": "Captain. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_25",
+      "text": "Captain. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_24",
+      "text": "Captain. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_23",
+      "text": "Captain. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_22",
+      "text": "Captain. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_21",
+      "text": "Captain. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_20",
+      "text": "Bandit. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_29",
+      "text": "Colonel. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_28",
+      "text": "Colonel. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_17",
+      "text": "Bandit. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_16",
+      "text": "A Hashishin is a spy, saboteur, and assassin who can be sent into a target city to report on its contents and sabotage buildings. To attempt an assassination select a target character.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_15",
+      "text": "A Thugee is a spy, saboteur and assassin who can be sent into a target city to report on its contents and sabotage buildings. To attempt an assassination select a target character.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_14",
+      "text": "A Hashishin is a spy, saboteur, and assassin who can be sent into a target city to report on its contents and sabotage buildings. To attempt an assassination select a target character.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_13",
+      "text": "Admirals.PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_12",
+      "text": "Admirals.PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_11",
+      "text": "Admirals.PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_10",
+      "text": "Admirals.PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_19",
+      "text": "Bandit. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_18",
+      "text": "Bandit. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_54",
+      "text": "Pirate",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_55",
+      "text": "Pirate",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_56",
+      "text": "Spy",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_57",
+      "text": "Spy",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_50",
+      "text": "Ninja",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_51",
+      "text": "Orthodox Missionary",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_52",
+      "text": "Pirate",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_53",
+      "text": "Pirate",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_58",
+      "text": "Scout",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_59",
+      "text": "Captain",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_44",
+      "text": "Minister",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_45",
+      "text": "Minister",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_46",
+      "text": "Minister",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_47",
+      "text": "Minister",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_40",
+      "text": "Imam",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_41",
+      "text": "Imam",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_42",
+      "text": "Minister",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_43",
+      "text": "Minister",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_48",
+      "text": "Missionary",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_49",
+      "text": "Monk",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_5",
+      "text": "General",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_4",
+      "text": "Orgeneral",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_7",
+      "text": "Orgeneral",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_6",
+      "text": "General",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_1",
+      "text": "Eastern Scholar",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_0",
+      "text": "Eastern Scholar",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_3",
+      "text": "General",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_2",
+      "text": "Eastern Scholar",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_9",
+      "text": "Admiral",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_8",
+      "text": "Protestant Missionary",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_14",
+      "text": "Hashishin",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_15",
+      "text": "Thugee",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_16",
+      "text": "Hashishin",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_17",
+      "text": "Highwayman",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_10",
+      "text": "Amir-al-bahr",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_11",
+      "text": "Admiral",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_12",
+      "text": "Amir-al-bahr",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_13",
+      "text": "Amir-al-bahr",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_18",
+      "text": "Thug",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_19",
+      "text": "Bandit",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_34",
+      "text": "Warchief",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_35",
+      "text": "Geisha",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_36",
+      "text": "Gentleman",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_37",
+      "text": "Gentleman",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_30",
+      "text": "Brigadier",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_31",
+      "text": "Brigadier",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_32",
+      "text": "Captain",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_33",
+      "text": "Brigadier",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_38",
+      "text": "Brahmin",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_39",
+      "text": "Metsuke",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_24",
+      "text": "Captain",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_25",
+      "text": "Captain",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_26",
+      "text": "Captain",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_27",
+      "text": "Catholic Missionary",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_20",
+      "text": "Raider",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_21",
+      "text": "Captain",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_22",
+      "text": "Captain",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_23",
+      "text": "Captain",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_28",
+      "text": "Brigadier",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_29",
+      "text": "Brigadier",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_183",
+      "text": "Monk",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_185",
+      "text": "Monk",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_186",
+      "text": "Missionary",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_187",
+      "text": "Missionary",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_190",
+      "text": "Metsuke",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_194",
+      "text": "Metsuke",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_141",
+      "text": "Geisha",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_246",
+      "text": "Ishin Shishi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_247",
+      "text": "Geisha",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_150",
+      "text": "Geisha",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_168",
+      "text": "Ninja",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_173",
+      "text": "Ninja",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_200",
+      "text": "Family Member",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_202",
+      "text": "Admiral",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_205",
+      "text": "Ikko Monk",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_206",
+      "text": "Sou",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_213",
+      "text": "Monomi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_118",
+      "text": "General",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_222",
+      "text": "Junsatsushi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_125",
+      "text": "General",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_127",
+      "text": "Captain",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_230",
+      "text": "Shirabyoshi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_232",
+      "text": "Foreign Veteran",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_133",
+      "text": "Captain",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_233",
+      "text": "Shinsengumi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_138",
+      "text": "Geisha ",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_onscreen_name_239",
+      "text": "Shinobi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_190",
+      "text": "Metsuke are unscrupulous executors of their daimyo's authority, directing their cunning to the control of their clan's disaffected generals and people. They are also able to bribe enemy armies and towns. Metsuke may seek to apprehend and bring enemy agents to 'justice', and are particularly effective at uncovering and countering ninja activity. ",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_194",
+      "text": "Metsuke are unscrupulous executors of their daimyo's authority, directing their cunning to the control of their clan's disaffected generals and people. They are also able to bribe enemy armies and towns. Metsuke may seek to apprehend and bring enemy agents to 'justice', and are particularly effective at uncovering and countering ninja activity. ",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_183",
+      "text": "Monks are ardent proponents of the teachings of Buddha. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Monks are also able to convert populations to Buddhism and enemy agents to abandon their missions in favour of a life of peace and self-reflection. They are particularly effective when used against metsuke. ",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_185",
+      "text": "Monks are ardent proponents of the teachings of Buddha. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Monks are also able to convert populations to Buddhism and enemy agents to abandon their missions in favour of a life of peace and self-reflection. They are particularly effective when used against metsuke. ",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_186",
+      "text": "Missionaries are fervent evangelists of the Christian way. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Missionaries are also able to convert populations to Christianity and enemy agents to abandon their missions in favour of a life of god-fearing penance. They are particularly effective when used against metsuke.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_187",
+      "text": "Missionaries are fervent evangelists of the Christian way. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Missionaries are also able to convert populations to Christianity and enemy agents to abandon their missions in favour of a life of god-fearing penance. They are particularly effective when used against metsuke.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_173",
+      "text": "Ninja are masters of artifice and infiltration. Their ninjutsu skills enable them to spy upon enemies or sabotage their armies and castle towns, whilst moving through their lands undetected. They are also expert assassins, striking from the shadows to kill enemy generals and agents alike. Their infliltration skills also make ninja invaluable scouts for their clan's armies, whilst their underworld connections keep them abreast of comings and goings when visiting friendly provinces.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_168",
+      "text": "Ninja are masters of artifice and infiltration. Their ninjutsu skills enable them to spy upon enemies or sabotage their armies and castle towns, whilst moving through their lands undetected. They are also expert assassins, striking from the shadows to kill enemy generals and agents alike. Their infliltration skills also make ninja invaluable scouts for their clan's armies, whilst their underworld connections keep them abreast of comings and goings when visiting friendly provinces.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_150",
+      "text": "Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_141",
+      "text": "Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_246",
+      "text": "Ishin shishi are “men of higher purpose” devoted to one thing: the reinstatement of Imperial divine rule. Champions of the Emperor, they rally and inspire the loyal whilst stirring unrest amongst rivals. Single-minded and dangerous, they will not hesitate to kill any who stand in their way.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_247",
+      "text": "Geisha are skilled musicians, dancers and poets, and they use their arts both to entertain and uplift. Their talents may even serve a military agenda: some men are weak and easily distracted; others may betray a cause for beauty.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_138",
+      "text": "Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_239",
+      "text": "Shinobi are masters of subterfuge; they conduct espionage, sabotage and assassinations. Their ability to infiltrate and observe also makes them invaluable army scouts and enables the establishment of spy networks in their clan’s settlements.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_230",
+      "text": "Shirabyoshi are traditional dancers who perform for nobles on formal occasions. Dressed as men in formal Shinto clothes and white powdered make-up, the slow, rhythmic dances they perform in veneration of the gods also involve poetry, singing and musicianship. The shirabyoshi’s main skill is seduction, which convinces her target to join her lord’s cause. Shirabyoshi are able to entertain the nobles of friendly towns in order to boost their growth and entertain friendly generals in the field, which increases their loyalty to the family and counteracts the efforts of enemy agents to bribe or seduce them into changing sides.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_232",
+      "text": "Foreign veterans are masters of warfare having fought, and survived, in many battles. Their long years of service make them great military instructors and administrators; their expertise makes them keen marksmen and sappers, as well as fearless duellists.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_133",
+      "text": "PLACEHOLDER Colonel lvl 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_233",
+      "text": "Shinsengumi are enforcers of the Shogun’s justice, coercing or subduing those who dare oppose his will. They will resort to any means necessary to prevent Imperialists from overthrowing the Shogunate, even assassinating their enemies and stirring dissidents to open revolt.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_222",
+      "text": "Junsatsushi ensure loyalty and obedience from friendly generals, increase income by preventing corruption, keep our castle towns and armies safe from enemy subterfuge when positioned inside them, and can request the allegiance of neutral and enemy castle towns, along with any forces garrisoned there. Junsatsushi can also pay off rival agents.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_125",
+      "text": "PLACEHOLDER General lvl 0",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_127",
+      "text": "PLACEHOLDER Colonel lvl 4",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_118",
+      "text": "PLACEHOLDER General lvl 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_213",
+      "text": "Monomi act as assassins, spies, saboteurs and scouts, and are recruited from province speciality buildings. In addition to their subterfuge skills, monomi also increase the movement and line of sight of our armies when placed inside them. They can also establish spy networks within castle towns, which increase the chances of discovering any rival agents and armies that may be hiding within a province. Monomi are invisible to the enemy until detected.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_200",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_202",
+      "text": "Admirals.PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_205",
+      "text": "Ikko monks are zealous advocates of the Ikko sect of Jodo Shinshu Buddhism. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Ikko Monks are also able to convert populations to their Ikko beliefs and enemy agents to abandon their missions in favour of a life of Jodo Shinshu spiritualism. They are particularly effective when used against metsuke.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_206",
+      "text": "Sou can inspire a friendly army or pacify an angry populace with their enlightened rhetoric, and, by the same token, demoralise an enemy force, reduce the chances of successful bribery, indoctrinate enemy agents and cause them to retire, or incite an enemy population to revolt.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_9",
+      "text": "Admirals.PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_8",
+      "text": "A Protestant Missionary is a religious teacher who spreads word of Protestantism. Placing a Missionary within a region will cause a gradual conversion to Protestantism amongst the population. They will continue to convert a region until moved.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_7",
+      "text": "General. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_6",
+      "text": "PLACEHOLDER General lvl 4",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_5",
+      "text": "BASIC_SPENDING_BIAS_RECRUITMENT_ARMY",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_4",
+      "text": "General. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_3",
+      "text": "General. PLACEHOLDER.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_2",
+      "text": "An Eastern Scholar is an educated man who can be sent into educational buildings to speed-up research, but cannot duel with other characters.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_1",
+      "text": "An Eastern Scholar is an educated man who can be sent into educational buildings to speed-up research, but cannot duel with other characters.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_culture_details_description_text_0",
+      "text": "An Eastern Scholar is an educated man who can be sent into educational buildings to speed-up research, but cannot duel with other characters.",
+      "tooltip": "true",
+      "empty": false
+    }
+  ],
+  "translatable": [
+    {
+      "row_index": 0,
+      "text": "A Spy is also a saboteur and assassin who can be sent into a target city to report its contents and sabotage buildings. To attempt an assassination select a target character."
+    },
+    {
+      "row_index": 1,
+      "text": "A Spy is also a saboteur and assassin who can be sent into a target city to report its contents and sabotage buildings. To attempt an assassination select a target character."
+    },
+    {
+      "row_index": 2,
+      "text": "Arrr! Ye scurvy pirate! (PLACEHOLDER)"
+    },
+    {
+      "row_index": 3,
+      "text": "Arrr! Ye scurvy pirate! (PLACEHOLDER)"
+    },
+    {
+      "row_index": 4,
+      "text": "Arrr! Ye scurvy pirate! (PLACEHOLDER)"
+    },
+    {
+      "row_index": 5,
+      "text": "Arrr! Ye scurvy pirate! (PLACEHOLDER)"
+    },
+    {
+      "row_index": 6,
+      "text": "An Orthodox Missionary is a religious teacher who preaches the Orthodox faith. Placing them within a region will cause a gradual conversion to the Orthodox faith amongst the population. They will continue to automatically convert a population until moved."
+    },
+    {
+      "row_index": 7,
+      "text": "Ninja are masters of artifice and infiltration. Their ninjutsu skills enable them to spy upon enemies or sabotage their armies and castle towns, whilst moving through their lands undetected. They are also expert assassins, striking from the shadows to kill enemy generals and agents alike. Their infliltration skills also make ninja invaluable scouts for their clan's armies, whilst their underworld connections keep them abreast of comings and goings when visiting friendly provinces."
+    },
+    {
+      "row_index": 9,
+      "text": "A Scout is a spy, saboteur, and assassin who can be sent into a target city to report its contents and sabotage buildings. To attempt an assassination select a target character."
+    },
+    {
+      "row_index": 10,
+      "text": "Minister. PLACEHOLDER."
+    },
+    {
+      "row_index": 11,
+      "text": "Minister. PLACEHOLDER."
+    },
+    {
+      "row_index": 12,
+      "text": "Minister. PLACEHOLDER."
+    },
+    {
+      "row_index": 13,
+      "text": "Minister. PLACEHOLDER."
+    },
+    {
+      "row_index": 14,
+      "text": "Minister. PLACEHOLDER."
+    },
+    {
+      "row_index": 15,
+      "text": "Minister. PLACEHOLDER."
+    },
+    {
+      "row_index": 16,
+      "text": "An Imam is a religious teacher who spreads word of Islam around the world. Placing an Imam with a region will cause a gradual conversion to Islam amongst the population. They will continue to automatically convert a region until moved."
+    },
+    {
+      "row_index": 17,
+      "text": "An Imam is a religious teacher who spreads word of Islam around the world. Placing an Imam with a region will cause a gradual conversion to Islam amongst the population. They will continue to automatically convert a region until moved."
+    },
+    {
+      "row_index": 18,
+      "text": "Monks are ardent proponents of the teachings of Buddha. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Monks are also able to convert populations to Buddhism and enemy agents to abandon their missions in favour of a life of peace and self-reflection. They are particularly effective when used against metsuke. "
+    },
+    {
+      "row_index": 19,
+      "text": "Missionaries are fervent evangelists of the Christian way. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Missionaries are also able to convert populations to Christianity and enemy agents to abandon their missions in favour of a life of god-fearing penance. They are particularly effective when used against metsuke."
+    },
+    {
+      "row_index": 20,
+      "text": "A Gentleman is an educated man who can be sent into educational buildings to speed-up research, and can also duel with Spies and other Gentlemen. Select a target character in order to challenge them to a duel."
+    },
+    {
+      "row_index": 21,
+      "text": "A Gentleman is an educated man who can be sent into educational buildings to speed-up research, and can also duel with Spies and other Gentlemen. Select a target character in order to challenge them to a duel."
+    },
+    {
+      "row_index": 22,
+      "text": "Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents."
+    },
+    {
+      "row_index": 23,
+      "text": "Colonel. PLACEHOLDER."
+    },
+    {
+      "row_index": 24,
+      "text": "Colonel. PLACEHOLDER."
+    },
+    {
+      "row_index": 26,
+      "text": "Colonel. PLACEHOLDER."
+    },
+    {
+      "row_index": 27,
+      "text": "Colonel. PLACEHOLDER."
+    },
+    {
+      "row_index": 28,
+      "text": "Metsuke are unscrupulous executors of their daimyo's authority, directing their cunning to the control of their clan's disaffected generals and people. They are also able to bribe enemy armies and towns. Metsuke may seek to apprehend and bring enemy agents to 'justice', and are particularly effective at uncovering and countering ninja activity. "
+    },
+    {
+      "row_index": 29,
+      "text": "A Brahmin is a religious teacher who spreads word of the Hindu faith around the world. Placing a Brahmin within a region will cause a gradual conversion to Hinduism amongst the population. They will continue to automatically convert a region until moved."
+    },
+    {
+      "row_index": 30,
+      "text": "A Catholic Missionary is a religious teacher who spreads the word of Catholicism. Placing a Missionary within a region will cause a gradual conversion to Catholicism amongst the population. They will continue to automatically convert a region until moved."
+    },
+    {
+      "row_index": 31,
+      "text": "Captain. PLACEHOLDER."
+    },
+    {
+      "row_index": 32,
+      "text": "Captain. PLACEHOLDER."
+    },
+    {
+      "row_index": 33,
+      "text": "Captain. PLACEHOLDER."
+    },
+    {
+      "row_index": 34,
+      "text": "Captain. PLACEHOLDER."
+    },
+    {
+      "row_index": 35,
+      "text": "Captain. PLACEHOLDER."
+    },
+    {
+      "row_index": 36,
+      "text": "Captain. PLACEHOLDER."
+    },
+    {
+      "row_index": 37,
+      "text": "Bandit. PLACEHOLDER."
+    },
+    {
+      "row_index": 38,
+      "text": "Colonel. PLACEHOLDER."
+    },
+    {
+      "row_index": 39,
+      "text": "Colonel. PLACEHOLDER."
+    },
+    {
+      "row_index": 40,
+      "text": "Bandit. PLACEHOLDER."
+    },
+    {
+      "row_index": 41,
+      "text": "A Hashishin is a spy, saboteur, and assassin who can be sent into a target city to report on its contents and sabotage buildings. To attempt an assassination select a target character."
+    },
+    {
+      "row_index": 42,
+      "text": "A Thugee is a spy, saboteur and assassin who can be sent into a target city to report on its contents and sabotage buildings. To attempt an assassination select a target character."
+    },
+    {
+      "row_index": 43,
+      "text": "A Hashishin is a spy, saboteur, and assassin who can be sent into a target city to report on its contents and sabotage buildings. To attempt an assassination select a target character."
+    },
+    {
+      "row_index": 44,
+      "text": "Admirals.PLACEHOLDER"
+    },
+    {
+      "row_index": 45,
+      "text": "Admirals.PLACEHOLDER"
+    },
+    {
+      "row_index": 46,
+      "text": "Admirals.PLACEHOLDER"
+    },
+    {
+      "row_index": 47,
+      "text": "Admirals.PLACEHOLDER"
+    },
+    {
+      "row_index": 48,
+      "text": "Bandit. PLACEHOLDER."
+    },
+    {
+      "row_index": 49,
+      "text": "Bandit. PLACEHOLDER."
+    },
+    {
+      "row_index": 50,
+      "text": "Pirate"
+    },
+    {
+      "row_index": 51,
+      "text": "Pirate"
+    },
+    {
+      "row_index": 52,
+      "text": "Spy"
+    },
+    {
+      "row_index": 53,
+      "text": "Spy"
+    },
+    {
+      "row_index": 54,
+      "text": "Ninja"
+    },
+    {
+      "row_index": 55,
+      "text": "Orthodox Missionary"
+    },
+    {
+      "row_index": 56,
+      "text": "Pirate"
+    },
+    {
+      "row_index": 57,
+      "text": "Pirate"
+    },
+    {
+      "row_index": 58,
+      "text": "Scout"
+    },
+    {
+      "row_index": 59,
+      "text": "Captain"
+    },
+    {
+      "row_index": 60,
+      "text": "Minister"
+    },
+    {
+      "row_index": 61,
+      "text": "Minister"
+    },
+    {
+      "row_index": 62,
+      "text": "Minister"
+    },
+    {
+      "row_index": 63,
+      "text": "Minister"
+    },
+    {
+      "row_index": 64,
+      "text": "Imam"
+    },
+    {
+      "row_index": 65,
+      "text": "Imam"
+    },
+    {
+      "row_index": 66,
+      "text": "Minister"
+    },
+    {
+      "row_index": 67,
+      "text": "Minister"
+    },
+    {
+      "row_index": 68,
+      "text": "Missionary"
+    },
+    {
+      "row_index": 69,
+      "text": "Monk"
+    },
+    {
+      "row_index": 70,
+      "text": "General"
+    },
+    {
+      "row_index": 71,
+      "text": "Orgeneral"
+    },
+    {
+      "row_index": 72,
+      "text": "Orgeneral"
+    },
+    {
+      "row_index": 73,
+      "text": "General"
+    },
+    {
+      "row_index": 74,
+      "text": "Eastern Scholar"
+    },
+    {
+      "row_index": 75,
+      "text": "Eastern Scholar"
+    },
+    {
+      "row_index": 76,
+      "text": "General"
+    },
+    {
+      "row_index": 77,
+      "text": "Eastern Scholar"
+    },
+    {
+      "row_index": 78,
+      "text": "Admiral"
+    },
+    {
+      "row_index": 79,
+      "text": "Protestant Missionary"
+    },
+    {
+      "row_index": 80,
+      "text": "Hashishin"
+    },
+    {
+      "row_index": 81,
+      "text": "Thugee"
+    },
+    {
+      "row_index": 82,
+      "text": "Hashishin"
+    },
+    {
+      "row_index": 83,
+      "text": "Highwayman"
+    },
+    {
+      "row_index": 84,
+      "text": "Amir-al-bahr"
+    },
+    {
+      "row_index": 85,
+      "text": "Admiral"
+    },
+    {
+      "row_index": 86,
+      "text": "Amir-al-bahr"
+    },
+    {
+      "row_index": 87,
+      "text": "Amir-al-bahr"
+    },
+    {
+      "row_index": 88,
+      "text": "Thug"
+    },
+    {
+      "row_index": 89,
+      "text": "Bandit"
+    },
+    {
+      "row_index": 90,
+      "text": "Warchief"
+    },
+    {
+      "row_index": 91,
+      "text": "Geisha"
+    },
+    {
+      "row_index": 92,
+      "text": "Gentleman"
+    },
+    {
+      "row_index": 93,
+      "text": "Gentleman"
+    },
+    {
+      "row_index": 94,
+      "text": "Brigadier"
+    },
+    {
+      "row_index": 95,
+      "text": "Brigadier"
+    },
+    {
+      "row_index": 96,
+      "text": "Captain"
+    },
+    {
+      "row_index": 97,
+      "text": "Brigadier"
+    },
+    {
+      "row_index": 98,
+      "text": "Brahmin"
+    },
+    {
+      "row_index": 99,
+      "text": "Metsuke"
+    },
+    {
+      "row_index": 100,
+      "text": "Captain"
+    },
+    {
+      "row_index": 101,
+      "text": "Captain"
+    },
+    {
+      "row_index": 102,
+      "text": "Captain"
+    },
+    {
+      "row_index": 103,
+      "text": "Catholic Missionary"
+    },
+    {
+      "row_index": 104,
+      "text": "Raider"
+    },
+    {
+      "row_index": 105,
+      "text": "Captain"
+    },
+    {
+      "row_index": 106,
+      "text": "Captain"
+    },
+    {
+      "row_index": 107,
+      "text": "Captain"
+    },
+    {
+      "row_index": 108,
+      "text": "Brigadier"
+    },
+    {
+      "row_index": 109,
+      "text": "Brigadier"
+    },
+    {
+      "row_index": 110,
+      "text": "Monk"
+    },
+    {
+      "row_index": 111,
+      "text": "Monk"
+    },
+    {
+      "row_index": 112,
+      "text": "Missionary"
+    },
+    {
+      "row_index": 113,
+      "text": "Missionary"
+    },
+    {
+      "row_index": 114,
+      "text": "Metsuke"
+    },
+    {
+      "row_index": 115,
+      "text": "Metsuke"
+    },
+    {
+      "row_index": 116,
+      "text": "Geisha"
+    },
+    {
+      "row_index": 117,
+      "text": "Ishin Shishi"
+    },
+    {
+      "row_index": 118,
+      "text": "Geisha"
+    },
+    {
+      "row_index": 119,
+      "text": "Geisha"
+    },
+    {
+      "row_index": 120,
+      "text": "Ninja"
+    },
+    {
+      "row_index": 121,
+      "text": "Ninja"
+    },
+    {
+      "row_index": 122,
+      "text": "Family Member"
+    },
+    {
+      "row_index": 123,
+      "text": "Admiral"
+    },
+    {
+      "row_index": 124,
+      "text": "Ikko Monk"
+    },
+    {
+      "row_index": 125,
+      "text": "Sou"
+    },
+    {
+      "row_index": 126,
+      "text": "Monomi"
+    },
+    {
+      "row_index": 127,
+      "text": "General"
+    },
+    {
+      "row_index": 128,
+      "text": "Junsatsushi"
+    },
+    {
+      "row_index": 129,
+      "text": "General"
+    },
+    {
+      "row_index": 130,
+      "text": "Captain"
+    },
+    {
+      "row_index": 131,
+      "text": "Shirabyoshi"
+    },
+    {
+      "row_index": 132,
+      "text": "Foreign Veteran"
+    },
+    {
+      "row_index": 133,
+      "text": "Captain"
+    },
+    {
+      "row_index": 134,
+      "text": "Shinsengumi"
+    },
+    {
+      "row_index": 135,
+      "text": "Geisha "
+    },
+    {
+      "row_index": 136,
+      "text": "Shinobi"
+    },
+    {
+      "row_index": 137,
+      "text": "Metsuke are unscrupulous executors of their daimyo's authority, directing their cunning to the control of their clan's disaffected generals and people. They are also able to bribe enemy armies and towns. Metsuke may seek to apprehend and bring enemy agents to 'justice', and are particularly effective at uncovering and countering ninja activity. "
+    },
+    {
+      "row_index": 138,
+      "text": "Metsuke are unscrupulous executors of their daimyo's authority, directing their cunning to the control of their clan's disaffected generals and people. They are also able to bribe enemy armies and towns. Metsuke may seek to apprehend and bring enemy agents to 'justice', and are particularly effective at uncovering and countering ninja activity. "
+    },
+    {
+      "row_index": 139,
+      "text": "Monks are ardent proponents of the teachings of Buddha. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Monks are also able to convert populations to Buddhism and enemy agents to abandon their missions in favour of a life of peace and self-reflection. They are particularly effective when used against metsuke. "
+    },
+    {
+      "row_index": 140,
+      "text": "Monks are ardent proponents of the teachings of Buddha. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Monks are also able to convert populations to Buddhism and enemy agents to abandon their missions in favour of a life of peace and self-reflection. They are particularly effective when used against metsuke. "
+    },
+    {
+      "row_index": 141,
+      "text": "Missionaries are fervent evangelists of the Christian way. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Missionaries are also able to convert populations to Christianity and enemy agents to abandon their missions in favour of a life of god-fearing penance. They are particularly effective when used against metsuke."
+    },
+    {
+      "row_index": 142,
+      "text": "Missionaries are fervent evangelists of the Christian way. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Missionaries are also able to convert populations to Christianity and enemy agents to abandon their missions in favour of a life of god-fearing penance. They are particularly effective when used against metsuke."
+    },
+    {
+      "row_index": 143,
+      "text": "Ninja are masters of artifice and infiltration. Their ninjutsu skills enable them to spy upon enemies or sabotage their armies and castle towns, whilst moving through their lands undetected. They are also expert assassins, striking from the shadows to kill enemy generals and agents alike. Their infliltration skills also make ninja invaluable scouts for their clan's armies, whilst their underworld connections keep them abreast of comings and goings when visiting friendly provinces."
+    },
+    {
+      "row_index": 144,
+      "text": "Ninja are masters of artifice and infiltration. Their ninjutsu skills enable them to spy upon enemies or sabotage their armies and castle towns, whilst moving through their lands undetected. They are also expert assassins, striking from the shadows to kill enemy generals and agents alike. Their infliltration skills also make ninja invaluable scouts for their clan's armies, whilst their underworld connections keep them abreast of comings and goings when visiting friendly provinces."
+    },
+    {
+      "row_index": 145,
+      "text": "Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents."
+    },
+    {
+      "row_index": 146,
+      "text": "Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents."
+    },
+    {
+      "row_index": 147,
+      "text": "Ishin shishi are “men of higher purpose” devoted to one thing: the reinstatement of Imperial divine rule. Champions of the Emperor, they rally and inspire the loyal whilst stirring unrest amongst rivals. Single-minded and dangerous, they will not hesitate to kill any who stand in their way."
+    },
+    {
+      "row_index": 148,
+      "text": "Geisha are skilled musicians, dancers and poets, and they use their arts both to entertain and uplift. Their talents may even serve a military agenda: some men are weak and easily distracted; others may betray a cause for beauty."
+    },
+    {
+      "row_index": 149,
+      "text": "Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents."
+    },
+    {
+      "row_index": 150,
+      "text": "Shinobi are masters of subterfuge; they conduct espionage, sabotage and assassinations. Their ability to infiltrate and observe also makes them invaluable army scouts and enables the establishment of spy networks in their clan’s settlements."
+    },
+    {
+      "row_index": 151,
+      "text": "Shirabyoshi are traditional dancers who perform for nobles on formal occasions. Dressed as men in formal Shinto clothes and white powdered make-up, the slow, rhythmic dances they perform in veneration of the gods also involve poetry, singing and musicianship. The shirabyoshi’s main skill is seduction, which convinces her target to join her lord’s cause. Shirabyoshi are able to entertain the nobles of friendly towns in order to boost their growth and entertain friendly generals in the field, which increases their loyalty to the family and counteracts the efforts of enemy agents to bribe or seduce them into changing sides."
+    },
+    {
+      "row_index": 152,
+      "text": "Foreign veterans are masters of warfare having fought, and survived, in many battles. Their long years of service make them great military instructors and administrators; their expertise makes them keen marksmen and sappers, as well as fearless duellists."
+    },
+    {
+      "row_index": 154,
+      "text": "Shinsengumi are enforcers of the Shogun’s justice, coercing or subduing those who dare oppose his will. They will resort to any means necessary to prevent Imperialists from overthrowing the Shogunate, even assassinating their enemies and stirring dissidents to open revolt."
+    },
+    {
+      "row_index": 155,
+      "text": "Junsatsushi ensure loyalty and obedience from friendly generals, increase income by preventing corruption, keep our castle towns and armies safe from enemy subterfuge when positioned inside them, and can request the allegiance of neutral and enemy castle towns, along with any forces garrisoned there. Junsatsushi can also pay off rival agents."
+    },
+    {
+      "row_index": 159,
+      "text": "Monomi act as assassins, spies, saboteurs and scouts, and are recruited from province speciality buildings. In addition to their subterfuge skills, monomi also increase the movement and line of sight of our armies when placed inside them. They can also establish spy networks within castle towns, which increase the chances of discovering any rival agents and armies that may be hiding within a province. Monomi are invisible to the enemy until detected."
+    },
+    {
+      "row_index": 161,
+      "text": "Admirals.PLACEHOLDER"
+    },
+    {
+      "row_index": 162,
+      "text": "Ikko monks are zealous advocates of the Ikko sect of Jodo Shinshu Buddhism. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Ikko Monks are also able to convert populations to their Ikko beliefs and enemy agents to abandon their missions in favour of a life of Jodo Shinshu spiritualism. They are particularly effective when used against metsuke."
+    },
+    {
+      "row_index": 163,
+      "text": "Sou can inspire a friendly army or pacify an angry populace with their enlightened rhetoric, and, by the same token, demoralise an enemy force, reduce the chances of successful bribery, indoctrinate enemy agents and cause them to retire, or incite an enemy population to revolt."
+    },
+    {
+      "row_index": 164,
+      "text": "Admirals.PLACEHOLDER"
+    },
+    {
+      "row_index": 165,
+      "text": "A Protestant Missionary is a religious teacher who spreads word of Protestantism. Placing a Missionary within a region will cause a gradual conversion to Protestantism amongst the population. They will continue to convert a region until moved."
+    },
+    {
+      "row_index": 166,
+      "text": "General. PLACEHOLDER."
+    },
+    {
+      "row_index": 168,
+      "text": "BASIC_SPENDING_BIAS_RECRUITMENT_ARMY"
+    },
+    {
+      "row_index": 169,
+      "text": "General. PLACEHOLDER."
+    },
+    {
+      "row_index": 170,
+      "text": "General. PLACEHOLDER."
+    },
+    {
+      "row_index": 171,
+      "text": "An Eastern Scholar is an educated man who can be sent into educational buildings to speed-up research, but cannot duel with other characters."
+    },
+    {
+      "row_index": 172,
+      "text": "An Eastern Scholar is an educated man who can be sent into educational buildings to speed-up research, but cannot duel with other characters."
+    },
+    {
+      "row_index": 173,
+      "text": "An Eastern Scholar is an educated man who can be sent into educational buildings to speed-up research, but cannot duel with other characters."
+    }
+  ],
+  "total_chunks": 3,
+  "chunk_size": 80
+}

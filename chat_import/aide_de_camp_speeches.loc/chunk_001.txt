@@ -1,0 +1,56 @@
+[0] Cổng thành đã bị ta đoạt lấy, thưa chủ công!
+[1] Tường thành đã bị phá thủng! Toàn quân xông lên qua lỗ thủng!
+[2] Bẩm chủ công! Quân tiếp viện của địch đã kéo đến!
+[3] Quân địch đã chiếm giữ tháp canh!
+[4] Bẩm chủ công! Một đơn vị của ta đã toàn quân tử trận!
+[5] Chiến thuyền của ta đã bị đánh chìm! Không một ai sống sót!
+[6] Bẩm chủ công! Trong quân địch có vũ khí Gatling cực kỳ hung hiểm!
+[7] Tháp của ta đã bị hỏa lực địch phá sập!
+[8] Quân địch đã phát giác phục binh của đồng minh ta!
+[9] Bẩm chủ công! Vị trí này e rằng khó lòng giữ vững lâu thêm!
+[10] Chiến thuyền của ta đã nổ tung!
+[11] Thưa chủ công! Tháp canh của địch đã rơi vào tay ta!
+[12] Cổng thành của ta đã bị quân địch phá vỡ!
+[13] Bẩm chủ công! Tướng quân của ta đang lâm nguy!
+[14] Cẩn trọng! Phóng lôi đang lao thẳng về phía hạm đội ta!
+[15] Bẩm chủ công! Quân địch đã mất một đồng minh trọng yếu!
+[16] Tiến lên! Toàn quân tiến nữa! Pháo đài của chúng sắp sụp đổ!
+[17] Bẩm chủ công! Tướng quân của ta đang bị uy hiếp! Không thể để ngài thất thủ!
+[18] Bẩm chủ công! Tướng địch đã ngã xuống! Một đòn chí mạng!
+[19] Bẩm chủ công… một chiến thuyền của ta đã làm điều ô nhục!
+[20] Bẩm ngài! Quân địch đã gọi pháo kích! Vị trí của ta có thể trở thành mục tiêu!
+[21] Bẩm chủ công! Một đơn vị của ta đã bắn cạn đạn dược!
+[22] Hỏa lực của ta đã phá tan tháp canh của chúng!
+[23] Tướng địch đã ngã xuống! Một đòn giáng nặng nề vào quân thù!
+[24] Bẩm chủ công… vận trận đang nghiêng ngả! Trận chiến sắp phân định thắng bại!
+[25] Trời đất u ám, thưa chủ công! Phải đề phòng súng tịt ngòi!
+[26] Bẩm chủ công! Tướng quân của ta đã bị thương! Ngài vẫn sống nhưng buộc phải rời chiến địa!
+[27] Bẩm chủ công! Đồng minh của ta đã bị đánh bại! Một tổn thất nặng nề!
+[28] Một đơn vị của ta đang bị hỏa lực địch áp chế!
+[29] Đồng minh của chúng đã bỏ rơi chúng! Thời cơ của ta đã tới!
+[30] Quân địch đã chiếm giữ vị trí trọng yếu!
+[31] Chúng tới rồi! Chuẩn bị đánh bật quân đổ bộ!
+[32] Hừ! Đồng minh “đáng kính” của ta đã quay lưng tháo chạy, bỏ mặc ta giữa vòng vây quân thù!
+[33] Cẩn trọng! Chiến thuyền của ta đã lọt vào tầm pháo bờ biển!
+[34] Phục binh! Bẩm chủ công, quân địch đang toan phục kích!
+[35] Bẩm chủ công! Chúng ta đã chiếm được một công trình!
+[36] Một chiến thuyền của ta đang rút khỏi trận!
+[37] Bẩm chủ công! Phục binh của ta đã bị lộ!
+[38] Binh sĩ của ta đang tháo chạy khỏi chiến địa — thật nhục nhã!
+[39] Quân lính đã kiệt sức, thưa chủ công! Cần cho họ nghỉ ngơi!
+[40] Bẩm chủ công! Vinh quang chiến thắng sắp thuộc về ngài!
+[41] Bẩm chủ công! Đồng minh của ta đã bỏ chạy, để mặc ta đối đầu quân địch!
+[42] Đồng minh của ta đang bị tấn công!
+[43] Xin nhắc chủ công: trận chiến này do ta khởi phát.
+[44] Một ngày đen tối! Tướng quân của ta đã ngã xuống!
+[45] Tướng quân của ta đã trận vong! Quân sĩ đang dao động trước biến cố này!
+[46] Không thấy rõ mục tiêu… nhưng vẫn sẽ khai hỏa!
+[47] Tường thành của ta đang vỡ vụn dưới hỏa lực hung bạo của địch!
+[48] Quân tiếp viện đã tới!
+[49] Một chiến thuyền của ta đã mất buồm! Trong tình trạng này khó lòng trụ vững lâu!
+[50] Pháo đài của địch chỉ còn ít khắc nữa sẽ rơi vào tay ta!
+[51] Xin nhắc chủ công: ta đang ở thế phòng thủ.
+[52] Pháo kích từ hải quân đang giáng xuống!
+[53] Bẩm chủ công! Phòng tuyến của ta đã bị chọc thủng và đang sụp đổ!
+[54] Cháy rồi! Một chiến thuyền của ta đã bốc cháy!
+[55] Bẩm chủ công! Quân địch đã chiếm được một công trình!

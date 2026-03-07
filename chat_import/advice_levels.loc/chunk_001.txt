@@ -1,0 +1,100 @@
+[0] Một thị trấn lâu đài không có quân đồn trú sẽ tự động tạo ra các đơn vị samurai tùy tùng và phụ nữ để phòng thủ khi bị tấn công. Dù họ không hiệu quả bằng quân chính quy trong trận chiến và không thể rời khỏi thị trấn nơi họ xuất hiện, họ vẫn có thể xử lý tốt các vấn đề trật tự công cộng hằng ngày.
+[1] Các đặc vụ được tuyển trực tiếp từ một tỉnh thông qua thẻ tuyển dụng trên bảng tổng quan. Việc tuyển dụng diễn ra ngay lập tức, nhưng chi phí có thể thay đổi tùy theo nhiều yếu tố, như sự hiện diện của một số công trình, đặc điểm của gia tộc hoặc nhân vật.
+[2] Các nhà truyền giáo có thể cải đạo dân cư trong các tỉnh và cả những đặc vụ khác sang tôn giáo của họ, mặc dù việc một nhà truyền giáo cải đạo một nhà sư sẽ khó hơn và ngược lại. Việc cải đạo dân cư sang Cơ Đốc giáo diễn ra đơn giản chỉ bằng sự hiện diện của nhà truyền giáo trong tỉnh.
+[3] Geisha có thể truyền cảm hứng cho quân đội của chúng ta và nâng cao tinh thần chiến đấu của họ, một kỹ năng hữu ích nếu họ sẽ chiến đấu trong cùng lượt. Để truyền cảm hứng, chỉ cần chọn một geisha, nhấp chuột phải vào đạo quân mục tiêu và chọn “inspire” từ các tùy chọn hiển thị.
+[4] Với điều này, các tùy chọn chiến đấu và chế độ chơi mới đã được mở cho bạn. Các trận đấu ghép trận giờ cho phép bạn tìm đối thủ trong các loại trận hải chiến, công thành và chiến đấu trên bộ.
+[5] Kho bạc cho biết số tiền hiện có trong ngân khố của gia tộc và được hiển thị bên cạnh thu nhập dự kiến cho lượt tiếp theo.
+[6] Công trình xưởng rèn tăng giáp và khả năng phòng thủ cận chiến cho tất cả các đơn vị.
+[7] Lực lượng đánh vu hồi có thể trở thành lực lượng ghìm chân. Nếu bạn tung một lực lượng lớn để đánh vòng và không tấn công trực diện, kẻ địch sẽ buộc phải quay lại đối phó với bạn, khiến sườn của họ lộ ra trước lực lượng trung tâm của bạn.
+[8] Có hai loại nổi loạn. Một vị tướng có lòng trung thành quá thấp có thể cố gắng lập gia tộc riêng thay vì đào ngũ sang gia tộc khác. Khi điều này xảy ra, ông ta sẽ chiêu mộ quân đội và cố chiếm thị trấn lâu đài gần nhất. Bạo loạn của nông dân cũng có thể leo thang thành nổi dậy quy mô lớn.
+[9] Hãy dành chút thời gian khám phá màn hình avatar trước khi nhấn nút bản đồ chinh phục trên thanh điều hướng để quay lại chiến dịch chinh phục Nhật Bản.
+[10] Những người đứng đầu gia tộc sở hữu cả Shogun 2 và Fall of the Samurai có thể chọn hai kỹ năng đặc biệt cho gia tộc của mình.
+[11] Một khối quân dày đặc là mục tiêu tuyệt vời cho các đơn vị bắn tên trên chiến trường. Hãy tiếp tục bắn phá và chúng sẽ chịu thương vong!
+[12] Điều quan trọng là chúng ta phải mở rộng quyền lực ra ngoài phạm vi Satsuma. Osumi nên là mục tiêu đầu tiên. Chúng ta đã đang chiến tranh với gia tộc Ito đang cai trị nơi đó, và lâu đài của họ nằm nguy hiểm gần biên giới của ta – nó phải bị chiếm trước khi Ito kịp tập hợp quân đội. Sau đó chúng ta có thể tiếp tục khuất phục hoàn toàn họ hoặc mở rộng sang Higo. Hiện tại chúng ta chưa xung đột với Sagara – những người cai trị vùng đó – nhưng chiếm được tỉnh của họ sẽ mang lại nguồn ngựa chiến thượng hạng và hương vị của chiến thắng lâu dài. Khi toàn bộ Kyushu phía nam nằm dưới quyền kiểm soát của ta, không gia tộc nào khác có thể chống lại. Kyushu sẽ thuộc về chúng ta!
+[13] Hao mòn là sự mất quân do đào ngũ, bệnh tật, v.v. Một đạo quân sẽ chịu hao mòn nếu kết thúc lượt ở ngoài khu định cư trong những tháng mùa đông.
+[14] Bảng cạnh tranh gia tộc cung cấp nhiều bộ lọc bản đồ, hiển thị thông tin quan trọng về trạng thái hiện tại của từng thế giới trò chơi và giúp các gia tộc hoạch định con đường chiến thắng.
+[15] Thỉnh thoảng, các nhiệm vụ sẽ được giao bởi gia tộc của chúng ta, bởi Shogun, hoặc nếu thích hợp, bởi các đối tác thương mại châu Âu. Mục tiêu nhiệm vụ có thể xem trong danh sách mục tiêu dưới bản đồ radar hoặc trong thẻ tổng quan của bảng quản lý gia tộc. Không có hình phạt nếu thất bại, nhưng hoàn thành thành công sẽ mang lại phần thưởng, thường là các hiệu ứng thưởng. Nếu một nhiệm vụ trở nên không thể hoàn thành do các yếu tố ngoài tầm kiểm soát, nó sẽ bị hủy.
+[16] Bằng sức mạnh quân sự và niềm tin vững chắc, chúng ta sẽ chiến thắng. Sự chống đối đối với con đường Jodo Shinshu sẽ vẫn rất mạnh mẽ, và Shogun cũng không ngoại lệ. Nếu ông ta coi chúng ta là mối đe dọa, ông ta sẽ không dừng lại cho đến khi dân chúng của chúng ta bị khuất phục hoàn toàn. Khi ngày đó đến, chúng ta phải chiếm Kyoto cho riêng mình. Khi một người Shimozuma cai trị Mạc phủ nhân danh chúng ta, toàn bộ Nhật Bản sẽ biết sức mạnh của chúng ta. Ikko Ikki sẽ được tự do!
+[17] Đây là màn hình quản lý quân đội nơi bạn có thể tạo đạo quân của mình. Ban đầu bạn được cung cấp một số đơn vị, mỗi đơn vị có thế mạnh riêng trên chiến trường. Nhấp đúp chuột trái vào thẻ đơn vị để thêm đơn vị đó vào quân đội.
+[18] Ra lệnh cho toàn bộ quân đội tấn công cùng lúc sẽ làm mất cơ hội giành lợi thế. Ngay cả khi bạn có đủ sức mạnh để thắng, bạn sẽ mất nhiều binh lính hơn mức cần thiết.
+[19] Đàn áp là việc thực thi quyền cai trị bằng sự hiện diện của quân đồn trú. Các chấm xám trong mục trật tự công cộng của bảng này biểu thị sự đàn áp thông qua sự đe dọa từ các đơn vị đồn trú. Dù hữu ích để giữ trật tự, nhưng nổi dậy sau một thời gian đàn áp nặng nề có thể rất khó dập tắt.
+[20] Tùy chọn này yêu cầu một gia tộc trở thành chư hầu của chúng ta. Gia tộc chư hầu có thể tận dụng sức mạnh quân sự của lãnh chúa để đổi lấy 50% thu nhập và quyền đi lại quân sự không giới hạn. Tuy nhiên, không giống đồng minh thông thường, chư hầu không thể từ chối yêu cầu chiến đấu cho lãnh chúa của mình; họ chỉ có thể giành lại độc lập bằng cách tuyên chiến với lãnh chúa đó.
+[21] Chúng ta là gia tộc Oda. Đây là thời kỳ khó khăn cho gia tộc. Không chỉ đang chiến tranh trên hai mặt trận, chúng ta còn bị cuốn vào nội chiến – sự đấu đá nội bộ đe dọa xé nát gia tộc từ bên trong. Vì vậy ưu tiên hàng đầu của chúng ta là dập tắt sự bất ổn và thống nhất dưới một lá cờ. Khi trật tự được khôi phục, chúng ta có thể xây dựng sức mạnh và mở rộng ảnh hưởng sang các tỉnh lân cận.
+[22] Shinobi có thể phá hoại một đạo quân đối thủ, làm giảm khả năng di chuyển của họ trong một lượt và gây thương vong bằng cách đầu độc nguồn thức ăn và nước uống. Nhấp chuột phải vào đạo quân đối thủ và chọn tùy chọn phá hoại quân đội.
+[23] Chi tiết về điều kiện chiến thắng và nhiệm vụ được lưu tại đây. Mỗi gia tộc có một số mục tiêu chinh phục lãnh thổ cố định cần hoàn thành để đạt chiến thắng. Chúng được hiển thị ở đầu thẻ này. Nhấp vào nhiệm vụ để xem thời gian còn lại hoặc đọc lại chi tiết.
+[24] Mỗi vị tướng có chỉ số trung thành để xác định khả năng bị mua chuộc, rời bỏ gia tộc hoặc đào ngũ sang gia tộc khác. Lòng trung thành bị ảnh hưởng bởi nhiều yếu tố như danh dự của daimyo, chiến thắng vang dội, hôn nhân trong gia tộc, được chọn làm người thừa kế, các đặc điểm và kỹ năng nhân vật, quyết định trong các tình huống khó xử, hoặc việc được bổ nhiệm làm quan chức. Nếu lòng trung thành quá thấp, đôi khi không còn lựa chọn nào khác ngoài việc ra lệnh cho họ mổ bụng seppuku.
+[25] Bảng ghép trận chiến cho phép bạn ghép ngẫu nhiên với đối thủ hoặc tham gia đội cùng người chơi khác trong các trận multiplayer. Nhấp vào biểu tượng để chọn loại trận chiến bạn muốn. Nếu muốn trận đấu được xếp hạng hoặc đóng góp cho cuộc thi gia tộc, bạn phải chọn tùy chọn này.
+[26] Đây là màn hình bộ giáp. Tại đây bạn có thể xem các mảnh giáp hiện có và những mảnh chưa mở khóa. Mỗi mảnh thuộc về một bộ; khi thu thập đủ cả bộ, bạn sẽ nhận được một tùy tùng đặc biệt.
+[27] Sự giàu có của một tỉnh là tổng thu nhập cơ bản từ thị trấn lâu đài, trang trại, cảng và các công trình đặc biệt của tỉnh, trừ đi thuế – phần này là thu nhập của chúng ta. Nó được hiển thị ở góc dưới bên trái bảng chi tiết tỉnh. Góc dưới bên phải cho thấy các yếu tố ảnh hưởng đến tăng trưởng kinh tế trong mùa tới và các mùa sau.
+[28] Khi đặt một monomi trong thị trấn lâu đài của chúng ta, hắn sẽ thiết lập mạng lưới gián điệp tại đó. Điều này tăng tầm nhìn của tỉnh, giúp phát hiện đặc vụ và quân đội ẩn, đồng thời giảm khả năng kẻ địch kích động nổi loạn.
+[29] Giờ đây một gia tộc có thể đưa hai đạo quân, mỗi đạo tối đa 20 đơn vị, vào một trận chiến. Đạo quân thứ hai sẽ vào chiến trường như quân tiếp viện và không thể di chuyển trong giai đoạn triển khai. Khi có hơn 20 đơn vị, hàng đơn vị thứ hai sẽ xuất hiện trên bảng chiến đấu. Quân tiếp viện vượt quá giới hạn 40 đơn vị phải chờ cho đến khi có chỗ.
+[30] Việc thêm đơn vị vào quân đội tốn điểm. Khi tạo quân lần đầu bạn có 5000 điểm. Theo thời gian số điểm tăng lên, cho phép triển khai nhiều và mạnh hơn.
+[31] Khi sự bất mãn quá lớn, nông dân sẽ nổi loạn. Nguyên nhân có thể là: danh dự daimyo thấp, mức phát triển gia tộc, thuế cao, hoặc sự hiện diện của quân địch trong tỉnh.
+[32] Khi đặc vụ tích lũy kinh nghiệm, bạn có thể chọn kỹ năng từ cây kỹ năng. Cây kỹ năng hiển thị mỗi khi lên cấp, cho phép bạn tùy chỉnh khả năng của đặc vụ.
+[33] Quân đội không thể vào cảng hoặc công trình bên ngoài khu định cư. Tuy nhiên chúng có thể bảo vệ nếu nằm trong vùng kiểm soát. Quân địch và cảng có thể bị cướp bóc giống tuyến thương mại.
+[34] Trước khi xem danh sách đơn vị chính, hãy xem kỹ đơn vị cựu binh bạn vừa tuyển từ trận trước. Chọn thẻ veteran.
+[35] Từ lâu chúng ta thèm muốn tỉnh Mikawa ở phía đông. Việc lãnh chúa Tokugawa trở thành chư hầu của Imagawa càng khiến nó hấp dẫn hơn; Mikawa màu mỡ và có ngựa chiến tốt, cần thiết cho kỵ binh mạnh. Mino kém quan trọng hơn, nhưng gia tộc Saito yếu hơn.
+[36] Tuy nhiên phải cẩn thận với Kyoto; nếu Mạc phủ xem sự lớn mạnh của chúng ta là mối đe dọa, chúng ta phải chuẩn bị chống lại Shogun và đồng minh của ông ta.
+[37] Geisha có thể tăng lòng trung thành của tướng và tăng trưởng thị trấn bằng cách giải trí cho họ. Chọn geisha và nhấp chuột phải vào tướng hoặc khu định cư rồi chọn entertain.
+[38] Chế độ Team cho phép bạn chiến đấu cùng bạn bè.
+[39] Võ đường cung thuật đã hoàn thành. Gia tộc Chosokabe nổi tiếng về cung thủ; giờ bạn có thể tuyển samurai cung.
+[40] Địa hình ảnh hưởng tốc độ di chuyển. Đi trên đường hoặc cỏ thấp sẽ nhanh nhất.
+[41] Thưa chủ nhân, tỉnh này bất ổn vì đa số dân theo tôn giáo khác. Hãy gửi nhà truyền giáo đến cải đạo.
+[42] Danh sách trận chiến cho phép tạo hoặc tham gia trận multiplayer. Chọn host battle để tạo trận.
+[43] Sau khi xây cảng thương mại, nó có thể nâng cấp thành khu thương mại của các cường quốc nước ngoài, giúp tăng thu nhập và tăng trưởng.
+[44] Một số mảnh giáp có thể nhận khi chinh phục tỉnh, số khác rơi ngẫu nhiên sau trận. Khi có được, bạn có thể thay đổi ngoại hình avatar.
+[45] Khi địch có nhiều quân nhẹ hoặc kỵ binh nhanh, hãy đưa bộ binh nhẹ lại gần đơn vị hỗ trợ để tránh bị bắt lẻ.
+[46] Khi sẵn sàng, nhấn nút conquest map để quay lại bản đồ.
+[47] Tất cả nam giới trong gia tộc trở thành tướng khi trưởng thành. Ngoài ra có thể nhận tướng mới thông qua nhận con nuôi.
+[48] Dùng ninja phá hoại công trình địch. Nhấp chuột phải vào lâu đài và chọn công trình cần phá.
+[49] Tỉnh Ise trung lập nổi tiếng về truyền thống tôn giáo và các nhà sư giỏi.
+[50] Bạn đã chọn phục kích. Quân ta có thể triển khai hai bên đường để tấn công đoàn quân đang hành quân.
+[51] Khi thắng cuộc thi gia tộc hoặc thăng hạng, thành viên nhận phần thưởng để tùy chỉnh avatar.
+[52] Bạn đã lựa chọn khôn ngoan. Hậu quả của lựa chọn hiển thị ở phía trên màn hình.
+[53] Khi daimyo trở thành Shogun, chúng ta nhận kỵ binh Shogun, chiến hạm Nihon Maru, +10% thuế và tăng sĩ khí toàn quân.
+[54] Shinobi có thể đột nhập khu định cư và phá cổng trước trận công thành.
+[55] Nhóm chọn giúp chọn đơn vị nhanh bằng phím. Tạo tối đa 10 nhóm bằng cách chọn đơn vị và nhấn G.
+[56] Tiếp tục thêm đơn vị cho đến khi dùng hết điểm để có quân mạnh nhất.
+[57] Mục tiêu nằm ngoài phạm vi. Nhân vật sẽ tiếp tục di chuyển vào mùa sau nếu không bị chặn.
+[58] Ba gia tộc lớn trong chiến tranh Gempei chia thành hai nhánh. Mục tiêu chiến dịch là giành bá quyền.
+[59] Đã đến lúc mở rộng danh sách đơn vị. Kéo avatar tới tỉnh được đánh dấu.
+[60] Chúng ta có thể phát triển thương mại bằng cách nâng cấp cảng và công trình đặc biệt.
+[61] Đây là bản đồ chinh phục avatar.
+[62] Trò chơi đang ghép bạn với đối thủ online.
+[63] Mục tiêu là chiếm lâu đài, không phải phá hủy nó.
+[64] Ninja có thể phá hoại quân địch bằng cách đầu độc lương thực.
+[65] Chúng ta là gia tộc Tokugawa... (mô tả hoàn cảnh lịch sử của họ).
+[66] Shinobi trong quân đội tăng tầm nhìn và phạm vi di chuyển.
+[67] Gia tộc có thể gửi con tin để đảm bảo thỏa thuận ngoại giao.
+[68] Drop-in battle cho phép người chơi thay AI trong trận chiến chiến dịch.
+[69] Gia tộc có thể kiếm thêm tiền bằng cách ký hiệp định thương mại.
+[70] Avatar đã đến tỉnh có dojo; chiếm nó để mở đơn vị mới.
+[71] Lãnh thổ rộng khiến chi phí tăng; nâng cấp khu định cư để thu thuế hiệu quả.
+[72] Khi đạt cấp cao nhất của chuỗi công trình, có thể xây công trình huyền thoại.
+[73] Tùy chọn đe dọa trong ngoại giao giúp ép đối phương.
+[74] Nếu tướng chết khi quân đang tháo chạy, họ sẽ bị tan rã hoàn toàn.
+[75] Battle list mode cho phép tạo trận tùy chỉnh với người chơi khác.
+[76] Trang trại cung cấp lương thực, thị trấn tiêu thụ lương thực.
+[77] Geisha có thể làm chậm quân hoặc đồn trú bằng màn biểu diễn quyến rũ.
+[78] Avatar đã đặt tại tỉnh đã chọn; nhấn match-made battle để chiến đấu.
+[79] Mục tiêu ngoài phạm vi lượt này; nhân vật sẽ tiếp tục di chuyển lượt sau.
+[80] Gia nhập gia tộc cho phép thu thập clan token sau mỗi trận.
+[81] Công trình bị phá hoại hoặc hư hại có thể sửa chữa.
+[82] Có nhiều nghệ thuật mới để nghiên cứu; mở bảng mastery of the arts.
+[83] Nhiệt độ quá nóng hoặc lạnh gây mệt mỏi cho đơn vị.
+[84] Thành trì của bạn đã hoàn thành; giờ có thêm vị trí xây dựng.
+[85] Ninja có thể được tuyển từ sake den.
+[86] Màn hình này cho phép tìm drop-in battle online.
+[87] Bạn có thể xem bộ giáp đã thu thập; hoàn thành bộ sẽ nhận tùy tùng.
+[88] Nhà nông tăng sức bền và tốc độ di chuyển của đơn vị.
+[89] Chúng ta là gia tộc Takeda… (giới thiệu bối cảnh chiến tranh của họ).
+[90] Màn hình hiển thị xếp hạng multiplayer trên bộ và biển.
+[91] Daimyo có danh dự thay vì trung thành; danh dự ảnh hưởng lòng trung thành của tướng.
+[92] Thất bại! Nhưng bạn đã thu được kinh nghiệm quý giá.
+[93] Quân vận chuyển bằng hạm đội có thể đổ bộ tấn công bờ biển.
+[94] Ưu tiên đầu tiên là chấm dứt các cuộc xâm lược từ Shinano.
+[95] Di chuyển ninja vào Sanuki và phá cổng thành của Sogo.
+[96] Trang trại và công trình nông nghiệp tăng thu nhập toàn tỉnh.
+[97] Lãnh địa Tsu – gia tộc Todo đứng về phía Hoàng đế chống Mạc phủ.
+[98] Có thể nâng cấp đường để tăng tầm nhìn và tốc độ tiếp viện.
+[99] Nhà truyền giáo có thể cải đạo, truyền cảm hứng cho quân ta, làm suy giảm tinh thần quân địch hoặc kích động nổi loạn.

@@ -1,0 +1,103 @@
+=== CHUNK 2/3 — avatar_aesthetics.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[100] Late Samurai Uniform 3: Officer Jingasa
+[101] Late Samurai Uniform 1: Headband
+[102] Crescent Crest
+[103] Sode Shoulder Guards of Toyotomi Hideyoshi
+[104] Kabuto Helmet: Goldfish Scale
+[105] Suneate Greaves: Goldfish Scale
+[106] Modern Uniform 4: Simple Tunic
+[107] Modern Uniform 1: French-Style Tunic
+[108] Modern Uniform 3: Modern Short Tunic
+[109] Modern Uniform 2: Modern Long Tunic
+[110] Sode Shoulder Guards: Sparse Point Laced
+[111] Kabuto Helmet of Naoe Kanetsugu
+[112] Haidate Thigh-Shields: Silver Scale
+[113] Haidate Thigh-Shields: Golden Scale
+[114] French Uniform: French Marine Tunic
+[115] Kote Armoured Sleeves of Date Masamune
+[116] Datemono Crest of Date Masamune
+[117] Ikko-Ikki Hood
+[118] Men Yoroi Face Armour: Golden Scale
+[119] Men Yoroi Face Armour: Silver Scale
+[120] Do Cuirass: Kawari Kabuto
+[121] Circle Crest
+[122] Kote Armoured Sleeves of Kato Kiyomasa
+[123] Noble Head 2
+[124] Noble Head 1
+[125] Old Head
+[126] Noble Head 6
+[127] Noble Head 5
+[128] Noble Head 4
+[129] Noble Head 3
+[130] Noble Head 8
+[131] Noble Head 7
+[132] Do Cuirass of Date Masamune
+[133] Kabuto Helmet: Scale
+[134] Officer Uniform 2: Cavalry Officer Trousers
+[135] Officer Uniform 1: Officer Trousers
+[136] Officer Uniform 2: Fancy Officer Coat
+[137] Officer Uniform 1: Officer Coat
+[138] Gempei Sode Shoulder Guards 1
+[139] Gempei Sode Shoulder Guards 2
+[140] Gempei Sode Shoulder Guards 3
+[141] Kabuto Helmet: Golden Scale
+[142] Kabuto Helmet: Silver Scale
+[143] Hanbo Men Yoroi Face Armour 1
+[144] Hanbo Men Yoroi Face Armour 2
+[145] Small Crest
+[146] Brown Horse
+[147] Noble Head 9
+[148] Kabuto Helmet of Kato Kiyomasa
+[149] Kote Armoured Sleeves: Goldfish Scale
+[150] Sashimono of Toyotomi Hideyoshi
+[151] Kabuto Helmet of Honda Tadakatsu
+[152] Achievement Crest: Achievement Without Honour
+[153] Masked Brown Horse
+[154] Men Yoroi Face Armour of Kato Kiyomasa
+[155] Standard Crest
+[156] Gempei Suneate Greaves 3
+[157] Gempei Suneate Greaves 2
+[158] Gempei Suneate Greaves 1
+[159] Gempei Kote Armoured Sleeves 2
+[160] Gempei Kote Armoured Sleeves 3
+[161] Gempei Kote Armoured Sleeves 1
+[162] Datemono Crest: Sparse Point Laced
+[163] Bay Horse
+[164] Tan Horse
+[165] Do Cuirass of Toyotomi Hideyoshi
+[166] Ikko-Ikki Robe
+[167] Sashimono: Golden Scale
+[168] Do Cuirass of Akechi Mitsuharu
+[169] Gempei Haidate Thigh-Shields 1
+[170] Gempei Haidate Thigh-Shields 2
+[171] Datemono Crest: Triple Hollyhock
+[172] Haidate Thigh-Shields of Toyotomi Hideyoshi
+[173] French Uniform: French Marine Officer Cap
+[174] Men Yoroi Face Armour of Toyotomi Hideyoshi
+[175] Modern Uniform 4: Large Wig
+[176] Modern Uniform 1: French Foreign Legion Hat
+[177] Modern Uniform 2: Modern Cap
+[178] Modern Uniform 3: Modern Jingasa
+[179] Sode Shoulder Guards: Goldfish Scale
+[180] Kabuto Helmet: Sparse Point Laced
+[181] Standard Crest
+[182] Suneate Greaves Toyotomi Hideyoshi
+[183] Kabuto Helmet of Toyotomi Hideyoshi
+[184] Gempei Crest 2
+[185] Gempei Crest 3
+[186] Gempei Crest 1
+[187] Gempei Chest 1
+[188] Gempei Chest 2
+[189] Gempei Chest 3
+[190] Oda-gote Armoured Sleeves
+[191] Sode Shoulder Guards of Kato Kiyomasa
+[192] Men Yoroi Face Armour: Sparse Point Laced
+[193] American Uniform 1: US Marine Officer Trousers
+[194] American Uniform 2: US Marine Trousers
+[195] Achievement Crest: Stranglehold
+[196] Sode Shoulder Guards of Date Masamune
+[197] Standard Crest
+[198] Standard Crest
+[199] Datemono Crest of Honda Tadakatsu

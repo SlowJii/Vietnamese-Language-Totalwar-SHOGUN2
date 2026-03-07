@@ -1,0 +1,103 @@
+=== CHUNK 13/14 — ancillaries.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[1200] British Naval Engineer
+[1201] Absinthe makes the heart grow fonder.
+[1202] Military Storehouse
+[1203] Speed comes more readily to the rider with a comfortable seat.
+[1204] For the huntsman, what else matters other than the chase?
+[1205] The tiger climbs, and rends, as he will.
+[1206] "British rubbish. Don't buy it."
+[1207] Legendary Do
+[1208] Kabukimono
+[1209] Meditation Beads
+[1210] "See how the tree becomes the image of enlightenment."
+[1211] English Tourist
+[1212] A lover of surpassing skill, for all her faults.
+[1213] "This are serious retainer."
+[1214] In one gesture, a world of emotion…
+[1215] Gentlemen appreciate warm hands.
+[1216] British Sailor Uniform
+[1217] "A Frenchman, sir, builds a ship with a soul. Any Anglo-Saxon idiot can make an ironclad."
+[1218] Knowledge is better than rumour.
+[1219] Legendary Calligrapher
+[1220] "Mr Smith and Mrs Wesson and their six lead offspring guarantee your life."
+[1221] Fire. Water. Tea. A bowl. A sip. One perfect moment.
+[1222] Lust and loathing are two sides of the same coin.
+[1223] Cigarillos
+[1224] A game of princes, played by lesser men.
+[1225] At the soul of a drumbeat is the sound of man's heart.
+[1226] Legendary Item: Kawari Kabuto Helm
+[1227] Fear is the key.
+[1228] Chinese Courtier
+[1229] In a moment of stillness: poetry.
+[1230] Colt .36 Navy Revolver
+[1231] Bottle of Chloroform
+[1232] Yamahoshi
+[1233] Admiral's Uniform
+[1234] Gaijin Lady
+[1235] Leon Descharmes
+[1236] Don't lose your head!
+[1237] Prussian Spiked Helmet
+[1238] Authority is the spirit of government.
+[1239] Yokozuna
+[1240] Moderation in war is imbecility.
+[1241] American Gunmaker's Agent
+[1242] General's Uniform
+[1243] British Gunmaker's Agent
+[1244] Soldier's Mistress
+[1245] Foul Bottom
+[1246] Stethoscope
+[1247] Japan is a land of wonders.
+[1248] Unlettered Samurai
+[1249] Clan Specialism Retainer: Shogunate Training Network
+[1250] Yagyu Sword Instructor
+[1251] Phonograph
+[1252] Tanegashima Matchlock
+[1253] Blind Bow Sensei
+[1254] The beat of the drum echoes the heart.
+[1255] Yoroi Toshi
+[1256] "Look, I'm not a squid, right?"
+[1257] Waka Poet
+[1258] The bow that is made with care will not fail, and will always shoot true.
+[1259] Artillery Officer's Handbook
+[1260] Yamabushi Guide
+[1261] Boyhood Companion
+[1262] Sojutsu Master
+[1263] Some men serve by watching from the shadows.
+[1264] The wise man does not set aside all defence.
+[1265] Inspiring Orator
+[1266] Every Frenchman understands "la gloire".
+[1267] "Cleverness, a witty tongue and a modicum of lust in one rather attractive kimono."
+[1268] Surgeon
+[1269] Mouldy Feed Stocks
+[1270] The real tragedy is that all performances must one day end in silence.
+[1271] It's only theft if you are caught.
+[1272] Boastful Samurai
+[1273] Duellist
+[1274] A samurai may need his weapon at any moment.
+[1275] O-shoku
+[1276] Lancaster Pistol
+[1277] Unmannered Samurai
+[1278] The smell is sulphurous, the results: astounding!
+[1279] The tiger climbs, and rends, as he will.
+[1280] Pet Tiger
+[1281] "Drink. Be at peace."
+[1282] Money matters.
+[1283] There should be decorum in all things.
+[1284] Nun
+[1285] Bladed Fan
+[1286] One cut, one death.
+[1287] A man of God should not be an unarmed fool.
+[1288] The sincere shot flies true, and strikes the mark.
+[1289] Diving Suit
+[1290] Famous Armoury
+[1291] There is honour in serving well.
+[1292] "Rice cakes? Rice cakes? Rice! Cakes! That's all you ever want!"
+[1293] "Ooo-ooo-Eeeek!"
+[1294] Enfield Musketoon
+[1295] A good crew is as one with their ship.
+[1296] There is much cunning in laying out a fortress, and in encouraging an attacker ever on to his doom.
+[1297] "The croissant? French? Bah. In name only."
+[1298] "He went that way!"
+[1299] Sometimes age adds to the worthiness of a thing.

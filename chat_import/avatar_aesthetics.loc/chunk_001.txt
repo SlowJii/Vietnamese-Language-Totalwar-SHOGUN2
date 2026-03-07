@@ -1,0 +1,100 @@
+[0] Suneate bảo vệ ống chân của Uesugi Kenshin
+[1] Mũ Kabuto của Uesugi Kenshin
+[2] Suneate bảo vệ ống chân của Tokugawa Ieyasu
+[3] Mũ của Nhà vô địch Gia tộc
+[4] Ngựa đốm
+[5] Ngựa xám Samurai
+[6] Haidate bảo vệ đùi của Uesugi Kenshin
+[7] Không huy hiệu
+[8] Mũ Kabuto: Bậc thầy Kiếm thuật
+[9] Giáp ngực Do của Maeda Toshie
+[10] Giáp ngực Do của Uesugi Kenshin
+[11] Mũ Kabuto của Oda Nobunaga
+[12] Giáp vai Sode: Dây buộc nhiều màu
+[13] Sashimono: Dây buộc nhiều màu
+[14] Giáp vai Sode của Hosokawa Tadaoki
+[15] Tay giáp Kote của Tokugawa Ieyasu
+[16] Haidate bảo vệ đùi: Kiểu phương Tây
+[17] Giáp ngực Do: Kiểu phương Tây
+[18] Mũ Kabuto của Tokugawa Ieyasu
+[19] Mặt nạ Men Yoroi của Oda Nobunaga
+[20] Sashimono: Bộ binh
+[21] Tay giáp Kote của Shogun
+[22] Giáp ngực Do: Hoa bìm bìm
+[23] Mũ Kabuto
+[24] Giáp vai Sode của Tokugawa Ieyasu
+[25] Haidate bảo vệ đùi của Oda Nobunaga
+[26] Ngựa xám đeo mặt nạ
+[27] Suneate Samurai
+[28] Ngựa hạt dẻ
+[29] Giáp ngực Do của Shogun
+[30] Huy hiệu của Shogun
+[31] Ngựa nâu Samurai
+[32] Sashimono của Tokugawa Ieyasu
+[33] Ngựa vàng nhạt Samurai
+[34] Huy hiệu thành tựu: Trung thành với Gia tộc
+[35] Sashimono của Hosokawa Tadaoki
+[36] Đồng phục Samurai cuối kỳ 1: Kimono Samurai có bảo vệ tay
+[37] Đồng phục Samurai cuối kỳ 3: Áo sơ mi hiện đại
+[38] Đồng phục Samurai cuối kỳ 2: Kimono Samurai
+[39] Huy hiệu tiêu chuẩn
+[40] Tay giáp Kote của Oda Nobunaga
+[41] Suneate bảo vệ ống chân của Oda Nobunaga
+[42] Mặt nạ Men Yoroi của Tokugawa Ieyasu
+[43] Tay giáp Kote: Hoa bìm bìm
+[44] Ngựa nâu Samurai
+[45] Giáp ngực Do: Bậc thầy Kiếm thuật
+[46] Mũ Kabuto của Maeda Toshie
+[47] Huy hiệu Datemono: Bậc thầy Kiếm thuật
+[48] Tay giáp Kote của Uesugi Kenshin
+[49] Mũ Kabuto: Kiểu phương Tây
+[50] Suneate bảo vệ ống chân của Shogun
+[51] Suneate bảo vệ ống chân: Hoa bìm bìm
+[52] Katana của Shogun
+[53] Huy hiệu Datemono của Oda Nobunaga
+[54] Mũ Kabuto: Đuôi cá trê
+[55] Giáp ngực Do của Oda Nobunaga
+[56] Mũ Kabuto: Hoa bìm bìm
+[57] Mặt nạ Menpo của Shogun
+[58] Haidate bảo vệ đùi của Shogun
+[59] Mặt nạ Men Yoroi: Kiểu phương Tây
+[60] Cung Yumi tiêu chuẩn 1
+[61] Mặt nạ Men Yoroi: Vảy cá trê
+[62] Đồng phục Samurai cuối kỳ 2: Hakama Samurai nhiều màu
+[63] Đồng phục Samurai cuối kỳ 3: Quần truyền thống
+[64] Đồng phục Samurai cuối kỳ 1: Hakama Samurai sọc
+[65] Mũ Kabuto Zunari
+[66] Sashimono: Kỵ binh
+[67] Đồng phục Shinsengumi 2: Jingasa hình nón
+[68] Đồng phục Shinsengumi 1: Jingasa nhỏ hiện đại
+[69] Mũ Kabuto: Kawari Kabuto
+[70] Huy hiệu thành tựu: Một Triều Đại Đáng Kính
+[71] Huy hiệu thành tựu: Chỉ huy của Dân thường
+[72] Huy hiệu: Thăng hạng Gia tộc trong Clan Competition
+[73] Huy hiệu thành tựu: Rèn luyện trong ngọn lửa nóng nhất
+[74] Suneate bảo vệ ống chân của Date Masamune
+[75] Ikko-Ikki chân trần
+[76] Giáp ngực Do: Vảy cá vàng
+[77] Huy hiệu Datemono: Vảy cá vàng
+[78] Huy hiệu Datemono của Naoe Kanetsugu
+[79] Giáp ngực Do: Vảy
+[80] Huy hiệu Datemono: Vảy vàng
+[81] Giáp ngực Do: Vảy bạc
+[82] Giáp ngực Do: Vảy vàng
+[83] Đồng phục hiện đại 4: Quần kỵ binh
+[84] Đồng phục hiện đại 1: Quần có xà cạp tối màu
+[85] Đồng phục hiện đại 3: Quần hiện đại
+[86] Đồng phục hiện đại 2: Quần có xà cạp trắng
+[87] Mũ Kabuto của Date Masamune
+[88] Áo khoác Jin Baori
+[89] Đồng phục Pháp: Quần lính thủy đánh bộ Pháp
+[90] Mặt nạ Men Yoroi: Vảy cá vàng
+[91] Haidate bảo vệ đùi: Vảy cá vàng
+[92] Tay giáp Kote: Vảy vàng
+[93] Suneate bảo vệ ống chân: Vảy vàng
+[94] Tay giáp Kote: Vảy bạc
+[95] Giáp ngực Do của Kato Kiyomasa
+[96] Suneate bảo vệ ống chân: Vảy bạc
+[97] Đồng phục Anh: Quần sĩ quan Royal Marine
+[98] Đồng phục Anh: Áo tunic sĩ quan Royal Marine
+[99] Đồng phục Samurai cuối kỳ 2: Jingasa giấy

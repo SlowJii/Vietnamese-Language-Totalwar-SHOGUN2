@@ -1,0 +1,103 @@
+=== CHUNK 1/3 — avatar_aesthetics.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[0] Suneate Greaves of Uesugi Kenshin
+[1] Kabuto Helmet of Uesugi Kenshin
+[2] Suneate Greaves of Tokugawa Ieyasu
+[3] Cap of the Clan Champions
+[4] Dappled Horse
+[5] Samurai Grey Horse
+[6] Haidate Thigh-Shields of Uesugi Kenshin
+[7] No crest
+[8] Kabuto Helmet: Blade Master
+[9] Do Cuirass of Maeda Toshie
+[10] Do Cuirass of Uesugi Kenshin
+[11] Kabuto Helmet of Oda Nobunaga
+[12] Sode Shoulder Guards: Multicolour Laced
+[13] Sashimono: Multicolour Laced
+[14] Sode Shoulder Guards of Hosokawa Tadaoki
+[15] Kote Armoured Sleeves of Tokugawa Ieyasu
+[16] Haidate Thigh-Shields: Western Style
+[17] Do Cuirass: Western Style
+[18] Kabuto Helmet of Tokugawa Ieyasu
+[19] Men Yoroi Face Armour of Oda Nobunaga
+[20] Sashimono: Infantry
+[21] Kote Armoured Sleeves of the Shogun
+[22] Do Cuirass: Morning Glory
+[23] Kabuto Helmet
+[24] Sode Shoulder Guards of Tokugawa Ieyasu
+[25] Haidate Thigh-Shields of Oda Nobunaga
+[26] Masked Grey Horse
+[27] Samurai Suneate Greaves
+[28] Chestnut Horse
+[29] Do Cuirass of the Shogun
+[30] Crest of the Shogun
+[31] Samurai Bay Horse
+[32] Sashimono of Tokugawa Ieyasu
+[33] Samurai Tan Horse
+[34] Achievement Crest: Loyal to the Clan
+[35] Sashimono of Hosokawa Tadaoki
+[36] Late Samurai Uniform 1: Arm Guard Samurai Kimono
+[37] Late Samurai Uniform 3: Modern Shirt
+[38] Late Samurai Uniform 2: Samurai Kimono
+[39] Standard Crest
+[40] Kote Armoured Sleeves of Oda Nobunaga
+[41] Suneate Greaves of Oda Nobunaga
+[42] Men Yoroi Face Armour of Tokugawa Ieyasu
+[43] Kote Armoured Sleeves: Morning Glory
+[44] Samurai Brown Horse
+[45] Do Cuirass: Blade Master
+[46] Kabuto Helmet of Maeda Toshie
+[47] Datemono Crest: Blade Master
+[48] Kote Armoured Sleeves of Uesugi Kenshin
+[49] Kabuto Helmet: Western Style
+[50] Suneate Greaves of the Shogun
+[51] Suneate Greaves: Morning Glory
+[52] Katana of the Shogun
+[53] Datemono Crest of Oda Nobunaga
+[54] Kabuto Helmet: Catfish Tail
+[55] Do Cuirass of Oda Nobunaga
+[56] Kabuto Helmet: Morning Glory
+[57] Menpo Mask of the Shogun
+[58] Haidate Thigh-Shields of the Shogun
+[59] Men Yoroi Face Armour: Western Style
+[60] Standard Yumi Bow 1
+[61] Men Yoroi Face Armour: Catfish Scale
+[62] Late Samurai Uniform 2: Colourful Samurai Hakama
+[63] Late Samurai Uniform 3: Traditional Trousers
+[64] Late Samurai Uniform 1: Striped Samurai Hakana
+[65] Zunari Kabuto Helmet
+[66] Sashimono: Cavalry
+[67] Shinsengumi Uniform 2: Cone Jingasa
+[68] Shinsengumi Uniform 1: Modern Small Jingasa
+[69] Kabuto Helmet: Kawari Kabuto
+[70] Achievement Crest: A Respectable Rule
+[71] Achievement Crest: Commander of Commoners
+[72] Crest: Clan Competition Tier Promotion
+[73] Achievement Crest: Forged in the Hottest Flame
+[74] Suneate Greaves of Date Masamune
+[75] Ikko-Ikki Barefoot
+[76] Do Cuirass: Goldfish Scale
+[77] Datemono Crest: Goldfish Scale
+[78] Datemono Crest of Naoe Kanetsugu
+[79] Do Cuirass: Scale
+[80] Datemono Crest: Golden Scale
+[81] Do Cuirass: Silver Scale
+[82] Do Cuirass: Golden Scale
+[83] Modern Uniform 4: Cavalry Trousers
+[84] Modern Uniform 1: Dark Gaiter Trousers
+[85] Modern Uniform 3: Modern Trousers
+[86] Modern Uniform 2: White Gaiter Trousers
+[87] Kabuto Helmet of Date Masamune
+[88] Jin Baori Surcoat
+[89] French Uniform: French Marine Trousers
+[90] Men Yoroi Face Armour: Goldfish Scale
+[91] Haidate Thigh-Shields: Goldfish Scale
+[92] Kote Armoured Sleeves: Golden Scale
+[93] Suneate Greaves: Golden Scale
+[94] Kote Armoured Sleeves: Silver Scale
+[95] Do Cuirass of Kato Kiyomasa
+[96] Suneate Greaves: Silver Scale
+[97] British Uniform: Royal Marine Officer Trousers
+[98] British Uniform: Royal Marine Officer Tunic
+[99] Late Samurai Uniform 2: Paper Jingasa

@@ -1,0 +1,103 @@
+=== CHUNK 7/14 — advice_levels.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[600] These developments will take several turns to finish. Meanwhile, you could bolster your forces or improve roads and farms in your lands. I will advise again when the stronghold is completed.
+[601] Cavalry cause extra casualties when first charging in due to the impetus of their attack. A cycle of charge, withdraw, charge causes maximum casualties for minimum losses. Repeat until done.
+[602] On the Chosokabe family tree select Chikayasu's portrait. Now click on the commission buttons to give him a commission and its bonuses. Only male adults in the family or promoted generals can be given a commission. Your general's loyalty will improve, and the clan as a whole benefits.
+[603] This army is now in a position to ambush passing enemies. However, be aware that hidden enemies can ambush our own armies in just the same way!
+[604] The battle timer shows how much time is left before the battle ends. The attacker must rout or destroy the defender within the time limit or lose the battle. To claim victory the defender has only to keep the attacker at bay, so can still win, even if outnumbered.
+[605] During an attack on a castle town, the attackers and defenders have many options in common. The attackers can also besiege a castle and, given time, starve the enemy into submission. This time, you must be swift! Capture the castle now: eliminate the wretched, treacherous Kono.
+[606] Lower quality infantry are useful for engaging and holding the enemy in place while you go around their side or rear. However, the lower the troop quality, the less time you have before they break and rout.
+[607] Now you are known on the mainland it would be sensible to trade with one of Honshu's clans. Select the diplomacy button in the bottom right-hand corner of the screen.
+[608] A drop-in battle is a feature allowing you to find a human opponent to take the place of the AI clan in a battle in your campaign, or fight a battle in another's campaign in place of the AI. This is achieved via the on-line battle mechanism. Further details about this feature are available through the encyclopaedia, accessed through the dedicated button in the top left-hand corner of the screen. 
+[609] Excellent, the Kono are dead, and Iyo is yours! The people of Iyo will resent having a new master. Do not loot the place, as this will hurt public order; instead, occupy Iyo to keep public order and use the province's buildings.
+[610] There is a port in this province that has not been developed to its full potential. Port upgrades enable the construction of bigger and better ships, as well as trade with foreign powers and increased income.
+[611] It is time to move on to the next turn. As you end this turn, your orders will be carried out and other clans will carry out their own actions. They will develop their lands and move armies before you regain control. Click the end turn button now.
+[612] This tab shows all existing buildings in the selected castle town and surrounding province, mouse over them to see what can yet be constructed. Right-click on a picture to see its description. Left-click on a building to add it to the queue, and again to remove it. Construction cost is displayed underneath, construction time is shown in the top left-hand corner. Some buildings cannot be constructed until certain arts have been mastered. In these instances please go to the mastery of the arts panel to begin study.
+[613] The farms across our territory are not producing enough food to supply all our castle towns, resulting in food shortages in some provinces. As a matter of urgency, upgrade farms in any province to improve food supply, as persistent hunger will lead to an increase in discontent.
+[614] Light cavalry are an excellent choice for riding down light infantry and skirmishers. They often screen the main enemy force or harry isolated units, so getting rid of them is always a sound tactic, if you can catch them!
+[615] Placing cavalry units on your flanks gives you flexibility. They can counter any flanking move or make a move of their own if the way is clear.
+[616] We are successfully blockading an enemy port. This does not affect their ability to build new ships or repair existing combat-damaged ships, but all trade income through it will be suspended for the life of the blockade.
+[617] This panel enables selection of the arts that, when mastered, will give us an advantage over our rivals. To begin, simply select the item you wish to master. There are no buildings required in order to do this, although there are some buildings that require mastery of certain arts before they can be constructed. Mouse over an art for a short description, details of effects and the length of time needed to master it. Further details are available in the encyclopaedia, accessed via the question mark button in the top right-hand corner of the panel.
+[618] The radar map allows an aerial view of the battle detailing the position of our units or ships and those enemies that are visible, and also topography to assist in planning an attack. Use the plus and minus buttons to zoom in or out and the button in the top right-hand corner to minimise or maximise it.
+[619] This is good: by the time your army reaches Sanuki, you will have mastered bushido. Remember to revisit the arts panel. You can learn the ways of chi to improve your economy and government. I will advise you again when you own Sanuki.
+[620] This battle can be fought as a drop-in battle. This means that you can choose to have another player take command of the AI forces in the battle, offering an even greater challenge! Click the drop-in battle button to quickly find an opponent on-line or invite a friend.
+[621] Use this option to officially declare war on another clan. However, do not do so without first considering the consequences. Note that the check box asking allies to assist us defaults to yes.
+[622] You can view your clan's fame, clan traits, diplomatic relations, current missions and victory conditions here. All daimyo want to become Shogun. And so does Chosokabe Motochika. If Shikoku island is united under him, your fame will be felt in Kyoto!
+[623] Guard mode ensures that units fight defensively, try to maintain their formation when attacked and won't pursue the enemy if they run away. It can be toggled on or off by selecting a unit and clicking on the guard mode button that appears in the bottom left-hand corner of the screen.
+[624] Light cavalry make excellent bait. You can lure the enemy into ambushes, draw units out of position in their line, or just make them tire themselves out chasing you.
+[625] Battle statistics are displayed here, along with a breakdown of the condition of each surviving ship or unit. The button on the right-hand side breaks down the statistics to a "per unit" level.
+[626] Enemy trade ships are fair game in times of war. Right-click on a trade route to draw additional income from raiding their trade fleets.
+[627] When attacking an enemy with superior missile troops, get into melee combat as quickly as possible.
+[628] This option is used to broker military alliances. This allows us to call on an ally to provide assistance when at war, and likewise. Note that a refusal to provide support when an ally is under attack will instantly cancel the alliance between us.
+[629] Skirmishers begin the battle with skirmish mode turned on, meaning that they'll try to avoid hand to hand contact with the enemy by retreating to a safe firing distance. Try to keep some melee troops close behind them, so your skirmishers can run back through their lines to safety when threatened.
+[630] Maintaining a unit's courage and discipline in the heat of battle is dependent on their morale - a measure of pride and belief in their abilities. This is boosted by training, experience and the presence of an inspirational general. Morale is weakest when a unit is heavily outnumbered or outmatched by an enemy. You can see their morale state just above their unit flag.
+[631] There is a Kono monk near Tosa! What are his intentions? Click the clan tab below the radar map to see your clan's diplomatic relations.
+[632] A trade route has been opened between our lands and those of our new trading partner. Guard it well, as our enemies will attempt to raid it, potentially ruining the economy.
+[633] The enemy will often try to flank your formation with cavalry, so it's a good idea to have infantry reserves on the ends of your line ready to intercept them.
+[634] If you want to concentrate solely on the business of war, taxation can be automated by clicking in the checkbox on this tab.
+[635] Click the tick button to confirm the declaration. Click it again to close the panel.
+[636] In Total War: Shogun 2, turns are represented by the four seasons: spring, summer, autumn and winter. To check the season or the date, mouse over the end turn button at the bottom right-hand side of the screen.
+[637] As taxes change, the province colour on the radar map changes from red to yellow and then green, if your people are very happy! The numbers beneath show the tax harvest for next season. High taxes add more to your treasury, but reduce the long-term economic growth of the province.
+[638] If a flanking manoeuvre by cavalry is countered, for example by enemy infantry moving to intercept, abort the move but leave them in a threatening position. You will have tied down some of their units for no cost.
+[639] Now the battle is done, this panel shows enemy casualties and your troops' gain in experience. Click the tick button to close the panel.
+[640] Provoke a defending enemy into unwise attacks by enraging them. Light infantry and other skirmishers or missile cavalry are good troops to provoke this response.
+[641] When troops are surrounded during hand-to-hand combat, they will fight to the death as they have nowhere left to run! Beware though, as desperate men may also be dangerous men!
+[642] An alliance with another clan could bring additional forces to bear against the Miyoshi. The Matsuda clan, your trading partners, may be interested.
+[643] Ninja are skilful assassins. They can spy on your rivals, assassinate generals or agents, and sabotage buildings. They will remain hidden, unless they fail a mission or are spotted by the enemy. Select your ninja now.
+[644] Upgrading your rice paddies will create extra food each season, and keep your people fed. Select the improved irrigation building card to upgrade your rice paddies. Now end the turn.
+[645] Where the enemy are concentrated, prepare a defensive line; where they are strong, avoid them. Attack where they are unprepared.
+[646] Control of the camera on the campaign map is simple. Use W to move the camera forward and S to move it backward. A and D strafe sideways. Q and E rotate. Alternatively, hold down the mouse wheel and drag, or move the mouse to the edge of the screen to pull the map in that direction. Use X and Z or the mouse wheel to zoom in closer.
+[647] You can master military and civil arts to benefit your clan and lands. Your troops may suffer low morale. Some arts can instil the discipline needed to face the enemy. Select bushido, the way of the warrior, to boost your troops' morale and ready them for battle.
+[648] Often the best tactic is to encircle the enemy and shoot them from behind or in the flanks. If they turn or chase you off, their formation will be disrupted, leaving them vulnerable to the attentions of your cavalry.
+[649] Your army will march on Iyo. As the province's castle town, is far away from Tosa, it may take more than one season to get there, as shown by the number of direction arrows.
+[650] Good: your yari ashigaru are now in the castle town garrison, fresh from training. Keep your castle town selected and select the province's army tab at the bottom of the screen.
+[651] Your upgrade is under construction. After a castle town has been attacked, some buildings will be damaged and lose their effects. On the construction tab select the damaged building's card, and then click on the building repair button to the left.
+[652] Your ally will keep the hostage for two years after the deal is done. The captive cannot do anything during that time. At the end of the agreement, the hostage is returned to you and the alliance continues. If the agreement is broken, the hostage dies!
+[653] This panel gives you important information about a particular unit type: number of men, recruitment and upkeep costs, experience, statistics, special abilities, and a detailed description.
+[654] The mobility and stamina of light cavalry makes them ideally suited to scouting the battlefield. If they stumble into a sticky situation their light mounts should be swift enough to get them clear of danger.
+[655] This may be a problem! Your people are restless, unhappy at the taxes they must pay. The clan raised taxes to pay for its wars, but you should reduce tax levels to keep public order. Click on the tick button to close this event.
+[656] Right-click to move our fleet to any part of the highlighted area. We can attack a fleet belonging to another clan when it is within the highlighted area by right-clicking on it. To disembark any passengers move the fleet to a coast and right-click on the land. Alternatively select the unit, units, agent or agents you wish to disembark and right-click on the shore.
+[657] Feigning a rout by sacrificing a unit is a sure way of enticing a defender out of a strong defensive position, or luring an attacker into an ambush. Beware though, a feigned rout can quickly become a real one.
+[658] When attacking across a river, try to soften up the enemy on the far bank by bombarding them with missiles first. Once they are weakened, your assault has a better chance of succeeding.
+[659] The Miyoshi are no more. Peace can return, crops be gathered, and men may work without fear. But how long will peace last? The Shogunate, and Japan, are within your grasp. Perhaps this is not the time for contemplation, but a time for total war! The tutorial is done. Now, fight on!
+[660] The overall happiness of a population is influenced by a variety of different contributing factors, including tax levels, food shortages, the presence of entertainment and religious buildings, and repression through garrison size. Rebellion becomes a risk when the people are so unhappy that repression can no longer contain public order.
+[661] Use backspace on your keyboard to stop the movement of our armies, fleets and agents on the campaign map.
+[662] An army on board your fleet can be a naval invasion force. Castles and armies near the coast can be attacked from your ships if their zone of control overlaps the coastline.
+[663] When you outnumber the enemy greatly, surround and destroy them utterly. Show no mercy!
+[664] Farms and other agricultural buildings increase both income and food supplies across all provinces under your control. It is essential to keep them upgraded in order to avoid food shortages at the castle towns.
+[665] It is important to preserve the devastating impact a cavalry unit can have. When going into combat with cavalry, always charge the last few yards by double right-clicking on the target. Beware of charging across too great a distance though, it's a tiring business!
+[666] Attacking spear-equipped infantry in the flanks is a good way of taking them on with cavalry. You should always avoid charging onto sharp, pointy weapons that can be braced!
+[667] Iyo has a port. A port provides income, and can construct ships for trade and your fleet. You should construct a ship to patrol your coastal waters. Select the port of Matsuyama now.
+[668] Cavalry are not good at defending a static line. Don't put cavalry in a defensive line unless you're expecting to charge them out. If so, have infantry ready to plug the gap they leave behind.
+[669] The penalty for breaking an alliance gradually degrades over time, but is higher if there were trade agreements in place when the betrayal occurred. If you are thinking of attacking an ally, cancel the alliance and trade agreement between you. Also, wait for any hostages held by them to be returned, otherwise they will be executed when you declare war.
+[670] Press this button to repair damaged ships in the midst of a battle. Unless the damage is too great this will task the crew with fixing the problem. Ordering repairs to a ship will stop it from being able to carry out other tasks and leave it vulnerable to attack. Once a ship is carrying out repairs, giving an order to carry out any other actions will cancel that order.
+[671] Lower quality infantry make great targets for the enemy to waste their missiles on. They can protect high value units by drawing fire.
+[672] When defending territory it is important to know how far enemy armies are able to move. Click on an enemy army to see its potential movement extent. When an army is blocking our path the terrain will be highlighted at the choke point. We must fight it to pass through or find an alternative route.
+[673] Master, suddenly attacking long-standing allies will have an effect on how the other clans view our own. They will be cautious when dealing with us in future.
+[674] Avoid charging your cavalry onto wooden stakes, as the weight and momentum of your horses mean they are unlikely to survive the encounter.
+[675] This panel shows you the information about an agent working for our clan. His name, position on the map, personality traits and skills relating to his military abilities are all listed, along with details of his retainers.
+[676] Controlling the camera on the battlefield is simple. Dragging the mouse to the edge of the screen pulls the map in that direction. Use W to move the camera forward, and S to move it backward. A and D strafe sideways. Use X and Z or the mouse wheel to move the camera up and down, and the + and - buttons to tilt the view up or down.
+[677] Outflanking is not the only way to get behind an enemy line. Find a weak spot, focus your missiles on it to weaken them and then punch through with your most offensive troops.
+[678] Sitting Targets
+[679] Withdraw Button
+[680] The Deployment Phase
+[681] Avatar Conquest Mode
+[682] Leaving Settlements
+[683] We are the Chosokabe
+[684] We are the Ikko Ikki
+[685] Assassination
+[686] Exempting Provinces from Taxation
+[687] The Daimyo
+[688] Garrisons
+[689] Request Allegiance
+[690] Avatar Conquest Mode
+[691] Enemy Movement Extents
+[692] Events
+[693] We are the Shimazu
+[694] Shinobi
+[695] Quick Load & Save
+[696] Merging Fleet Fragments
+[697] Trade
+[698] We are the Ikko Ikki
+[699] Port Defence

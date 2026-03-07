@@ -1,0 +1,103 @@
+=== CHUNK 9/14 — advice_levels.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[800] Foreign Trade
+[801] Avatar Conquest Mode
+[802] Preserving Skirmishers
+[803] Avatar Conquest Mode
+[804] Building Chains
+[805] Repairing Damaged Buildings
+[806] Mastery of the Arts
+[807] Extreme Weather Conditions
+[808] Legendary Buildings
+[809] Threaten
+[810] Losing a General
+[811] Avatar Conquest Mode
+[812] Food Supplies
+[813] Distract
+[814] Avatar Conquest Mode
+[815] Multi-turn Moves
+[816] Multiplayer_battle
+[817] Loyalty
+[818] Battle Match
+[819] Avatar Conquest Mode
+[820] Province Wealth & Town Growth
+[821] Spy Network
+[822] Multiple Armies
+[823] Avatar Conquest Mode
+[824] Riots
+[825] Missions
+[826] We are the Ikko Ikki
+[827] Avatar Conquest Mode
+[828] Over-committing Yourself
+[829] Repression
+[830] Vassal Clans
+[831] We are the Oda
+[832] Army Sabotage
+[833] Victory Conditions & Missions
+[834] Outflanking
+[835] Rebellions
+[836] Avatar Conquest Mode
+[837] Multiplayer_battle
+[838] Good Bombardment Target
+[839] We are the Shimazu
+[840] Attrition
+[841] Multiplayer_battle
+[842] Castle Town Defence
+[843] Recruitment of Agents
+[844] Religious Conversion
+[845] Inspire
+[846] Avatar Conquest Mode
+[847] Treasury & Income
+[848] Multiplayer_battle
+[849] Ungarrisoned Province
+[850] Terrain & Movement
+[851] Way of the Bow
+[852] Skills
+[853] Settlements & Ports
+[854] Avatar Conquest Mode
+[855] We are the Oda
+[856] We are the Shimazu
+[857] Entertain
+[858] Avatar Conquest Mode
+[859] Naval Battle
+[860] Ungarrisoned Castle Town
+[861] Coerce Troops
+[862] Losing Money
+[863] Supporting Morale
+[864] Agents - Metsuke
+[865] Ninja
+[866] We are the Uesugi
+[867] Conquest Map
+[868] Supervise Recruitment & Train Troops
+[869] Battles
+[870] Your Mon & Starting Position
+[871] Aizu
+[872] Avatar Conquest Mode
+[873] Advisor Back Button
+[874] Ports
+[875] Agent Recruitment
+[876] Multiplayer_battle
+[877] Character Traits
+[878] Fame & Honour
+[879] The Character Skill Tree
+[880] The Encyclopaedia
+[881] Multiplayer_battle
+[882] Keep Them Occupied
+[883] Agents - Ninja
+[884] Province Specialities
+[885] Harass
+[886] Avatar Conquest Mode
+[887] Your Avatar
+[888] Avatar Conquest Mode
+[889] Decentralised Construction
+[890] Boarding Action Meter
+[891] Provincial Wealth Decreasing
+[892] Finance
+[893] We are the Uesugi
+[894] Assassination
+[895] Sabotage
+[896] Tosa
+[897] Avatar Conquest Mode
+[898] Falling Behind
+[899] Digging In

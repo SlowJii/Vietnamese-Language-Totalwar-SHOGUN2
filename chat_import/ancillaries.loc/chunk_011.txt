@@ -1,0 +1,100 @@
+[1000] Kinh Thánh King James
+[1001] Đơn giản, bền chắc và chống ngu ngốc của lính. Trong tay đúng người, cũng rất chết người.
+[1002] Kabuto huyền thoại
+[1003] Con bò trong chai! Những ngoại nhân này còn nghĩ ra gì nữa?
+[1004] "Uống đi. Hãy bình yên."
+[1005] Hangyoku
+[1006] Súng kim Dreyse
+[1007] Lòng trung thành phản ánh tốt về người ban nó.
+[1008] Chiến thắng có thể được quyết định trên sổ sách kế toán.
+[1009] "Anh muốn giết ba mươi tên cướp không?"
+[1010] "Nếu anh không thể chạy trong chiến tranh thì nó đã kết thúc rồi."
+[1011] Samurai khôn ngoan không phải lúc nào cũng cần rút kiếm hay nhìn người khác chiến đấu để biết kết quả.
+[1012] "Nếu đó là kiếm thật, anh đã chết rồi."
+[1013] "Một thanh kiếm thì giết được bao nhiêu người chứ!"
+[1014] "Ta là Hayashida Heihachi, kiếm sĩ của phái Wood Cut."
+[1015] "Không, thưa ngài, tôi đã quyết định. Tôi sẽ theo ngài."
+[1016] "Tôi sẽ chiến đấu với lũ Yankee khốn kiếp ở bất cứ đâu gặp chúng!"
+[1017] Thanh nhã đôi khi phải nhường chỗ cho tiện lợi.
+[1018] Sứ giả của Đại Soái
+[1019] Shamisen
+[1020] Nhân tình thường
+[1021] Ống thổi
+[1022] Bậc thầy Jujutsu
+[1023] "Người Pháp, thưa ngài, kết hợp kinh doanh với đam mê!"
+[1024] Hạm đội chiến đấu tuân lệnh. Ngư dân thì trôi dạt.
+[1025] Quản kho tay nhanh
+[1026] "Ghi tên người đó lại!"
+[1027] Một cú vung mạnh mẽ luôn là câu trả lời.
+[1028] Samurai-dokoro
+[1029] "Ta thách đấu ngươi. Và giờ ngươi sẽ thất bại!"
+[1030] Không có công việc nào thấp kém nếu làm tốt.
+[1031] Vườn dưỡng bệnh
+[1032] Ống nhòm pháo binh
+[1033] Bất cứ thứ gì từ bên kia thế giới, kể cả vùng đất lạ "Low Countries", đều mang lại sức mạnh.
+[1034] "Làm tốt lắm, Trung úy. Tiếp tục."
+[1035] Tay lạnh khiến việc quen thuộc trở nên lạ lẫm.
+[1036] Kẻ kích động Phật giáo
+[1037] Đối mặt lưỡi kiếm là thử thách thật sự của lòng dũng cảm.
+[1038] Tiền bạc rất quan trọng.
+[1039] Thước ngắm súng cải tiến
+[1040] Bậc thầy thư pháp
+[1041] Charles Albert Dubousquet
+[1042] Người chăm ngựa
+[1043] "Có những lập luận thép cho việc vì sao Hải quân Hoàng gia làm chủ đại dương."
+[1044] Dập tắt ngọn lửa cuồng nộ bên trong.
+[1045] "Thương mại, thưa lãnh chúa, có thể dưới địa vị của ngài, nhưng giàu có thì không bao giờ đáng xấu hổ."
+[1046] "Mất cân bằng à? Vớ vẩn! Tiếp theo anh sẽ bảo tôi mất cân bằng đấy!"
+[1047] "Đây mới là kiếm! Lưỡi của ngươi - ha! - ta còn chẳng dùng để xúc phân nông dân!"
+[1048] Suneate huyền thoại
+[1049] Kỳ thủ Go huyền thoại
+[1050] Cá chép trăng
+[1051] Hãy khiến mỗi phát bắn đều có giá trị.
+[1052] Chó săn
+[1053] Hoa anh đào
+[1054] Nhà báo châu Âu
+[1055] Huấn luyện viên súng chuyên gia
+[1056] "Hãy để chúng tìm ở mọi nơi sai!"
+[1057] Bậc thầy trà đạo
+[1058] Người báo tin Shinobi
+[1059] Tùy tùng chuyên môn Gia tộc: Mạng lưới huấn luyện Yumi
+[1060] Karakuri Ningyo
+[1061] "Đánh roi! Đúng vậy! Quất cho chúng có đức tin!"
+[1062] "Theo ý ngài, thưa lãnh chúa!"
+[1063] Ore no hobaakurafuto unagi ippai aru!
+[1064] Thương luyện tập bằng gỗ
+[1065] Cờ huyền thoại
+[1066] "Có thủy thủ nào khỏe mạnh trên con tàu này không?!"
+[1067] Shakuhachi
+[1068] Suburi Bokken
+[1069] Bokken
+[1070] Koguma
+[1071] Benkei
+[1072] Ghi lại ý nghĩ, khoảnh khắc, lên giấy: đó là sức mạnh.
+[1073] "Ôi! Tay anh thô ráp quá!"
+[1074] Nước thiêng có thể cải đạo nhiều kẻ ngoại đạo.
+[1075] "Đó là quà tặng."
+[1076] Túi sưởi tay
+[1077] "Ta là người của Chúa!"
+[1078] Kỹ sư hải quân Pháp
+[1079] Giáp ngực Cơ Đốc
+[1080] "Tôi đến từ Swansea đấy!"
+[1081] Điềm xấu
+[1082] Vật phẩm huyền thoại: Kabuto huyền thoại của Đại Soái
+[1083] "Anh chưa thấy tôi, đúng không?"
+[1084] Kính hiển vi
+[1085] Sĩ quan bộ binh béo
+[1086] Gaijin sợ người có gu tinh tế để đội thứ này.
+[1087] Đội tìm lương thực
+[1088] Tachi
+[1089] Bậc thầy Iaijutsu
+[1090] Tai mắt ở khắp nơi, nhưng chỉ có một trí óc.
+[1091] Nhà sư Mii-dera
+[1092] Thẩm tra viên dị giáo
+[1093] Súng trường nạp hậu Snider
+[1094] Thợ rèn vũ khí lành nghề
+[1095] Vợt tennis
+[1096] Sự tĩnh lặng như Thiền
+[1097] Đại diện thợ súng Đức
+[1098] Trước vài con dao găm, giáp cũng vô dụng.
+[1099] Bài thơ chờ cây bút thích hợp.

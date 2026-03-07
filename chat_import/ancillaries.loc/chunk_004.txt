@@ -1,0 +1,100 @@
+[300] Bậc thầy chế tạo giáp
+[301] Ống tên đan mở
+[302] Ninja cải trang
+[303] Nghệ nhân múa rối Bunraku
+[304] Tajima Chặt Tên
+[305] Thuyền trưởng hải tặc Okinawa
+[306] Mèo
+[307] Bậc thầy Kenjutsu huyền thoại
+[308] Khinh khí cầu quan sát
+[309] Súng lục Volcanic
+[310] Kiếm sĩ điên loạn
+[311] Con đường Ikko Ikki
+[312] Gia nhân chuyên môn Gia tộc: Mạng lưới huấn luyện kỵ binh
+[313] Hải tặc Trung Hoa
+[314] Bậc thầy Iaijutsu huyền thoại
+[315] "Đặc phái viên toàn quyền của Nữ hoàng, Công sứ đặc mệnh toàn quyền và Tổng Lãnh sự tại Nhật Bản, xin phục vụ."
+[316] Ý nghĩa không thể đo bằng vàng.
+[317] Đồng hồ hàng hải
+[318] Rèn bằng sắt, cái chết đến từ ngọn lửa.
+[319] Bậc thầy gián điệp huyền thoại
+[320] Nhà sư vẫn là con người, với danh dự của con người.
+[321] Học sinh quý tộc
+[322] Gia nhân chuyên môn Gia tộc: Mạng lưới huấn luyện kiếm
+[323] Tinh tế trong mọi thứ, ngay cả một tách trà.
+[324] "Ta là Linh hồn của làn nước tối tăm và cô độc, sẵn sàng bẫy kẻ bất cẩn, kẻ khoe khoang, kẻ ngu ngốc…"
+[325] Như quân kyosha, ta chỉ có thể tiến về phía trước trong đời.
+[326] Thiền định giúp ích.
+[327] "Thượng Đế sống và Con của Người sẽ không bị chối bỏ, ngay cả tại vùng đất dị giáo ma quỷ này!"
+[328] Bậc thầy Yabusame
+[329] Bại liệt và bệnh đậu mùa cũng giết người chắc chắn như bất kỳ lưỡi kiếm nào.
+[330] Súng trường nạp hậu Snider
+[331] Hiệu chuẩn sai
+[332] Kẻ đào tẩu Enryakuji
+[333] Nghi ngờ gặm nhấm cả hạt mầm đức tin nhỏ nhất.
+[334] Với người Anh ngay trước cửa, các đô đốc Pháp có mọi động lực để giỏi.
+[335] Con đường kiếm đạo vượt xa việc giết kẻ địch. Giết chóc thậm chí còn chưa phải là khởi đầu của sự tinh thông.
+[336] Súng kim Dreyse
+[337] Quạt lưỡi kiếm
+[338] Lời nói phải được thốt ra thì hành động mới bắt đầu.
+[339] Komuso
+[340] "Đồ ăn Anh nặng nề, đồ ăn Đức nặng nề, hay phong cách Pháp: đó là lựa chọn của anh!"
+[341] Trái tim đập nhanh hơn khi đứng trước vẻ đẹp.
+[342] "Tội lỗi của con rất nặng nề, con trai ta, nhưng tha thứ cho con cái mình là linh hồn của Giáo hội."
+[343] Giáp phải được chế tạo khéo léo, nếu không chỉ là gánh nặng vô dụng.
+[344] "Ngài có định từ chối sự hỗ trợ duy nhất của một người thánh thiện không?"
+[345] Hoa anh đào rơi,/thơ bay trong gió xuân:/kiếm ngừng va chạm.
+[346] Thuốc súng ẩm
+[347] Vuốt hổ
+[348] Nông dân không thể giấu mọi thứ.
+[349] Bokken
+[350] "Họ sẽ làm theo lời ta, thưa chủ công. Và chúng ta sẽ thu lợi từ đó."
+[351] "Ở đây có nóng không?"
+[352] "Đây là mốt mới nhất trong các cung điện châu Âu."
+[353] Nàng tiên cá ướp xác
+[354] Tình nhân đầy tham vọng
+[355] Thanh tra Metsuke
+[356] Phục vụ với sự tao nhã tuyệt đối khiến người khác thoải mái, và nhờ đó phá vỡ phòng bị của họ.
+[357] Cờ tín hiệu Wig-wag
+[358] Dấu ấn cuồng tín
+[359] "Ta không giỏi chữa vết thương sau lưng. Ta không chữa được sự hèn nhát!"
+[360] Tốc độ của ngựa chỉ tốt bằng lượng yến mạch nó ăn.
+[361] Thêm một đôi mắt sẽ phát hiện kẻ địch ẩn nấp.
+[362] Phục vụ với sự tao nhã tuyệt đối khiến người khác thoải mái, và nhờ đó phá vỡ phòng bị của họ.
+[363] Kíp thủ Hộ vệ hạm lão binh
+[364] Bisento
+[365] Một cú đâm, sinh mệnh chấm dứt.
+[366] Sinh mệnh rời đi dễ dàng khi shinobigatana gọi tên.
+[367] Cải trang thường dân
+[368] "Ngươi sẽ không cảm thấy gì đâu."
+[369] "54 giây: không tệ. Nhưng cũng chẳng xuất sắc! Lại!"
+[370] Tiểu thuyết kinh dị rẻ tiền
+[371] Lời nói truyền khắp đất nước sẽ kéo theo hành động.
+[372] Menpo huyền thoại
+[373] Kèn euphonium
+[374] Thủ lĩnh ninja huyền thoại
+[375] Hình nhân rơm luyện tập
+[376] Gia nhân Ainu
+[377] Súng trường nạp hậu Martini-Henry
+[378] Mắt đờ và tai rũ xuống nói lên rõ ràng nỗi đau bên trong.
+[379] Tanto tẩm độc
+[380] Khi con người ngước mắt lên trời, trái tim họ cũng theo đó.
+[381] "Tình yêu của ta, em xứng đáng với điều tốt hơn nhiều…"
+[382] Kiến thức tốt hơn tin đồn.
+[383] Giàu có là bát cơm đầy.
+[384] Thuyền trưởng hải tặc
+[385] Làm què ngựa tức là chặn đứng chiến binh.
+[386] Thi nhân Haiku huyền thoại
+[387] Geisha suối nước nóng
+[388] Chiến binh không có kiếm là vô dụng trong chiến tranh.
+[389] Do huyền thoại
+[390] Thức ăn nuôi dưỡng tinh thần cũng như thân thể.
+[391] Đã thử nghiệm, đã kiểm chứng, và đã lỗi thời.
+[392] "Ta bắt đầu hiểu mình hiểu ít thế nào về những người Mỹ này…"
+[393] Gương của Người Mặt Trăng
+[394] Con ngựa tốt sẽ chở tướng quân vào trận và coi thanh kiếm chẳng đáng sợ hơn con bướm.
+[395] Quần áo làm nên con người.
+[396] Thợ rèn vũ khí lành nghề
+[397] "Tôi thấy cây gậy sắt số chín khá thuyết phục."
+[398] Dịch bệnh gia súc
+[399] Tình nhân tuyệt sắc

@@ -1,0 +1,82 @@
+=== CHUNK 3/3 — avatar_aesthetics.loc.tsv ===
+(Dịch 79 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[200] Kabuto Helmet of Akechi Mitsuharu
+[201] Shinsengumi Uniform 2: Shinsengumi Kimono 2
+[202] Shinsengumi Uniform 1: Shinsengumi Kimono 1
+[203] Shinsengumi Uniform 2: Striped Shinsengumi Hakama
+[204] Shinsengumi Uniform 1: Colourful Shinsengumi Hakama
+[205] Kabuto Helmet: Triple Hollyhock
+[206] Gempei Men Yoroi Face Armour
+[207] Achievement Crest: Inspiring Counterattack
+[208] Achievement Crest: Master of the Waves
+[209] Achievement Crest: Eradicate the Ikko-Ikki
+[210] Kote Armoured Sleeves of Toyotomi Hideyoshi
+[211] Gempei Kabuto Helmet 3
+[212] Gempei Kabuto Helmet 2
+[213] Gempei Kabuto Helmet 1
+[214] Sashimono: Goldfish Scale 
+[215] American Uniform 2: US Marine Tunic
+[216] American Uniform 1: US Marine Officer Tunic
+[217] Sode Shoulder Guards: Silver Scale
+[218] Sode Shoulder Guards: Golden Scale
+[219] Kabuto Helmet of Hosokawa Tadaoki
+[220] Kote Armoured Sleeves: Ichinotani
+[221] Sode Shoulder Guards of Oda Nobunaga
+[222] Ashigaru Suneate Greaves
+[223] British Uniform : Royal Marine Cap
+[224] Standard Yumi Bow 3
+[225] Standard Yumi Bow 2
+[226] Crest: Clan Competition Tier 1 Promotion
+[227] Crest of the Clan Champions
+[228] Samurai Dappled Horse
+[229] Momonari Kabuto Helmet
+[230] Do Cuirass of Tokugawa Ieyasu
+[231] Datemono Crest of Tokugawa Ieyasu
+[232] Dangae-Do Cuirass
+[233] Grey Horse
+[234] American Uniform 1: US Marine Officer Cap
+[235] American Uniform 2: US Marine Cap
+[236] Masked Chestnut Horse
+[237] Achievement Crest: Elusive Strikeforce
+[238] Men Yoroi Face Armour of Hosokawa Tadaoki
+[239] Sode Shoulder Guards of Uesugi Kenshin
+[240] Masked Tan Horse
+[241] Masked Bay Horse
+[242] Standard Katana 3
+[243] Standard Katana 2
+[244] Haidate Thigh-Shields: Multicolour Laced
+[245] Do Cuirass: Multicolour Laced
+[246] Standard Men Yoroi Face Armour
+[247] Haidate Thigh-Shields of Tokugawa Ieyasu
+[248] Datemono Crest of Hosokawa Tadaoki
+[249] Do Cuirass of Hosokawa Tadaoki
+[250] Sode Shoulder Guards of the Shogun
+[251] Samurai Chestnut Horse
+[252] Kabuto Helmet: Clan Champions
+[253] Do Cuirass of Itakura Katsushige
+[254] Datemono Crest of Itakura Katsushige
+[255] Crest: Multicolour Laced
+[256] Kote Armoured Sleeves: Multicolour Laced
+[257] Simple Kote Armoured Sleeves
+[258] Masked Dappled Horse
+[259] Kabuto Helmet: Ichinotani
+[260] Mogami-Do Cuirass
+[261] Men Yoroi Face Armour: Multicolour Laced
+[262] Cap: Clan Competition Tier 1 Promotion
+[263] No Sashimono
+[264] Haidate Thigh-Shields
+[265] Standard Katana 1
+[266] Achievement Crest: Serve With Honour
+[267] Suneate Greaves: Multicolour Laced
+[268] Yukinoshita-Do Cuirass
+[269] Haidate Thigh-Shields of Hosokawa Tadaoki
+[270] Kabuto Helmet of Itakura Katsushige
+[271] Cap: Clan Competition Tier Promotion
+[272] Kabuto Helmet: Multicolour Laced
+[273] Suneate Greaves of Hosokawa Tadaoki
+[274] Kote Armoured Sleeves of Hosokawa Tadaoki
+[275] Legendary Kabuto of The Shogun
+[276] Do Cuirass: Ichinotani
+[277] Officer Uniform 2: Elaborate Wig
+[278] Officer Uniform 1: Officer Cap

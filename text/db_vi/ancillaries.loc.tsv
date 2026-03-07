@@ -1,0 +1,1304 @@
+key	text	tooltip
+#Loc;1;text/db/ancillaries.loc		
+ancillaries_onscreen_name_s2anc_sp_bosh_servant_chef_noodle	Đầu bếp mì	true
+ancillaries_colour_text_s2anc_crime_ronin_kabukimono	"Cho tôi việc đi! Tôi làm được mà. Thật đấy, tôi làm được. Nào, cho tôi việc đi!"	true
+ancillaries_onscreen_name_mp_bosh_anc_french_naval_engineer	Kỹ sư hải quân Pháp	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_schnell_henry	Henry Schnell	true
+ancillaries_onscreen_name_s2anc_legend_army_netsuke	Nghệ nhân chạm khắc Netsuke huyền thoại	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_tiger_claws	Vuốt hổ	true
+ancillaries_onscreen_name_s2anc_master_army_sojutsu	Bậc thầy Sojutsu	true
+ancillaries_colour_text_mp_anc_supply_wagon	"Đừng ném cung đi khi tên đã hết!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_book_on_war	"Bàn về Chiến tranh" của von Clausewitz	true
+ancillaries_onscreen_name_s2anc_sp_bosh_animal_dog	Chó săn	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_origami	Bậc thầy Origami	true
+ancillaries_onscreen_name_s2anc_crime_yakuza_thug	Yakuza	true
+ancillaries_onscreen_name_s2anc_silly_time_tunnel_2	Doug Philips	true
+ancillaries_onscreen_name_s2anc_silly_time_tunnel_1	Tony Newman	true
+ancillaries_colour_text_s2anc_friend_mentor_figure	Ngay cả người hùng mạnh nhất cũng phải học cách dùng sức mạnh của mình từ người khác.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_pong	Một chút cũng có thể đi rất xa.	true
+ancillaries_colour_text_s2anc_master_army_smith	Mọi thanh kiếm đều nguy hiểm: bậc thầy đảm bảo rằng chỉ kẻ địch phải lo sợ điều đó.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_spencer	Súng trường lặp Spencer	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_fintry	Thiết bị thoát hiểm Fintry-Kyle	true
+ancillaries_onscreen_name_mp_bosh_anc_groom	Người giữ ngựa	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_flag	Cờ hiệu huyền thoại	true
+ancillaries_onscreen_name_s2anc_sp_bosh_music_flute_player	Người thổi sáo	true
+ancillaries_colour_text_s2_anc_pdlc_monk_relic_shugendo	Không phải mọi bí ẩn đều cần được hiểu.	true
+ancillaries_onscreen_name_s2anc_master_army_naginata	Bậc thầy Naginatajutsu	true
+ancillaries_colour_text_s2anc_sp_bosh_samurai_rude	"Chuyền bát cơm đây, đồ béo, trước khi ngươi ăn hết!"	true
+ancillaries_colour_text_mp_bosh_anc_enfield_musketoon	"Đã được chứng minh trên chiến trường, bởi Liên minh miền Nam Hoa Kỳ, thưa ngài, cùng nhiều nơi khác."	true
+ancillaries_colour_text_s2anc_legend_army_kyudo	"Dây cung của ngài, thưa chủ công. Nó đang lệch nhịp."	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_go	Có chiến lược cho mọi thứ, từ tình yêu đến chinh phục.	true
+ancillaries_onscreen_name_s2anc_legend_espionage_spy	Bậc thầy gián điệp huyền thoại	true
+ancillaries_onscreen_name_s2anc_sp_bosh_servant_biwa	Người chơi Biwa	true
+ancillaries_colour_text_s2anc_sp_bosh_ronin_xenophobe	"Chúng ta sẽ trục xuất toàn bộ bọn man di… bằng gươm nếu cần!"	true
+ancillaries_onscreen_name_mp_anc_genpei_shirabyoshi_dancer	Vũ công Shirabyoshi	true
+ancillaries_onscreen_name_s2anc_pet_monkey_2	Khỉ cưng	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_tea	Bậc thầy trà đạo	true
+ancillaries_onscreen_name_mp_bosh_anc_unpracticed_gun_crews	Kíp pháo chưa thuần thục	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_rich	Thương nhân giàu có	true
+ancillaries_onscreen_name_mp_bosh_anc_spoiled_rations	Lương thực hỏng	true
+ancillaries_colour_text_s2anc_sp_bosh_clock_myriad	Thời gian không bao giờ bị lãng phí, chỉ bị dùng sai cách.	true
+ancillaries_colour_text_s2anc_sp_bosh_book_king_james	"Hiểu kẻ địch nghĩ gì, là hiểu điểm yếu của hắn."	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_do	Ngực của một chiến binh có thể bị xuyên bởi ngàn mũi tên, nhưng khi trái tim vẫn chính trực thì điều đó có nghĩa gì?	true
+ancillaries_colour_text_s2anc_sp_bosh_item_game_go	Mọi kỳ thủ giỏi đều biết chiến thắng là việc áp dụng chiến lược chính xác.	true
+ancillaries_onscreen_name_s2anc_navy_pearl_fisherman	Người lặn ngọc trai	true
+ancillaries_onscreen_name_s2anc_legend_arts_kabuki	Bậc thầy Kabuki huyền thoại	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ed_the_cat	Mèo Edo	true
+ancillaries_onscreen_name_mp_bosh_anc_gun_crew_drill	Huấn luyện kíp pháo	true
+ancillaries_onscreen_name_mp_anc_genpei_honourable_attendant	Tùy tùng danh dự	true
+ancillaries_colour_text_s2anc_artefact_ninja_tanto	Một nhát chém, một cái chết.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_item_rice	Học trò đói chỉ nghe thấy tiếng bụng mình.	true
+ancillaries_colour_text_s2anc_sp_bosh_mistress_gorgeous	"Không, ta giữ nàng không phải vì trí tuệ!"	true
+ancillaries_onscreen_name_mp_bosh_anc_skittish_mounts	Ngựa dễ hoảng	true
+ancillaries_colour_text_s2anc_sp_bosh_item_game_chess	Trò chơi của bậc quân vương, nhưng bất kỳ ai cũng có thể chơi.	true
+ancillaries_colour_text_s2anc_sp_bosh_book_almanac	Thế giới của nông dân không chỉ có lúa.	true
+ancillaries_onscreen_name_s2anc_geisha_hot_springs	Geisha suối nước nóng	true
+ancillaries_onscreen_name_s2anc_legend_army_bowyer	Thợ làm cung huyền thoại	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_camera	Máy ảnh bản kính	true
+ancillaries_colour_text_mp_anc_straw_practice_dummy	Nhát cắt đầu tiên là sâu nhất.	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_elephant	"Nhưng ở Nhật Bản đâu có voi..."	true
+ancillaries_colour_text_s2anc_sp_bosh_book_pulp	"Chuyện dung tục, giật gân, và buồn cười. Nhưng nó nói lên sự thật về bọn gaijin."	true
+ancillaries_colour_text_mp_bosh_anc_improved_breech_mechanism	Được chế tạo chính xác để đạt hiệu suất tối đa.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_weapon_bisento	"Hòa bình" không có nghĩa là "không phòng bị".	true
+ancillaries_onscreen_name_s2anc_artefact_legend_ninjato_1	Ninjato ngụy truyền	true
+ancillaries_onscreen_name_s2anc_artefact_legend_ninjato_2	Shinobigatana ngụy truyền	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_bombs	Bom bột chớp sáng	true
+ancillaries_colour_text_s2anc_legend_army_naginata	"Chém một người thành từng mảnh đâu phải là nghệ thuật!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_scotch	Rượu whisky	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_shuriken	Mỗi ninja đều có mánh riêng.	true
+ancillaries_colour_text_mp_anc_european_horse_trader	Ngựa giống luôn hữu ích.	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_ninjato	Một cú đâm, sinh mệnh chấm dứt.	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_civil_secretary	Mandokoro	true
+ancillaries_onscreen_name_mp_anc_tetsu_bishi_caltrops	Chông sắt Tetsu-Bishi	true
+ancillaries_colour_text_s2_anc_pdlc_general_bow_target_medium	Chỉ một chiều dài mũi tên ngăn cách cung thủ và mục tiêu.	true
+ancillaries_colour_text_s2anc_navy_pirate_nihon	Con mắt tinh tường với gió và sóng có thể mang lại lợi nhuận.	true
+ancillaries_onscreen_name_mp_anc_livestock_pestilence	Dịch bệnh gia súc	true
+ancillaries_colour_text_s2anc_sp_bosh_item_poisons	"Hãy thử món cá."	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_martini_henry	"Hơi nặng đô một chút, nhưng người đàn ông giỏi vẫn xử lý được."	true
+ancillaries_onscreen_name_s2anc_master_army_kobudo	Bậc thầy Okinawan Kobudo	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_roches	Leon Roches	true
+ancillaries_onscreen_name_s2anc_household_chinese_courtier	Quan lại Trung Hoa	true
+ancillaries_onscreen_name_s2anc_chamberlain	Quản gia nội phủ	true
+ancillaries_onscreen_name_s2anc_crime_yakuza_boss	Kumicho	true
+ancillaries_colour_text_mp_anc_water_carrier	Trận đánh khiến người ta khát cháy cổ.	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_bow_practice	Gomuyumi	true
+ancillaries_colour_text_s2anc_sp_bosh_item_sword_bokken	Luyện kiếm hiếm khi là vô ích.	true
+ancillaries_colour_text_s2anc_navy_shipwreck_dutch	"Buông ta ra, đồ khốn chỉ biết gặm gạo!"	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_item_bowl	Bát ăn xin	true
+ancillaries_colour_text_mp_legendary_tenkagoken_sword	Có những thanh kiếm sẽ tìm đến bàn tay xứng đáng.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_servant_bodyguard	Cận vệ xuất sắc	true
+ancillaries_colour_text_mp_anc_camp_sickness	Người khôn ngoan luôn cẩn trọng khi chạm vào vải.	true
+ancillaries_colour_text_mp_anc_untrained_fugu_cook	Không dám thử khi ăn tối thì không thu được gì.	true
+ancillaries_colour_text_mp_anc_lotus_sect_adherent	Có nhiều con đường lên thiên đường.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_foreign_servant_uk	Quản gia người Anh	true
+ancillaries_onscreen_name_s2anc_sp_bosh_servant_chef_french	Đầu bếp Pháp	true
+ancillaries_onscreen_name_s2_anc_pdlc_shirabyoshi_hand_fan	Quạt tay Kawahori	true
+ancillaries_colour_text_mp_anc_mochiyari_gumi_spear_bearer	Samurai có thể cần vũ khí bất cứ lúc nào.	true
+ancillaries_colour_text_mp_anc_world_weary	Gánh nặng cả đời làm lưng người cong xuống.	true
+ancillaries_colour_text_mp_anc_indefatigable	Sự thật bay trên đôi cánh nhanh.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_wig_white	Gấu Trắng đã tới!	true
+ancillaries_colour_text_s2anc_sp_bosh_item_flag_wig_wag	Mệnh lệnh là mệnh lệnh.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_zasu	Rời bỏ thế tục không phải là phớt lờ thế gian.	true
+ancillaries_colour_text_s2anc_sp_bosh_mummified_mermaid	"Thật sao? Tất nhiên là thật!"	true
+ancillaries_onscreen_name_s2anc_legend_army_jujutsu	Bậc thầy Jujutsu huyền thoại	true
+ancillaries_colour_text_mp_bosh_anc_garden_of_convalescence	Khu vườn làm dịu tâm hồn.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_servant_treasurers	Thủ quỹ	true
+ancillaries_onscreen_name_s2anc_sp_bosh_uniform_sailor_cap	Mũ thủy thủ	true
+ancillaries_onscreen_name_mp_anc_uma_i_horse_doctor	Thầy thuốc ngựa Uma-I	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_tea	Trà sư huyền thoại	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_pet_tiger	"Grrrr!"	true
+ancillaries_colour_text_mp_legendary_hachiman_crest	Một biểu tượng cao quý gieo nỗi kinh hoàng vào tim kẻ địch.	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_governor_zuryo	Zuryo	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_brunton	Richard Henry Brunton	true
+ancillaries_onscreen_name_s2anc_master_army_iaijutsu	Bậc thầy Iaijutsu	true
+ancillaries_colour_text_s2anc_household_groom	Chỉ kẻ ngốc mới chăm kiếm mà quên ngựa.	true
+ancillaries_onscreen_name_s2anc_artefact_christian_reliquary	Hòm thánh tích	true
+ancillaries_colour_text_s2anc_master_army_gunmaker	Ngay cả với súng, vẫn có danh dự trong việc chế tạo tốt và tinh chỉnh công cụ chiến tranh.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_wig_red	Gấu Đỏ đã tới!	true
+ancillaries_onscreen_name_mp_anc_yumi_officer	Sĩ quan Yumi	true
+ancillaries_onscreen_name_mp_bosh_anc_bandit_horse_thieves	Bọn cướp ngựa	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_weapon_bayonet	Lưỡi lê bộ binh	true
+ancillaries_onscreen_name_s2anc_legend_arts_bunraku	Nghệ nhân múa rối Bunraku huyền thoại	true
+ancillaries_onscreen_name_s2anc_master_arts_kabuki	Diễn viên Kabuki	true
+ancillaries_onscreen_name_mp_anc_european_gunsmith	Thợ súng châu Âu	true
+ancillaries_colour_text_s2anc_espionage_samurai_rude	"Chuyền bát cơm đây, đồ béo, trước khi ngươi ăn hết!"	true
+ancillaries_colour_text_s2anc_samurai_killer	Khi kiếm tuốt ra, lời nói nhường chỗ cho cái chết.	true
+ancillaries_colour_text_s2anc_army_hero_horse	Con ngựa tốt sẽ chở tướng quân vào trận và coi thanh kiếm chẳng đáng sợ hơn con bướm.	true
+ancillaries_onscreen_name_s2anc_legend_army_yabusame	Bậc thầy Yabusame huyền thoại	true
+ancillaries_onscreen_name_s2anc_master_arts_ceramics	Bậc thầy gốm	true
+ancillaries_onscreen_name_s2anc_religion_christian_agent_2	Sứ giả Giáo hoàng	true
+ancillaries_colour_text_s2anc_sp_bosh_book_dickens	"À, cái bất hạnh khi là người Anh..."	true
+ancillaries_onscreen_name_mp_anc_genpei_ichirai_hoshi	Ichirai Hoshi	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_deringer	Philadelphia Deringer	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_blowpipe	Không có gì đúng như vẻ bề ngoài.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_samurai_unlettered	Samurai thất học	true
+ancillaries_colour_text_mp_anc_target_range	Mục tiêu đứng yên; kẻ địch suy nghĩ.	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_volcanic	"Ta hiếm khi bắn trượt với thứ này!"	true
+ancillaries_colour_text_s2anc_madman_tengu	Dù điên đến đâu, con quạ này biết mình là kiếm sĩ vĩ đại.	true
+ancillaries_colour_text_s2anc_legend_army_kenjutsu	Võ sĩ đạo chỉ là khởi đầu của sự tinh thông.	true
+ancillaries_onscreen_name_mp_anc_sage_advisor	Cố vấn hiền triết	true
+ancillaries_colour_text_s2anc_sp_bosh_item_balloon	Lên cao, lên cao và bay đi!	true
+ancillaries_onscreen_name_s2anc_pet_monkey	Khỉ cưng	true
+ancillaries_onscreen_name_s2anc_government_merchant	Thương nhân	true
+ancillaries_onscreen_name_s2anc_madman_moon_rabbit	Thỏ Mặt Trăng	true
+ancillaries_onscreen_name_mp_anc_ninja_jonin	Ninja Jonin	true
+ancillaries_onscreen_name_s2anc_artefact_christian_sword_1	Kiếm Toledo	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_chef_fugu	Người dũng cảm ăn fugu không nghĩ đến nguy hiểm. Lúc đó hắn mất cảnh giác.	true
+ancillaries_colour_text_s2anc_sp_bosh_doctor_surgeon_jp	"Ta không giỏi chữa vết thương sau lưng. Ta không chữa được sự hèn nhát!"	true
+ancillaries_colour_text_s2anc_sp_bosh_burakumin	Người ở tầng lớp thấp cũng có ích.	true
+ancillaries_colour_text_s2anc_master_army_armourer	Áo giáp tốt nhất của người đàn ông là lòng dũng cảm, nhưng sắt tốt rèn khéo cũng rất hữu ích.	true
+ancillaries_onscreen_name_mp_bosh_anc_european_horse_trader	Thương nhân ngựa châu Âu	true
+ancillaries_onscreen_name_s2anc_legend_army_kobudo	Bậc thầy Kobudo huyền thoại	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_arms_uk	"Súng Anh, thưa ngài, cùng dũng khí Anh, đã tạo nên Đế quốc!"	true
+ancillaries_colour_text_s2anc_espionage_assassin_chef_2	Người dũng cảm ăn fugu không nghĩ đến nguy hiểm. Lúc đó hắn mất cảnh giác.	true
+ancillaries_colour_text_s2anc_espionage_assassin_chef_1	Con người có thể chết theo nhiều cách, nhưng chết vì xương cá mắc cổ thật đáng tiếc.	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_arms_us	"Tôi đảm bảo hàng của tôi hạ được bọn man rợ đang lao tới, thưa ngài, hoặc hoàn tiền."	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_follower_miko_tea	Miko	true
+ancillaries_onscreen_name_s2anc_madman_kappa	Lão già điên	true
+ancillaries_onscreen_name_s2anc_sp_bosh_servant_shogi_player	Quán quân Shogi	true
+ancillaries_colour_text_s2anc_master_army_yabusame	Không đủ chỉ là kỵ sĩ giỏi hay cung thủ giỏi. Yabusame vượt lên cả hai để tìm cú bắn hoàn hảo.	true
+ancillaries_onscreen_name_s2anc_religion_christian_firebrand	Nhà giảng đạo cuồng nhiệt	true
+ancillaries_onscreen_name_s2anc_sp_bosh_servant_euro_waiter	Bồi bàn người Đức	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_poet_chinese	Thi nhân Kanshi	true
+ancillaries_onscreen_name_s2anc_legend_army_gunmaker	Thợ chế tạo súng huyền thoại	true
+ancillaries_colour_text_s2anc_legend_army_iaijutsu	Thanh kiếm bật khỏi vỏ, bậc thầy chỉ dẫn đường cho nó.	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_relic_buddha_gold	Tượng Phật bằng vàng	true
+ancillaries_onscreen_name_mp_anc_sake_peddler	Người bán rượu sake	true
+ancillaries_colour_text_s2anc_sp_bosh_clock_marine	"Khi còn thời gian thì chẳng còn thời gian ngắm sóng."	true
+ancillaries_onscreen_name_s2anc_master_army_bowyer	Bậc thầy chế tạo cung	true
+ancillaries_colour_text_s2anc_sp_bosh_master_sojutsu	Thương trông đơn giản, nhưng dùng nó thanh nhã và chính xác cần luyện tập và tận tâm.	true
+ancillaries_colour_text_s2anc_friend_boyhood	Có những tình bạn không thể dễ dàng vứt bỏ.	true
+ancillaries_onscreen_name_mp_clan_anc_spear	Gia nhân chuyên môn Gia tộc: Mạng lưới huấn luyện Yari	true
+ancillaries_onscreen_name_s2anc_sp_bosh_doctor_euro	Bác sĩ	true
+ancillaries_onscreen_name_s2anc_legend_army_armourer	Thợ giáp huyền thoại	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_weapon_bo	Bo	true
+ancillaries_colour_text_s2_anc_pdlc_monk_relic_nembutsu	Từ ngữ mang ý nghĩa của chính nó.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_follower_miko_spirit	Trí tuệ phụ nữ luôn nên được lắng nghe.	true
+ancillaries_onscreen_name_s2anc_religion_christian_confessor	Linh mục giải tội Cơ Đốc	true
+ancillaries_onscreen_name_mp_anc_drill_square	Sân huấn luyện	true
+ancillaries_colour_text_s2anc_legend_arts_haiku	"Hmmm. Để ta suy nghĩ…"	true
+ancillaries_colour_text_mp_anc_bandit_horse_thieves	Chỉ là trộm nếu bị bắt.	true
+ancillaries_colour_text_s2anc_artefact_ninja_disguise_4	"Ôi, tay anh thô ráp quá!"	true
+ancillaries_colour_text_s2anc_artefact_ninja_disguise_5	"Cứ để chúng tìm ở những chỗ sai!"	true
+ancillaries_colour_text_s2anc_artefact_ninja_disguise_6	"Này, tôi đâu phải mực ống!"	true
+ancillaries_colour_text_s2anc_artefact_ninja_disguise_1	"Hắn chạy hướng đó!"	true
+ancillaries_colour_text_s2anc_artefact_ninja_disguise_2	"Tôi say quá để làm sát thủ!"	true
+ancillaries_colour_text_s2anc_artefact_ninja_disguise_3	"Tôi là người của Chúa!"	true
+ancillaries_onscreen_name_mp_anc_uma_jirushi_nobori_standard_bearer	Người mang cờ Uma-Jirushi Nobori	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_thouars	Dupetit-Thouars	true
+ancillaries_colour_text_s2anc_sp_bosh_item_soap	"Và bong bóng cũng vui nữa!"	true
+ancillaries_onscreen_name_s2anc_master_army_kenjutsu	Bậc thầy Kenjutsu	true
+ancillaries_colour_text_s2anc_sp_bosh_ronin_unrepentent	"Chúng lấy ngựa của tôi và bắt nó đầu hàng."	true
+ancillaries_onscreen_name_mp_anc_blade_master	Bậc thầy kiếm thuật	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_schnell_edward	Edward Schnell	true
+ancillaries_onscreen_name_s2anc_sp_bosh_binoculars_military	Ống nhòm quân sự	true
+ancillaries_colour_text_mp_anc_genpei_benkei	"Ta là Benkei! Không ai được qua!"	true
+ancillaries_colour_text_s2anc_sp_bosh_item_wig_black	Gấu Đen đã tới!	true
+ancillaries_colour_text_s2anc_sp_bosh_servant_biwa	Plinky-plunky-plinky-plunky-plunk.	true
+ancillaries_colour_text_s2anc_legend_espionage_spy	Có mắt và tai ở khắp nơi, nhưng chỉ có một bộ óc.	true
+ancillaries_colour_text_s2anc_master_army_kyudo	Nghệ thuật bắn cung không bao giờ nên bị lãng quên, vì nó nằm ở cốt lõi của samurai xưa.	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_tax_farmer	"Thuế, thưa chủ công, trả cho chiến binh dũng cảm, cho kiếm và giáp, cho lương thực và - và mọi thứ cần thiết khác!"	true
+ancillaries_colour_text_s2anc_master_army_naginata	Cầm vũ khí không khó. Dùng nó cần kỹ năng. Tinh thông nó cần tất cả.	true
+ancillaries_colour_text_s2anc_sp_bosh_master_go	Cờ vây dạy nghệ thuật chiến lược, và người này là hiện thân của chiến thắng bằng mưu lược.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_samurai_rude	Samurai thô lỗ	true
+ancillaries_onscreen_name_s2anc_espionage_samurai_show_off	Samurai khoác lác	true
+ancillaries_onscreen_name_mp_anc_unbalanced_spears	Thương mất cân bằng	true
+ancillaries_colour_text_mp_anc_expert_gun_instructor	Súng vô dụng trong tay kẻ ngu.	true
+ancillaries_colour_text_s2anc_sp_bosh_foreign_journo	"Chúng tôi đưa tin, thưa ngài, và qua đó hình thành dư luận tại các thủ đô thế giới."	true
+ancillaries_colour_text_mp_bosh_anc_yamabushi_guide	Con đường vững bước tự nó đã là phần thưởng.	true
+ancillaries_colour_text_s2anc_pet_hunting_dog_gempei	Với thợ săn, còn điều gì quan trọng hơn cuộc truy đuổi?	true
+ancillaries_colour_text_s2anc_legend_arts_go	Có chiến lược cho mọi thứ, từ tình yêu đến chinh phục.	true
+ancillaries_onscreen_name_s2anc_friend_mentor_figure	Oyabun	true
+ancillaries_colour_text_s2anc_legend_army_smith	"Một ngày nào đó ta sẽ rèn nên lưỡi kiếm hoàn hảo. Một ngày nào đó…"	true
+ancillaries_onscreen_name_mp_anc_genpei_junsatsushi_inspector	Thanh tra Junsatsushi	true
+ancillaries_onscreen_name_s2anc_legend_army_sojutsu	Bậc thầy Sojutsu huyền thoại	true
+ancillaries_onscreen_name_s2anc_sp_bosh_doctor_surgeon_euro	Bác sĩ phẫu thuật	true
+ancillaries_onscreen_name_mp_anc_genpei_monomi_spy	Gián điệp Monomi	true
+ancillaries_onscreen_name_s2anc_master_army_netsuke	Nghệ nhân Netsuke bậc thầy	true
+ancillaries_colour_text_mp_anc_genpei_honourable_attendant	Kỹ thuật và danh dự phân biệt chiến binh trên chiến trường với nông dân ngoài ruộng.	true
+ancillaries_onscreen_name_s2_anc_pdlc_ninja_disguise_monk	Cải trang Komuso	true
+ancillaries_colour_text_mp_bosh_anc_gun_crew_drill	Khi có ít súng, hãy chắc rằng bạn bắn thường xuyên.	true
+ancillaries_onscreen_name_mp_bosh_anc_poor_bloodstock	Ngựa giống kém	true
+ancillaries_colour_text_s2anc_sp_bosh_mistress_discreet	"Suỵt! Tường cũng có tai."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_book_almanac	Niên giám nông dân	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_us	"Người Mỹ, thưa ngài, tôn trọng thành tựu. Và tiền bạc."	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_tanto	Tanto tẩm độc	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_item_rice	Bao gạo	true
+ancillaries_colour_text_s2anc_sp_bosh_item_pipe_opium	Kẻ đuổi theo rồng thường trở thành con mồi.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_glover	Thomas Blake Glover	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_minie	Súng trường nạp đầu nòng Minie	true
+ancillaries_colour_text_s2anc_pet_monkey_2	"Không, hắn là người Cơ Đốc."	true
+ancillaries_onscreen_name_s2anc_army_hero_samurai	Samurai anh dũng	true
+ancillaries_colour_text_s2anc_sp_bosh_item_navy_sextant	Đo đạc các vì sao là làm giảm vẻ vĩ đại của chúng.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_clock_myriad	Đồng hồ Vạn Niên	true
+ancillaries_onscreen_name_mp_anc_trading_post	Trạm thương mại	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_game_go	Bàn cờ vây	true
+ancillaries_colour_text_s2anc_navy_pearl_fisherman	Người hiểu tâm trạng của biển và kiếm lợi từ nó có giá trị hơn ngọc trai đối với đô đốc hải quân.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_relic_dragon	Thế gian có điều kỳ diệu trong mọi thứ.	true
+ancillaries_colour_text_mp_bosh_clan_imperial	Phục vụ Thiên Hoàng là vinh dự lớn lao.	true
+ancillaries_onscreen_name_mp_anc_hero_worshipping_boy	Cậu bé tôn thờ anh hùng	true
+ancillaries_colour_text_s2anc_sp_bosh_foreign_tourist_2	"Kiếm ư? Kiếm là dành cho các cô gái Anh!"	true
+ancillaries_colour_text_s2anc_sp_bosh_master_jujutsu	Đôi khi thanh kiếm chỉ là sự xao lãng của chiến binh.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_kote	Kote huyền thoại	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_koto	Nghệ nhân Koto huyền thoại	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_poisons	Bộ sưu tập độc dược	true
+ancillaries_colour_text_s2anc_sp_bosh_item_game_cricket	"Tôi mắc kẹt đầu vào đó, và vẫn không hiểu cây gậy cricket dùng làm gì…"	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_civil_secretary	Lời viết trên giấy không giết người, nhưng thay đổi cuộc đời.	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_flashbomb	"...Và thế là hắn biến mất!"	true
+ancillaries_onscreen_name_mp_anc_loyal_fudai_shu_retainers	Gia thần Fudai-Shu trung thành	true
+ancillaries_colour_text_s2anc_sp_bosh_sumo_wrestler_2	Ai ăn hết mì rồi?	true
+ancillaries_colour_text_s2anc_sp_bosh_sumo_wrestler_1	Sumo là gốc rễ của mọi võ thuật.	true
+ancillaries_colour_text_s2anc_artefact_ninja_bombs	"…Và thế là hắn biến mất!"	true
+ancillaries_onscreen_name_s2anc_legend_army_naginata	Bậc thầy Naginatajutsu huyền thoại	true
+ancillaries_colour_text_s2anc_household_guard	Thêm một đôi mắt sẽ phát hiện kẻ địch ẩn nấp.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_elephant	Súng săn voi	true
+ancillaries_colour_text_s2anc_sp_bosh_modernist	"Phú quốc cường binh."	true
+ancillaries_onscreen_name_mp_anc_world_weary	Mệt mỏi với thế sự	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_brunet	Jules Brunet	true
+ancillaries_colour_text_s2anc_sumo_wrestler_1	Sumo là gốc rễ của mọi võ thuật.	true
+ancillaries_colour_text_s2anc_sumo_wrestler_2	Ai ăn hết mì rồi?	true
+ancillaries_onscreen_name_s2anc_artefact_go	Bàn cờ vây	true
+ancillaries_onscreen_name_mp_anc_mochiyari_gumi_spear_bearer	Người cầm thương Mochiyari Gumi	true
+ancillaries_onscreen_name_mp_anc_untrained_fugu_cook	Đầu bếp fugu chưa được đào tạo	true
+ancillaries_onscreen_name_mp_anc_lotus_sect_adherent	Tín đồ giáo phái Hoa Sen	true
+ancillaries_colour_text_s2anc_artefact_banner_christian	Không đội quân nào hành quân dưới lá cờ của Chúa, được Đức Thánh Cha ban phước, có thể chịu thất bại!	true
+ancillaries_onscreen_name_mp_anc_wizened_monk	Nhà sư già nua	true
+ancillaries_onscreen_name_s2anc_artefact_gun_dutch	Súng hỏa mai châu Âu	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_adams	Súng lục Beaumont-Adams	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_glasses_smoked	Kính râm thủy tinh hun khói	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_biwa	Nghệ nhân Biwa huyền thoại	true
+ancillaries_onscreen_name_mp_anc_cold_snap	Đợt rét đậm	true
+ancillaries_colour_text_s2_anc_pdlc_monk_relic_painting	Hình ảnh là tiếng vọng của một sự thật.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_item_bowl	Thế gian sẽ cung cấp.	true
+ancillaries_onscreen_name_s2anc_navy_shipwreck_dutch	Người châu Âu bị đắm tàu	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_follower_ronin	Ronin (hầu như) đã cải tà quy chính	true
+ancillaries_colour_text_s2_anc_pdlc_monk_pet_cricket	Giác ngộ là khúc ca trôi trên gió chiều.	true
+ancillaries_colour_text_s2anc_chess_champion	Như quân kyosha, ta chỉ có thể tiến về phía trước trong đời.	true
+ancillaries_onscreen_name_s2anc_mistress_gorgeous	Tình nhân tuyệt sắc	true
+ancillaries_onscreen_name_s2anc_religion_christian_notary	Công chứng viên nhà thờ	true
+ancillaries_onscreen_name_s2anc_sp_bosh_book_dickens	"Little Dorrit" của Dickens	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_mauser_71	"Nếu đủ tốt cho quân đội Đế quốc Đức, thì đủ tốt cho bất kỳ ai!"	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_deringer	Luôn có tuyến phòng thủ cuối cùng.	true
+ancillaries_colour_text_s2anc_legend_army_yabusame	Ngựa phi; tên bay; bậc thầy... chẳng làm gì.	true
+ancillaries_colour_text_s2anc_master_arts_ceramics	Bước đầu cho trà đạo hoàn hảo là một tách trà đẹp.	true
+ancillaries_onscreen_name_s2anc_musician_flute_lady	Người thổi sáo	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_condom	Bao cao su	true
+ancillaries_onscreen_name_s2anc_sp_bosh_shinsengumi_yakuza	Yakuza bị thất sủng	true
+ancillaries_colour_text_s2anc_friend_drinker	Người chia sẻ sake mà không nói lại chuyện đã nói nên được giữ gần bên.	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_suneate	Bộ giáp của anh hùng vĩ đại, truyền qua nhiều thế hệ, là vinh dự khi được mặc.	true
+ancillaries_colour_text_mp_bosh_anc_zori_tori_sandal_bearer	Không việc gì là thấp kém nếu được làm tốt.	true
+ancillaries_onscreen_name_mp_anc_mouldy_feed_stocks	Thức ăn gia súc mốc	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_wig_red	Shaguma	true
+ancillaries_onscreen_name_s2anc_master_army_gunmaker	Bậc thầy chế tạo súng	true
+ancillaries_colour_text_s2anc_artefact_christian_reliquary	Vật nhỏ bé chứa đựng nhiều đức hạnh Cơ Đốc.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_brunton	"Tôi không xây hải đăng CHẾT TIỆT của bọn Anh!"	true
+ancillaries_colour_text_s2_anc_pdlc_general_governor_zuryo	Cai trị là nghĩa vụ duy nhất của người cai trị.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_bike_early	Cách di chuyển vô cùng tráng lệ, trừ vết dầu.	true
+ancillaries_onscreen_name_mp_anc_gosha_odosama_samurai_priest	Thầy tu Samurai Gosha Odosama	true
+ancillaries_colour_text_s2anc_master_army_iaijutsu	Rút kiếm và giết người trước khi hắn chớp mắt – đó là kỹ năng.	true
+ancillaries_onscreen_name_s2anc_master_army_jujutsu	Bậc thầy Jujutsu	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_follower_itako	Itako	true
+ancillaries_onscreen_name_mp_anc_steppe_horse_stud	Trại giống ngựa nhẹ	true
+ancillaries_colour_text_mp_anc_ninja_jonin	Con dao giấu kín vẫn chết người dù bị đoán trước.	true
+ancillaries_onscreen_name_s2anc_master_army_armourer	Bậc thầy chế tạo giáp	true
+ancillaries_onscreen_name_mp_bosh_anc_open_basketwork_quivers	Ống tên đan mở	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_follower_ninja	Ninja cải trang	true
+ancillaries_onscreen_name_s2anc_master_arts_bunraku	Nghệ nhân múa rối Bunraku	true
+ancillaries_onscreen_name_mp_anc_genpei_tajima_arrow_cutter	Tajima Chặt Tên	true
+ancillaries_onscreen_name_s2anc_navy_pirate_okinawa	Thuyền trưởng hải tặc Okinawa	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_pet_cat	Mèo	true
+ancillaries_onscreen_name_s2anc_legend_army_kenjutsu	Bậc thầy Kenjutsu huyền thoại	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_balloon	Khinh khí cầu quan sát	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_volcanic	Súng lục Volcanic	true
+ancillaries_onscreen_name_s2anc_madman_tengu	Kiếm sĩ điên loạn	true
+ancillaries_onscreen_name_mp_anc_way_of_the_ikko_ikki	Con đường Ikko Ikki	true
+ancillaries_onscreen_name_mp_clan_anc_horse	Gia nhân chuyên môn Gia tộc: Mạng lưới huấn luyện kỵ binh	true
+ancillaries_onscreen_name_s2anc_navy_pirate_chinese	Hải tặc Trung Hoa	true
+ancillaries_onscreen_name_s2anc_legend_army_iaijutsu	Bậc thầy Iaijutsu huyền thoại	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_smith_parkes	"Đặc phái viên toàn quyền của Nữ hoàng, Công sứ đặc mệnh toàn quyền và Tổng Lãnh sự tại Nhật Bản, xin phục vụ."	true
+ancillaries_colour_text_s2_anc_pdlc_monk_relic_buddha_gold	Ý nghĩa không thể đo bằng vàng.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_clock_marine	Đồng hồ hàng hải	true
+ancillaries_colour_text_s2anc_legend_army_gunmaker	Rèn bằng sắt, cái chết đến từ ngọn lửa.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_spy	Bậc thầy gián điệp huyền thoại	true
+ancillaries_colour_text_s2_anc_pdlc_general_mii_dera	Nhà sư vẫn là con người, với danh dự của con người.	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_follower_noble	Học sinh quý tộc	true
+ancillaries_onscreen_name_mp_clan_anc_sword	Gia nhân chuyên môn Gia tộc: Mạng lưới huấn luyện kiếm	true
+ancillaries_colour_text_s2_anc_pdlc_monk_follower_miko_tea	Tinh tế trong mọi thứ, ngay cả một tách trà.	true
+ancillaries_colour_text_s2anc_madman_kappa	"Ta là Linh hồn của làn nước tối tăm và cô độc, sẵn sàng bẫy kẻ bất cẩn, kẻ khoe khoang, kẻ ngu ngốc…"	true
+ancillaries_colour_text_s2anc_sp_bosh_servant_shogi_player	Như quân kyosha, ta chỉ có thể tiến về phía trước trong đời.	true
+ancillaries_colour_text_s2anc_artefact_buddhist_beads	Thiền định giúp ích.	true
+ancillaries_colour_text_s2anc_religion_christian_firebrand	"Thượng Đế sống và Con của Người sẽ không bị chối bỏ, ngay cả tại vùng đất dị giáo ma quỷ này!"	true
+ancillaries_onscreen_name_s2anc_master_army_yabusame	Bậc thầy Yabusame	true
+ancillaries_colour_text_s2anc_sp_bosh_doctor_jp	Bại liệt và bệnh đậu mùa cũng giết người chắc chắn như bất kỳ lưỡi kiếm nào.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_snider	Súng trường nạp hậu Snider	true
+ancillaries_onscreen_name_mp_bosh_anc_incorrect_calibration	Hiệu chuẩn sai	true
+ancillaries_onscreen_name_mp_anc_genpei_enryakuji_fugitive	Kẻ đào tẩu Enryakuji	true
+ancillaries_colour_text_mp_anc_wavering_faith	Nghi ngờ gặm nhấm cả hạt mầm đức tin nhỏ nhất.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_thouars	Với người Anh ngay trước cửa, các đô đốc Pháp có mọi động lực để giỏi.	true
+ancillaries_colour_text_s2anc_master_army_kenjutsu	Con đường kiếm đạo vượt xa việc giết kẻ địch. Giết chóc thậm chí còn chưa phải là khởi đầu của sự tinh thông.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_dreyse	Súng kim Dreyse	true
+ancillaries_onscreen_name_s2anc_artefact_geisha_fan	Quạt lưỡi kiếm	true
+ancillaries_colour_text_s2_anc_pdlc_general_governor	Lời nói phải được thốt ra thì hành động mới bắt đầu.	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_follower_komuso	Komuso	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_arms_fr	"Đồ ăn Anh nặng nề, đồ ăn Đức nặng nề, hay phong cách Pháp: đó là lựa chọn của anh!"	true
+ancillaries_colour_text_s2_anc_pdlc_shirabyoshi_ceremonial_drum	Trái tim đập nhanh hơn khi đứng trước vẻ đẹp.	true
+ancillaries_colour_text_s2anc_religion_christian_confessor	"Tội lỗi của con rất nặng nề, con trai ta, nhưng tha thứ cho con cái mình là linh hồn của Giáo hội."	true
+ancillaries_colour_text_s2anc_legend_army_armourer	Giáp phải được chế tạo khéo léo, nếu không chỉ là gánh nặng vô dụng.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_weapon_bo	"Ngài có định từ chối sự hỗ trợ duy nhất của một người thánh thiện không?"	true
+ancillaries_colour_text_s2anc_master_arts_haiku	Hoa anh đào rơi,/thơ bay trong gió xuân:/kiếm ngừng va chạm.	true
+ancillaries_onscreen_name_mp_anc_damp_powder	Thuốc súng ẩm	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_claws	Vuốt hổ	true
+ancillaries_colour_text_mp_bosh_anc_forage_parties	Nông dân không thể giấu mọi thứ.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_sword_bokken	Bokken	true
+ancillaries_colour_text_s2anc_crime_yakuza_boss	"Họ sẽ làm theo lời ta, thưa chủ công. Và chúng ta sẽ thu lợi từ đó."	true
+ancillaries_colour_text_s2anc_sp_bosh_item_fan_killer	"Ở đây có nóng không?"	true
+ancillaries_colour_text_s2anc_sp_bosh_item_music_accordian	"Đây là mốt mới nhất trong các cung điện châu Âu."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mummified_mermaid	Nàng tiên cá ướp xác	true
+ancillaries_onscreen_name_s2anc_mistress_dangerous	Tình nhân đầy tham vọng	true
+ancillaries_onscreen_name_mp_anc_metsuke_inspector	Thanh tra Metsuke	true
+ancillaries_colour_text_s2anc_sp_bosh_geisha_o_shoku	Phục vụ với sự tao nhã tuyệt đối khiến người khác thoải mái, và nhờ đó phá vỡ phòng bị của họ.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_flag_wig_wag	Cờ tín hiệu Wig-wag	true
+ancillaries_onscreen_name_mp_anc_mark_of_fantacism	Dấu ấn cuồng tín	true
+ancillaries_colour_text_s2anc_general_surgeon	"Ta không giỏi chữa vết thương sau lưng. Ta không chữa được sự hèn nhát!"	true
+ancillaries_colour_text_mp_bosh_anc_mouldy_feedstocks	Tốc độ của ngựa chỉ tốt bằng lượng yến mạch nó ăn.	true
+ancillaries_colour_text_s2anc_sp_bosh_servant_bodyguard	Thêm một đôi mắt sẽ phát hiện kẻ địch ẩn nấp.	true
+ancillaries_colour_text_s2anc_geisha_waitress	Phục vụ với sự tao nhã tuyệt đối khiến người khác thoải mái, và nhờ đó phá vỡ phòng bị của họ.	true
+ancillaries_onscreen_name_mp_bosh_anc_veteran_corvette_crew	Kíp thủ Hộ vệ hạm lão binh	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_weapon_bisento	Bisento	true
+ancillaries_colour_text_s2anc_artefact_legend_ninjato_1	Một cú đâm, sinh mệnh chấm dứt.	true
+ancillaries_colour_text_s2anc_artefact_legend_ninjato_2	Sinh mệnh rời đi dễ dàng khi shinobigatana gọi tên.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_disguise_town	Cải trang thường dân	true
+ancillaries_colour_text_s2anc_sp_bosh_item_chloroform_killer	"Ngươi sẽ không cảm thấy gì đâu."	true
+ancillaries_colour_text_mp_bosh_anc_eager_lieutenant	"54 giây: không tệ. Nhưng cũng chẳng xuất sắc! Lại!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_book_pulp	Tiểu thuyết kinh dị rẻ tiền	true
+ancillaries_colour_text_s2anc_sp_bosh_rail_telegraph	Lời nói truyền khắp đất nước sẽ kéo theo hành động.	true
+ancillaries_onscreen_name_s2anc_artefact_legend_mask	Menpo huyền thoại	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_music_euphonium	Kèn euphonium	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_ninja	Thủ lĩnh ninja huyền thoại	true
+ancillaries_onscreen_name_mp_anc_straw_practice_dummy	Hình nhân rơm luyện tập	true
+ancillaries_onscreen_name_s2anc_ainu_servant	Gia nhân Ainu	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_martini_henry	Súng trường nạp hậu Martini-Henry	true
+ancillaries_colour_text_mp_anc_livestock_pestilence	Mắt đờ và tai rũ xuống nói lên rõ ràng nỗi đau bên trong.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_tanto	Tanto tẩm độc	true
+ancillaries_colour_text_mp_legendary_heavenly_banner	Khi con người ngước mắt lên trời, trái tim họ cũng theo đó.	true
+ancillaries_colour_text_s2anc_mistress_shrew	"Tình yêu của ta, em xứng đáng với điều tốt hơn nhiều…"	true
+ancillaries_colour_text_mp_anc_mounted_scout	Kiến thức tốt hơn tin đồn.	true
+ancillaries_colour_text_mp_anc_productive_rice_paddy	Giàu có là bát cơm đầy.	true
+ancillaries_onscreen_name_s2anc_navy_pirate_nihon	Thuyền trưởng hải tặc	true
+ancillaries_colour_text_mp_anc_tetsu_bishi_caltrops	Làm què ngựa tức là chặn đứng chiến binh.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_haiku	Thi nhân Haiku huyền thoại	true
+ancillaries_onscreen_name_s2anc_sp_bosh_geisha_onsen	Geisha suối nước nóng	true
+ancillaries_colour_text_mp_anc_famous_armoury	Chiến binh không có kiếm là vô dụng trong chiến tranh.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_do	Do huyền thoại	true
+ancillaries_colour_text_mp_bosh_anc_spoiled_rations	Thức ăn nuôi dưỡng tinh thần cũng như thân thể.	true
+ancillaries_colour_text_mp_bosh_anc_muzzle_loading_muskets	Đã thử nghiệm, đã kiểm chứng, và đã lỗi thời.	true
+ancillaries_colour_text_s2anc_sp_bosh_book_uncle_tom	"Ta bắt đầu hiểu mình hiểu ít thế nào về những người Mỹ này…"	true
+ancillaries_onscreen_name_s2anc_artefact_mirror_moon	Gương của Người Mặt Trăng	true
+ancillaries_colour_text_s2anc_sp_bosh_animal_horse	Con ngựa tốt sẽ chở tướng quân vào trận và coi thanh kiếm chẳng đáng sợ hơn con bướm.	true
+ancillaries_colour_text_s2anc_sp_bosh_uniform_general	Quần áo làm nên con người.	true
+ancillaries_onscreen_name_mp_anc_skilled_weaponsmith	Thợ rèn vũ khí lành nghề	true
+ancillaries_colour_text_s2anc_sp_bosh_item_game_golf	"Tôi thấy cây gậy sắt số chín khá thuyết phục."	true
+ancillaries_onscreen_name_mp_bosh_anc_livestock_pestilence	Dịch bệnh gia súc	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mistress_gorgeous	Tình nhân tuyệt sắc	true
+ancillaries_colour_text_mp_bosh_anc_skittish_mounts	"Thử đứng yên xem khi có người bắn súng ngay trên đầu anh!"	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_seiryutai	"Chúng ta là lực lượng Thanh Long!"	true
+ancillaries_colour_text_s2anc_sp_bosh_mistress_europe_strict	Kỷ luật có nhiều hình thức.	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_civil_servant	Kuge	true
+ancillaries_onscreen_name_s2anc_artefact_legend_kote	Kote huyền thoại	true
+ancillaries_colour_text_s2anc_household_chinese_false	"Đó không phải cách chúng tôi làm ở Trung Hoa, thưa chủ công."	true
+ancillaries_colour_text_s2anc_sp_bosh_mistress_europe	Tóc như ánh mặt trời, mắt như bầu trời quang đãng…	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_descharmes	Mỗi người Pháp đều có trái tim của kỵ binh.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_medical_chloroform	"Ngươi sẽ không cảm thấy gì đâu."	true
+ancillaries_colour_text_s2anc_sp_bosh_uniform_admiral	Một người đàn ông nên luôn ăn mặc chỉnh tề.	true
+ancillaries_onscreen_name_s2anc_master_army_smith	Bậc thầy rèn kiếm	true
+ancillaries_colour_text_mp_anc_iron_abumi_stirrups	placeholder text: iron abumi stirrups	true
+ancillaries_onscreen_name_s2anc_sp_bosh_music_drums	Bậc thầy trống Taiko	true
+ancillaries_onscreen_name_s2anc_sp_bosh_rail_guide	Bradshaw	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_disguise_fish	Cải trang hoàn hảo!	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_pong	Nước hoa Eau de Cologne	true
+ancillaries_colour_text_s2anc_master_espionage_ninja	Ta không ở đây. Ta chưa từng ở đây.	true
+ancillaries_colour_text_mp_legendary_dragonfly_cutting_spear	Mọi thứ đều có thể hoàn thiện.	true
+ancillaries_colour_text_s2anc_crime_yakuza_thug	"Chủ công chỉ cần nói một lời, cá sẽ được cho ăn no…"	true
+ancillaries_colour_text_s2anc_sp_bosh_book_artillery_handbook	Hãy khiến từng phát bắn đều đáng giá.	true
+ancillaries_onscreen_name_mp_anc_supply_wagon	Xe tiếp tế	true
+ancillaries_onscreen_name_mp_bosh_anc_famous_armoury	Xưởng giáp nổi tiếng	true
+ancillaries_onscreen_name_mp_anc_rennyos_teachings	Giáo lý của Rennyo	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_go	Kỳ thủ cờ vây huyền thoại	true
+ancillaries_onscreen_name_mp_anc_gokamon_bodyguard	Cận vệ Gokamon	true
+ancillaries_onscreen_name_s2anc_legend_army_kyudo	Bậc thầy Kyudo huyền thoại	true
+ancillaries_colour_text_mp_bosh_anc_practice_grounds	Không điều gì trong trận chiến nên là bất ngờ.	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_relic_shugendo	Kinh văn Shugendo	true
+ancillaries_colour_text_s2anc_household_astrologer	Trái tim, lòng trung thành và vận mệnh của một người có thể đọc được nếu biết giải nghĩa đúng dấu hiệu.	true
+ancillaries_colour_text_mp_anc_yagyu_sword_instructor	"Đừng chém vào kẻ địch. Hãy hoàn thiện nhát chém!"	true
+ancillaries_colour_text_s2anc_sp_bosh_item_phonograph	"Một ngày nào đó ta sẽ mang một thứ như thế này trong túi!"	true
+ancillaries_onscreen_name_mp_bosh_anc_von_clausewitzs_on_war	"Bàn về Chiến tranh" của von Clausewitz	true
+ancillaries_onscreen_name_s2anc_legend_arts_haiku	Thi nhân Haiku huyền thoại	true
+ancillaries_colour_text_mp_anc_drill_square	Huấn luyện là trận chiến không máu.	true
+ancillaries_onscreen_name_mp_bosh_anc_yumi_officer	Sĩ quan Yumi	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_umbrella_sword	Ô kiếm	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_relic_nembutsu	Kinh văn Nembutsu Zen	true
+ancillaries_onscreen_name_mp_anc_lightweiught_gunjingura_war_saddle	Yên chiến nhẹ Gunjingura	true
+ancillaries_colour_text_mp_anc_military_storehouse	Không có kho dự trữ, quân đội sớm trở thành đám đông đói khát.	true
+ancillaries_colour_text_s2anc_artefact_legend_cuirass	Ngực của chiến binh có thể bị xuyên bởi ngàn mũi tên, nhưng khi trái tim vẫn chính trực thì điều đó có nghĩa gì?	true
+ancillaries_onscreen_name_s2anc_sp_bosh_geisha_danna	Danna	true
+ancillaries_colour_text_s2anc_household_biwa_hoshi_1	Plinky-plunky-plinky-plunky-plunk.	true
+ancillaries_colour_text_s2anc_household_biwa_hoshi_2	"Ta sẽ ca ngợi chiến tranh tổng lực!"	true
+ancillaries_colour_text_s2anc_sp_bosh_foreign_tourist	"Này! Thật cổ quái! Đó là kiếm à?"	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_disguise_ronin	"Tôi say quá để làm sát thủ!"	true
+ancillaries_onscreen_name_s2anc_mistress_fox	Tình nhân ranh mãnh	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ronin_unrepentent	Ronin ngoan cố	true
+ancillaries_colour_text_mp_anc_blade_master	Thanh kiếm phải hòa làm một với bàn tay.	true
+ancillaries_colour_text_mp_bosh_anc_myopic_captain	"Ôi chết tiệt cái kính này! Có trúng không? Trung sĩ?"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_soap	Xà phòng Pháp	true
+ancillaries_colour_text_s2anc_sp_bosh_master_blade	Mọi thanh kiếm đều nguy hiểm: bậc thầy đảm bảo rằng chỉ kẻ địch phải lo sợ điều đó.	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_disguise_1	Cải trang thường dân	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_disguise_3	Cải trang nhà sư	true
+ancillaries_colour_text_s2anc_sp_bosh_master_kyudo	Nghệ thuật bắn cung không bao giờ nên bị lãng quên, vì nó nằm ở cốt lõi của samurai xưa.	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_disguise_2	Cải trang Ronin	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_disguise_5	Cải trang kẻ điên	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_disguise_4	Cải trang Geisha	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_disguise_6	Cải trang hoàn hảo!	true
+ancillaries_onscreen_name_mp_anc_bandit_horse_thieves	Bọn cướp ngựa	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_menpo	Dung mạo đáng sợ của chiếc mặt nạ chiến này đủ khiến mọi kẻ thù khiếp đảm.	true
+ancillaries_colour_text_mp_bosh_anc_light_infantry_officer	"Chạy nước đôi, nhanh!"	true
+ancillaries_colour_text_mp_bosh_anc_muzzle_loading_carbine	Con đường cũ không phải lúc nào cũng tốt nhất.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_shinsengumi_yakuza_2	Yakuza	true
+ancillaries_onscreen_name_mp_bosh_anc_mounted_scout	Trinh sát kỵ mã	true
+ancillaries_onscreen_name_s2anc_espionage_assassin_chef_2	Đầu bếp fugu	true
+ancillaries_onscreen_name_s2anc_espionage_assassin_chef_1	Đầu bếp sushi	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_sandw_2	Smith & Wesson Army No.2	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mistress_ambitious_2	Tình nhân quá tham vọng	true
+ancillaries_colour_text_mp_anc_sake_peddler	Rượu mạnh là sự an ủi với người này, là công cụ với người khác.	true
+ancillaries_colour_text_s2anc_household_koto_hoshi_2	"Twang!"	true
+ancillaries_colour_text_s2anc_household_koto_hoshi_1	"Tất nhiên, thưa chủ công. Một bài hát nữa về hoa. Ngay đây."	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_sword	Thanh kiếm chỉ nổi danh trong tay người xứng đáng.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_satow	Ernest Mason Satow	true
+ancillaries_colour_text_mp_anc_sage_advisor	"Đừng tìm kiếm trí tuệ. Nó sẽ tìm đến ngươi."	true
+ancillaries_colour_text_s2anc_legend_espionage_ninja	"Suỵt!"	true
+ancillaries_colour_text_mp_anc_yari_master	Ngay cả điều đơn giản nhất cũng phải được tinh thông.	true
+ancillaries_colour_text_s2anc_army_drummer	Nhịp trống vang lên như nhịp tim.	true
+ancillaries_onscreen_name_mp_anc_target_range	Trường bắn	true
+ancillaries_colour_text_s2_anc_pdlc_monk_relic_heart_sutra	Thấu hiểu là trung tâm của mọi thứ.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_theodolite	Thuế và pháo kích đều dựa vào đo đạc đất đai chính xác.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_verny	Francois Leonce Verny	true
+ancillaries_onscreen_name_s2anc_sp_bosh_burakumin	Burakumin	true
+ancillaries_onscreen_name_s2anc_sp_bosh_doctor_surgeon_jp	Bác sĩ phẫu thuật	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_skate	Giày trượt Plimpton Rocking	true
+ancillaries_onscreen_name_s2anc_navy_pilot	Hoa tiêu	true
+ancillaries_colour_text_s2anc_artefact_chess	Không phải trò chơi. Chiến tranh. Không đổ máu.	true
+ancillaries_colour_text_mp_bosh_anc_raw_frigate_crew	"Anh không phân biệt được mạn phải với mạn trái sao?"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_geisha_maiko	Maiko	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_gewehr_muzzleloader	"Bang!"	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_valkenburg	"Tôi chỉ đại diện cho lợi ích của Hợp chủng quốc Hoa Kỳ vĩ đại, thưa ngài!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_go_2	Godokoro	true
+ancillaries_colour_text_mp_anc_yumi_officer	Con người phải được dẫn dắt trong trận chiến.	true
+ancillaries_colour_text_mp_bosh_anc_british_naval_engineer	Có những lập luận thép chứng minh vì sao Hải quân Hoàng gia thống trị đại dương.	true
+ancillaries_colour_text_s2_anc_pdlc_general_bow_target_short	Mục tiêu đang nóng lòng chờ mũi tên.	true
+ancillaries_onscreen_name_mp_bosh_anc_rifled_barrels	Nòng súng xoắn rãnh	true
+ancillaries_colour_text_s2anc_artefact_myth_sword_amateratsu	Chỉ bậc vĩ đại nhất mới dám rút kiếm của nữ thần. Chỉ kẻ ngu mới đứng chống lại nó.	true
+ancillaries_colour_text_mp_bosh_anc_blind_bow_sensei	Khi trái tim thuần khiết, mũi tên sẽ tìm được đường.	true
+ancillaries_onscreen_name_s2anc_religion_christian_convert_2	Samurai cải đạo	true
+ancillaries_onscreen_name_s2anc_religion_christian_convert_3	Ashigaru cải đạo	true
+ancillaries_onscreen_name_s2anc_religion_christian_convert_1	Geisha cải đạo	true
+ancillaries_onscreen_name_s2anc_religion_christian_convert_4	Trà sư cải đạo	true
+ancillaries_onscreen_name_mp_anc_sticky_fingered_storemaster	Quản kho tay nhanh	true
+ancillaries_colour_text_s2anc_pet_hunting_dog	Với thợ săn, còn điều gì quan trọng hơn cuộc truy đuổi?	true
+ancillaries_onscreen_name_mp_legendary_hachiman_crest	Vật phẩm huyền thoại: Huy hiệu Hachiman	true
+ancillaries_colour_text_s2anc_sp_bosh_rail_builder_uk	"Chúng tôi phát minh ra tàu hỏa. Sao phải dùng bản sao kém hơn?"	true
+ancillaries_colour_text_s2anc_sp_bosh_rail_builder_us	"Sự khéo léo của người Mỹ, thưa ngài, đã chinh phục lục địa để xây dựng những tuyến đường sắt vĩ đại nhất thế giới!"	true
+ancillaries_onscreen_name_mp_bosh_anc_garden_of_convalescence	Khu vườn dưỡng bệnh	true
+ancillaries_colour_text_s2anc_sp_bosh_uniform_top_hat	"Ta mặc cái này có béo không?"	true
+ancillaries_onscreen_name_mp_bosh_anc_blade_master	Bậc thầy kiếm thuật	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_relic_fuji_rock	Đá từ Fuji-san	true
+ancillaries_colour_text_mp_anc_blessed_kote_armoured_sleeves	Giáp không làm suy yếu tinh thần.	true
+ancillaries_colour_text_mp_anc_genpei_ichirai_hoshi	"Đấu với TA!"	true
+ancillaries_colour_text_s2anc_sp_bosh_item_champagne	Đắt tiền. Ngoại quốc. Bong bóng thú vị...	true
+ancillaries_colour_text_s2anc_artefact_legend_armour	Được nhiều chiến binh vĩ đại mặc trong trận và được thời gian tôn thánh, bộ giáp này thực sự xứng đáng với anh hùng.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_book_20k	"Hai vạn dặm dưới biển" của Jules Verne	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_optic_telescope	Kính thiên văn	true
+ancillaries_onscreen_name_s2anc_sp_bosh_game_shogi	Bộ cờ Shogi	true
+ancillaries_colour_text_mp_bosh_anc_shinobi_informer	Bí mật và dối trá đi cùng một cỗ xe.	true
+ancillaries_colour_text_mp_anc_stricken_unholy_forge	Thép mạnh nhất cũng vô dụng nếu phục vụ cho mục đích tầm thường.	true
+ancillaries_onscreen_name_s2anc_artefact_banner_christian	Cờ Giáo hoàng	true
+ancillaries_colour_text_mp_anc_wizened_monk	"Không có kẻ địch: hãy đánh bại nỗi sợ của chính mình!"	true
+ancillaries_colour_text_mp_bosh_anc_unbalanced_spears	"Mất cân bằng à? Vớ vẩn! Tiếp theo anh sẽ nói tôi cũng mất cân bằng!"	true
+ancillaries_onscreen_name_mp_bosh_anc_forage_parties	Đội tìm lương thực	true
+ancillaries_onscreen_name_s2anc_sp_bosh_clock_watch	Đồng hồ bỏ túi	true
+ancillaries_colour_text_mp_anc_damp_powder	Mưa, sương mù và nước xua lũ quỷ khỏi thuốc súng	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_relic_painting	Tranh thủy mặc Sumi-e	true
+ancillaries_onscreen_name_mp_bosh_anc_scroll_of_inspirational_verse	Cuộn thơ truyền cảm hứng	true
+ancillaries_colour_text_mp_bosh_anc_flogging_officer	"Binh lính tôn trọng tôi vì điều đó."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_music_accordian	Đàn accordion	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_adams	"Đó là khẩu súng mà Nữ hoàng của chúng ta muốn được bắn bằng!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_vicky	Chân dung Nữ hoàng Victoria	true
+ancillaries_onscreen_name_mp_legendary_flawless_mount_okage	Vật phẩm huyền thoại: Chiến mã hoàn mỹ "Okage"	true
+ancillaries_colour_text_s2anc_religion_buddhist_monk	"Anh thấy không: không có đũa. Chưa từng có."	true
+ancillaries_onscreen_name_s2anc_artefact_myth_sword_spanish	Kiếm Toledo	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_game_cricket	Gậy cricket	true
+ancillaries_colour_text_mp_bosh_anc_fighting_captain	"Bắn khi đang tiến!"	true
+ancillaries_colour_text_s2anc_artefact_geisha_poison	"Hãy thử món cá."	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_samurai_senior	Monchujo	true
+ancillaries_colour_text_s2anc_sp_bosh_item_slide_rule	Có mưu trí trong việc đếm chính xác.	true
+ancillaries_colour_text_s2anc_sp_bosh_master_kenjutsu	Con đường kiếm đạo vượt xa việc giết kẻ địch. Giết chóc thậm chí còn chưa phải là khởi đầu của sự tinh thông.	true
+ancillaries_colour_text_s2anc_sp_bosh_master_ninjutsu	"Ta không ở đây. Ta chưa từng ở đây."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_foreign_tourist_2	Du khách Scotland	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_haiku	"Hmmmm. Để ta suy nghĩ..."	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_springfield	Đỉnh cao sát thương, sản phẩm của sự khéo léo Mỹ.	true
+ancillaries_colour_text_s2anc_sp_bosh_geisha_onsen	"Chỉ là thứ nhỏ tôi nhặt được trong kỳ nghỉ…"	true
+ancillaries_onscreen_name_mp_bosh_anc_hero_worshipping_boy	Cậu bé tôn thờ anh hùng	true
+ancillaries_onscreen_name_s2anc_sp_bosh_game_cards	Bài Hanafuda	true
+ancillaries_onscreen_name_s2anc_sp_bosh_modernist	Người theo chủ nghĩa hiện đại	true
+ancillaries_colour_text_s2anc_ainu_servant	"Hắn không phải wajin, nhưng thịt muối của hắn thật sự tuyệt vời!"	true
+ancillaries_colour_text_s2anc_sp_bosh_item_music_euphonium	Tiddly-pom-pom-pom.	true
+ancillaries_colour_text_s2anc_artefact_legend_mask	Dung mạo đáng sợ của chiếc mặt nạ chiến này đủ khiến mọi kẻ thù khiếp đảm.	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_ninja	"Suỵt!"	true
+ancillaries_colour_text_s2anc_artefact_ninja_shuriken	Mỗi ninja đều có mánh riêng.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_us	Doanh nhân Mỹ	true
+ancillaries_onscreen_name_s2anc_sp_bosh_book_rights_of_man	"Quyền Con Người" của Tom Paine	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mistress_discreet	Tình nhân kín đáo	true
+ancillaries_colour_text_mp_anc_skilled_weaponsmith	Lưỡi kiếm là nơi quyết định khoảnh khắc.	true
+ancillaries_colour_text_mp_bosh_anc_poor_bloodstock	"Thấy chưa? Quá hẹp ở phần vai."	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_arms_ger	"Kỹ nghệ Đức. Thép Đức. Pháo binh Đức. Tất nhiên là tốt nhất."	true
+ancillaries_colour_text_s2_anc_pdlc_ninja_disguise_monk	Nghèo đôi khi là lớp ngụy trang tốt nhất.	true
+ancillaries_colour_text_s2anc_artefact_legend_kote	Giáp là điều khôn ngoan trong thời loạn.	true
+ancillaries_onscreen_name_s2anc_artefact_christian_psalter	Thánh vịnh	true
+ancillaries_colour_text_mp_anc_hero_worshipping_boy	Mỗi cậu bé đều cần anh hùng của mình.	true
+ancillaries_onscreen_name_mp_bosh_anc_muzzle_loading_muskets	Súng hỏa mai nạp đầu nòng	true
+ancillaries_colour_text_mp_anc_trading_post	Thương mại ở dưới tầm samurai; tiền bạc thì không.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_navy_sextant	Thước lục phân hàng hải	true
+ancillaries_colour_text_s2anc_sp_bosh_master_iaijutsu	Rút kiếm và giết người trước khi hắn chớp mắt – đó là kỹ năng.	true
+ancillaries_colour_text_s2anc_army_hero_samurai	Samurai cứu tướng quân của mình nên được thưởng cơ hội lặp lại lòng dũng cảm.	true
+ancillaries_colour_text_mp_anc_forage_parties	Nông dân không thể giấu mọi thứ.	true
+ancillaries_colour_text_s2_anc_pdlc_shirabyoshi_tachi	Có những thứ sắc như lưỡi lưỡi của phụ nữ.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_animal_horse	Chiến mã ưa thích	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_minie	"Đơn giản, bền bỉ, và lính nào cũng dùng được. Trong tay đúng người thì rất chết chóc."	true
+ancillaries_colour_text_s2anc_artefact_mirror_moon	Chiếc gương tiết lộ nhiều điều cho ai dám nhìn sâu vào chính mình.	true
+ancillaries_onscreen_name_mp_bosh_anc_pedantic_gun_captain	Chỉ huy pháo tỉ mỉ	true
+ancillaries_colour_text_s2anc_crime_yakuza_disgraced	Người quay lưng lại với đồng loại là thợ săn tốt nhất khi thời điểm đến.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_razor	Dao cạo cổ	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_go	Meijin	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_tax_farmer	Người thu thuế	true
+ancillaries_onscreen_name_s2anc_master_army_kyudo	Bậc thầy Kyudo	true
+ancillaries_colour_text_mp_bosh_anc_famous_armoury	Chiến binh không có kiếm là vô dụng trong chiến tranh.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_suzakutai	"Chúng ta là lực lượng Hồng Tước!"	true
+ancillaries_colour_text_s2anc_artefact_legend_helmet	Đừng mất đầu!	true
+ancillaries_onscreen_name_s2anc_artefact_legend_short_sword	Wakizashi huyền thoại	true
+ancillaries_onscreen_name_mp_anc_kacchu_mochi_armour_bearer	Người mang giáp Kacchu-Mochi	true
+ancillaries_colour_text_s2anc_geisha_half_pay	Nghệ thuật nịnh bợ phải được luyện tập để khách hàng cảm thấy thoải mái.	true
+ancillaries_colour_text_mp_bosh_anc_cold_snap	Tay lạnh khiến việc quen cũng trở nên xa lạ.	true
+ancillaries_onscreen_name_s2anc_household_astrologer	Nhà chiêm tinh Trung Hoa	true
+ancillaries_onscreen_name_s2anc_legend_army_smith	Bậc thầy rèn kiếm huyền thoại	true
+ancillaries_colour_text_mp_anc_genpei_junsatsushi_inspector	"Kẻ ngốc luôn bị mắc bẫy bởi lòng trung thành."	true
+ancillaries_colour_text_mp_anc_genpei_nasu_no_yoichi	Con người không thể đi hai con đường cùng lúc. Mỗi hành trình bắt đầu bằng một lựa chọn.	true
+ancillaries_onscreen_name_mp_anc_iron_abumi_stirrups	Bàn đạp sắt Abumi	true
+ancillaries_onscreen_name_mp_bosh_anc_yamabushi_guide	Hướng dẫn Yamabushi	true
+ancillaries_onscreen_name_mp_bosh_anc_myopic_captain	Thuyền trưởng cận thị	true
+ancillaries_onscreen_name_s2anc_mistress_bodyguard	Tình nhân của lính	true
+ancillaries_onscreen_name_s2anc_army_hero_ashigaru	Ashigaru anh dũng	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_vassal	Gokenin	true
+ancillaries_colour_text_mp_anc_scroll_of_inspirational_verse	"Ôi! Cho ta một nàng thơ lửa…"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_kyudo	Bậc thầy Kyudo	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_blade	Bậc thầy rèn kiếm	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_menpo	Menpo huyền thoại	true
+ancillaries_colour_text_s2anc_artefact_banner_warlord	Lá cờ nói rằng: nơi đây đứng một đại lãnh chúa, người thừa kế của những lãnh chúa vĩ đại! Mạnh như bão tố! Hãy sợ sức mạnh của ông!	true
+ancillaries_colour_text_mp_anc_wooden_practice_spears	placeholder text: wooden practice spears	true
+ancillaries_onscreen_name_s2anc_master_arts_haiku	Thi nhân Haiku	true
+ancillaries_onscreen_name_mp_anc_military_storehouse	Kho quân nhu	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_item_cup	Tách trà	true
+ancillaries_colour_text_mp_bosh_anc_von_clausewitzs_on_war	Chiến tranh là trường học của chiến binh.	true
+ancillaries_onscreen_name_s2_anc_pdlc_shirabyoshi_ceremonial_drum	Trống nghi lễ	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_disguise_ronin	Cải trang Ronin	true
+ancillaries_colour_text_s2anc_artefact_legend_greaves	Bộ giáp của anh hùng vĩ đại, truyền qua nhiều thế hệ, là vinh dự khi được mặc.	true
+ancillaries_colour_text_s2anc_mistress_fox	"Sự khéo léo, chiếc lưỡi sắc sảo và chút dục vọng trong một bộ kimono quyến rũ."	true
+ancillaries_colour_text_s2anc_sp_bosh_geisha_danna	"Nhớ ai là người trả tiền thuê."	true
+ancillaries_colour_text_s2_anc_pdlc_general_moon_carp	Nhợt nhạt như người chết kỳ lạ, như Mặt Trăng mùa đông xa xôi.	true
+ancillaries_colour_text_s2anc_sp_bosh_mistress_ambitious_2	"Tình yêu của ta, em xứng đáng với điều tốt hơn nhiều..."	true
+ancillaries_colour_text_s2anc_artefact_cards	Có những lá bài mang lại may mắn cho chủ nhân.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_smith_parkes	Sir Harry Smith Parkes	true
+ancillaries_colour_text_mp_legendary_legendary_kabuto_of_ykok	Trí tuệ cần được bảo vệ; bảo vệ chính là trí tuệ.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_sword	Wakizashi huyền thoại	true
+ancillaries_colour_text_s2anc_sp_bosh_item_microscope	Dù nhỏ bé, thế gian vẫn đầy bất ngờ.	true
+ancillaries_onscreen_name_mp_bosh_anc_muzzle_loading_carbine	Carbine nạp đầu nòng	true
+ancillaries_onscreen_name_s2anc_mistress_christian	Tình nhân Cơ Đốc	true
+ancillaries_colour_text_s2anc_sp_bosh_shinsengumi_yakuza_2	"Chủ công chỉ cần nói một lời, cá sẽ được cho ăn no…"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_doctor_jp	Bác sĩ	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_globe	Quả địa cầu	true
+ancillaries_onscreen_name_s2anc_mistress_political	Tình nhân kín đáo	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_disguise_monk	Cải trang nhà sư	true
+ancillaries_onscreen_name_mp_bosh_anc_light_infantry_officer	Sĩ quan bộ binh nhẹ	true
+ancillaries_colour_text_s2anc_artefact_armour_spanish	Giáp ngực bằng thép Tây Ban Nha hảo hạng, rèn bởi tín đồ Cơ Đốc, có thể đỡ mọi lưỡi kiếm hay viên đạn.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_follower_noble	"Dũng khí! Rời bỏ gia đình để tìm người thân thực sự."	true
+ancillaries_onscreen_name_mp_bosh_anc_well_schooled_mounts	Chiến mã được huấn luyện tốt	true
+ancillaries_onscreen_name_s2anc_sp_bosh_uniform_snow_shoes	Giày đi tuyết	true
+ancillaries_colour_text_mp_bosh_anc_zen_like_silence	Trái tim bình tĩnh không đập như trống.	true
+ancillaries_colour_text_mp_bosh_anc_open_basketwork_quivers	Mũi tên không kém phần quan trọng so với cây cung.	true
+ancillaries_colour_text_s2anc_artefact_armour_helmet	Thép gaijin giản dị có sự chân thật, và sự chân thật thường hợp thời.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_byakkotai	"Chúng ta là lực lượng Bạch Hổ!"	true
+ancillaries_colour_text_s2anc_artefact_legend_bokken	Luyện kiếm hiếm khi là vô ích.	true
+ancillaries_colour_text_s2anc_sp_bosh_geisha_shamisen	Âm nhạc làm dịu tinh thần hiếu chiến.	true
+ancillaries_colour_text_s2anc_sp_bosh_geisha_maiko	Những thú vui giải trí luôn được chào đón, nhất là khi chúng che giấu lưỡi dao của sát thủ.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_follower_itako	"Nơi chúng ta tới, chúng ta sẽ không cần mắt để nhìn."	true
+ancillaries_colour_text_s2anc_sp_bosh_mistress_common	"Ô! Đẹp đấy, phải không?"	true
+ancillaries_colour_text_s2anc_artefact_ninja_blowpipe	Không có gì đúng như vẻ bề ngoài.	true
+ancillaries_colour_text_mp_anc_way_of_the_ikko_ikki	Đức tin của nhân dân là sức mạnh của nhân dân.	true
+ancillaries_onscreen_name_mp_anc_yari_master	Bậc thầy Yari	true
+ancillaries_colour_text_mp_bosh_anc_experienced_gunboat_crew	Ngay cả con tàu nhỏ nếu điều khiển tốt cũng có thể vượt quá sức nặng của mình.	true
+ancillaries_colour_text_mp_bosh_anc_dreyse_needle_gun	Viên đạn là vật chất. Cây kim nằm trong cơ cấu.	true
+ancillaries_colour_text_s2anc_sp_bosh_geisha_hangyoku	Nghệ thuật nịnh bợ phải được luyện tập để khách hàng cảm thấy thoải mái.	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_relic_heart_sutra	Cuộn kinh Tâm Kinh	true
+ancillaries_colour_text_s2_anc_pdlc_monk_follower_ninja	Không phải ai cũng đi con đường bằng sự chính trực.	true
+ancillaries_onscreen_name_s2anc_samurai_7_3	Shichiroji	true
+ancillaries_onscreen_name_s2anc_samurai_7_2	Katayama Gorobei	true
+ancillaries_onscreen_name_s2anc_samurai_7_1	Shimada Kambei	true
+ancillaries_onscreen_name_s2anc_samurai_7_7	Kikuchiyo	true
+ancillaries_onscreen_name_s2anc_samurai_7_6	Kyuzo	true
+ancillaries_onscreen_name_s2anc_samurai_7_5	Okamoto Katsushiro	true
+ancillaries_onscreen_name_s2anc_samurai_7_4	Hayashida Heihachi	true
+ancillaries_onscreen_name_s2anc_army_drummer	Bậc thầy trống Taiko	true
+ancillaries_colour_text_s2anc_sp_bosh_book_20k	"Mực! Mực! Phần ngon nhất đấy!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_mauser_71	Mauser Infanterie-Gewehr 71	true
+ancillaries_onscreen_name_s2anc_household_treasurer	Thủ quỹ	true
+ancillaries_colour_text_s2anc_artefact_legend_katana	Đối mặt lưỡi kiếm là thử thách thực sự của lòng dũng cảm.	true
+ancillaries_colour_text_s2anc_mistress_gorgeous	"Không, ta giữ nàng không phải vì trí tuệ!"	true
+ancillaries_colour_text_s2anc_religion_christian_notary	Hồ sơ chính xác là nền tảng quyền lực của Giáo hội.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_optic_telescope	Ngay cả bí mật của thiên đường cũng không an toàn.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_follower_ronin	“Ta đang cố không dùng kiếm!”	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_duousequet	Người Pháp: không ai đứng vững trong trận như người Pháp.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_flag_semaphore	Cờ tín hiệu semaphore	true
+ancillaries_colour_text_s2anc_religion_christian_convert_4	"Thêm trà chứ, cha xứ?"	true
+ancillaries_onscreen_name_mp_bosh_anc_scratch_ironclad_crew	Kíp thủ Thiết giáp hạm tạm thời	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_model_1866	Fusil Modèle 1866	true
+ancillaries_colour_text_s2anc_religion_christian_convert_1	Rome ở rất xa.	true
+ancillaries_colour_text_s2anc_religion_christian_convert_2	Thanh kiếm sắc luôn giúp cho Lời Chúa.	true
+ancillaries_colour_text_s2anc_religion_christian_convert_3	"Cha cần được bảo vệ."	true
+ancillaries_colour_text_mp_anc_sticky_fingered_storemaster	"À! Mấy thứ đó. Cho tôi một ngày. Tôi sẽ tìm…"	true
+ancillaries_onscreen_name_s2_anc_pdlc_shirabyoshi_ceremonial_flute	Sáo nghi lễ	true
+ancillaries_colour_text_mp_anc_gosha_odosama_samurai_priest	Luôn có sự an ủi, ngay cả cho chiến binh.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_snuff	Hộp thuốc hít	true
+ancillaries_onscreen_name_mp_bosh_anc_british_naval_engineer	Kỹ sư hải quân Anh	true
+ancillaries_colour_text_mp_bosh_anc_rifled_barrels	Độ chính xác phải trả giá.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_sabre_cav	Vũ khí thực dụng cho người thực dụng.	true
+ancillaries_onscreen_name_mp_bosh_anc_zori_tori_sandal_bearer	Người mang dép Zori Tori	true
+ancillaries_onscreen_name_s2anc_pet_carp_2	Cá chép Koi	true
+ancillaries_onscreen_name_s2anc_pet_carp_1	Cá chép Koi	true
+ancillaries_colour_text_s2anc_government_rabblerouser	"Nhân dân, ngay cả nông dân thấp kém nhất, cũng không nên bị từ chối chỉ vì họ thấp kém!"	true
+ancillaries_colour_text_s2anc_artefact_myth_sword_moon	Chỉ kẻ ngu mới nghĩ đến việc rút kiếm của Mặt Trăng. Chỉ bậc vĩ đại mới dám chống lại nó.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_music_piano	Plinky-plinky-plonk.	true
+ancillaries_colour_text_s2anc_master_army_castle_mason	Lấy một hòn đá, tái tạo nó, và giữ yên linh hồn nơi chốn – đó là bậc thầy nghề nghiệp.	true
+ancillaries_colour_text_mp_clan_anc_sword	Thanh kiếm là linh hồn của samurai.	true
+ancillaries_onscreen_name_s2anc_artefact_buddhist_beads	Chuỗi hạt	true
+ancillaries_onscreen_name_s2anc_artefact_christian_holy_water	Nước sông Jordan	true
+ancillaries_colour_text_s2anc_artefact_christian_psalter	"Kìa, em thật đẹp, tình yêu của ta…"	true
+ancillaries_colour_text_mp_bosh_anc_uma_i_horse_doctor	Kỵ sĩ chỉ giỏi bằng con ngựa của mình.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_disguise_geisha	Cải trang Geisha	true
+ancillaries_onscreen_name_s2anc_armoured_war_dog	Chó chiến bọc giáp	true
+ancillaries_colour_text_mp_clan_anc_horse	Không có yên ngồi tốt, kỵ sĩ vô dụng.	true
+ancillaries_colour_text_s2anc_navy_pirate_chinese	"Ta sẽ cho lũ con của Nihon nếm mùi thuốc của chính chúng."	true
+ancillaries_colour_text_s2anc_sp_bosh_book_rights_of_man	"Paine-san: một gaijin với những ý tưởng... nguy hiểm và xa lạ…"	true
+ancillaries_colour_text_mp_anc_bad_omen	Con người đôi khi tự tạo số phận của mình.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_disguise_gaijin	Cải trang ngoại quốc	true
+ancillaries_onscreen_name_mp_bosh_anc_artillery_officers_handbook	Sổ tay sĩ quan pháo binh	true
+ancillaries_colour_text_s2_anc_pdlc_monk_item_lotus	Vẻ đẹp của đời người là tạm thời, và luôn tái sinh.	true
+ancillaries_onscreen_name_s2anc_artefact_legend_naginata	Naginata huyền thoại	true
+ancillaries_onscreen_name_s2anc_government_merchant_2	Thương nhân giàu có	true
+ancillaries_colour_text_s2anc_artefact_geisha_fan	"Ở đây nóng quá phải không?"	true
+ancillaries_colour_text_mp_bosh_anc_inexperienced_gunboat_crew	"Bên kia đi các cậu. 'Cảng luôn ở bên trái bàn', nhớ chứ?"	true
+ancillaries_onscreen_name_mp_anc_genpei_nasu_no_yoichi	Naso no Yoichi	true
+ancillaries_colour_text_s2_anc_pdlc_monk_item_flute	Âm nhạc chạm tới tâm hồn.	true
+ancillaries_onscreen_name_mp_bosh_anc_green_corvette_crew	Thủy thủ đoàn Hộ vệ hạm Xanh	true
+ancillaries_colour_text_mp_bosh_anc_incorrect_calibration	"Lại thiếu 100 yard nữa!"	true
+ancillaries_onscreen_name_mp_anc_wavering_faith	Đức tin dao động	true
+ancillaries_onscreen_name_s2_anc_bosh_hovercraft_eels	Sổ tay hội thoại tiếng Hungary	true
+ancillaries_colour_text_s2anc_sp_bosh_item_razor	Một samurai phải luôn chỉnh tề.	true
+ancillaries_onscreen_name_s2anc_crime_yakuza_disgraced	Yakuza bị thất sủng	true
+ancillaries_colour_text_mp_anc_shinobi_informer	Bí mật và dối trá cùng đi trên một cỗ xe.	true
+ancillaries_colour_text_mp_bosh_anc_pedantic_gun_captain	"Mọi trang bị phải được cất đúng chỗ TRƯỚC khi khai hỏa."	true
+ancillaries_colour_text_mp_clan_anc_bow	Rèn luyện trong đời không bao giờ uổng phí.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_disguise_madman	Cải trang kẻ điên	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_suzakutai	Suzakutai	true
+ancillaries_onscreen_name_s2anc_artefact_legend_helmet	Kabuto huyền thoại	true
+ancillaries_onscreen_name_mp_anc_genpei_sou_monk	Sư Sou	true
+ancillaries_onscreen_name_mp_bosh_anc_elite_ironclad_crew	Thủy thủ đoàn Thiết giáp hạm tinh nhuệ	true
+ancillaries_colour_text_s2anc_musician_flute_lady	Âm nhạc làm dịu trái tim phiền muộn.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_condom	Những phát minh ngoại quốc cũng có ích cho sự hưởng thụ.	true
+ancillaries_colour_text_mp_anc_mouldy_feed_stocks	Tốc độ của ngựa chỉ tốt như yến mạch nó được ăn.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_binocs_artillery	"Bây giờ trông đủ gần rồi đấy."	true
+ancillaries_colour_text_mp_bosh_anc_crack_frigate_crew	Ngay cả Khinh hạm cũng chỉ nhanh bằng thủy thủ đoàn của nó.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_game_bat	Gậy bóng chày	true
+ancillaries_onscreen_name_s2anc_sp_bosh_sumo_champion	Yokozuna	true
+ancillaries_colour_text_mp_bosh_anc_sticky_fingered_storemaster	"À! Mấy thứ đó à. Cho tôi một ngày. Tôi sẽ tìm được…"	true
+ancillaries_onscreen_name_mp_bosh_anc_flogging_officer	Sĩ quan đánh roi	true
+ancillaries_onscreen_name_mp_anc_cavalry_officer	Sĩ quan kỵ binh	true
+ancillaries_onscreen_name_mp_anc_portable_shrine	Mikoshi đền rước di động	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_bike_early	Xe đạp cổ	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_french	Doanh nhân Pháp	true
+ancillaries_onscreen_name_mp_bosh_anc_monomi_spy	Gián điệp Monomi	true
+ancillaries_colour_text_s2anc_samurai_2_swords	Một con đường, hai thiên đường, vô số người chết.	true
+ancillaries_colour_text_s2anc_sp_bosh_servant_groom	Chỉ kẻ ngốc mới chăm kiếm mà quên ngựa.	true
+ancillaries_onscreen_name_s2anc_legend_army_castle_mason	Thợ xây huyền thoại	true
+ancillaries_colour_text_mp_bosh_anc_improved_gun_sights	Khoa học loại bỏ phỏng đoán khỏi pháo binh.	true
+ancillaries_onscreen_name_mp_anc_stricken_unholy_forge	Lò rèn tà ác bị nguyền rủa	true
+ancillaries_onscreen_name_mp_bosh_anc_shinobi_informer	Shinobi chỉ điểm	true
+ancillaries_colour_text_s2anc_sp_bosh_game_shogi	Không phải trò chơi. Là chiến tranh. Không máu.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_katana	Katana huyền thoại	true
+ancillaries_onscreen_name_mp_bosh_anc_modern_supply_corps	Quân đoàn hậu cần hiện đại	true
+ancillaries_colour_text_s2anc_master_arts_bunraku	Muốn con rối chạm tới tâm hồn khán giả, người điều khiển phải biến mất.	true
+ancillaries_colour_text_mp_anc_genpei_tajima_arrow_cutter	"Tajima... chém xuyên qua những [mũi tên] đó... bằng naginata xoay tròn của mình, khiến cả kẻ địch cũng phải thán phục."	true
+ancillaries_colour_text_s2anc_navy_pirate_okinawa	"Danh dự ư? Đây là làm ăn!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_foreign_journo_4	Phóng viên văn học Pháp	true
+ancillaries_onscreen_name_s2anc_sp_bosh_foreign_journo_3	Phóng viên văn học Anh	true
+ancillaries_onscreen_name_s2anc_sp_bosh_foreign_journo_2	Phóng viên chiến trường	true
+ancillaries_colour_text_s2anc_sp_bosh_game_cards	Có những lá bài mang lại may mắn cho chủ nhân.	true
+ancillaries_colour_text_mp_bosh_anc_hero_worshipping_boy	Mọi cậu bé đều cần anh hùng của mình.	true
+ancillaries_colour_text_s2anc_master_army_jujutsu	Đôi khi thanh kiếm chỉ là sự xao lãng với chiến binh.	true
+ancillaries_colour_text_s2anc_household_doctor	Bại liệt hay đậu mùa cũng giết người chắc như lưỡi kiếm.	true
+ancillaries_colour_text_mp_bosh_anc_uma_jirushi_nobori_standard_bearer	Lá cờ bay trong gió là cảnh tượng cao quý.	true
+ancillaries_onscreen_name_s2anc_religion_buddhist_monk	Bậc trưởng lão khôn ngoan	true
+ancillaries_colour_text_mp_anc_shoguns_emissary	Phúc lành của trời có nhiều hình dạng.	true
+ancillaries_colour_text_mp_anc_open_basketwork_quivers	Mũi tên không kém phần quan trọng so với cây cung.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_vicky	"Một phụ nữ! Người Anh thật kỳ lạ!"	true
+ancillaries_onscreen_name_mp_bosh_anc_fighting_captain	Thuyền trưởng chiến đấu	true
+ancillaries_onscreen_name_s2anc_artefact_geisha_poison	Bộ sưu tập độc dược	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mercenary_csa	Lính đánh thuê Liên minh miền Nam	true
+ancillaries_onscreen_name_s2anc_master_arts_go_2	Godokoro	true
+ancillaries_onscreen_name_s2anc_master_arts_go_1	Meijin	true
+ancillaries_colour_text_s2anc_household_mystic	Luôn có bí mật, nhưng với người giác ngộ thì không có điều huyền bí.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_sumo_wrestler_2	Rikishi	true
+ancillaries_onscreen_name_s2anc_sp_bosh_sumo_wrestler_1	Sekitori	true
+ancillaries_onscreen_name_s2anc_household_guard	Cận vệ xuất sắc	true
+ancillaries_onscreen_name_s2anc_legend_army_architect	Kiến trúc sư huyền thoại	true
+ancillaries_onscreen_name_mp_bosh_anc_experienced_gunboat_crew	Thủy thủ đoàn Pháo hạm giàu kinh nghiệm	true
+ancillaries_onscreen_name_mp_legendary_masterwork_kote_armguards	Vật phẩm huyền thoại: Kote giáp tay tuyệt tác	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_kote	Áo giáp là điều khôn ngoan trong thời loạn.	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_koto	"Viu!"	true
+ancillaries_onscreen_name_mp_bosh_anc_zen_like_silence	Tĩnh lặng như Thiền	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_chanoine	Charles Chanoine	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_genbutai	Genbutai	true
+ancillaries_colour_text_mp_bosh_anc_well_schooled_mounts	Người và thú hòa hợp hoàn hảo.	true
+ancillaries_colour_text_s2anc_sp_bosh_uniform_snow_shoes	"Kẻ ngốc mới ra ngoài giữa bão tuyết."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_byakkotai	Byakkotai	true
+ancillaries_onscreen_name_s2anc_artefact_legend_bokken	Bokken	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_flashbomb	Bom bột chớp	true
+ancillaries_onscreen_name_s2anc_artefact_armour_helmet	Mũ Morion thép	true
+ancillaries_colour_text_s2anc_pet_carp_2	"Quỳ xuống trước Thẩm phán Cá!"	true
+ancillaries_colour_text_s2anc_pet_carp_1	Trong việc nuôi cá, tại sao không thể đạt tới hoàn mỹ?	true
+ancillaries_colour_text_s2anc_sp_bosh_item_glasses_smoked	Thuần hóa mặt trời có thể bị xem là ngạo mạn.	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_biwa	"Ta sẽ ca ngợi chiến tranh toàn diện!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_chef_sushi	Đầu bếp sushi	true
+ancillaries_onscreen_name_s2_anc_pdlc_shirabyoshi_kimono	Kimono thiên giới	true
+ancillaries_colour_text_s2anc_sp_bosh_item_snuff	"Thứ bẩn thỉu, nhưng tôi thích. Hắt xì!"	true
+ancillaries_colour_text_s2_anc_pdlc_shirabyoshi_ceremonial_flute	Đôi môi khéo léo mang lại nhiều khoái lạc.	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_model_1866	"Đừng mua hàng Đức kém chất lượng, monsieur!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_sabre_cav	Kiếm kỵ binh	true
+ancillaries_colour_text_s2anc_household_chef_noodle	Ngay cả lãnh chúa hùng mạnh cũng cần những tiện nghi nhỏ: như một bữa ăn hoàn hảo.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_brunet	"Chẳng bao lâu nữa phản ứng sẽ xảy ra, và các daimyo miền bắc đã mời ta làm linh hồn của nó."	true
+ancillaries_onscreen_name_s2anc_sumo_wrestler_1	Sekitori	true
+ancillaries_onscreen_name_s2anc_sumo_wrestler_2	Rikishi	true
+ancillaries_colour_text_s2anc_mistress_tart	Người yêu tài năng vượt trội, dù có nhiều khuyết điểm.	true
+ancillaries_colour_text_s2anc_hero_boy	Tuổi trẻ dễ bị ảnh hưởng cũng có ích.	true
+ancillaries_colour_text_s2anc_artefact_go	Mọi kỳ thủ giỏi đều biết chiến thắng là áp dụng chiến lược chính xác.	true
+ancillaries_colour_text_mp_anc_huntsmen	Con người là con mồi hung dữ nhất.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_gambler	Bakuto	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_little_tea_pot_2	Ai hưởng lợi nhiều hơn? Người uống hay chiếc cốc hoàn thành mục đích của nó?	true
+ancillaries_onscreen_name_mp_anc_short_sighted_inspector	Thanh tra cận thị	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_little_tea_pot_3	Tách sứ và trà sư là một.	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_little_tea_pot_1	"Thêm trà? Hay trà ngon hơn?"	true
+ancillaries_onscreen_name_s2anc_artefact_legend_katana	Katana huyền thoại	true
+ancillaries_colour_text_s2anc_geisha_dancer	Những trò tiêu khiển luôn được chào đón, nhất là khi che giấu lưỡi dao của sát thủ.	true
+ancillaries_onscreen_name_s2anc_mistress_peasant	Tình nhân thường	true
+ancillaries_onscreen_name_s2anc_general_galloper	Sứ giả chiến trường	true
+ancillaries_onscreen_name_s2anc_artefact_christian_gun_1	Súng hỏa mai	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_schnell_edward	"Đồ Pháp rác rưởi. Đừng mua."	true
+ancillaries_onscreen_name_mp_anc_ox_carts	Xe bò	true
+ancillaries_colour_text_s2anc_espionage_chonin	Người dân thị trấn biết tìm hẻm nhỏ và lối bí mật, không bỏ sót điều gì khi đi trên phố.	true
+ancillaries_colour_text_s2anc_sp_bosh_binoculars_military	Sĩ quan nên hiểu rõ kẻ thù.	true
+ancillaries_colour_text_mp_anc_yabusami_master	Ngựa và cung có thể hòa hợp.	true
+ancillaries_colour_text_s2anc_mistress_bodyguard	Ngay cả kẻ thô lỗ cũng có ích và có tài năng ẩn giấu.	true
+ancillaries_colour_text_mp_bosh_anc_skilled_gun_captain	"Bình tĩnh. Bình tĩnh. Bắn!"	true
+ancillaries_onscreen_name_mp_anc_scroll_of_inspirational_verse	Cuộn thơ truyền cảm hứng	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_monk_enryaky_ji	Sư chạy marathon Enryaku-ji	true
+ancillaries_colour_text_mp_anc_geisha_poisoner	Trong chén trà cũng có lòng nhân từ.	true
+ancillaries_onscreen_name_mp_bosh_anc_unwaxed_cartridges	Đạn chưa bọc sáp	true
+ancillaries_colour_text_s2anc_army_hero_ashigaru	Dân thường dũng cảm nên giữ gần; họ có thể lại chứng tỏ giá trị.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_glover	"Xin giới thiệu…đầu máy hơi nước đầu tiên của đất nước…Iron Duke!"	true
+ancillaries_colour_text_s2anc_sp_bosh_binoculars_opera	Thế giới trở nên gần hơn.	true
+ancillaries_colour_text_s2anc_mistress_political	"Suỵt! Tường cũng có tai."	true
+ancillaries_colour_text_mp_anc_katana_of_the_pure_land	Nhát chém thanh tẩy mang lại bình yên riêng.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_globe	Cả thế giới đang chờ một kẻ chinh phục!	true
+ancillaries_colour_text_s2anc_mistress_christian	"Khi ngươi không còn tội lỗi, hãy quay lại với đá của mình!"	true
+ancillaries_onscreen_name_mp_bosh_anc_minie_muzzle_loading_rifle	Súng trường Minie nạp đầu nòng	true
+ancillaries_onscreen_name_mp_anc_surgeon	Bác sĩ phẫu thuật	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_relic_dragon	Vảy rồng	true
+ancillaries_onscreen_name_mp_anc_spoiled_rations	Lương thực hỏng	true
+ancillaries_colour_text_mp_bosh_anc_overweight_infantry_officer	"Phù! Tôi sẽ theo kịp các anh!"	true
+ancillaries_onscreen_name_mp_bosh_clan_imperial	Thuộc hạ chuyên môn Gia tộc: Mạng lưới huấn luyện Hoàng gia	true
+ancillaries_colour_text_s2anc_master_army_netsuke	Ngay cả thứ nhỏ bé cũng có thể hoàn hảo khi từ tay bậc thầy.	true
+ancillaries_colour_text_s2anc_legend_army_sojutsu	Vũ khí đơn giản thường khó làm chủ nhất.	true
+ancillaries_colour_text_s2anc_sp_bosh_doctor_surgeon_euro	"Đứng yên, chết tiệt! Cái chân phải cắt rồi!"	true
+ancillaries_colour_text_s2anc_household_jesuit	"Trắng là đen nếu Giáo hội ra lệnh!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_banker_jr	Chủ ngân hàng thương nhân Anh	true
+ancillaries_colour_text_mp_anc_zen_like_silence	Trái tim bình tĩnh không đập như trống.	true
+ancillaries_colour_text_mp_bosh_anc_skilled_weaponsmith	Lưỡi kiếm là nơi quyết định khoảnh khắc.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_pipe_opium	Tẩu thuốc phiện	true
+ancillaries_colour_text_mp_bosh_anc_snider_breech_loading_rifle	Một vũ khí tốt và đáng tin. Đúng như mong đợi từ Chính phủ Bệ Hạ.	true
+ancillaries_onscreen_name_s2anc_artefact_cards	Bài Hanafuda	true
+ancillaries_colour_text_s2anc_sp_bosh_servant_euro_waiter	"Ngay lập tức, mein herr!"	true
+ancillaries_colour_text_s2anc_armoured_war_dog	Grrrr!	true
+ancillaries_colour_text_mp_bosh_anc_livestock_pestilence	Mắt đờ và tai rũ nói lên nỗi đau bên trong.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_game_golf	Gậy golf	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mistress_joro	Joro	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mistress_europe_strict	Gia sư Đức	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_civil_servant	"Đó là quyết định dũng cảm, thưa lãnh chúa."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_seiryutai	Seiryutai	true
+ancillaries_colour_text_mp_bosh_anc_european_horse_trader	Ngựa giống luôn hữu ích.	true
+ancillaries_colour_text_s2anc_sp_bosh_iem_cigarillo	"Tôi thấy chúng giữ ấm tốt."	true
+ancillaries_onscreen_name_s2anc_artefact_myth_sword_moon	Kiếm của Người Mặt Trăng	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_music_piano	Đàn pianoforte	true
+ancillaries_onscreen_name_s2anc_master_army_castle_mason	Thợ xây bậc thầy	true
+ancillaries_onscreen_name_mp_bosh_anc_uma_i_horse_doctor	Thầy thuốc ngựa Uma-I	true
+ancillaries_onscreen_name_s2anc_sp_bosh_book_uncle_tom	"Túp lều bác Tom" của Stowe	true
+ancillaries_colour_text_mp_anc_uma_jirushi_nobori_standard_bearer	Lá cờ bay trong gió là cảnh tượng cao quý.	true
+ancillaries_colour_text_mp_anc_gokamon_bodyguard	Một người đứng sau lưng bạn ngăn nhiều rắc rối.	true
+ancillaries_colour_text_mp_anc_rennyos_teachings	Gây đau cho người khác ít khôn ngoan, nhưng tránh đau thì rất khôn ngoan.	true
+ancillaries_colour_text_mp_anc_genpei_sou_monk	"Đừng để ý vẻ đẹp trần thế. Nó sẽ tàn phai."	true
+ancillaries_onscreen_name_mp_bosh_anc_practice_grounds	Bãi luyện tập	true
+ancillaries_colour_text_s2anc_artefact_legend_naginata	Chém thẳng vào cốt lõi trong một nhát là điều vĩ đại.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_item_beads	Từ tĩnh lặng, mọi thứ sinh ra.	true
+ancillaries_colour_text_s2anc_sp_bosh_doctor_euro	"Bệnh nhân của tôi phải sống, nếu không tôi sẽ tìm ra lý do!"	true
+ancillaries_colour_text_mp_clan_anc_spear	"Không phải que nhọn! Đây là giáo!"	true
+ancillaries_colour_text_s2anc_sp_bosh_rail_guide	Một ngày nào đó Nhật Bản sẽ có Crewe của mình!	true
+ancillaries_colour_text_mp_bosh_anc_military_storehouse	Không có kho dự trữ, quân đội nhanh chóng thành đám đông đói khát.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_absinthe	"Nàng Tiên Xanh"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_japan_industry	Nhà công nghiệp	true
+ancillaries_onscreen_name_mp_legendary_dragonfly_cutting_spear	Vật phẩm huyền thoại: Giáo Chuồn Chuồn Chém	true
+ancillaries_onscreen_name_mp_bosh_anc_inexperienced_gunboat_crew	Thủy thủ đoàn Pháo hạm thiếu kinh nghiệm	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_follower_miko_spirit	Miko	true
+ancillaries_onscreen_name_s2anc_master_espionage_ninja	Bậc thầy Ninjutsu	true
+ancillaries_colour_text_mp_legendary_hideous_menpo_mask	Thần Chiến Trận phải thể hiện gương mặt cứng rắn với thế gian.	true
+ancillaries_colour_text_s2anc_legend_army_castle_mason	Tường thành không chỉ là đá chồng lên nhau. Đó là nghệ thuật.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_weapon_bayonet	Nhiều vấn đề giải quyết bằng thép lạnh.	true
+ancillaries_colour_text_s2anc_legend_arts_bunraku	Không có người điều khiển rối.	true
+ancillaries_onscreen_name_s2anc_samurai_2_swords	Kiếm sĩ Niten Ichi-ryu	true
+ancillaries_colour_text_mp_anc_metsuke_inspector	"Bắt được rồi nhé, mỹ nhân già!"	true
+ancillaries_colour_text_s2anc_mistress_dangerous	"Và điều gì sai khi nghĩ cho bản thân, hỡi người yêu?"	true
+ancillaries_onscreen_name_s2anc_army_hero_horse	Ngựa cưỡi ưa thích	true
+ancillaries_colour_text_mp_anc_practice_grounds	Trong trận đánh không nên có bất ngờ.	true
+ancillaries_colour_text_mp_anc_mark_of_fantacism	Đức tin chân chính giáp bảo vệ linh hồn chân chính.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_armour	O-Yoroi huyền thoại	true
+ancillaries_onscreen_name_s2anc_sp_bosh_geisha_o_shoku	O-shaku	true
+ancillaries_colour_text_mp_anc_uma_i_horse_doctor	Kỵ sĩ chỉ giỏi như con ngựa của mình.	true
+ancillaries_colour_text_s2anc_legend_army_jujutsu	"Ta không cần đấu để biết trường phái của ngươi kém cỏi."	true
+ancillaries_colour_text_s2anc_madman_kodama	"Đừng đụng vào lá của tôi!"	true
+ancillaries_colour_text_mp_anc_cavalry_officer	Con người, như ngựa, cần bàn tay cứng rắn.	true
+ancillaries_colour_text_mp_anc_portable_shrine	Trái tim thuần khiết vang hơn mọi trống trận.	true
+ancillaries_onscreen_name_s2anc_household_groom	Người chăm ngựa	true
+ancillaries_colour_text_mp_bosh_anc_monomi_spy	"Anh chưa thấy tôi, đúng không?"	true
+ancillaries_onscreen_name_mp_bosh_anc_crack_frigate_crew	Thủy thủ đoàn Khinh hạm tinh nhuệ	true
+ancillaries_onscreen_name_s2anc_household_doctor	Bác sĩ	true
+ancillaries_colour_text_s2anc_government_merchant	"Tôi không bao giờ tự cho mình đúng, thưa lãnh chúa, nhưng tôi luôn ghi sổ chuẩn xác."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_chef_fugu	Đầu bếp Fugu	true
+ancillaries_colour_text_s2anc_master_arts_go_1	Go dạy nghệ thuật chiến lược, và người này là hiện thân chiến thắng bằng mưu lược.	true
+ancillaries_colour_text_s2anc_master_arts_go_2	"Đừng nghĩ về chiến lược. Hãy trở thành chiến lược."	true
+ancillaries_onscreen_name_mp_anc_productive_rice_paddy	Ruộng lúa năng suất cao	true
+ancillaries_onscreen_name_mp_anc_mounted_scout	Trinh sát kỵ mã	true
+ancillaries_onscreen_name_mp_bosh_anc_uma_jirushi_nobori_standard_bearer	Người mang cờ Uma-Jirushi Nobori	true
+ancillaries_onscreen_name_mp_legendary_heavenly_banner	Vật phẩm huyền thoại: Heavenly Banner	true
+ancillaries_onscreen_name_s2anc_mistress_shrew	Nhân tình quá tham vọng	true
+ancillaries_onscreen_name_mp_anc_open_basketwork_quivers	Ống đựng tên đan mở	true
+ancillaries_onscreen_name_s2anc_navy_gaijin_1	Thủy thủ Gaijin người Tây Ban Nha	true
+ancillaries_onscreen_name_s2anc_navy_gaijin_2	Thuyền trưởng Gaijin người Hà Lan	true
+ancillaries_colour_text_s2anc_crime_gambler	"Mọi người đều đánh cược, bằng mạng sống, tình yêu và lòng trung thành của họ. Mấu chốt là phải thu lợi từ đó."	true
+ancillaries_colour_text_mp_bosh_anc_yari_master	Ngay cả điều đơn giản nhất cũng phải được tinh thông.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_lone_arranger	Người sắp đặt đơn độc	true
+ancillaries_colour_text_s2anc_sp_bosh_foreign_journo_3	"Tôi đến từ 'The Thunderer', anh không biết sao!"	true
+ancillaries_colour_text_s2anc_sp_bosh_foreign_journo_2	"Độc giả của tôi, thưa ngài, sẽ kinh ngạc bên bữa sáng khi đọc về chiến công dũng cảm của ngài!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_rail_telegraph	Khóa điện báo	true
+ancillaries_colour_text_s2anc_sp_bosh_foreign_journo_4	"Poouffe!"	true
+ancillaries_onscreen_name_mp_bosh_anc_eager_lieutenant	Trung úy đầy nhiệt huyết	true
+ancillaries_colour_text_mp_anc_infantry_officer	Đám đông không phải là quân đội.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_chloroform_killer	Chai chloroform	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_musketoon	"Đã được chứng minh trong chiến đấu, trong đó có bởi Liên minh miền Nam."	true
+ancillaries_colour_text_s2anc_sp_bosh_item_scotch	"Những người Scotland này hẳn là dân tộc chiến binh hung mãnh!"	true
+ancillaries_colour_text_s2anc_navy_pilot	Biết đọc sóng, mây và gió là một kỹ năng quý giá.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_skate	Tốc độ, phấn khích và đôi khi là gãy tay gãy chân!	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_bow_target_long	Omato	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_bow_target_medium	Mato	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_verny	Pháo đài ven biển là con tàu không thể chìm.	true
+ancillaries_onscreen_name_mp_bosh_anc_raw_frigate_crew	Thủy thủ khinh hạm non kinh nghiệm	true
+ancillaries_onscreen_name_s2anc_artefact_chess	Bộ cờ Shogi	true
+ancillaries_onscreen_name_s2anc_household_mystic	Nhà thần bí	true
+ancillaries_colour_text_s2anc_sp_bosh_item_camera	"Nhìn con chim kìa!"	true
+ancillaries_colour_text_mp_legendary_masterwork_kote_armguards	Người khôn ngoan tìm kiếm những thứ tốt nhất.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_satow	"Tôn trọng và Hòa hợp."	true
+ancillaries_onscreen_name_s2anc_legend_espionage_ninja	Thủ lĩnh Ninja huyền thoại	true
+ancillaries_onscreen_name_s2anc_master_army_architect	Kiến trúc sư lâu đài	true
+ancillaries_onscreen_name_mp_bosh_anc_improved_breech_mechanism	Cơ chế khóa nòng cải tiến	true
+ancillaries_colour_text_s2anc_sp_bosh_servant_chef_french	"Tôi cũng không cho người Anh ăn thứ rác rưởi này!"	true
+ancillaries_onscreen_name_mp_bosh_anc_mochiyari_gumi_spear_bearer	Người mang thương Mochiyari Gumi	true
+ancillaries_colour_text_s2anc_sp_bosh_samurai_boast	"Đây mới là kiếm! Còn lưỡi của ngươi - ha! - ta còn chẳng dùng nó để xúc phân nông dân!"	true
+ancillaries_onscreen_name_s2anc_hero_boy	Cậu bé sùng bái anh hùng	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_lancaster	"Thưa ngài, thứ này có thể hạ gục một người, hoặc khiến con hổ phải suy nghĩ lại thực đơn!"	true
+ancillaries_onscreen_name_mp_anc_blessed_kote_armoured_sleeves	Tay áo giáp Kote được ban phúc	true
+ancillaries_colour_text_mp_anc_short_sighted_inspector	Đôi khi nhìn không giống với thấy.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mistress_foxy	Nhân tình xảo quyệt	true
+ancillaries_colour_text_s2_anc_pdlc_monk_relic_fuji_rock	Toàn bộ Nhật Bản đều linh thiêng.	true
+ancillaries_colour_text_mp_bosh_anc_blade_master	Thanh kiếm phải hòa làm một với bàn tay.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_messelot	Edouard Messelot	true
+ancillaries_colour_text_mp_anc_inspiring_orator	Lời nói có thể khiến trái tim con người buồn bã hoặc phẫn nộ.	true
+ancillaries_onscreen_name_s2anc_artefact_legend_armour	O-Yoroi huyền thoại	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_zasu	Zasu	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_champagne	Champagne	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_roches	"Người Nhật đối xử tốt với chúng ta cũng như các ngoại nhân khác; dù sức mạnh Anh quốc sẽ phát triển thế nào ở đất nước này, họ chỉ tìm đến chúng ta để cải cách."	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_chef_sushi	Con người có thể chết theo nhiều cách, nhưng nghẹn xương cá thì thật bất hạnh.	true
+ancillaries_colour_text_s2_anc_pdlc_shirabyoshi_kimono	Đẹp một cách kỳ dị, mê hoặc như ánh trăng trong mắt người tình.	true
+ancillaries_colour_text_s2anc_religion_buddhist_nun	Có nhiều con đường dẫn đến Phật.	true
+ancillaries_colour_text_s2anc_chamberlain	"Lãnh địa và công việc của chủ nhân ta cần được chăm sóc cẩn thận. Phục vụ trung thành là điều đáng danh dự."	true
+ancillaries_onscreen_name_s2anc_artefact_myth_sword_amateratsu	Kiếm của Amaterasu	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_bow_target_short	Makiwara	true
+ancillaries_onscreen_name_mp_legendary_tenkagoken_sword	Vật phẩm huyền thoại: Tenkagoken Sword	true
+ancillaries_onscreen_name_mp_bosh_anc_blind_bow_sensei	Sư phụ cung thuật mù	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_spencer	"Nó rất hiệu quả, thưa ngài, để thuyết phục bọn khó chịu tránh xa ngài và người của ngài!"	true
+ancillaries_onscreen_name_s2anc_espionage_chonin	Chonin	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_matchlock	Có sự an ủi trong truyền thống.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_fintry	"Các quý ông nên cẩn trọng và mang ủng đế dày khi sử dụng Fintry-Kyle Escape Apparatus. Phụ nữ, trẻ em, người hầu và những ai yếu thần kinh nên được khuyến khích tìm lối thoát khác."	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_flag	Lá cờ nói rằng: ở đây đứng một lãnh chúa vĩ đại, hậu duệ của những lãnh chúa vĩ đại! Mạnh như bão tố! Hãy sợ sức mạnh của ông!	true
+ancillaries_colour_text_mp_bosh_anc_groom	Chỉ kẻ ngốc mới chăm kiếm mà quên ngựa.	true
+ancillaries_onscreen_name_mp_anc_geisha_poisoner	Geisha đầu độc	true
+ancillaries_onscreen_name_mp_bosh_anc_enfield_musketoon	Enfield Musketoon	true
+ancillaries_colour_text_mp_bosh_anc_unwaxed_cartridges	...click!...	true
+ancillaries_colour_text_mp_bosh_anc_foul_bottom	"Thân tàu bẩn ư? Ngài dám nói vậy sao?!"	true
+ancillaries_onscreen_name_mp_anc_yabusami_master	Bậc thầy Yabusami	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ronin_xenophobe	Ronin bài ngoại	true
+ancillaries_onscreen_name_s2anc_household_biwa_hoshi_1	Người chơi Biwa	true
+ancillaries_colour_text_s2anc_general_galloper	Một tướng quân phải được tuân lệnh, nếu không lòng dũng cảm sẽ bị lãng phí.	true
+ancillaries_onscreen_name_s2anc_household_biwa_hoshi_2	Nghệ nhân Biwa huyền thoại	true
+ancillaries_colour_text_s2anc_master_army_sojutsu	Ngọn thương trông đơn giản, nhưng dùng nó thanh nhã và chính xác cần luyện tập và cống hiến.	true
+ancillaries_colour_text_s2anc_sp_bosh_book_on_war	Chiến tranh là trường học của chiến binh.	true
+ancillaries_colour_text_s2anc_sp_bosh_servant_chef_noodle	Ngay cả lãnh chúa vĩ đại nhất cũng cần vài tiện nghi nhỏ: một bữa ăn hoàn hảo là một trong số đó.	true
+ancillaries_colour_text_mp_bosh_anc_french_naval_engineer	"Người Pháp, thưa ngài, đóng tàu có linh hồn. Bất cứ kẻ Anglo-Saxon ngu ngốc nào cũng có thể làm thiết giáp hạm."	true
+ancillaries_colour_text_s2anc_legend_army_netsuke	Trong những điều nhỏ bé ẩn chứa sự hoàn hảo lớn lao.	true
+ancillaries_colour_text_s2anc_mistress_peasant	"Ồ! Trông sang trọng ghê, nhỉ?"	true
+ancillaries_colour_text_s2anc_silly_time_tunnel_2	"...đâu đó trong những hành lang vô tận của thời gian..."	true
+ancillaries_colour_text_mp_bosh_anc_yumi_officer	Con người phải được dẫn dắt trong trận đánh.	true
+ancillaries_colour_text_s2anc_silly_time_tunnel_1	"...lạc trong mê cung xoáy của quá khứ và tương lai..."	true
+ancillaries_colour_text_mp_anc_blind_bow_sensei	Khi trái tim thuần khiết, mũi tên sẽ tự tìm đường.	true
+ancillaries_colour_text_s2anc_artefact_christian_gun_1	"Tôi thấy đó là một lập luận rất thuyết phục."	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_banker_jr	Ở London có giả kim thuật: biến giấy thành vàng.	true
+ancillaries_onscreen_name_s2anc_household_koto_hoshi_2	Nghệ nhân Koto huyền thoại	true
+ancillaries_onscreen_name_s2anc_household_jesuit	Tu sĩ Dòng Tên	true
+ancillaries_onscreen_name_s2anc_household_koto_hoshi_1	Người chơi Koto	true
+ancillaries_colour_text_s2_anc_pdlc_monk_follower_yamahoshi	Trên núi cao, con người nhìn xa hơn.	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_colt_navy	Cầm trong tay sáu mạng sống là một sức mạnh lớn.	true
+ancillaries_onscreen_name_s2anc_general_taiko_drummer	Tay trống bậc thầy	true
+ancillaries_colour_text_mp_legendary_kawari_kabuto_helm	Tướng quân có trí óc để làm gì nếu nó bị bắn tung theo gió?	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_game_chess	Bộ cờ vua ngà	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_rich	"Thương mại, thưa lãnh chúa, có thể dưới địa vị của ngài, nhưng giàu có thì không bao giờ đáng xấu hổ."	true
+ancillaries_colour_text_s2anc_sumo_champion	"Ta thách đấu ngươi. Và giờ ngươi sẽ thất bại!"	true
+ancillaries_colour_text_mp_bosh_anc_unpracticed_gun_crews	"Luyện pháo à, Trung úy? Không hôm nay, tôi đau đầu."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_binoculars_opera	Ống nhòm opera	true
+ancillaries_colour_text_mp_anc_surgeon	"Vết thương dũng cảm lành nhanh nhất!"	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_governor	Kami	true
+ancillaries_colour_text_mp_anc_spoiled_rations	Thức ăn nuôi dưỡng cả tinh thần lẫn cơ thể.	true
+ancillaries_onscreen_name_mp_anc_katana_of_the_pure_land	Katana của Tịnh Độ	true
+ancillaries_onscreen_name_s2anc_sp_bosh_book_king_james	Kinh Thánh King James	true
+ancillaries_colour_text_mp_bosh_anc_minie_muzzle_loading_rifle	Đơn giản, bền chắc và chống ngu ngốc của lính. Trong tay đúng người, cũng rất chết người.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_kabuto	Kabuto huyền thoại	true
+ancillaries_colour_text_s2anc_sp_bosh_item_food_bovril	Con bò trong chai! Những ngoại nhân này còn nghĩ ra gì nữa?	true
+ancillaries_colour_text_s2anc_legend_arts_tea_ceremony	"Uống đi. Hãy bình yên."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_geisha_hangyoku	Hangyoku	true
+ancillaries_onscreen_name_mp_bosh_anc_dreyse_needle_gun	Súng kim Dreyse	true
+ancillaries_colour_text_mp_anc_loyal_fudai_shu_retainers	Lòng trung thành phản ánh tốt về người ban nó.	true
+ancillaries_colour_text_mp_bosh_anc_modern_supply_corps	Chiến thắng có thể được quyết định trên sổ sách kế toán.	true
+ancillaries_colour_text_s2anc_samurai_7_2	"Anh muốn giết ba mươi tên cướp không?"	true
+ancillaries_colour_text_s2anc_samurai_7_3	"Nếu anh không thể chạy trong chiến tranh thì nó đã kết thúc rồi."	true
+ancillaries_colour_text_s2anc_samurai_7_1	Samurai khôn ngoan không phải lúc nào cũng cần rút kiếm hay nhìn người khác chiến đấu để biết kết quả.	true
+ancillaries_colour_text_s2anc_samurai_7_6	"Nếu đó là kiếm thật, anh đã chết rồi."	true
+ancillaries_colour_text_s2anc_samurai_7_7	"Một thanh kiếm thì giết được bao nhiêu người chứ!"	true
+ancillaries_colour_text_s2anc_samurai_7_4	"Ta là Hayashida Heihachi, kiếm sĩ của phái Wood Cut."	true
+ancillaries_colour_text_s2anc_samurai_7_5	"Không, thưa ngài, tôi đã quyết định. Tôi sẽ theo ngài."	true
+ancillaries_colour_text_s2anc_sp_bosh_mercenary_csa	"Tôi sẽ chiến đấu với lũ Yankee khốn kiếp ở bất cứ đâu gặp chúng!"	true
+ancillaries_colour_text_s2anc_sp_bosh_item_pen	Thanh nhã đôi khi phải nhường chỗ cho tiện lợi.	true
+ancillaries_onscreen_name_mp_anc_shoguns_emissary	Sứ giả của Đại Soái	true
+ancillaries_onscreen_name_s2anc_sp_bosh_geisha_shamisen	Shamisen	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mistress_common	Nhân tình thường	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_blowpipe	Ống thổi	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_jujutsu	Bậc thầy Jujutsu	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_french	"Người Pháp, thưa ngài, kết hợp kinh doanh với đam mê!"	true
+ancillaries_colour_text_s2anc_sp_bosh_item_flag_semaphore	Hạm đội chiến đấu tuân lệnh. Ngư dân thì trôi dạt.	true
+ancillaries_onscreen_name_mp_bosh_anc_sticky_fingered_storemaster	Quản kho tay nhanh	true
+ancillaries_colour_text_mp_bosh_anc_scratch_ironclad_crew	"Ghi tên người đó lại!"	true
+ancillaries_colour_text_s2anc_sp_bosh_item_game_bat	Một cú vung mạnh mẽ luôn là câu trả lời.	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_civil_judge	Samurai-dokoro	true
+ancillaries_colour_text_s2anc_sp_bosh_sumo_champion	"Ta thách đấu ngươi. Và giờ ngươi sẽ thất bại!"	true
+ancillaries_colour_text_mp_anc_zori_tori_sandal_bearer	Không có công việc nào thấp kém nếu làm tốt.	true
+ancillaries_onscreen_name_mp_anc_garden_of_convalescence	Vườn dưỡng bệnh	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_binocs_artillery	Ống nhòm pháo binh	true
+ancillaries_colour_text_s2anc_artefact_gun_dutch	Bất cứ thứ gì từ bên kia thế giới, kể cả vùng đất lạ "Low Countries", đều mang lại sức mạnh.	true
+ancillaries_colour_text_mp_bosh_anc_elite_ironclad_crew	"Làm tốt lắm, Trung úy. Tiếp tục."	true
+ancillaries_colour_text_mp_anc_cold_snap	Tay lạnh khiến việc quen thuộc trở nên lạ lẫm.	true
+ancillaries_onscreen_name_s2anc_government_rabblerouser	Kẻ kích động Phật giáo	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_katana	Đối mặt lưỡi kiếm là thử thách thật sự của lòng dũng cảm.	true
+ancillaries_colour_text_s2anc_household_treasurer	Tiền bạc rất quan trọng.	true
+ancillaries_onscreen_name_mp_bosh_anc_improved_gun_sights	Thước ngắm súng cải tiến	true
+ancillaries_onscreen_name_s2anc_master_arts_calligrapher	Bậc thầy thư pháp	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_duousequet	Charles Albert Dubousquet	true
+ancillaries_onscreen_name_s2anc_sp_bosh_servant_groom	Người chăm ngựa	true
+ancillaries_colour_text_s2anc_sp_bosh_naval_builder_uk	"Có những lập luận thép cho việc vì sao Hải quân Hoàng gia làm chủ đại dương."	true
+ancillaries_colour_text_s2_anc_pdlc_monk_item_cup	Dập tắt ngọn lửa cuồng nộ bên trong.	true
+ancillaries_colour_text_s2anc_government_merchant_2	"Thương mại, thưa lãnh chúa, có thể dưới địa vị của ngài, nhưng giàu có thì không bao giờ đáng xấu hổ."	true
+ancillaries_colour_text_mp_anc_unbalanced_spears	"Mất cân bằng à? Vớ vẩn! Tiếp theo anh sẽ bảo tôi mất cân bằng đấy!"	true
+ancillaries_colour_text_s2anc_espionage_samurai_show_off	"Đây mới là kiếm! Lưỡi của ngươi - ha! - ta còn chẳng dùng để xúc phân nông dân!"	true
+ancillaries_onscreen_name_s2anc_artefact_legend_greaves	Suneate huyền thoại	true
+ancillaries_onscreen_name_s2anc_legend_arts_go	Kỳ thủ Go huyền thoại	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_moon_carp	Cá chép trăng	true
+ancillaries_colour_text_mp_bosh_anc_artillery_officers_handbook	Hãy khiến mỗi phát bắn đều có giá trị.	true
+ancillaries_onscreen_name_s2anc_pet_hunting_dog_gempei	Chó săn	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_item_lotus	Hoa anh đào	true
+ancillaries_onscreen_name_s2anc_sp_bosh_foreign_journo	Nhà báo châu Âu	true
+ancillaries_onscreen_name_mp_anc_expert_gun_instructor	Huấn luyện viên súng chuyên gia	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_disguise_madman	"Hãy để chúng tìm ở mọi nơi sai!"	true
+ancillaries_onscreen_name_s2anc_master_arts_tea_ceremony	Bậc thầy trà đạo	true
+ancillaries_onscreen_name_mp_anc_shinobi_informer	Người báo tin Shinobi	true
+ancillaries_onscreen_name_mp_clan_anc_bow	Tùy tùng chuyên môn Gia tộc: Mạng lưới huấn luyện Yumi	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_mech_puppet	Karakuri Ningyo	true
+ancillaries_colour_text_s2anc_madman_christian	"Đánh roi! Đúng vậy! Quất cho chúng có đức tin!"	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_vassal	"Theo ý ngài, thưa lãnh chúa!"	true
+ancillaries_colour_text_s2_anc_bosh_hovercraft_eels	Ore no hobaakurafuto unagi ippai aru!	true
+ancillaries_onscreen_name_mp_anc_wooden_practice_spears	Thương luyện tập bằng gỗ	true
+ancillaries_onscreen_name_s2anc_artefact_banner_warlord	Cờ huyền thoại	true
+ancillaries_colour_text_mp_bosh_anc_green_corvette_crew	"Có thủy thủ nào khỏe mạnh trên con tàu này không?!"	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_item_flute	Shakuhachi	true
+ancillaries_onscreen_name_s2anc_artefact_legend_bokken_2	Suburi Bokken	true
+ancillaries_onscreen_name_s2anc_artefact_legend_bokken_3	Bokken	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_wig_black	Koguma	true
+ancillaries_onscreen_name_mp_anc_genpei_benkei	Benkei	true
+ancillaries_colour_text_s2anc_legend_arts_calligrapher	Ghi lại ý nghĩ, khoảnh khắc, lên giấy: đó là sức mạnh.	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_disguise_geisha	"Ôi! Tay anh thô ráp quá!"	true
+ancillaries_colour_text_s2anc_artefact_christian_holy_water	Nước thiêng có thể cải đạo nhiều kẻ ngoại đạo.	true
+ancillaries_colour_text_s2anc_sp_bosh_uniform_naval_uk	"Đó là quà tặng."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_hand_warmer	Túi sưởi tay	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_disguise_monk	"Ta là người của Chúa!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_naval_builder_fr	Kỹ sư hải quân Pháp	true
+ancillaries_onscreen_name_s2anc_artefact_armour_spanish	Giáp ngực Cơ Đốc	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_disguise_gaijin	"Tôi đến từ Swansea đấy!"	true
+ancillaries_onscreen_name_mp_anc_bad_omen	Điềm xấu	true
+ancillaries_onscreen_name_mp_legendary_legendary_kabuto_of_ykok	Vật phẩm huyền thoại: Kabuto huyền thoại của Đại Soái	true
+ancillaries_colour_text_mp_anc_genpei_monomi_spy	"Anh chưa thấy tôi, đúng không?"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_microscope	Kính hiển vi	true
+ancillaries_onscreen_name_mp_bosh_anc_overweight_infantry_officer	Sĩ quan bộ binh béo	true
+ancillaries_colour_text_s2anc_sp_bosh_item_prussian_spikey_hat	Gaijin sợ người có gu tinh tế để đội thứ này.	true
+ancillaries_onscreen_name_mp_anc_forage_parties	Đội tìm lương thực	true
+ancillaries_onscreen_name_s2_anc_pdlc_shirabyoshi_tachi	Tachi	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_iaijutsu	Bậc thầy Iaijutsu	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_spy	Tai mắt ở khắp nơi, nhưng chỉ có một trí óc.	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_mii_dera	Nhà sư Mii-dera	true
+ancillaries_onscreen_name_s2anc_religion_christian_agent	Thẩm tra viên dị giáo	true
+ancillaries_onscreen_name_mp_bosh_anc_snider_breech_loading_rifle	Súng trường nạp hậu Snider	true
+ancillaries_onscreen_name_mp_bosh_anc_skilled_weaponsmith	Thợ rèn vũ khí lành nghề	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_game_tennis	Vợt tennis	true
+ancillaries_onscreen_name_mp_anc_zen_like_silence	Sự tĩnh lặng như Thiền	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_arms_ger	Đại diện thợ súng Đức	true
+ancillaries_colour_text_s2_anc_pdlc_general_weapon_yoroi_toshi	Trước vài con dao găm, giáp cũng vô dụng.	true
+ancillaries_colour_text_s2_anc_pdlc_general_poet_nihon	Bài thơ chờ cây bút thích hợp.	true
+ancillaries_colour_text_mp_anc_yamabushi_guide	Con đường vững chắc tự nó là phần thưởng.	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_dreyse	"Viên đạn là phần chính; cây kim nằm trong cơ cấu."	true
+ancillaries_colour_text_s2_anc_pdlc_monk_follower_komuso	Hãy nghe âm nhạc, không phải người chơi nhạc.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_arms_fr	Đại diện thợ súng Pháp	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_governor	Kokushi	true
+ancillaries_onscreen_name_s2anc_geisha_dancer	Maiko	true
+ancillaries_colour_text_s2anc_sp_bosh_mistress_soldier	Ngay cả kẻ thô lỗ cũng có ích và tài năng ẩn giấu.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_medical_stethoscope	"Nói 'Aaaa!'"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_foreign_botanist	Nhà thực vật học Kew Gardens	true
+ancillaries_colour_text_s2_anc_pdlc_general_monk_enryaky_ji	Một người bỏ nhiều thứ để thành tu sĩ, nhưng không bao giờ bỏ danh dự.	true
+ancillaries_colour_text_s2anc_artefact_legend_short_sword	Thanh kiếm chỉ nổi danh trong tay người xứng đáng.	true
+ancillaries_onscreen_name_mp_bosh_anc_skilled_gun_captain	Đội trưởng pháo thủ lành nghề	true
+ancillaries_colour_text_mp_anc_kacchu_mochi_armour_bearer	Phục vụ tốt là điều đáng danh dự.	true
+ancillaries_colour_text_mp_bosh_clan_shogunate	Truyền thống và danh dự là tất cả.	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_snider	"Một vũ khí đáng tin cậy, như mong đợi từ Chính phủ Bệ Hạ."	true
+ancillaries_onscreen_name_mp_bosh_anc_cold_snap	Đợt rét đột ngột	true
+ancillaries_colour_text_mp_anc_ox_carts	Tàn nhẫn như mùa hè, roi sáng loé, bò kéo rống lên, định mệnh ầm ầm tiến tới.	true
+ancillaries_colour_text_s2anc_espionage_samurai_rude_2	"Tôi lắng nghe. Tôi học hỏi. Tôi chăm sóc chủ nhân."	true
+ancillaries_onscreen_name_s2anc_geisha_half_pay	Hangyoku	true
+ancillaries_colour_text_mp_anc_genpei_enryakuji_fugitive	"Hãy lao vào kẻ thù với ngọn lửa Enryakuji trong tim!"	true
+ancillaries_colour_text_s2anc_sp_bosh_clock_watch	"Đã có lúc, ta đo cuộc đời bằng cánh hoa rơi…"	true
+ancillaries_colour_text_mp_bosh_anc_scroll_of_inspirational_verse	"Ôi! Giá có nàng thơ của lửa…"	true
+ancillaries_colour_text_s2anc_sp_bosh_shinsengumi_yakuza	Người phản bội đồng loại trở thành thợ săn tốt nhất khi thời điểm đến.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_suneate	Suneate huyền thoại	true
+ancillaries_onscreen_name_s2anc_friend_drinker	Bạn nhậu	true
+ancillaries_onscreen_name_mp_anc_huntsmen	Thợ săn	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_gambler	"Mọi người đều đánh cược, bằng mạng sống, tình yêu và lòng trung thành của họ. Mấu chốt là phải thu lợi từ đó."	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_little_tea_pot_3	Meijin	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_little_tea_pot_2	Wabi-suki	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_little_tea_pot_1	Chanoyusha	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_weapon_dagger	Kaiken	true
+ancillaries_onscreen_name_s2anc_chess_champion	Nhà vô địch Shogi	true
+ancillaries_onscreen_name_mp_bosh_anc_unbalanced_spears	Thương mất cân bằng	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_pet_cricket	Dế cưng	true
+ancillaries_onscreen_name_s2anc_mistress_tart	Joro	true
+ancillaries_onscreen_name_s2anc_household_chef_noodle	Đầu bếp mì	true
+ancillaries_onscreen_name_s2anc_sp_bosh_servant_euro_chef_pastry	Đầu bếp bánh ngọt Áo	true
+ancillaries_colour_text_s2anc_legend_army_architect	Mưu trí và bậc thầy được tạo nên từ đá.	true
+ancillaries_onscreen_name_s2anc_artefact_ninja_shuriken	Shuriken	true
+ancillaries_colour_text_s2_anc_pdlc_monk_pet_cat	Không như con người, mèo luôn trung thành với bản chất của mình.	true
+ancillaries_onscreen_name_mp_legendary_masterwork_do_maru_armour	Vật phẩm huyền thoại: Giáp Do-Maru tuyệt tác	true
+ancillaries_colour_text_s2anc_sp_bosh_item_navy_diving	"Hãy tưởng tượng! Đáy đại dương!"	true
+ancillaries_colour_text_mp_legendary_flawless_mount_okage	Ngựa quý đòi hỏi chủ nhân xứng đáng.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_chanoine	Chỉ đôi ủng tốt mới giúp người lính hành quân ngoài danh dự và vinh quang.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_genbutai	"Chúng ta là lực lượng của Huyền Vũ!"	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_samurai_senior	Người danh dự mang danh dự đến cho chủ nhân.	true
+ancillaries_colour_text_s2anc_artefact_myth_sword_spanish	Lưỡi kiếm từ Tây Ban Nha xa xôi vừa lạ vừa chết người, dấu hiệu ân sủng của vua gaijin.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_slide_rule	Thước trượt	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_kenjutsu	Bậc thầy Kenjutsu	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_ninjutsu	Bậc thầy Ninjutsu	true
+ancillaries_onscreen_name_mp_bosh_anc_kacchu_mochi_armour_bearer	Người mang giáp Kacchu-Mochi	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_springfield	Springfield Model 1871	true
+ancillaries_colour_text_mp_anc_steppe_horse_stud	Chăn nuôi cẩn thận luôn cải thiện giống.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_pen	Bút máy	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_gewehr_muzzleloader	Gewehr nạp miệng nòng trơn	true
+ancillaries_onscreen_name_mp_anc_european_horse_trader	Thương nhân ngựa châu Âu	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_shuriken	Shuriken	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_valkenburg	Robert Bruce Van Valkenburg	true
+ancillaries_colour_text_s2anc_sp_bosh_master_go_2	"Đừng nghĩ về chiến lược. Hãy trở thành chiến lược."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_legend_ninjato	Ninjato truyền thuyết	true
+ancillaries_onscreen_name_mp_anc_infantry_officer	Sĩ quan bộ binh	true
+ancillaries_onscreen_name_s2anc_legend_arts_tea_ceremony	Trà sư huyền thoại	true
+ancillaries_colour_text_s2anc_sp_bosh_lone_arranger	"Hi-ho, Silver!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_food_bovril	Chiết xuất thịt	true
+ancillaries_onscreen_name_mp_bosh_anc_yari_master	Bậc thầy Yari	true
+ancillaries_colour_text_s2anc_geisha_hot_springs	"Chỉ là thứ nhỏ tôi nhặt được trong kỳ nghỉ…"	true
+ancillaries_colour_text_s2anc_legend_army_bowyer	Từ tay bậc thầy, cây cung luôn bắn trúng.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_theodolite	Máy kinh vĩ khảo sát	true
+ancillaries_onscreen_name_s2anc_crime_gambler	Bakuto	true
+ancillaries_colour_text_s2anc_navy_gaijin_1	"Đức Vua Công giáo của ngài thậm chí còn không biết tôi tồn tại, thưa lãnh chúa."	true
+ancillaries_colour_text_s2anc_navy_gaijin_2	"Tôi cược rằng đôi tay đó chưa từng bóp cổ nhím biển trong bão nhiệt đới đâu, arrr!"	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_armour	Được nhiều chiến binh vĩ đại mang trong trận chiến và thánh hóa bởi thời gian, bộ giáp này thực sự xứng với anh hùng.	true
+ancillaries_onscreen_name_mp_anc_practice_grounds	Bãi luyện tập	true
+ancillaries_colour_text_s2anc_master_arts_calligrapher	Một nét bút hoàn hảo đáng giá cả đời rèn luyện.	true
+ancillaries_colour_text_s2anc_sp_bosh_foreign_servant_uk	"Tất nhiên, thưa ngài…"	true
+ancillaries_colour_text_s2_anc_pdlc_shirabyoshi_hand_fan	Che giấu nụ cười phản bội là khôn ngoan, không phải e thẹn.	true
+ancillaries_onscreen_name_mp_anc_camp_sickness	Bệnh trại	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_wig_white	Haguma	true
+ancillaries_onscreen_name_mp_anc_indefatigable	Không ngừng nghỉ	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_civil_judge	Một người bị cân đo và thấy thiếu; người khác được thả. Đó là luật.	true
+ancillaries_onscreen_name_s2anc_pet_hunting_dog	Chó săn	true
+ancillaries_colour_text_s2anc_household_chinese_courtier	"Khổng Tử có nhiều điều để nói về mọi thứ, thưa lãnh chúa."	true
+ancillaries_colour_text_s2anc_master_army_kobudo	Trong tay đúng người, mọi thứ đều là vũ khí đáng sợ.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_rail_builder_us	Kỹ sư đường sắt Mỹ	true
+ancillaries_colour_text_s2_anc_pdlc_general_bow_practice	Một nghìn ngày luyện cung chỉ là khởi đầu tốt.	true
+ancillaries_onscreen_name_mp_anc_zori_tori_sandal_bearer	Người mang dép Zori Tori	true
+ancillaries_onscreen_name_s2anc_sp_bosh_uniform_top_hat	Mũ chóp lụa	true
+ancillaries_onscreen_name_s2anc_madman_kodama	Ông già điên	true
+ancillaries_onscreen_name_mp_anc_water_carrier	Người gánh nước	true
+ancillaries_colour_text_mp_anc_garden_of_convalescence	Khu vườn làm dịu tâm hồn.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_rail_builder_uk	Kỹ sư đường sắt Anh	true
+ancillaries_onscreen_name_s2anc_madman_christian	Ông già Cơ Đốc điên	true
+ancillaries_colour_text_s2anc_sp_bosh_item_mech_puppet	"Click-click-clickety-whirr-click."	true
+ancillaries_colour_text_s2anc_master_arts_tea_ceremony	Lửa. Nước. Trà. Bát. Một ngụm. Một khoảnh khắc hoàn hảo.	true
+ancillaries_colour_text_s2anc_artefact_legend_bokken_2	Luyện kiếm nghiêm túc hiếm khi vô ích.	true
+ancillaries_colour_text_s2anc_artefact_legend_bokken_3	Sự trừng phạt có nhiều hình thức.	true
+ancillaries_colour_text_s2anc_sp_bosh_music_flute_player	Âm nhạc làm dịu trái tim bất an.	true
+ancillaries_colour_text_s2anc_sp_bosh_item_umbrella_sword	"Bà Peel, chúng ta được cần!"	true
+ancillaries_onscreen_name_mp_legendary_hideous_menpo_mask	Vật phẩm huyền thoại: Mặt nạ Menpo ghê rợn	true
+ancillaries_colour_text_s2anc_sp_bosh_trader_japan_industry	"Một ngày nào đó, Nhật Bản sẽ hiện đại."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_naval_builder_uk	Kỹ sư hải quân Anh	true
+ancillaries_colour_text_s2anc_sp_bosh_item_absinthe	Absinthe khiến trái tim thêm vấn vương.	true
+ancillaries_onscreen_name_mp_bosh_anc_military_storehouse	Kho quân nhu	true
+ancillaries_colour_text_mp_anc_lightweiught_gunjingura_war_saddle	Tốc độ đến dễ hơn với kỵ sĩ có yên ngựa thoải mái.	true
+ancillaries_colour_text_s2anc_sp_bosh_animal_dog	Với thợ săn, còn gì quan trọng hơn cuộc truy đuổi?	true
+ancillaries_colour_text_s2anc_artefact_ninja_tiger_claws	Con hổ leo lên và xé nát theo ý nó.	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_schnell_henry	"Đồ rác của Anh. Đừng mua."	true
+ancillaries_onscreen_name_s2anc_artefact_legend_cuirass	Do huyền thoại	true
+ancillaries_onscreen_name_s2anc_crime_ronin_kabukimono	Kabukimono	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_item_beads	Tràng hạt thiền	true
+ancillaries_colour_text_s2_anc_pdlc_monk_origami	"Hãy xem cái cây trở thành hình ảnh của sự giác ngộ."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_foreign_tourist	Du khách Anh	true
+ancillaries_colour_text_s2anc_sp_bosh_mistress_joro	Một người tình với kỹ năng vượt trội, dù có nhiều khuyết điểm.	true
+ancillaries_colour_text_s2anc_sp_bosh_ed_the_cat	"Đây là gia thần nghiêm túc."	true
+ancillaries_colour_text_s2anc_legend_arts_kabuki	Trong một cử chỉ, cả một thế giới cảm xúc…	true
+ancillaries_colour_text_s2anc_sp_bosh_item_hand_warmer	Quý ông thích đôi tay ấm áp.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_uniform_naval_uk	Đồng phục thủy thủ Anh	true
+ancillaries_colour_text_s2anc_sp_bosh_naval_builder_fr	"Người Pháp, thưa ngài, đóng tàu có linh hồn. Bất cứ kẻ Anglo-Saxon ngu ngốc nào cũng có thể làm thiết giáp hạm."	true
+ancillaries_colour_text_mp_bosh_anc_mounted_scout	Kiến thức tốt hơn tin đồn.	true
+ancillaries_onscreen_name_s2anc_legend_arts_calligrapher	Bậc thầy thư pháp huyền thoại	true
+ancillaries_colour_text_s2anc_sp_bosh_gun_sandw_2	"Ông Smith và bà Wesson cùng sáu đứa con chì của họ đảm bảo mạng sống cho bạn."	true
+ancillaries_colour_text_s2anc_sp_bosh_master_tea	Lửa. Nước. Trà. Bát. Một ngụm. Một khoảnh khắc hoàn hảo.	true
+ancillaries_colour_text_mp_anc_genpei_shirabyoshi_dancer	Ham muốn và căm ghét là hai mặt của cùng một đồng xu.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_iem_cigarillo	Cigarillo	true
+ancillaries_colour_text_s2anc_sp_bosh_item_game_tennis	Trò chơi của các vương tử, do những kẻ thấp kém chơi.	true
+ancillaries_colour_text_s2anc_general_taiko_drummer	Linh hồn của nhịp trống là nhịp tim con người.	true
+ancillaries_onscreen_name_mp_legendary_kawari_kabuto_helm	Vật phẩm huyền thoại: Mũ Kawari Kabuto	true
+ancillaries_colour_text_s2anc_religion_christian_agent	Nỗi sợ là chìa khóa.	true
+ancillaries_onscreen_name_s2anc_household_chinese_false	Quan lại Trung Hoa	true
+ancillaries_colour_text_s2_anc_pdlc_general_poet_chinese	Trong khoảnh khắc tĩnh lặng: thơ ca.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_colt_navy	Colt .36 Navy Revolver	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_medical_chloroform	Chai chloroform	true
+ancillaries_onscreen_name_s2_anc_pdlc_monk_follower_yamahoshi	Yamahoshi	true
+ancillaries_onscreen_name_s2anc_sp_bosh_uniform_admiral	Đồng phục Đô đốc	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mistress_europe	Quý bà Gaijin	true
+ancillaries_onscreen_name_s2anc_sp_bosh_spec_descharmes	Leon Descharmes	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_kabuto	Đừng mất đầu!	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_prussian_spikey_hat	Mũ nhọn Phổ	true
+ancillaries_colour_text_s2_anc_pdlc_daimyo_governor	Quyền uy là tinh thần của chính quyền.	true
+ancillaries_onscreen_name_s2anc_sumo_champion	Yokozuna	true
+ancillaries_colour_text_s2anc_legend_army_kobudo	Sự ôn hòa trong chiến tranh là ngu xuẩn.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_arms_us	Đại diện thợ súng Mỹ	true
+ancillaries_onscreen_name_s2anc_sp_bosh_uniform_general	Đồng phục Tướng quân	true
+ancillaries_onscreen_name_s2anc_sp_bosh_trader_arms_uk	Đại diện thợ súng Anh	true
+ancillaries_onscreen_name_s2anc_sp_bosh_mistress_soldier	Nhân tình của lính	true
+ancillaries_onscreen_name_mp_bosh_anc_foul_bottom	Đáy tàu bẩn	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_medical_stethoscope	Ống nghe y tế	true
+ancillaries_colour_text_s2anc_sp_bosh_foreign_botanist	Nhật Bản là vùng đất kỳ diệu.	true
+ancillaries_onscreen_name_s2anc_espionage_samurai_rude_2	Samurai thất học	true
+ancillaries_onscreen_name_mp_bosh_clan_shogunate	Tùy tùng chuyên môn Gia tộc: Mạng lưới huấn luyện Mạc phủ	true
+ancillaries_onscreen_name_mp_anc_yagyu_sword_instructor	Huấn luyện viên kiếm Yagyu	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_phonograph	Máy hát	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_matchlock	Súng hỏa mai Tanegashima	true
+ancillaries_onscreen_name_mp_anc_blind_bow_sensei	Sư phụ cung thuật mù	true
+ancillaries_colour_text_s2anc_sp_bosh_music_drums	Nhịp trống vang vọng nhịp tim.	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_weapon_yoroi_toshi	Yoroi Toshi	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_disguise_fish	"Này, tôi đâu phải mực ống, đúng không?"	true
+ancillaries_onscreen_name_s2_anc_pdlc_general_poet_nihon	Thi nhân Waka	true
+ancillaries_colour_text_s2anc_master_army_bowyer	Cây cung được chế tạo cẩn thận sẽ không thất bại và luôn bắn trúng.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_book_artillery_handbook	Sổ tay sĩ quan pháo binh	true
+ancillaries_onscreen_name_mp_anc_yamabushi_guide	Hướng dẫn Yamabushi	true
+ancillaries_onscreen_name_s2anc_friend_boyhood	Bạn thời niên thiếu	true
+ancillaries_onscreen_name_s2anc_sp_bosh_master_sojutsu	Bậc thầy Sojutsu	true
+ancillaries_colour_text_s2anc_religion_christian_agent_2	Một số người phục vụ bằng cách quan sát từ trong bóng tối.	true
+ancillaries_colour_text_s2_anc_pdlc_monk_weapon_dagger	Người khôn ngoan không bỏ hết phòng thủ.	true
+ancillaries_onscreen_name_mp_anc_inspiring_orator	Nhà hùng biện truyền cảm hứng	true
+ancillaries_colour_text_s2anc_sp_bosh_spec_messelot	Mọi người Pháp đều hiểu "la gloire".	true
+ancillaries_colour_text_s2anc_sp_bosh_mistress_foxy	"Sự thông minh, lưỡi lém lỉnh và chút ham muốn trong một bộ kimono khá quyến rũ."	true
+ancillaries_onscreen_name_s2anc_general_surgeon	Bác sĩ phẫu thuật	true
+ancillaries_onscreen_name_mp_bosh_anc_mouldy_feedstocks	Thức ăn chăn nuôi mốc	true
+ancillaries_colour_text_s2anc_master_arts_kabuki	Bi kịch thật sự là mọi buổi biểu diễn cuối cùng đều phải kết thúc trong im lặng.	true
+ancillaries_colour_text_mp_bosh_anc_bandit_horse_thieves	Chỉ là trộm nếu bạn bị bắt.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_samurai_boast	Samurai khoác lác	true
+ancillaries_onscreen_name_s2anc_samurai_killer	Kiếm sĩ đấu tay đôi	true
+ancillaries_colour_text_mp_bosh_anc_mochiyari_gumi_spear_bearer	Samurai có thể cần vũ khí của mình bất cứ lúc nào.	true
+ancillaries_onscreen_name_s2anc_geisha_waitress	O-shoku	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_lancaster	Súng lục Lancaster	true
+ancillaries_onscreen_name_s2anc_espionage_samurai_rude	Samurai vô lễ	true
+ancillaries_colour_text_mp_anc_european_gunsmith	Mùi thì lưu huỳnh, kết quả thì đáng kinh ngạc!	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_claws	Con hổ leo lên và xé nát theo ý nó.	true
+ancillaries_onscreen_name_s2_anc_pdlc_daimyo_pet_tiger	Hổ cưng	true
+ancillaries_colour_text_s2anc_sp_bosh_legend_tea	"Uống đi. Hãy bình yên."	true
+ancillaries_colour_text_s2anc_sp_bosh_servant_treasurers	Tiền bạc rất quan trọng.	true
+ancillaries_colour_text_s2anc_sp_bosh_uniform_sailor_cap	Nên có lễ nghi trong mọi việc.	true
+ancillaries_onscreen_name_s2anc_religion_buddhist_nun	Nữ tu	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_fan_killer	Quạt lưỡi kiếm	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_tanto	Một nhát chém, một cái chết.	true
+ancillaries_colour_text_s2anc_artefact_christian_sword_1	Người của Chúa không nên là kẻ ngốc tay không.	true
+ancillaries_colour_text_s2_anc_pdlc_general_bow_target_long	Phát bắn chân thành bay thẳng và trúng đích.	true
+ancillaries_onscreen_name_s2anc_sp_bosh_item_navy_diving	Bộ đồ lặn	true
+ancillaries_onscreen_name_mp_anc_famous_armoury	Kho vũ khí nổi tiếng	true
+ancillaries_colour_text_mp_bosh_anc_kacchu_mochi_armour_bearer	Phục vụ tốt là điều đáng danh dự.	true
+ancillaries_colour_text_s2anc_madman_moon_rabbit	"Bánh gạo? Bánh gạo? Gạo! Bánh! Đó là tất cả những gì anh muốn!"	true
+ancillaries_colour_text_s2anc_pet_monkey	"Ooo-ooo-Eeeek!"	true
+ancillaries_onscreen_name_s2anc_sp_bosh_gun_musketoon	Enfield Musketoon	true
+ancillaries_colour_text_mp_bosh_anc_veteran_corvette_crew	Một thủy thủ đoàn tốt hòa làm một với con tàu của họ.	true
+ancillaries_colour_text_s2anc_master_army_architect	Có nhiều mưu trí trong việc bố trí pháo đài và dẫn kẻ tấn công dần đến diệt vong.	true
+ancillaries_colour_text_s2anc_sp_bosh_servant_euro_chef_pastry	"Bánh croissant? Của Pháp à? Bah. Chỉ là cái tên thôi."	true
+ancillaries_colour_text_s2anc_sp_bosh_ninja_disguise_town	"Hắn chạy hướng đó!"	true
+ancillaries_colour_text_mp_legendary_masterwork_do_maru_armour	Đôi khi tuổi tác làm tăng giá trị của một thứ.	true
+ancillaries_colour_text_s2anc_sp_bosh_samurai_unlettered	"Tôi lắng nghe. Tôi học hỏi. Tôi chăm sóc chủ nhân."	true
+ancillaries_onscreen_name_s2anc_sp_bosh_ninja_blowpipe	Ống thổi	true

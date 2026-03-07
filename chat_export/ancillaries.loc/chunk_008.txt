@@ -1,0 +1,103 @@
+=== CHUNK 8/14 — ancillaries.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[700] Rich Merchant
+[701] "Is it warm in here?"
+[702] "Other side lads. 'The port is always left on the table', remember?"
+[703] Naso no Yoichi
+[704] Music speaks to the soul.
+[705] Green Corvette Crew
+[706] "100 yards short again!"
+[707] Wavering Faith
+[708] Hungarian Phrase Book
+[709] A samurai should always be well groomed.
+[710] Disgraced Yakuza
+[711] Secrets and lies travel in the same cart.
+[712] "All equipment to be correctly stowed BEFORE firing."
+[713] Training is never wasted in life.
+[714] Madman Disguise
+[715] Suzakutai
+[716] Legendary Kabuto
+[717] Sou Monk
+[718] Elite Ironclad Crew
+[719] Music quiets the troubled heart.
+[720] Foreign contrivances to enjoyment have their uses.
+[721] A horse's speed is only a good as the oats it is fed.
+[722] "They look close enough now."
+[723] Even a frigate is only as fast as her crew.
+[724] Baseball Bat
+[725] Yokozuna
+[726] "Ah! Those. Give me a day. I'll find some…"
+[727] Flogging Officer
+[728] Cavalry Officer
+[729] Mikoshi Portable Shrine
+[730] Velocipede
+[731] French Businessman
+[732] Monomi Spy
+[733] One way, two heavens, many dead.
+[734] Only a fool looks after his sword yet neglects his horse.
+[735] Legendary Mason
+[736] Science removes the guesswork from gunnery.
+[737] Stricken Unholy Forge
+[738] Shinobi Informer
+[739] Not a game. War. Without blood.
+[740] Legendary Katana
+[741] Modern Supply Corps
+[742] For the puppet to touch the audience's souls, the puppeteer must vanish.
+[743] "Tajima... cut through those [arrows]... with his whirling naginata, so that even the enemy looked on in admiration."
+[744] "Honour? This is business!"
+[745] French Literary Correspondent
+[746] British Literary Correspondent
+[747] War Correspondent
+[748] Some cards make their owners lucky.
+[749] Every boy needs his hero.
+[750] Sometimes, the sword is a distraction to the warrior.
+[751] The palsy and the pox will kill a man as surely as any blade.
+[752] A banner, floating on the breeze, is a noble sight.
+[753] Wise Elder
+[754] The blessings of heaven come in many forms.
+[755] The arrow is no less important than the bow.
+[756] "A woman! The British are truly an odd people!"
+[757] Fighting Captain
+[758] Poison Collection
+[759] Confederate Soldier of Fortune
+[760] Godokoro
+[761] Meijin
+[762] There are always secrets, but there need be no mysteries for the truly enlightened.
+[763] Rikishi
+[764] Sekitori
+[765] Exceptional Bodyguard
+[766] Legendary Architect
+[767] Experienced Gunboat Crew
+[768] Legendary Item: Masterwork Kote Armguards
+[769] Armour is prudent in times of strife.
+[770] "Twang!"
+[771] Zen-Like Silence
+[772] Charles Chanoine
+[773] Genbutai
+[774] Man and beast in perfect harmony.
+[775] "A fool goes out in a blizzard."
+[776] Byakkotai
+[777] Bokken
+[778] Flash Powder Bombs
+[779] Steel Morion
+[780] "Bow down before Judge Fish!"
+[781] In the breeding of fish, why should not perfection be attainable?
+[782] To tame the sun might be considered arrogance.
+[783] "I will sing in praise of total war!"
+[784] Sushi Chef
+[785] Heavenly Kimono
+[786] "Filthy stuff, but I enjoy it. Atishoo!"
+[787] Skilled lips bring many pleasures.
+[788] "Do not accept inferior German products, monsieur!"
+[789] Cavalry Sabre
+[790] Even the mightiest lord deserves some small comforts: the perfect meal being one of them.
+[791] "Soon a reaction will take place, and the daimyos of the north have offered me to be its soul."
+[792] Sekitori
+[793] Rikishi
+[794] A lover of surpassing skill, for all her faults.
+[795] Impressionable youth can have its uses.
+[796] Every good player knows that victory is the precise application of strategy.
+[797] Men are the fiercest prey of all.
+[798] Bakuto
+[799] Who benefits most? The drinker, or the cup that fulfils its purpose?

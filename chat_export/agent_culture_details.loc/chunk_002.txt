@@ -1,0 +1,83 @@
+=== CHUNK 2/3 — agent_culture_details.loc.tsv ===
+(Dịch 80 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[82] Hashishin
+[83] Highwayman
+[84] Amir-al-bahr
+[85] Admiral
+[86] Amir-al-bahr
+[87] Amir-al-bahr
+[88] Thug
+[89] Bandit
+[90] Warchief
+[91] Geisha
+[92] Gentleman
+[93] Gentleman
+[94] Brigadier
+[95] Brigadier
+[96] Captain
+[97] Brigadier
+[98] Brahmin
+[99] Metsuke
+[100] Captain
+[101] Captain
+[102] Captain
+[103] Catholic Missionary
+[104] Raider
+[105] Captain
+[106] Captain
+[107] Captain
+[108] Brigadier
+[109] Brigadier
+[110] Monk
+[111] Monk
+[112] Missionary
+[113] Missionary
+[114] Metsuke
+[115] Metsuke
+[116] Geisha
+[117] Ishin Shishi
+[118] Geisha
+[119] Geisha
+[120] Ninja
+[121] Ninja
+[122] Family Member
+[123] Admiral
+[124] Ikko Monk
+[125] Sou
+[126] Monomi
+[127] General
+[128] Junsatsushi
+[129] General
+[130] Captain
+[131] Shirabyoshi
+[132] Foreign Veteran
+[133] Captain
+[134] Shinsengumi
+[135] Geisha 
+[136] Shinobi
+[137] Metsuke are unscrupulous executors of their daimyo's authority, directing their cunning to the control of their clan's disaffected generals and people. They are also able to bribe enemy armies and towns. Metsuke may seek to apprehend and bring enemy agents to 'justice', and are particularly effective at uncovering and countering ninja activity. 
+[138] Metsuke are unscrupulous executors of their daimyo's authority, directing their cunning to the control of their clan's disaffected generals and people. They are also able to bribe enemy armies and towns. Metsuke may seek to apprehend and bring enemy agents to 'justice', and are particularly effective at uncovering and countering ninja activity. 
+[139] Monks are ardent proponents of the teachings of Buddha. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Monks are also able to convert populations to Buddhism and enemy agents to abandon their missions in favour of a life of peace and self-reflection. They are particularly effective when used against metsuke. 
+[140] Monks are ardent proponents of the teachings of Buddha. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Monks are also able to convert populations to Buddhism and enemy agents to abandon their missions in favour of a life of peace and self-reflection. They are particularly effective when used against metsuke. 
+[141] Missionaries are fervent evangelists of the Christian way. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Missionaries are also able to convert populations to Christianity and enemy agents to abandon their missions in favour of a life of god-fearing penance. They are particularly effective when used against metsuke.
+[142] Missionaries are fervent evangelists of the Christian way. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Missionaries are also able to convert populations to Christianity and enemy agents to abandon their missions in favour of a life of god-fearing penance. They are particularly effective when used against metsuke.
+[143] Ninja are masters of artifice and infiltration. Their ninjutsu skills enable them to spy upon enemies or sabotage their armies and castle towns, whilst moving through their lands undetected. They are also expert assassins, striking from the shadows to kill enemy generals and agents alike. Their infliltration skills also make ninja invaluable scouts for their clan's armies, whilst their underworld connections keep them abreast of comings and goings when visiting friendly provinces.
+[144] Ninja are masters of artifice and infiltration. Their ninjutsu skills enable them to spy upon enemies or sabotage their armies and castle towns, whilst moving through their lands undetected. They are also expert assassins, striking from the shadows to kill enemy generals and agents alike. Their infliltration skills also make ninja invaluable scouts for their clan's armies, whilst their underworld connections keep them abreast of comings and goings when visiting friendly provinces.
+[145] Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents.
+[146] Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents.
+[147] Ishin shishi are “men of higher purpose” devoted to one thing: the reinstatement of Imperial divine rule. Champions of the Emperor, they rally and inspire the loyal whilst stirring unrest amongst rivals. Single-minded and dangerous, they will not hesitate to kill any who stand in their way.
+[148] Geisha are skilled musicians, dancers and poets, and they use their arts both to entertain and uplift. Their talents may even serve a military agenda: some men are weak and easily distracted; others may betray a cause for beauty.
+[149] Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents.
+[150] Shinobi are masters of subterfuge; they conduct espionage, sabotage and assassinations. Their ability to infiltrate and observe also makes them invaluable army scouts and enables the establishment of spy networks in their clan’s settlements.
+[151] Shirabyoshi are traditional dancers who perform for nobles on formal occasions. Dressed as men in formal Shinto clothes and white powdered make-up, the slow, rhythmic dances they perform in veneration of the gods also involve poetry, singing and musicianship. The shirabyoshi’s main skill is seduction, which convinces her target to join her lord’s cause. Shirabyoshi are able to entertain the nobles of friendly towns in order to boost their growth and entertain friendly generals in the field, which increases their loyalty to the family and counteracts the efforts of enemy agents to bribe or seduce them into changing sides.
+[152] Foreign veterans are masters of warfare having fought, and survived, in many battles. Their long years of service make them great military instructors and administrators; their expertise makes them keen marksmen and sappers, as well as fearless duellists.
+[154] Shinsengumi are enforcers of the Shogun’s justice, coercing or subduing those who dare oppose his will. They will resort to any means necessary to prevent Imperialists from overthrowing the Shogunate, even assassinating their enemies and stirring dissidents to open revolt.
+[155] Junsatsushi ensure loyalty and obedience from friendly generals, increase income by preventing corruption, keep our castle towns and armies safe from enemy subterfuge when positioned inside them, and can request the allegiance of neutral and enemy castle towns, along with any forces garrisoned there. Junsatsushi can also pay off rival agents.
+[159] Monomi act as assassins, spies, saboteurs and scouts, and are recruited from province speciality buildings. In addition to their subterfuge skills, monomi also increase the movement and line of sight of our armies when placed inside them. They can also establish spy networks within castle towns, which increase the chances of discovering any rival agents and armies that may be hiding within a province. Monomi are invisible to the enemy until detected.
+[161] Admirals.PLACEHOLDER
+[162] Ikko monks are zealous advocates of the Ikko sect of Jodo Shinshu Buddhism. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Ikko Monks are also able to convert populations to their Ikko beliefs and enemy agents to abandon their missions in favour of a life of Jodo Shinshu spiritualism. They are particularly effective when used against metsuke.
+[163] Sou can inspire a friendly army or pacify an angry populace with their enlightened rhetoric, and, by the same token, demoralise an enemy force, reduce the chances of successful bribery, indoctrinate enemy agents and cause them to retire, or incite an enemy population to revolt.
+[164] Admirals.PLACEHOLDER
+[165] A Protestant Missionary is a religious teacher who spreads word of Protestantism. Placing a Missionary within a region will cause a gradual conversion to Protestantism amongst the population. They will continue to convert a region until moved.
+[166] General. PLACEHOLDER.

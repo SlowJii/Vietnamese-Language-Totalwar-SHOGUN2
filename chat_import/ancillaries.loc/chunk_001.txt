@@ -1,0 +1,100 @@
+[0] Đầu bếp mì
+[1] "Cho tôi việc đi! Tôi làm được mà. Thật đấy, tôi làm được. Nào, cho tôi việc đi!"
+[2] Kỹ sư hải quân Pháp
+[3] Henry Schnell
+[4] Nghệ nhân chạm khắc Netsuke huyền thoại
+[5] Vuốt hổ
+[6] Bậc thầy Sojutsu
+[7] "Đừng ném cung đi khi tên đã hết!"
+[8] "Bàn về Chiến tranh" của von Clausewitz
+[9] Chó săn
+[10] Bậc thầy Origami
+[11] Yakuza
+[12] Doug Philips
+[13] Tony Newman
+[14] Ngay cả người hùng mạnh nhất cũng phải học cách dùng sức mạnh của mình từ người khác.
+[15] Một chút cũng có thể đi rất xa.
+[16] Mọi thanh kiếm đều nguy hiểm: bậc thầy đảm bảo rằng chỉ kẻ địch phải lo sợ điều đó.
+[17] Súng trường lặp Spencer
+[18] Thiết bị thoát hiểm Fintry-Kyle
+[19] Người giữ ngựa
+[20] Cờ hiệu huyền thoại
+[21] Người thổi sáo
+[22] Không phải mọi bí ẩn đều cần được hiểu.
+[23] Bậc thầy Naginatajutsu
+[24] "Chuyền bát cơm đây, đồ béo, trước khi ngươi ăn hết!"
+[25] "Đã được chứng minh trên chiến trường, bởi Liên minh miền Nam Hoa Kỳ, thưa ngài, cùng nhiều nơi khác."
+[26] "Dây cung của ngài, thưa chủ công. Nó đang lệch nhịp."
+[27] Có chiến lược cho mọi thứ, từ tình yêu đến chinh phục.
+[28] Bậc thầy gián điệp huyền thoại
+[29] Người chơi Biwa
+[30] "Chúng ta sẽ trục xuất toàn bộ bọn man di… bằng gươm nếu cần!"
+[31] Vũ công Shirabyoshi
+[32] Khỉ cưng
+[33] Bậc thầy trà đạo
+[34] Kíp pháo chưa thuần thục
+[35] Thương nhân giàu có
+[36] Lương thực hỏng
+[37] Thời gian không bao giờ bị lãng phí, chỉ bị dùng sai cách.
+[38] "Hiểu kẻ địch nghĩ gì, là hiểu điểm yếu của hắn."
+[39] Ngực của một chiến binh có thể bị xuyên bởi ngàn mũi tên, nhưng khi trái tim vẫn chính trực thì điều đó có nghĩa gì?
+[40] Mọi kỳ thủ giỏi đều biết chiến thắng là việc áp dụng chiến lược chính xác.
+[41] Người lặn ngọc trai
+[42] Bậc thầy Kabuki huyền thoại
+[43] Mèo Edo
+[44] Huấn luyện kíp pháo
+[45] Tùy tùng danh dự
+[46] Một nhát chém, một cái chết.
+[47] Học trò đói chỉ nghe thấy tiếng bụng mình.
+[48] "Không, ta giữ nàng không phải vì trí tuệ!"
+[49] Ngựa dễ hoảng
+[50] Trò chơi của bậc quân vương, nhưng bất kỳ ai cũng có thể chơi.
+[51] Thế giới của nông dân không chỉ có lúa.
+[52] Geisha suối nước nóng
+[53] Thợ làm cung huyền thoại
+[54] Máy ảnh bản kính
+[55] Nhát cắt đầu tiên là sâu nhất.
+[56] "Nhưng ở Nhật Bản đâu có voi..."
+[57] "Chuyện dung tục, giật gân, và buồn cười. Nhưng nó nói lên sự thật về bọn gaijin."
+[58] Được chế tạo chính xác để đạt hiệu suất tối đa.
+[59] "Hòa bình" không có nghĩa là "không phòng bị".
+[60] Ninjato ngụy truyền
+[61] Shinobigatana ngụy truyền
+[62] Bom bột chớp sáng
+[63] "Chém một người thành từng mảnh đâu phải là nghệ thuật!"
+[64] Rượu whisky
+[65] Mỗi ninja đều có mánh riêng.
+[66] Ngựa giống luôn hữu ích.
+[67] Một cú đâm, sinh mệnh chấm dứt.
+[68] Mandokoro
+[69] Chông sắt Tetsu-Bishi
+[70] Chỉ một chiều dài mũi tên ngăn cách cung thủ và mục tiêu.
+[71] Con mắt tinh tường với gió và sóng có thể mang lại lợi nhuận.
+[72] Dịch bệnh gia súc
+[73] "Hãy thử món cá."
+[74] "Hơi nặng đô một chút, nhưng người đàn ông giỏi vẫn xử lý được."
+[75] Bậc thầy Okinawan Kobudo
+[76] Leon Roches
+[77] Quan lại Trung Hoa
+[78] Quản gia nội phủ
+[79] Kumicho
+[80] Trận đánh khiến người ta khát cháy cổ.
+[81] Gomuyumi
+[82] Luyện kiếm hiếm khi là vô ích.
+[83] "Buông ta ra, đồ khốn chỉ biết gặm gạo!"
+[84] Bát ăn xin
+[85] Có những thanh kiếm sẽ tìm đến bàn tay xứng đáng.
+[86] Cận vệ xuất sắc
+[87] Người khôn ngoan luôn cẩn trọng khi chạm vào vải.
+[88] Không dám thử khi ăn tối thì không thu được gì.
+[89] Có nhiều con đường lên thiên đường.
+[90] Quản gia người Anh
+[91] Đầu bếp Pháp
+[92] Quạt tay Kawahori
+[93] Samurai có thể cần vũ khí bất cứ lúc nào.
+[94] Gánh nặng cả đời làm lưng người cong xuống.
+[95] Sự thật bay trên đôi cánh nhanh.
+[96] Gấu Trắng đã tới!
+[97] Mệnh lệnh là mệnh lệnh.
+[98] Rời bỏ thế tục không phải là phớt lờ thế gian.
+[99] "Thật sao? Tất nhiên là thật!"

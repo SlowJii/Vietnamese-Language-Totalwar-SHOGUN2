@@ -1,0 +1,103 @@
+=== CHUNK 12/14 — ancillaries.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[1100] The sure-footed way is its own reward.
+[1101] "The bullet is substantial; the needle is within the workings."
+[1102] Listen to the music, not the player of the music.
+[1103] French Gunmaker's Agent
+[1104] Kokushi
+[1105] Maiko
+[1106] Even a bit of rough has uses, and hidden talents.
+[1107] "Say 'Ahhhh!'"
+[1108] Kew Gardens Botanist
+[1109] A man puts aside much to become a monk, but never honour.
+[1110] A sword acquires fame only in the hands of a worthy man.
+[1111] Skilled Gun Captain
+[1112] There is honour in serving well.
+[1113] Tradition and honour are everything.
+[1114] "A good reliable weapon, as you'd expect from Her Majesty's Government."
+[1115] Cold Snap
+[1116] Cruel as summer, glinting goads stab, draft oxen bellow, doom rumbles on.
+[1117] "I listen. I learn. I look after the master."
+[1118] Hangyoku
+[1119] "Fall upon the enemy with the flames of Enryakuji in your hearts!"
+[1120] "Once, I measured my life by the fall of blossoms…"
+[1121] "O! For a muse of fire…"
+[1122] A man who has turned against his own kind makes the best hunter when the time comes.
+[1123] Legendary Suneate
+[1124] Drinking Companion
+[1125] Huntsmen
+[1126] "All men gamble, with their lives, their loves and their loyalties. The trick is to profit by it."
+[1127] Meijin
+[1128] Wabi-suki
+[1129] Chanoyusha
+[1130] Kaiken
+[1131] Shogi Champion
+[1132] Unbalanced Spears
+[1133] Pet Cricket
+[1134] Joro
+[1135] Noodle Chef
+[1136] Austrian Pastry Chef
+[1137] Cunning and mastery wrought in stone.
+[1138] Shuriken
+[1139] Unlike men, cats are true to their own nature.
+[1140] Legendary Item: Masterwork Do-Maru Armour
+[1141] "Imagine! The bottom of the sea!"
+[1142] The noble steed demands a noble master.
+[1143] Only decent boots do more than duty and glory in making men march.
+[1144] "We are the force of the Black Turtle!"
+[1145] Honourable men bring honour to their master.
+[1146] A blade from distant Spain is exotic and deadly, and a mark of the gaijin King's favour.
+[1147] Slide Rule
+[1148] Kenjutsu Master
+[1149] Ninjutsu Master
+[1150] Kacchu-Mochi Armour-Bearer
+[1151] Springfield Model 1871
+[1152] Careful husbandry always improves the breed.
+[1153] Fountain Pen
+[1154] Gewehr Muzzle-loading Smoothbore
+[1155] European Horse Trader
+[1156] Shuriken
+[1157] Robert Bruce Van Valkenburg
+[1158] "Do not think of a strategy. Be a strategy."
+[1159] Apocryphal Ninjato
+[1160] Infantry Officer
+[1161] Legendary Tea Master
+[1162] "Hi-ho, Silver!"
+[1163] Meat Extract
+[1164] Yari Master
+[1165] "Just a little something I picked up on holiday…"
+[1166] From the hands of the master, a bow always shoots true.
+[1167] Surveyor's Theodolite
+[1168] Bakuto
+[1169] "His Most Catholic Majesty has no idea that I even exist, my lord."
+[1170] "I'll wager those hands have never strangled a porpentine in a tropical storm, arrrr!"
+[1171] Worn in battle by many great warriors, and sanctified by time, this is armour truly fit for a hero.
+[1172] Practice Grounds
+[1173] The perfect brush stroke is worth a lifetime's skill.
+[1174] "Certainly, sir…"
+[1175] Hiding a treacherous smile is sensible, not coy.
+[1176] Camp Sickness
+[1177] Haguma
+[1178] Relentless
+[1179] A man is weighed and found wanting; another goes free. This is law.
+[1180] Hunting Dog
+[1181] "Confucius has much to say on everything, my lord."
+[1182] In the right hands, everything is a weapon to fear.
+[1183] American Railroad Engineer
+[1184] A thousand days of archery practice is a good start.
+[1185] Zori Tori Sandal-Bearer
+[1186] Silk Top Hat
+[1187] Mad Old Man
+[1188] Water Carrier
+[1189] A garden soothes the soul.
+[1190] British Railway Engineer
+[1191] Mad Old Christian
+[1192] "Click-click-clickety-whirr-click."
+[1193] Fire. Water. Tea. A bowl. A sip. One perfect moment.
+[1194] Serious sword training is rarely wasted.
+[1195] Chastisement comes in many forms.
+[1196] Music quiets the troubled heart.
+[1197] "Mrs Peel, we're needed!"
+[1198] Legendary Item: Hideous Menpo Mask
+[1199] "One day, Japan will be modern."

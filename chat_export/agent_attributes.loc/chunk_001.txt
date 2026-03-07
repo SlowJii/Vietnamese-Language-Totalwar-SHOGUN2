@@ -1,0 +1,32 @@
+=== CHUNK 1/1 — agent_attributes.loc.tsv ===
+(Dịch 29 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[0] %+n to Research.
+[1] Siege engineering
+[2] movement_points_land_name
+[3] Command on Land
+[4] %+n to Duelling when duelling with pistols.
+[5] %+n %% to battlefield defence work points.
+[6] Religious Zeal
+[7] %+n to Cunning
+[8] Cunning
+[10] %+n to Duelling when duelling with swords.
+[11] Trade
+[12] Sword duelling
+[13] %+n %% to siege works points.
+[14] Subterfuge Skill
+[15] Command at Sea
+[16] Morale
+[17] %+n to army Morale.
+[18] %+n to Command in sea battles.
+[19] Morale
+[20] Management Skill
+[21] %+n to fleet Morale.
+[22] %+n to Management.
+[23] Research Skill
+[24] %+n to Command in land battles.
+[25] Pistol duelling
+[26] Land defence engineering
+[27] %+n to Zeal.
+[28] %+n %% to army movement allowance.
+[29] %+n to Subterfuge.

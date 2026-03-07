@@ -1,0 +1,83 @@
+=== CHUNK 16/17 — advice_levels.loc.tsv ===
+(Dịch 80 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[1200] Sieges
+[1201] Construction
+[1202] Merging Army Fragments
+[1203] Merging Fleets & Armies
+[1204] Withdraw When Outnumbered
+[1205] Outflanking with Cavalry
+[1206] Wavy Line Formation
+[1207] Skirmish Mode Button
+[1208] Bankrupt!
+[1209] Generals & Morale
+[1210] Outflanking
+[1211] Counter-charge
+[1212] Demand Join War
+[1213] Defending Hills
+[1214] Hiding at Sea
+[1215] Port Blockaded
+[1216] Chasing Skirmishers
+[1217] Manoeuvre Compass
+[1218] Entice the Enemy
+[1219] Diplomacy
+[1220] Conquer Honshu
+[1221] Wedge or Diamond Formation
+[1222] Building Details
+[1223] Reserves
+[1224] Trade Route Raided
+[1225] Attacking Hills
+[1226] Construction
+[1227] Recruitment in the Field
+[1228] Bayonets against Spears
+[1229] Agents - Monk
+[1230] Fog of War
+[1231] Bankrupt!
+[1232] Fighting to the Death
+[1233] Boarding Button
+[1234] Deployment Image
+[1235] Review Panel
+[1236] Decentralised Construction
+[1237] Castle Upgrade
+[1238] Halt Button
+[1239] Defending Hills
+[1240] Not Enough Cash!
+[1241] Offer/Demand Payment
+[1242] General Details
+[1243] Assassination
+[1244] Defending River Crossings
+[1245] Enemy Forming Up
+[1246] Run Button
+[1247] Take the Initiative
+[1248] Castle Upgrade
+[1249] Demand Embargo
+[1250] Rebellion Nearby!
+[1251] Agents
+[1252] Trade Posts
+[1253] Routing
+[1254] Recruitment
+[1255] Income & Expenditure
+[1256] Reinforcements
+[1257] Province Details
+[1258] Local Clans
+[1259] Embarkation
+[1260] Demand Break Alliance
+[1261] Mountain Passes
+[1262] Bankruptcy
+[1263] Fire-at-Will Button
+[1264] Local Clans
+[1265] Siege Defence
+[1266] Finance
+[1267] Treasury, Income & Food Supply
+[1268] Better Roads
+[1269] Battle Line Wavering
+[1270] Diplomacy
+[1271] Agents - Ninja
+[1272] Close the Gap
+[1273] Distract the Enemy
+[1274] Replenishment
+[1275] Province Control
+[1276] Poor Bombardment Target
+[1277] Military Alliance
+[1278] Skirmish Mode
+[1279] Morale

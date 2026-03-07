@@ -1,0 +1,103 @@
+=== CHUNK 9/14 — ancillaries.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[800] Short-Sighted Inspector
+[801] The porcelain cup and the tea master are one.
+[802] "More tea? Or better tea?"
+[803] Legendary Katana
+[804] Entertaining distractions are always welcome, perhaps more so when they disguise the assassin's blade.
+[805] Common Mistress
+[806] Battlefield Messenger
+[807] Arquebus
+[808] "French rubbish. Don't buy it."
+[809] Ox Carts
+[810] A townsman knows how to find back alleys and secret ways, missing nothing as he walks the streets.
+[811] An officer should know his enemy.
+[812] Horse and bow can be in harmony.
+[813] Even a bit of rough has uses, and hidden talents.
+[814] "Steady. Steady. Fire!"
+[815] Scroll of Inspirational verse
+[816] Enryaku-ji Marathon Monk
+[817] There can be mercy in a dish of tea.
+[818] Unwaxed Cartridges
+[819] The commoner with courage should be kept close; he may show his worth again.
+[820] "May I present…this country's first steam locomotive…the Iron Duke, no less!"
+[821] The world, brought closer.
+[822] "Shhhh! Walls have ears."
+[823] The cleansing stroke brings its own peace.
+[824] All the world, awaiting a conqueror!
+[825] "When you are without sin, come back with your stones!"
+[826] Minie Muzzle-loading Rifle 
+[827] Surgeon
+[828] Dragon Scale
+[829] Spoiled Rations
+[830] "Phew! I'll catch you up, men."
+[831] Clan Specialism Retainer: Imperial Training Network
+[832] Even a tiny thing can be perfect when it comes from the hands of a master.
+[833] The simple weapon is always the hardest to master.
+[834] "Be still, damn you! The leg is coming off!"
+[835] "White is black if the Church so orders it!"
+[836] British Merchant Banker
+[837] The calm heart does not beat like a drum.
+[838] The edge is where the moment is decided.
+[839] Opium Pipe
+[840] A good reliable weapon. As you'd expect from Her Majesty's Government.
+[841] Hanafuda Cards
+[842] "At once, mein herr!"
+[843] Grrrr!
+[844] Dull eye and drooping ear speak eloquently of the suffering within.
+[845] Golf Clubs
+[846] Joro
+[847] German Governess
+[848] "That is a courageous decision, my lord."
+[849] Seiryutai
+[850] A stud is always useful.
+[851] "I find they keep out the cold."
+[852] Sword of the Moon People
+[853] Pianoforte
+[854] Master Mason
+[855] Uma-I Horse Doctor
+[856] Stowe's "Uncle Tom's Cabin"
+[857] A banner, floating on the breeze, is a noble sight.
+[858] A man at your back forestalls many problems.
+[859] There is little wisdom in bringing pain to others, yet much in avoiding pain.
+[860] "Ignore all earthly beauty. It fades."
+[861] Practice Grounds
+[862] To cut to the heart of the matter in one stroke, that is the great thing.
+[863] From calm, all things grow.
+[864] "My patients, sir, survive or I will know the reason why!"
+[865] "It's not a pointed stick! It's a spear!"
+[866] One day, Japan will have its Crewe!
+[867] Without stores, an army soon becomes a hungry mob.
+[868] "The Green Fairy"
+[869] Industrialist
+[870] Legendary Item: Dragonfly Cutting Spear
+[871] Inexperienced Gunboat Crew
+[872] Miko
+[873] Ninjutsu Master
+[874] The God of Battles should show a hard face to the world.
+[875] Castle walls are more than stones piled one on another. There is an art to it.
+[876] Many problems can be solved with cold steel.
+[877] There is no puppeteer.
+[878] Niten Ichi-ryu Duellist
+[879] "You're nicked, my old beauty!"
+[880] "And what, my love, is wrong with thinking of yourself?"
+[881] Favourite Mount
+[882] Nothing in battle should be a surprise.
+[883] An honest faith armours an honest soul.
+[884] Legendary O-Yoroi
+[885] O-shaku
+[886] A horseman is only as good as his horse.
+[887] "I do not need to fight to know that your school is clearly inferior."
+[888] "You mind my leaves!"
+[889] Men, like horses, need a firm hand.
+[890] The pure heart beats louder than any war drum.
+[891] Groom
+[892] "You ain't seen me, right?"
+[893] Crack Frigate Crew
+[894] Doctor
+[895] "I never presume, my lord, but I do keep correct tally."
+[896] Fugu Chef
+[897] Go teaches the art of strategy, and this brilliant man is the embodiment of victory through cunning.
+[898] "Do not think of a strategy. Be a strategy."
+[899] Productive Rice Paddy

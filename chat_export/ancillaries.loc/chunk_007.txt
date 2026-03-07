@@ -1,0 +1,103 @@
+=== CHUNK 7/14 — ancillaries.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[600] The flag says: here stands a great warlord, the heir to great warlords! Strong as the storm! Fear his might!
+[601] placeholder text: wooden practice spears
+[602] Haiku Poet
+[603] Military Storehouse
+[604] Tea Cup
+[605] War is the school of warriors.
+[606] Ceremonial Drum
+[607] Ronin Disguise
+[608] The armour of a great hero, passed down the generations, is an honour to wear.
+[609] "Cleverness, a witty tongue and a modicum of lust in one rather attractive kimono."
+[610] "Remember who pays the rent."
+[611] Pale as the uncanny dead, and the distant Moon in winter.
+[612] "My love, you can do so much better..."
+[613] Some cards make their owners lucky.
+[614] Sir Harry Smith Parkes
+[615] Wisdom should be protected; protection is wisdom.
+[616] Legendary Wakizashi
+[617] No matter how small, the world has many surprises.
+[618] Muzzle-loading Carbine
+[619] Christian Mistress
+[620] "My lord need only say the word, and the fish will be well fed…"
+[621] Doctor
+[622] Globe
+[623] Discreet Mistress
+[624] Monk Disguise
+[625] Light Infantry Officer
+[626] A breastplate of the finest Spanish steel, worked by good Christians, can turn aside any blade or bullet.
+[627] "Courage! Set aside a family to find true kin."
+[628] Well-schooled Mounts
+[629] Snow Shoes
+[630] The calm heart does not beat like a drum.
+[631] The arrow is no less important than the bow.
+[632] Plain gaijin steel has honesty, and honesty is usually fashionable.
+[633] "We are the force of the White Tiger!"
+[634] Sword training is hardly ever wasted.
+[635] Music soothes the warlike spirit.
+[636] Entertaining distractions are always welcome, perhaps more so when they disguise the assassin's blade.
+[637] "Where we're going, we won't need eyes to see."
+[638] "Ooh! That's fancy, innit?"
+[639] Nothing is what it seems.
+[640] The faith of the people is the strength of the people.
+[641] Yari Master
+[642] Even a little ship well-handled can punch above its weight.
+[643] The bullet is substantial. The needle is within the workings.
+[644] The arts of flattery must be practiced, then may a client become comfortable.
+[645] Heart Sutra Scroll
+[646] Not everyone walks the path in honesty.
+[647] Shichiroji
+[648] Katayama Gorobei
+[649] Shimada Kambei
+[650] Kikuchiyo
+[651] Kyuzo
+[652] Okamoto Katsushiro
+[653] Hayashida Heihachi
+[654] Taiko Drum Master
+[655] "The squid! The squid! That's the best bit!"
+[656] Mauser Infanterie-Gewehr 71
+[657] Treasurer
+[658] To meet the sword's edge is the only true test of courage.
+[659] "No, I do not keep her for her wits!"
+[660] Accurate records are the bedrock of the Church's power.
+[661] Even heaven's secrets are not safe.
+[662] “I am trying not to use my sword!”
+[663] The French: no one stands in battle like a Frenchman.
+[664] Semaphore Flags
+[665] "More tea, vicar?"
+[666] Scratch Ironclad Crew
+[667] Fusil Modèle 1866
+[668] Rome is a long, long way away.
+[669] A sharp sword always helps the Word of God.
+[670] "The Father needs protection."
+[671] "Ah! Those. Give me a day. I'll find some…"
+[672] Ceremonial Flute
+[673] There is solace, even for the warrior.
+[674] Snuff Box
+[675] British Naval Engineer
+[676] Accuracy comes at a price.
+[677] A practical weapon for a practical man.
+[678] Zori Tori Sandal-Bearer
+[679] Koi Carp
+[680] Koi Carp
+[681] "The people, even the humblest of peasants, should not be denied because they are humble!"
+[682] Only the foolish would contemplate drawing the sword of the Moon. Only the greatest would stand against it.
+[683] Plinky-plinky-plonk.
+[684] To take a stone, and reshape it, and keep the spirits of the place at peace, is to be a master of your craft.
+[685] The sword is the spirit of the samurai.
+[686] Beads
+[687] Jordan River Water
+[688] "Behold, thou art fair, my love…"
+[689] A horseman is only as good as his horse.
+[690] Geisha Disguise
+[691] Armoured War Dog
+[692] Without a good seat, a horseman is useless.
+[693] "I will give these sons of Nihon a taste of their own medicine."
+[694] "Paine-san: a gaijin with dangerous, alien... ideas…"
+[695] A man makes his own fate, sometimes.
+[696] Foreigner Disguise
+[697] Artillery Officer's Handbook
+[698] Life's beauty is transitory, and always reborn.
+[699] Legendary Naginata

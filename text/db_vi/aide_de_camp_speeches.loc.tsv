@@ -1,0 +1,58 @@
+key	text	tooltip
+#Loc;1;text/db/aide_de_camp_speeches.loc		
+aide_de_camp_speeches_text_adc_enemy_gates_captured	Cổng thành đã bị ta đoạt lấy, thưa chủ công!	true
+aide_de_camp_speeches_text_adc_enemy_walls_breached	Tường thành đã bị phá thủng! Toàn quân xông lên qua lỗ thủng!	true
+aide_de_camp_speeches_text_adc_enemy_reinforcements	Bẩm chủ công! Quân tiếp viện của địch đã kéo đến!	true
+aide_de_camp_speeches_text_adc_own_tower_lost	Quân địch đã chiếm giữ tháp canh!	true
+aide_de_camp_speeches_text_adc_own_unit_lost	Bẩm chủ công! Một đơn vị của ta đã toàn quân tử trận!	true
+aide_de_camp_speeches_text_adc_own_ship_lost	Chiến thuyền của ta đã bị đánh chìm! Không một ai sống sót!	true
+aide_de_camp_speeches_text_adc_enemy_has_gatling_guns	Bẩm chủ công! Trong quân địch có vũ khí Gatling cực kỳ hung hiểm!	true
+aide_de_camp_speeches_text_adc_own_tower_destroyed	Tháp của ta đã bị hỏa lực địch phá sập!	true
+aide_de_camp_speeches_text_adc_own_allied_hidden_unit_spotted	Quân địch đã phát giác phục binh của đồng minh ta!	true
+aide_de_camp_speeches_text_adc_own_fort_about_to_be_captured	Bẩm chủ công! Vị trí này e rằng khó lòng giữ vững lâu thêm!	true
+aide_de_camp_speeches_text_adc_own_ship_boom	Chiến thuyền của ta đã nổ tung!	true
+aide_de_camp_speeches_text_adc_enemy_tower_captured	Thưa chủ công! Tháp canh của địch đã rơi vào tay ta!	true
+aide_de_camp_speeches_text_adc_own_gates_lost	Cổng thành của ta đã bị quân địch phá vỡ!	true
+aide_de_camp_speeches_text_adc_own_general_attacked	Bẩm chủ công! Tướng quân của ta đang lâm nguy!	true
+aide_de_camp_speeches_text_adc_torpedo_near	Cẩn trọng! Phóng lôi đang lao thẳng về phía hạm đội ta!	true
+aide_de_camp_speeches_text_adc_enemy_allied_general_killed	Bẩm chủ công! Quân địch đã mất một đồng minh trọng yếu!	true
+aide_de_camp_speeches_text_adc_enemy_fort_getting_captured	Tiến lên! Toàn quân tiến nữa! Pháo đài của chúng sắp sụp đổ!	true
+aide_de_camp_speeches_text_adc_own_admiral_attacked	Bẩm chủ công! Tướng quân của ta đang bị uy hiếp! Không thể để ngài thất thủ!	true
+aide_de_camp_speeches_text_adc_enemy_general_killed	Bẩm chủ công! Tướng địch đã ngã xuống! Một đòn chí mạng!	true
+aide_de_camp_speeches_text_adc_own_ship_surrendered	Bẩm chủ công… một chiến thuyền của ta đã làm điều ô nhục!	true
+aide_de_camp_speeches_text_adc_own_naval_bombardment	Bẩm ngài! Quân địch đã gọi pháo kích! Vị trí của ta có thể trở thành mục tiêu!	true
+aide_de_camp_speeches_text_adc_own_unit_out_of_ammo	Bẩm chủ công! Một đơn vị của ta đã bắn cạn đạn dược!	true
+aide_de_camp_speeches_text_adc_enemy_tower_destroyed	Hỏa lực của ta đã phá tan tháp canh của chúng!	true
+aide_de_camp_speeches_text_adc_enemy_admiral_killed	Tướng địch đã ngã xuống! Một đòn giáng nặng nề vào quân thù!	true
+aide_de_camp_speeches_text_adc_losing	Bẩm chủ công… vận trận đang nghiêng ngả! Trận chiến sắp phân định thắng bại!	true
+aide_de_camp_speeches_text_adc_weather_rain	Trời đất u ám, thưa chủ công! Phải đề phòng súng tịt ngòi!	true
+aide_de_camp_speeches_text_adc_own_general_injured	Bẩm chủ công! Tướng quân của ta đã bị thương! Ngài vẫn sống nhưng buộc phải rời chiến địa!	true
+aide_de_camp_speeches_text_adc_allied_general_killed	Bẩm chủ công! Đồng minh của ta đã bị đánh bại! Một tổn thất nặng nề!	true
+aide_de_camp_speeches_text_adc_own_unit_suppressed	Một đơn vị của ta đang bị hỏa lực địch áp chế!	true
+aide_de_camp_speeches_text_adc_enemy_ally_destroyed	Đồng minh của chúng đã bỏ rơi chúng! Thời cơ của ta đã tới!	true
+aide_de_camp_speeches_text_adc_enemy_captured_strategic_point	Quân địch đã chiếm giữ vị trí trọng yếu!	true
+aide_de_camp_speeches_text_adc_own_ship_being_boarded	Chúng tới rồi! Chuẩn bị đánh bật quân đổ bộ!	true
+aide_de_camp_speeches_text_adc_allied_fleet_destroyed	Hừ! Đồng minh “đáng kính” của ta đã quay lưng tháo chạy, bỏ mặc ta giữa vòng vây quân thù!	true
+aide_de_camp_speeches_text_adc_own_ship_within_coastal_battery	Cẩn trọng! Chiến thuyền của ta đã lọt vào tầm pháo bờ biển!	true
+aide_de_camp_speeches_text_adc_enemy_hidden_unit_spotted	Phục binh! Bẩm chủ công, quân địch đang toan phục kích!	true
+aide_de_camp_speeches_text_adc_building_captured	Bẩm chủ công! Chúng ta đã chiếm được một công trình!	true
+aide_de_camp_speeches_text_adc_own_ship_routed	Một chiến thuyền của ta đang rút khỏi trận!	true
+aide_de_camp_speeches_text_adc_own_hidden_unit_spotted	Bẩm chủ công! Phục binh của ta đã bị lộ!	true
+aide_de_camp_speeches_text_adc_own_unit_routed	Binh sĩ của ta đang tháo chạy khỏi chiến địa — thật nhục nhã!	true
+aide_de_camp_speeches_text_adc_own_unit_exhausted	Quân lính đã kiệt sức, thưa chủ công! Cần cho họ nghỉ ngơi!	true
+aide_de_camp_speeches_text_adc_winning	Bẩm chủ công! Vinh quang chiến thắng sắp thuộc về ngài!	true
+aide_de_camp_speeches_text_adc_own_ally_destroyed	Bẩm chủ công! Đồng minh của ta đã bỏ chạy, để mặc ta đối đầu quân địch!	true
+aide_de_camp_speeches_text_adc_own_ally_attacked	Đồng minh của ta đang bị tấn công!	true
+aide_de_camp_speeches_text_adc_player_is_attacker	Xin nhắc chủ công: trận chiến này do ta khởi phát.	true
+aide_de_camp_speeches_text_adc_own_general_killed	Một ngày đen tối! Tướng quân của ta đã ngã xuống!	true
+aide_de_camp_speeches_text_adc_own_admiral_killed	Tướng quân của ta đã trận vong! Quân sĩ đang dao động trước biến cố này!	true
+aide_de_camp_speeches_text_adc_own_unit_line_of_sight_obstructed	Không thấy rõ mục tiêu… nhưng vẫn sẽ khai hỏa!	true
+aide_de_camp_speeches_text_adc_own_walls_breached	Tường thành của ta đang vỡ vụn dưới hỏa lực hung bạo của địch!	true
+aide_de_camp_speeches_text_adc_own_reinforcements	Quân tiếp viện đã tới!	true
+aide_de_camp_speeches_text_adc_own_ship_demasted	Một chiến thuyền của ta đã mất buồm! Trong tình trạng này khó lòng trụ vững lâu!	true
+aide_de_camp_speeches_text_adc_enemy_fort_about_to_be_captured	Pháo đài của địch chỉ còn ít khắc nữa sẽ rơi vào tay ta!	true
+aide_de_camp_speeches_text_adc_player_is_defender	Xin nhắc chủ công: ta đang ở thế phòng thủ.	true
+aide_de_camp_speeches_text_adc_enemy_naval_bombardment	Pháo kích từ hải quân đang giáng xuống!	true
+aide_de_camp_speeches_text_adc_own_fort_getting_captured	Bẩm chủ công! Phòng tuyến của ta đã bị chọc thủng và đang sụp đổ!	true
+aide_de_camp_speeches_text_adc_own_ship_on_fire	Cháy rồi! Một chiến thuyền của ta đã bốc cháy!	true
+aide_de_camp_speeches_text_adc_enemy_captured_building	Bẩm chủ công! Quân địch đã chiếm được một công trình!	true

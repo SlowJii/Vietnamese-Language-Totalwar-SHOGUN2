@@ -1,2 +1,80 @@
-# Dán response từ Gemini chat vào đây (xóa dòng này)
-# File: achievements.loc.tsv — Chunk 2/3
+[80] Nhật Bản chia rẽ
+[81] Đô đốc hiếu chiến
+[82] Khi chơi Satsuma, xây dựng khu thương mại và giao thương với một cường quốc nước ngoài trong cùng chiến dịch.
+[83] Cánh cổng sang phương Tây
+[84] Đòn đánh nặng nề
+[85] Giữ vững phòng tuyến
+[86] Chiếm toàn bộ các Tỉnh trên bản đồ chiến dịch Hóa thân.
+[87] Một trăm bao gạo
+[88] Thống trị chiến trường
+[89] Chiến binh anh dũng
+[90] Thắng một trận nhiều người chơi mà quân đội không có đơn vị giáo.
+[91] Đánh bại một nhân viên Creative Assembly trong trận chiến hoặc bất kỳ ai đã có thành tựu này.
+[92] Chiếm 15 Tỉnh trên bản đồ chiến dịch Hóa thân.
+[93] Tiêu diệt Ikko-Ikki
+[94] Thu thập 10.000 thủ cấp binh lính địch.
+[95] Mười hoàn hảo
+[96] Kẻ kích động
+[97] Hoàn thành chiến dịch với Gia tộc Uesugi.
+[98] Gia nhập một Gia tộc nhiều người chơi trong Shogun 2.
+[99] Hoàn thành chiến dịch ở độ khó thường.
+[100] Kẻ công phá thành trì
+[101] Hoàn thành chiến dịch với Gia tộc Oda.
+[102] Gia tộc của bạn giữ đồng thời 5 Tỉnh trên bản đồ chiến dịch Gia tộc nhiều người chơi.
+[103] Thắng một chiến dịch đối đầu nhiều người chơi dù đã cho đối thủ 10.000 Thạch gạo (Koku).
+[104] Có được đặc vụ cấp tối đa của mỗi loại.
+[105] Thắng một trận vây hãm phòng thủ với Onna Bushi làm Tướng quân.
+[106] Taisho dày dạn
+[107] Chỉ có thể có một
+[108] Con đường của người lãnh đạo
+[109] Những đại đô thị rực rỡ
+[110] Mở đường tiến quân
+[111] Phản công truyền cảm hứng
+[112] Xóa sổ Ikko-Ikki trong chiến dịch.
+[113] Hoàn thành Trận Hakodate mà không có đơn vị Hoàng gia nào bỏ chạy.
+[114] Danh dự truyền đời
+[115] Thắng 200 trận nhiều người chơi bất kỳ.
+[116] Sống vì chiến trận
+[117] Hoàn thành chiến dịch ở độ khó dễ.
+[118] Chủ nhân của Shikoku
+[119] Trở thành Gia tộc đầu tiên trong chiến dịch làm chủ nghệ thuật kiến trúc vĩ đại.
+[120] Hỏa ngục cao ngất
+[121] Cuộc chiến gian nan
+[122] Chiến binh lão luyện
+[123] Thắng 25 trận đánh trên bộ.
+[124] Thực hiện oanh kích bằng thiết giáp hạm Pháp trong hạm đội của bạn.
+[125] Một triều đại dưới Thượng Đế
+[126] Kẻ mang đến cái chết
+[127] Móng vuốt của hổ
+[128] Lực lượng không cần thiết
+[129] Bao trùm trong biển lửa
+[130] Thắng một trận nhiều người chơi với tổn thất dưới 15% quân ban đầu.
+[131] L'Ocean là của ta!
+[132] Dùng hết số điểm tối đa trong cây kỹ năng của Hóa thân.
+[133] Đạt vinh dự tối thượng và đứng hạng 1 trên bảng xếp hạng Shogun Ladder nhiều người chơi.
+[134] Tối đa hóa một cây kỹ năng Hóa thân Fall of the Samurai.
+[135] Lực lượng huyền thoại
+[136] Thiên mệnh
+[137] Đứa con của mùa hạ
+[138] Kẻ tấn công cân bằng
+[139] Sức mạnh quân sự
+[140] Tiêu diệt Hattori
+[141] Thắng một chiến dịch đối đầu nhiều người chơi.
+[142] Có được một Tướng quân cấp tối đa trong chiến dịch.
+[143] Tuyên bố độc lập và hoàn thành chiến dịch.
+[144] Hoàn thành chiến dịch ở độ khó huyền thoại khi chơi Aizu, Jozai hoặc Nagaoka.
+[145] Cơn bão đang tụ
+[146] Đạt 100 danh tiếng trong 50 lượt.
+[147] Chỉ huy của dân thường
+[148] Đánh chìm một Nanban Trade Ship hoặc soái hạm Nihon Maru trong hải chiến.
+[149] Tặng cho đồng minh hợp tác của bạn một đạo quân hoặc hạm đội.
+[150] Hoàn thành chiến dịch với Gia tộc Mori.
+[151] Đặc vụ của lưỡi dao ẩn
+[152] Kẻ theo đuổi chiến thắng bền bỉ
+[153] Anh hùng của Mạc phủ
+[154] Tôi luyện trong ngọn lửa nóng nhất
+[155] Trở thành Gia tộc đầu tiên trong chiến dịch làm chủ nghệ thuật Shih.
+[156] Xóa sổ Gia tộc Hattori trong chiến dịch.
+[157] Hỏa khí tiên tiến
+[158] Lực lượng tấn công khó nắm bắt
+[159] Tự mình kiếm được 20 Thẻ tộc

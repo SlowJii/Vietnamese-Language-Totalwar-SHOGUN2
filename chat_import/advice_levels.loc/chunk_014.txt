@@ -1,0 +1,56 @@
+[1300] Thiếu lương thực
+[1301] Đánh đuổi quân nhẹ
+[1302] Kỵ binh chống đánh vòng sườn
+[1303] Kỵ binh phòng thủ
+[1304] Phản bội đồng minh
+[1305] Nút sửa chữa
+[1306] Thu hút hỏa lực của chúng
+[1307] Phạm vi di chuyển của địch
+[1308] Phản bội đồng minh
+[1309] Cọc gỗ phòng thủ
+[1310] Điều khiển camera
+[1311] Chi tiết đặc vụ
+[1312] Tìm điểm yếu
+[1313] Nông trại & lương thực
+[1314] Chiến thuật kỵ binh nhẹ
+[1315] Di chuyển hạm đội
+[1316] Bất ổn & trật tự công cộng
+[1317] Giả vờ tháo chạy
+[1318] Tấn công điểm vượt sông
+[1319] Shogun
+[1320] Hạnh phúc
+[1321] Bao vây kẻ địch
+[1322] Dừng di chuyển
+[1323] Đổ bộ đường biển
+[1324] Nông trại & nông nghiệp
+[1325] Xung phong kỵ binh
+[1326] Kỵ binh chống lưỡi lê
+[1327] Cảng
+[1328] Chu kỳ kỵ binh
+[1329] Chiến đấu đến chết
+[1330] Đặc vụ – Ninja
+[1331] Nông trại & lương thực
+[1332] Liên minh
+[1333] Nghiên cứu đội hình của chúng
+[1334] Điều khiển camera
+[1335] Phục kích
+[1336] Nghệ thuật
+[1337] Di chuyển – nhiều lượt
+[1338] Xây dựng
+[1339] Kỵ binh bắn tên
+[1340] Nâng cấp lâu đài
+[1341] Liên minh
+[1342] Chi tiết đơn vị
+[1343] Bổ nhiệm tướng
+[1344] Quân đội
+[1345] Hiệp định thương mại
+[1346] Quản lý tự động
+[1347] Phòng thủ chống kỵ binh
+[1348] Chiến tranh
+[1349] Mùa & ngày tháng
+[1350] Tài chính
+[1351] Kết quả trận chiến
+[1352] Đánh vòng sườn bằng kỵ binh
+[1353] Chọc giận kẻ địch
+[1354] Đồng hồ trận chiến
+[1355] Công thành

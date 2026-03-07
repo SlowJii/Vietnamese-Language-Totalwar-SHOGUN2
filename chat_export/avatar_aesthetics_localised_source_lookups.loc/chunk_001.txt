@@ -1,0 +1,78 @@
+[0] Complete Achievement: United in Conquest
+[1] Complete Achievement: The Army on the March
+[2] Complete Achievement: Advanced Firearms
+[3] Complete Achievement: Man the Defences
+[4] Complete Achievement: Eradicate the Iga
+[5] Complete Achievement: A Respectable Rule
+[6] Complete Achievement: Headhunter
+[7] Complete Achievement: Uniter of Japan
+[8] Complete Achievement: The Dragon of Japan
+[9] Complete Achievement: Achievement Without Honour
+[10] Complete Achievement: Claw of the Tiger
+[11] Complete Achievement: Inspiring Counterattack
+[12] Complete Achievement: Swift and Deadly
+[13] Complete Achievement: Experienced Taisho
+[14] Complete Achievement: Tokugawa Victory
+[15] Your clan must achieve promotion to a new clan competition tier to unlock this item.
+[16] Random Post-Battle Drop
+[17] Complete Achievement: Fearsome Commander of Men
+[18] Complete Achievement: Balanced Attacker
+[19] Complete Achievement: Chosokabe Victory
+[20] Complete Achievement: Loyal to the Clan
+[21] Complete Achievement: Holder of Shikoku
+[22] Complete Achievement: Spreading Like Wildfire
+[23] Complete Achievement: Against All Odds
+[24] Complete Achievement: Fear No Horseman
+[25] Complete Achievement: Legendary Force
+[26] Complete Achievement: Zen-like Dedication
+[27] Complete Achievement: Serve with Honour
+[28] Complete Achievement: Living for Battle
+[29] Complete Achievement: The Gathering Storm
+[30] Complete Achievement: Legendary Sohei
+[31] Complete Achievement: Heroic Warriors
+[32] Complete Achievement: Dishonoured Foe
+[33] Complete Achievement: Swathed in Fire
+[34] Complete Achievement: One Rule Under God
+[35] Complete Achievement: Shimazu Victory
+[36] Complete Achievement: Glittering Grand Cities
+[37] Purchase the Ikko-Ikki DLC
+[38] Complete Achievement: Eradicate the Ikko-Ikki
+[39] Complete Achievement: Unnecessary Force
+[40] Complete Achievement: Path of the Leader
+[41] Complete Achievement: Holder of Kyushu
+[42] Complete Achievement: Bringer of Death
+[43] placeholder
+[44] Complete Achievement: Master Interrogator
+[45] Complete Achievement: Agent of the Stealthy Blade
+[46] Complete Achievement: Divine Right
+[47] Complete Achievement: Belligerent Admiral
+[48] Complete Achievement: Military Might
+[49] Complete Achievement: Elusive Strikeforce
+[50] Complete Achievement: Stubborn Pursuer of Victory
+[51] Complete Achievement: Commander of Commoners
+[52] Complete Achievement: Master of the Waves
+[53] Complete Achievement: Battlefield Dominance
+[54] Complete Achievement: Oda Victory
+[55] Complete Achievement: Berserk Charge
+[56] Complete Achievement: Soaring Fame
+[57] Complete Achievement: Famed Shogun
+[58] Complete Achievement: Mori Victory
+[59] Complete Achievement: Japan Torn Assunder
+[60] Complete Achievement: Date Victory
+[61] Complete Achievement: Takeda Victory
+[62] Complete Achievement: Forged in the Hottest Flame
+[63] Complete Achievement: Uesugi Victory
+[64] Complete Achievement: Carve a Path
+[65] Complete Achievement: Exceptional Warriors
+[66] Your clan must win tier 1 of the clan competition to unlock this item.
+[67] Complete Achievement: There Can Be Only One
+[68] Complete Achievement: Servant of God
+[69] Armour Set
+[70] Complete Achievement: Onna-Bugeisha
+[71] Your clan must achieve promotion to tier 1 of the clan competition to unlock this item.
+[72] Avatar Campaign Map Region
+[73] Complete Achievement: Stranglehold
+[74] Complete Achievement: Hojo Victory
+[75] Complete Achievement: Castle-Stormer
+[76] Starting Equipment
+[77] Complete Achievement: Trade Route Monopoly

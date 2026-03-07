@@ -1,0 +1,100 @@
+[800] Thương mại nước ngoài
+[801] Chế độ Avatar Conquest
+[802] Bảo toàn quân quấy rối
+[803] Chế độ Avatar Conquest
+[804] Chuỗi công trình
+[805] Sửa chữa công trình bị hư hại
+[806] Làm chủ các nghệ thuật
+[807] Điều kiện thời tiết khắc nghiệt
+[808] Công trình huyền thoại
+[809] Đe dọa
+[810] Mất một vị tướng
+[811] Chế độ Avatar Conquest
+[812] Nguồn lương thực
+[813] Đánh lạc hướng
+[814] Chế độ Avatar Conquest
+[815] Di chuyển nhiều lượt
+[816] Trận chiến nhiều người chơi
+[817] Lòng trung thành
+[818] Ghép trận chiến
+[819] Chế độ Avatar Conquest
+[820] Sự giàu có của tỉnh & phát triển thị trấn
+[821] Mạng lưới gián điệp
+[822] Nhiều đạo quân
+[823] Chế độ Avatar Conquest
+[824] Bạo loạn
+[825] Nhiệm vụ
+[826] Chúng ta là Ikko Ikki
+[827] Chế độ Avatar Conquest
+[828] Quá dàn trải lực lượng
+[829] Đàn áp
+[830] Gia tộc chư hầu
+[831] Chúng ta là Oda
+[832] Phá hoại quân đội
+[833] Điều kiện chiến thắng & nhiệm vụ
+[834] Đánh vòng sườn
+[835] Nổi dậy
+[836] Chế độ Avatar Conquest
+[837] Trận chiến nhiều người chơi
+[838] Mục tiêu ném bom tốt
+[839] Chúng ta là Shimazu
+[840] Tổn thất do tiêu hao
+[841] Trận chiến nhiều người chơi
+[842] Phòng thủ thị trấn lâu đài
+[843] Tuyển mộ đặc vụ
+[844] Cải đạo tôn giáo
+[845] Truyền cảm hứng
+[846] Chế độ Avatar Conquest
+[847] Kho bạc & thu nhập
+[848] Trận chiến nhiều người chơi
+[849] Tỉnh không có quân đồn trú
+[850] Địa hình & di chuyển
+[851] Con đường của cung thuật
+[852] Kỹ năng
+[853] Khu định cư & cảng
+[854] Chế độ Avatar Conquest
+[855] Chúng ta là Oda
+[856] Chúng ta là Shimazu
+[857] Giải trí
+[858] Chế độ Avatar Conquest
+[859] Hải chiến
+[860] Thị trấn lâu đài không có quân đồn trú
+[861] Cưỡng ép binh lính
+[862] Mất tiền
+[863] Hỗ trợ tinh thần
+[864] Đặc vụ – Metsuke
+[865] Ninja
+[866] Chúng ta là Uesugi
+[867] Bản đồ chinh phục
+[868] Giám sát tuyển quân & huấn luyện binh lính
+[869] Trận chiến
+[870] Gia huy của bạn & vị trí khởi đầu
+[871] Aizu
+[872] Chế độ Avatar Conquest
+[873] Nút quay lại của cố vấn
+[874] Cảng
+[875] Tuyển mộ đặc vụ
+[876] Trận chiến nhiều người chơi
+[877] Đặc tính nhân vật
+[878] Danh tiếng & danh dự
+[879] Cây kỹ năng nhân vật
+[880] Bách khoa toàn thư
+[881] Trận chiến nhiều người chơi
+[882] Giữ chân chúng bận rộn
+[883] Đặc vụ – Ninja
+[884] Đặc sản tỉnh
+[885] Quấy rối
+[886] Chế độ Avatar Conquest
+[887] Avatar của bạn
+[888] Chế độ Avatar Conquest
+[889] Xây dựng phân tán
+[890] Thanh đo hành động áp sát tàu
+[891] Sự giàu có của tỉnh đang giảm
+[892] Tài chính
+[893] Chúng ta là Uesugi
+[894] Ám sát
+[895] Phá hoại
+[896] Tosa
+[897] Chế độ Avatar Conquest
+[898] Tụt lại phía sau
+[899] Cố thủ

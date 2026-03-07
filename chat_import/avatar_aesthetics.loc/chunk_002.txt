@@ -1,0 +1,100 @@
+[100] Đồng phục Samurai cuối kỳ 3: Jingasa sĩ quan
+[101] Đồng phục Samurai cuối kỳ 1: Băng đô
+[102] Huy hiệu Lưỡi liềm
+[103] Giáp vai Sode của Toyotomi Hideyoshi
+[104] Mũ Kabuto: Vảy cá vàng
+[105] Suneate bảo vệ ống chân: Vảy cá vàng
+[106] Đồng phục hiện đại 4: Áo tunic đơn giản
+[107] Đồng phục hiện đại 1: Áo tunic kiểu Pháp
+[108] Đồng phục hiện đại 3: Áo tunic ngắn hiện đại
+[109] Đồng phục hiện đại 2: Áo tunic dài hiện đại
+[110] Giáp vai Sode: Dây buộc điểm thưa
+[111] Mũ Kabuto của Naoe Kanetsugu
+[112] Haidate bảo vệ đùi: Vảy bạc
+[113] Haidate bảo vệ đùi: Vảy vàng
+[114] Đồng phục Pháp: Áo tunic lính thủy đánh bộ Pháp
+[115] Tay giáp Kote của Date Masamune
+[116] Huy hiệu Datemono của Date Masamune
+[117] Mũ trùm Ikko-Ikki
+[118] Mặt nạ Men Yoroi: Vảy vàng
+[119] Mặt nạ Men Yoroi: Vảy bạc
+[120] Giáp ngực Do: Kawari Kabuto
+[121] Huy hiệu Hình tròn
+[122] Tay giáp Kote của Kato Kiyomasa
+[123] Đầu quý tộc 2
+[124] Đầu quý tộc 1
+[125] Đầu người già
+[126] Đầu quý tộc 6
+[127] Đầu quý tộc 5
+[128] Đầu quý tộc 4
+[129] Đầu quý tộc 3
+[130] Đầu quý tộc 8
+[131] Đầu quý tộc 7
+[132] Giáp ngực Do của Date Masamune
+[133] Mũ Kabuto: Vảy
+[134] Đồng phục sĩ quan 2: Quần sĩ quan kỵ binh
+[135] Đồng phục sĩ quan 1: Quần sĩ quan
+[136] Đồng phục sĩ quan 2: Áo khoác sĩ quan sang trọng
+[137] Đồng phục sĩ quan 1: Áo khoác sĩ quan
+[138] Giáp vai Sode Gempei 1
+[139] Giáp vai Sode Gempei 2
+[140] Giáp vai Sode Gempei 3
+[141] Mũ Kabuto: Vảy vàng
+[142] Mũ Kabuto: Vảy bạc
+[143] Mặt nạ Hanbo Men Yoroi 1
+[144] Mặt nạ Hanbo Men Yoroi 2
+[145] Huy hiệu nhỏ
+[146] Ngựa nâu
+[147] Đầu quý tộc 9
+[148] Mũ Kabuto của Kato Kiyomasa
+[149] Tay giáp Kote: Vảy cá vàng
+[150] Sashimono của Toyotomi Hideyoshi
+[151] Mũ Kabuto của Honda Tadakatsu
+[152] Huy hiệu thành tựu: Thành tựu không danh dự
+[153] Ngựa nâu đeo mặt nạ
+[154] Mặt nạ Men Yoroi của Kato Kiyomasa
+[155] Huy hiệu tiêu chuẩn
+[156] Suneate Gempei 3
+[157] Suneate Gempei 2
+[158] Suneate Gempei 1
+[159] Tay giáp Kote Gempei 2
+[160] Tay giáp Kote Gempei 3
+[161] Tay giáp Kote Gempei 1
+[162] Huy hiệu Datemono: Dây buộc điểm thưa
+[163] Ngựa nâu đỏ
+[164] Ngựa vàng nhạt
+[165] Giáp ngực Do của Toyotomi Hideyoshi
+[166] Áo choàng Ikko-Ikki
+[167] Sashimono: Vảy vàng
+[168] Giáp ngực Do của Akechi Mitsuharu
+[169] Haidate Gempei 1
+[170] Haidate Gempei 2
+[171] Huy hiệu Datemono: Ba lá thục quỳ
+[172] Haidate bảo vệ đùi của Toyotomi Hideyoshi
+[173] Đồng phục Pháp: Mũ sĩ quan lính thủy đánh bộ Pháp
+[174] Mặt nạ Men Yoroi của Toyotomi Hideyoshi
+[175] Đồng phục hiện đại 4: Tóc giả lớn
+[176] Đồng phục hiện đại 1: Mũ Quân đoàn Lê dương Pháp
+[177] Đồng phục hiện đại 2: Mũ hiện đại
+[178] Đồng phục hiện đại 3: Jingasa hiện đại
+[179] Giáp vai Sode: Vảy cá vàng
+[180] Mũ Kabuto: Dây buộc điểm thưa
+[181] Huy hiệu tiêu chuẩn
+[182] Suneate của Toyotomi Hideyoshi
+[183] Mũ Kabuto của Toyotomi Hideyoshi
+[184] Huy hiệu Gempei 2
+[185] Huy hiệu Gempei 3
+[186] Huy hiệu Gempei 1
+[187] Giáp ngực Gempei 1
+[188] Giáp ngực Gempei 2
+[189] Giáp ngực Gempei 3
+[190] Tay giáp Oda-gote
+[191] Giáp vai Sode của Kato Kiyomasa
+[192] Mặt nạ Men Yoroi: Dây buộc điểm thưa
+[193] Đồng phục Mỹ 1: Quần sĩ quan Thủy quân Lục chiến Mỹ
+[194] Đồng phục Mỹ 2: Quần Thủy quân Lục chiến Mỹ
+[195] Huy hiệu thành tựu: Bóp nghẹt
+[196] Giáp vai Sode của Date Masamune
+[197] Huy hiệu tiêu chuẩn
+[198] Huy hiệu tiêu chuẩn
+[199] Huy hiệu Datemono của Honda Tadakatsu

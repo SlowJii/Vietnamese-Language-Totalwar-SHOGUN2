@@ -1,0 +1,614 @@
+{
+  "filename": "avatar_aesthetic_sets.loc.tsv",
+  "category": "ui",
+  "header_lines": [
+    "key\ttext\ttooltip",
+    "#Loc;1;text/db/avatar_aesthetic_sets.loc\t\t"
+  ],
+  "rows": [
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_scale_cuirass",
+      "text": "Armour Set: Scale Cuirass",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_blade_master",
+      "text": "Armour Set: Blade Master",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_tier_1_promotion",
+      "text": "Crest: Tier 1 Clan Promotion",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_won_clanmap_region",
+      "text": "Achievement Crest: Win a Clanmap Region",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_1_drop_in_battle",
+      "text": "Achievement Crest: Fight 1 Drop-In Battle",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_won_clanmap_season",
+      "text": "Achievement Crest: Clan Season Victory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_oda_nobunaga",
+      "text": "Armour Set: Oda Nobunaga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_kato_kiyomasa",
+      "text": "Armour Set: Kato Kiyomasa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_boshin_shinsengumi_2",
+      "text": "Shinsengumi Uniform 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_boshin_shinsengumi_1",
+      "text": "Shinsengumi Uniform 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_joined_clan",
+      "text": "Achievement Crest: Join a Clan",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_toyotomi_hideyoshi",
+      "text": "Armour Set: Toyotomi Hideyoshi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_maeda_toshie",
+      "text": "Armour Set: Maeda Toshie",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_date_masamune",
+      "text": "Armour Set: Date Masamune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_kawari_kabuto",
+      "text": "Armour Set: Kawari Kabuto",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_sparse_point_laced",
+      "text": "Armour Set: Sparse Point Laced",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_boshin_late_samurai_3",
+      "text": "Late Samurai Uniform 3",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_boshin_late_samurai_2",
+      "text": "Late Samurai Uniform 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_catfish_tail",
+      "text": "Armour Set: Catfish Tail",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_clan_comp_winner",
+      "text": "Armour Item: Clan Champions",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_itakura_katsushige",
+      "text": "Armour Set: Itakura Katsushige",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_1_naval_battle",
+      "text": "Achievement Crest: Fight 1 Naval Battle",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_ichinotani",
+      "text": "Armour Set: Ichinotani",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_morning_glory",
+      "text": "Armour Set: Morning Glory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_western_style",
+      "text": "Armour Set: Western Style",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_silver_scale_cuirass",
+      "text": "Armour Set: Silver Scale Cuirass",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_golden_scale_cuirass",
+      "text": "Armour Set: Golden Scale Cuirass",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_1_quick_battle",
+      "text": "Achievement Crest: Fight 1 Quick Battle",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_clan_leaderboard_top_25",
+      "text": "Achievement Crest: Clan Leaderboard Top 25",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_army_colour_change",
+      "text": "Achievement Crest: Army Colour Change",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_clan_leaderboard_top_10",
+      "text": "Achievement Crest: Clan Leaderboard Top 10",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_won_5_clanmap_regions",
+      "text": "Achievement Crest: Win 5 Clanmap Regions",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_multicolour_laced",
+      "text": "Armour Set: Multicolour Laced",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_honda_tadakatsu",
+      "text": "Armour Set: Honda Tadakatsu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_boshin_modern_3",
+      "text": "Modern Uniform 3",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_boshin_modern_2",
+      "text": "Modern Uniform 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_boshin_modern_4",
+      "text": "Modern Uniform 4",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_clan_promotion",
+      "text": "Crest: Clan Promotion",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_boshin_french_1",
+      "text": "French Uniform",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_akechi_mitsuharu",
+      "text": "Armour Set: Akechi Mitsuharu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_triple_hollyhock",
+      "text": "Armour Set: Triple Hollyhock",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_boshin_american_1",
+      "text": "American Uniform 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_boshin_american_2",
+      "text": "American Uniform 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_clan_leaderboard_top_1",
+      "text": "Achievement Crest: Clan Leaderboard Top 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_uesugi_kenshin",
+      "text": "Armour Set: Uesugi Kenshin",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_default",
+      "text": "Armour Set: Default PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_clan_leaderboard_top_100",
+      "text": "Achievement Crest: Clan Leaderboard Top 100",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_hosokawa_tadaoki",
+      "text": "Armour Set: Hosokawa Tadaoki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_boshin_british_1",
+      "text": "British Uniform",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_ikko_ikki",
+      "text": "Armour Set: Robes of the Ikko Ikki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_boshin_officer_2",
+      "text": "Officer Uniform 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_boshin_officer_1",
+      "text": "Officer Uniform 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_goldfish_scale",
+      "text": "Armour Set: Goldfish Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_25_percent_all_drops",
+      "text": "Achievement Crest: Collect 25% of all Items",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_50_percent_all_drops",
+      "text": "Achievement Crest: Collect 50% of all items",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_75_percent_all_drops",
+      "text": "Achievement Crest: Collect 75% of all Items",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_naoe_kanetsugu",
+      "text": "Armour Set: Naoe Kanetsugu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_crest_ach_1_land_battle",
+      "text": "Achievement Crest: Fight 1 Land Battle",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_legendary_kabuto_of_ykok",
+      "text": "Armour Set of The Shogun",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_aesthetic_sets_localised_name_armour_set_tokugawa_ieyasu",
+      "text": "Armour Set: Tokugawa Ieyasu",
+      "tooltip": "true",
+      "empty": false
+    }
+  ],
+  "translatable": [
+    {
+      "row_index": 0,
+      "text": "Armour Set: Scale Cuirass"
+    },
+    {
+      "row_index": 1,
+      "text": "Armour Set: Blade Master"
+    },
+    {
+      "row_index": 2,
+      "text": "Crest: Tier 1 Clan Promotion"
+    },
+    {
+      "row_index": 3,
+      "text": "Achievement Crest: Win a Clanmap Region"
+    },
+    {
+      "row_index": 4,
+      "text": "Achievement Crest: Fight 1 Drop-In Battle"
+    },
+    {
+      "row_index": 5,
+      "text": "Achievement Crest: Clan Season Victory"
+    },
+    {
+      "row_index": 6,
+      "text": "Armour Set: Oda Nobunaga"
+    },
+    {
+      "row_index": 7,
+      "text": "Armour Set: Kato Kiyomasa"
+    },
+    {
+      "row_index": 8,
+      "text": "Shinsengumi Uniform 2"
+    },
+    {
+      "row_index": 9,
+      "text": "Shinsengumi Uniform 1"
+    },
+    {
+      "row_index": 10,
+      "text": "Achievement Crest: Join a Clan"
+    },
+    {
+      "row_index": 11,
+      "text": "Armour Set: Toyotomi Hideyoshi"
+    },
+    {
+      "row_index": 12,
+      "text": "Armour Set: Maeda Toshie"
+    },
+    {
+      "row_index": 13,
+      "text": "Armour Set: Date Masamune"
+    },
+    {
+      "row_index": 14,
+      "text": "Armour Set: Kawari Kabuto"
+    },
+    {
+      "row_index": 15,
+      "text": "Armour Set: Sparse Point Laced"
+    },
+    {
+      "row_index": 16,
+      "text": "Late Samurai Uniform 3"
+    },
+    {
+      "row_index": 17,
+      "text": "Late Samurai Uniform 2"
+    },
+    {
+      "row_index": 18,
+      "text": "Armour Set: Catfish Tail"
+    },
+    {
+      "row_index": 19,
+      "text": "Armour Item: Clan Champions"
+    },
+    {
+      "row_index": 20,
+      "text": "Armour Set: Itakura Katsushige"
+    },
+    {
+      "row_index": 21,
+      "text": "Achievement Crest: Fight 1 Naval Battle"
+    },
+    {
+      "row_index": 22,
+      "text": "Armour Set: Ichinotani"
+    },
+    {
+      "row_index": 23,
+      "text": "Armour Set: Morning Glory"
+    },
+    {
+      "row_index": 24,
+      "text": "Armour Set: Western Style"
+    },
+    {
+      "row_index": 25,
+      "text": "Armour Set: Silver Scale Cuirass"
+    },
+    {
+      "row_index": 26,
+      "text": "Armour Set: Golden Scale Cuirass"
+    },
+    {
+      "row_index": 27,
+      "text": "Achievement Crest: Fight 1 Quick Battle"
+    },
+    {
+      "row_index": 28,
+      "text": "Achievement Crest: Clan Leaderboard Top 25"
+    },
+    {
+      "row_index": 29,
+      "text": "Achievement Crest: Army Colour Change"
+    },
+    {
+      "row_index": 30,
+      "text": "Achievement Crest: Clan Leaderboard Top 10"
+    },
+    {
+      "row_index": 31,
+      "text": "Achievement Crest: Win 5 Clanmap Regions"
+    },
+    {
+      "row_index": 32,
+      "text": "Armour Set: Multicolour Laced"
+    },
+    {
+      "row_index": 33,
+      "text": "Armour Set: Honda Tadakatsu"
+    },
+    {
+      "row_index": 34,
+      "text": "Modern Uniform 3"
+    },
+    {
+      "row_index": 35,
+      "text": "Modern Uniform 2"
+    },
+    {
+      "row_index": 36,
+      "text": "Modern Uniform 4"
+    },
+    {
+      "row_index": 37,
+      "text": "Crest: Clan Promotion"
+    },
+    {
+      "row_index": 38,
+      "text": "French Uniform"
+    },
+    {
+      "row_index": 39,
+      "text": "Armour Set: Akechi Mitsuharu"
+    },
+    {
+      "row_index": 40,
+      "text": "Armour Set: Triple Hollyhock"
+    },
+    {
+      "row_index": 41,
+      "text": "American Uniform 1"
+    },
+    {
+      "row_index": 42,
+      "text": "American Uniform 2"
+    },
+    {
+      "row_index": 43,
+      "text": "Achievement Crest: Clan Leaderboard Top 1"
+    },
+    {
+      "row_index": 44,
+      "text": "Armour Set: Uesugi Kenshin"
+    },
+    {
+      "row_index": 45,
+      "text": "Armour Set: Default PLACEHOLDER"
+    },
+    {
+      "row_index": 46,
+      "text": "Achievement Crest: Clan Leaderboard Top 100"
+    },
+    {
+      "row_index": 47,
+      "text": "Armour Set: Hosokawa Tadaoki"
+    },
+    {
+      "row_index": 48,
+      "text": "British Uniform"
+    },
+    {
+      "row_index": 49,
+      "text": "Armour Set: Robes of the Ikko Ikki"
+    },
+    {
+      "row_index": 50,
+      "text": "Officer Uniform 2"
+    },
+    {
+      "row_index": 51,
+      "text": "Officer Uniform 1"
+    },
+    {
+      "row_index": 52,
+      "text": "Armour Set: Goldfish Scale"
+    },
+    {
+      "row_index": 53,
+      "text": "Achievement Crest: Collect 25% of all Items"
+    },
+    {
+      "row_index": 54,
+      "text": "Achievement Crest: Collect 50% of all items"
+    },
+    {
+      "row_index": 55,
+      "text": "Achievement Crest: Collect 75% of all Items"
+    },
+    {
+      "row_index": 56,
+      "text": "Armour Set: Naoe Kanetsugu"
+    },
+    {
+      "row_index": 57,
+      "text": "Achievement Crest: Fight 1 Land Battle"
+    },
+    {
+      "row_index": 58,
+      "text": "Armour Set of The Shogun"
+    },
+    {
+      "row_index": 59,
+      "text": "Armour Set: Tokugawa Ieyasu"
+    }
+  ],
+  "total_chunks": 1,
+  "chunk_size": 80
+}

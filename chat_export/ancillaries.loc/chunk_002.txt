@@ -1,0 +1,103 @@
+=== CHUNK 2/14 — ancillaries.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[100] Legendary Jujutsu Master
+[101] A garden soothes the soul.
+[102] Treasurer
+[103] Sailor's Cap
+[104] Uma-I Horse Doctor
+[105] Legendary Tea Master
+[106] "Grrrr!"
+[107] A noble sign brings terror to enemies' hearts.
+[108] Zuryo
+[109] Richard Henry Brunton
+[110] Iaijutsu Master
+[111] Only a fool looks after his sword yet neglects his horse.
+[112] Reliquary
+[113] Even with a gun, there is honour in making it well, and in adding refinement to the tools of war.
+[114] The Red Bear is come!
+[115] Yumi Officer
+[116] Bandit Horse Thieves
+[117] Infantry Bayonet
+[118] Legendary Bunraku Puppeteer
+[119] Kabuki Actor
+[120] European Gunsmith
+[121] "Pass the rice, fatty, before you eat it all!"
+[122] When swords are drawn, talk gives way to death.
+[123] A good horse will carry a general into battle and think the sword no more fearsome than a butterfly.
+[124] Legendary Yabusame Master
+[125] Master Potter
+[126] Papal Agent
+[127] "Ah, the misfortune to be British..."
+[128] Ichirai Hoshi
+[129] Philadelphia Deringer
+[130] Nothing is what it seems.
+[131] Unlettered Samurai
+[132] A target stands; an enemy thinks.
+[133] "I rarely miss with this!"
+[134] Mad as he may be, this crow knows he is a great swordsman.
+[135] Bushido is a start to mastery.
+[136] Sage Advisor
+[137] Up, up and away!
+[138] Pet Monkey
+[139] Merchant
+[140] Moon Rabbit
+[141] Ninja Jonin
+[142] Toledo Sword
+[143] A brave man never thinks of the dangers when he eats fugu. His guard is down.
+[144] "I have little skill with wounds in the back. I cannot treat cowardice!"
+[145] People in low places also have their uses.
+[146] A man's best armour is courage, but good iron, cunningly worked, is an excellent addition.
+[147] European Horse Trader
+[148] Legendary Kobudo Master
+[149] "British guns, sir, and some British guts, have given us an Empire!"
+[150] A brave man never thinks of the dangers when he eats fugu. His guard is down.
+[151] A man can die in many ways, but choking on a fish bone is truly unfortunate.
+[152] "I guarantee my wares will bring down a charging heathen savage, sir, or your money back."
+[153] Miko
+[154] Mad Old Man
+[155] Shogi Champion
+[156] It is not enough to be a great horseman, or a great archer. The yabusame transcends both in search of the perfect shot.
+[157] Firebrand Preacher
+[158] German Waiter
+[159] Kanshi Poet
+[160] Legendary Gun Maker
+[161] The sword leaps from the scabbard, the master only guides it.
+[162] Golden Image of Buddha
+[163] Sake Peddler
+[164] "Now there is time, there is no time left to admire the waves."
+[165] Master Bowyer
+[166] A spear looks simple, but to use it elegantly and with precision takes practice and dedication.
+[167] Some friendships are not lightly cast aside.
+[168] Clan Specialism Retainer: Yari Training Network
+[169] Doctor
+[170] Legendary Armourer
+[171] Bo
+[172] Words mean what words mean.
+[173] Woman's wisdom should always be heeded.
+[174] Christian Confessor
+[175] Drill Square
+[176] "Hmmm. Let me consider…"
+[177] It's only theft if you are caught.
+[178] "Oooh, you have got rough hands!"
+[179] "Let them look in all the wrong places!"
+[180] "Look, I'm not a squid, right?"
+[181] "He went that way!"
+[182] "I'm too drunk to be an assassin!"
+[183] "I am a man of God!"
+[184] Uma-Jirushi Nobori Standard-Bearer
+[185] Dupetit-Thouars
+[186] "And the bubbles are fun too!"
+[187] Kenjutsu Master
+[188] "They took my horse and made him surrender."
+[189] Blade Master
+[190] Edward Schnell
+[191] Military Binoculars
+[192] "Here is Benkei! None shall pass!"
+[193] The Black Bear is come!
+[194] Plinky-plunky-plinky-plunky-plunk.
+[195] There are eyes and ears everywhere, but only one mind.
+[196] The art of the bow should never be neglected, for it lies at the heart of what it once was to be samurai.
+[197] "Taxes, my lord, pay for brave warriors and carry swords and armour, and food and - and all other necessaries!"
+[198] To hold a weapon is not difficult. To use it requires skill. To master it requires everything.
+[199] Go teaches the art of strategy, and this brilliant man is the embodiment of victory through cunning.

@@ -1,0 +1,79 @@
+[200] Mũ Kabuto của Akechi Mitsuharu
+[201] Đồng phục Shinsengumi 2: Kimono Shinsengumi 2
+[202] Đồng phục Shinsengumi 1: Kimono Shinsengumi 1
+[203] Đồng phục Shinsengumi 2: Hakama Shinsengumi sọc
+[204] Đồng phục Shinsengumi 1: Hakama Shinsengumi nhiều màu
+[205] Mũ Kabuto: Ba lá thục quỳ
+[206] Mặt nạ Men Yoroi Gempei
+[207] Huy hiệu thành tựu: Phản công truyền cảm hứng
+[208] Huy hiệu thành tựu: Bậc thầy của đại dương
+[209] Huy hiệu thành tựu: Tiêu diệt Ikko-Ikki
+[210] Tay giáp Kote của Toyotomi Hideyoshi
+[211] Mũ Kabuto Gempei 3
+[212] Mũ Kabuto Gempei 2
+[213] Mũ Kabuto Gempei 1
+[214] Sashimono: Vảy cá vàng
+[215] Đồng phục Mỹ 2: Áo tunic Thủy quân Lục chiến Mỹ
+[216] Đồng phục Mỹ 1: Áo tunic sĩ quan Thủy quân Lục chiến Mỹ
+[217] Giáp vai Sode: Vảy bạc
+[218] Giáp vai Sode: Vảy vàng
+[219] Mũ Kabuto của Hosokawa Tadaoki
+[220] Tay giáp Kote: Ichinotani
+[221] Giáp vai Sode của Oda Nobunaga
+[222] Suneate Ashigaru
+[223] Đồng phục Anh: Mũ Royal Marine
+[224] Cung Yumi tiêu chuẩn 3
+[225] Cung Yumi tiêu chuẩn 2
+[226] Huy hiệu: Thăng hạng Clan Competition Tier 1
+[227] Huy hiệu của Nhà vô địch Gia tộc
+[228] Ngựa đốm Samurai
+[229] Mũ Kabuto Momonari
+[230] Giáp ngực Do của Tokugawa Ieyasu
+[231] Huy hiệu Datemono của Tokugawa Ieyasu
+[232] Giáp ngực Dangae-Do
+[233] Ngựa xám
+[234] Đồng phục Mỹ 1: Mũ sĩ quan Thủy quân Lục chiến Mỹ
+[235] Đồng phục Mỹ 2: Mũ Thủy quân Lục chiến Mỹ
+[236] Ngựa hạt dẻ đeo mặt nạ
+[237] Huy hiệu thành tựu: Lực lượng tấn công khó nắm bắt
+[238] Mặt nạ Men Yoroi của Hosokawa Tadaoki
+[239] Giáp vai Sode của Uesugi Kenshin
+[240] Ngựa vàng nhạt đeo mặt nạ
+[241] Ngựa nâu đỏ đeo mặt nạ
+[242] Katana tiêu chuẩn 3
+[243] Katana tiêu chuẩn 2
+[244] Haidate bảo vệ đùi: Dây buộc nhiều màu
+[245] Giáp ngực Do: Dây buộc nhiều màu
+[246] Mặt nạ Men Yoroi tiêu chuẩn
+[247] Haidate bảo vệ đùi của Tokugawa Ieyasu
+[248] Huy hiệu Datemono của Hosokawa Tadaoki
+[249] Giáp ngực Do của Hosokawa Tadaoki
+[250] Giáp vai Sode của Shogun
+[251] Ngựa hạt dẻ Samurai
+[252] Mũ Kabuto: Nhà vô địch Gia tộc
+[253] Giáp ngực Do của Itakura Katsushige
+[254] Huy hiệu Datemono của Itakura Katsushige
+[255] Huy hiệu: Dây buộc nhiều màu
+[256] Tay giáp Kote: Dây buộc nhiều màu
+[257] Tay giáp Kote đơn giản
+[258] Ngựa đốm đeo mặt nạ
+[259] Mũ Kabuto: Ichinotani
+[260] Giáp Mogami-Do
+[261] Mặt nạ Men Yoroi: Dây buộc nhiều màu
+[262] Mũ: Thăng hạng Clan Competition Tier 1
+[263] Không Sashimono
+[264] Haidate bảo vệ đùi
+[265] Katana tiêu chuẩn 1
+[266] Huy hiệu thành tựu: Phục vụ với danh dự
+[267] Suneate: Dây buộc nhiều màu
+[268] Giáp Yukinoshita-Do
+[269] Haidate bảo vệ đùi của Hosokawa Tadaoki
+[270] Mũ Kabuto của Itakura Katsushige
+[271] Mũ: Thăng hạng Clan Competition
+[272] Mũ Kabuto: Dây buộc nhiều màu
+[273] Suneate của Hosokawa Tadaoki
+[274] Tay giáp Kote của Hosokawa Tadaoki
+[275] Kabuto huyền thoại của Shogun
+[276] Giáp ngực Do: Ichinotani
+[277] Đồng phục sĩ quan 2: Tóc giả cầu kỳ
+[278] Đồng phục sĩ quan 1: Mũ sĩ quan

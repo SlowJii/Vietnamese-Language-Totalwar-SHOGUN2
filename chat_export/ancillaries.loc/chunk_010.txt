@@ -1,0 +1,103 @@
+=== CHUNK 10/14 — ancillaries.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[900] Mounted Scout
+[901] Uma-Jirushi Nobori Standard-Bearer
+[902] Legendary Item: Heavenly Banner
+[903] Over-ambitious Mistress
+[904] Open Basketwork Quivers
+[905] Spanish Gaijin Sailor
+[906] Dutch Gaijin Seamaster
+[907] "All men gamble, with their lives, their loves and their loyalties. The trick is to profit by it."
+[908] Even the simplest thing must be mastered.
+[909] Lone Arranger
+[910] "I'm from 'The Thunderer', don't you know!"
+[911] "My readers, sir, will marvel over their breakfasts as they learn of your valorous exploits!"
+[912] Telegraph Key
+[913] "Poouffe!"
+[914] Eager Lieutenant
+[915] The mob is not an army.
+[916] Bottle of Chloroform
+[917] "Proven in combat, by the Confederate States, among others."
+[918] "These Scotsmen must be a fierce, warrior folk!"
+[919] To read the waves, clouds and breeze is to be valuable.
+[920] Speed, excitement and, on occasion, a broken limb!
+[921] Omato
+[922] Mato
+[923] A coastal fort is an unsinkable ship.
+[924] Raw Frigate Crew
+[925] Shogi Set
+[926] Mystic
+[927] "Look at the birdy!"
+[928] The wise man seeks out the very best of everything.
+[929] "Respect and Harmony."
+[930] Legendary Ninja Leader
+[931] Castle Architect
+[932] Improved Breech Mechanism
+[933] "I would not feed this muck to Englishmen!"
+[934] Mochiyari Gumi Spear-Bearer
+[935] "This is a sword! Your blade - ha! - I would not scrape out a peasants' dungheap with it!"
+[936] Hero-worshipping Boy 
+[937] "This, sir, will stop a man, or make a tiger rethink his menu!"
+[938] Blessed Kote Armoured Sleeves
+[939] Sometimes looking is not the same as seeing.
+[940] Foxy Mistress
+[941] All Japan is hallowed.
+[942] The sword must be one with the hand.
+[943] Edouard Messelot
+[944] Words can move a man's heart to sorrow, or anger.
+[945] Legendary O-Yoroi
+[946] Zasu
+[947] Champagne
+[948] "The Japanese are disposed towards us as well as to other foreigners; whatever will be the material development of English power in this country, they run to us alone for reforms."
+[949] A man can die in many ways, but choking on a fish bone is truly unfortunate.
+[950] Eerily beautiful, and as entrancing as moonlight in a lover’s eyes.
+[951] There are many paths to Buddha.
+[952] "My lord's lands and affairs need careful tending. There is honour in serving faithfully."
+[953] Sword of Amaterasu
+[954] Makiwara
+[955] Legendary Item: Tenkagoken Sword
+[956] Blind Bow Sensei
+[957] "It works well, sir, in persuadin' 'ornery folk to leave you and yours alone!"
+[958] Chonin
+[959] There is comfort in the traditional.
+[960] "Gentlemen should exercise caution and wear stout-sided boots when using the Fintry-Kyle Escape Apparatus. Ladies, children, servants and those of a nervous disposition should be strongly encouraged to seek other means of hurried egress."
+[961] The flag says: here stands a great warlord, the heir to great warlords! Strong as the storm! Fear his might!
+[962] Only a fool looks after his sword yet neglects his horse.
+[963] Geisha Poisoner
+[964] Enfield Musketoon
+[965] ...click!...
+[966] "A foul bottom? How dare you sir?!"
+[967] Yabusami Master
+[968] Xenophobic Ronin
+[969] Biwa Player
+[970] A general must have his orders obeyed, otherwise bravery will be wasted.
+[971] Legendary Biwa Player
+[972] A spear looks simple, but to use it elegantly and with precision takes practice and dedication.
+[973] War is the school of warriors.
+[974] Even the mightiest lord deserves some small comforts: the perfect meal being one of them.
+[975] "A Frenchman, sir, builds a ship with a soul. Any Anglo-Saxon idiot can make an ironclad."
+[976] In small things lies great perfection.
+[977] "Ooh! That's fancy, innit?"
+[978] "...somewhere along the infinite corridors of time..."
+[979] Men must be lead in battle.
+[980] "...lost in the swirling maze of past and future ages..."
+[981] When the heart is pure, the arrow finds a way.
+[982] "I find it a very persuasive argument."
+[983] There is alchemy in London, to transform paper into gold.
+[984] Legendary Koto Player
+[985] Jesuit
+[986] Koto Player
+[987] On a mountain, a man sees further.
+[988] It is a powerful thing to hold six lives in one hand.
+[989] Master Drummer
+[990] What use a general's brains if they are splashed to the winds?
+[991] Ivory Chess Set
+[992] "Trade, my lord, is beneath your dignity, but wealth is never dishonourable."
+[993] "I challenge you. And now you will fail!" 
+[994] "Gun practice, Lieutenant? Not today, I have a headache."
+[995] Opera Glasses
+[996] "Brave wounds mend the quickest!"
+[997] Kami
+[998] Food nourishes the spirit as well as the body.
+[999] Katana of the Pure Land

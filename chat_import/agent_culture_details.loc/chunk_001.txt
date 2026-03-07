@@ -1,0 +1,80 @@
+[0] Một Gián điệp đồng thời cũng là kẻ phá hoại và sát thủ, có thể được cử vào một thành phố mục tiêu để báo cáo tình hình bên trong và phá hoại các công trình. Để thực hiện ám sát hãy chọn một nhân vật mục tiêu.
+[1] Một Gián điệp đồng thời cũng là kẻ phá hoại và sát thủ, có thể được cử vào một thành phố mục tiêu để báo cáo tình hình bên trong và phá hoại các công trình. Để thực hiện ám sát hãy chọn một nhân vật mục tiêu.
+[2] Arrr! Ye scurvy pirate! (PLACEHOLDER)
+[3] Arrr! Ye scurvy pirate! (PLACEHOLDER)
+[4] Arrr! Ye scurvy pirate! (PLACEHOLDER)
+[5] Arrr! Ye scurvy pirate! (PLACEHOLDER)
+[6] Một Nhà truyền giáo Chính Thống là giáo sĩ truyền bá đức tin Chính Thống giáo. Đặt họ trong một vùng sẽ khiến dân chúng dần cải đạo sang Chính Thống giáo. Họ sẽ tiếp tục tự động cải đạo dân cư cho đến khi được di chuyển.
+[7] Ninja là bậc thầy về mưu kế và thâm nhập. Kỹ năng ninjutsu cho phép họ do thám kẻ địch hoặc phá hoại quân đội và thị trấn lâu đài của chúng, đồng thời di chuyển qua lãnh thổ mà không bị phát hiện. Họ cũng là những sát thủ lão luyện, ra tay từ trong bóng tối để giết cả tướng lĩnh lẫn đặc vụ địch. Kỹ năng thâm nhập khiến ninja trở thành trinh sát vô giá cho quân đội của gia tộc, trong khi các mối quan hệ trong thế giới ngầm giúp họ nắm rõ mọi động tĩnh khi đến thăm các tỉnh thân thiện.
+[9] Một Trinh sát là gián điệp, kẻ phá hoại và sát thủ có thể được cử vào một thành phố mục tiêu để báo cáo tình hình bên trong và phá hoại các công trình. Để thực hiện ám sát hãy chọn một nhân vật mục tiêu.
+[10] Thượng thư. PLACEHOLDER.
+[11] Thượng thư. PLACEHOLDER.
+[12] Thượng thư. PLACEHOLDER.
+[13] Thượng thư. PLACEHOLDER.
+[14] Thượng thư. PLACEHOLDER.
+[15] Thượng thư. PLACEHOLDER.
+[16] Một Imam là giáo sĩ truyền bá giáo lý Hồi giáo khắp thế giới. Đặt một Imam trong một vùng sẽ khiến dân chúng dần cải đạo sang Hồi giáo. Họ sẽ tiếp tục tự động cải đạo vùng đó cho đến khi được di chuyển.
+[17] Một Imam là giáo sĩ truyền bá giáo lý Hồi giáo khắp thế giới. Đặt một Imam trong một vùng sẽ khiến dân chúng dần cải đạo sang Hồi giáo. Họ sẽ tiếp tục tự động cải đạo vùng đó cho đến khi được di chuyển.
+[18] Các Nhà sư là những người nhiệt thành truyền bá giáo lý của Đức Phật. Họ là những kẻ kích động có thể làm suy giảm sĩ khí quân địch và gây bất ổn trong các thị trấn của kẻ thù, đồng thời cũng có thể truyền cảm hứng cho quân ta và mang lại sự hài lòng cho dân chúng của mình. Các Nhà sư còn có thể cải đạo dân chúng sang Phật giáo và khiến đặc vụ địch từ bỏ nhiệm vụ để theo đuổi cuộc sống thanh bình và tự chiêm nghiệm. Họ đặc biệt hiệu quả khi đối đầu với metsuke.
+[19] Các Nhà truyền giáo là những người nhiệt thành truyền bá con đường Cơ Đốc. Họ là những kẻ kích động có thể làm suy giảm sĩ khí quân địch và gây bất ổn trong các thị trấn của kẻ thù, đồng thời cũng có thể truyền cảm hứng cho quân ta và mang lại sự hài lòng cho dân chúng của mình. Các Nhà truyền giáo còn có thể cải đạo dân chúng sang Cơ Đốc giáo và khiến đặc vụ địch từ bỏ nhiệm vụ để sống cuộc đời sám hối kính sợ Chúa. Họ đặc biệt hiệu quả khi đối đầu với metsuke.
+[20] Một Gentleman là người có học thức, có thể được cử vào các công trình giáo dục để đẩy nhanh quá trình nghiên cứu, đồng thời có thể đấu tay đôi với Gián điệp và các Gentleman khác. Hãy chọn một nhân vật mục tiêu để thách đấu tay đôi.
+[21] Một Gentleman là người có học thức, có thể được cử vào các công trình giáo dục để đẩy nhanh quá trình nghiên cứu, đồng thời có thể đấu tay đôi với Gián điệp và các Gentleman khác. Hãy chọn một nhân vật mục tiêu để thách đấu tay đôi.
+[22] Geisha là những sát thủ sử dụng sự quyến rũ và cải trang để xâm nhập vào hàng ngũ kẻ địch và hạ sát cả tướng lĩnh lẫn đặc vụ. Dù không có khả năng ẩn mình như ninja, họ ra tay với hiệu quả chết người và có thể thoát khỏi sự truy bắt của cả những đặc vụ địch lành nghề nhất.
+[23] Colonel. PLACEHOLDER.
+[24] Colonel. PLACEHOLDER.
+[26] Colonel. PLACEHOLDER.
+[27] Colonel. PLACEHOLDER.
+[28] Metsuke là những người thi hành quyền lực của lãnh chúa daimyo một cách không khoan nhượng, dùng mưu kế để kiểm soát các tướng lĩnh và dân chúng bất mãn trong gia tộc. Họ cũng có thể hối lộ quân đội và thị trấn của kẻ địch. Metsuke còn có thể bắt giữ và đưa các đặc vụ địch ra “công lý”, đồng thời đặc biệt hiệu quả trong việc phát hiện và chống lại hoạt động của ninja.
+[29] Một Brahmin là giáo sĩ truyền bá đức tin Hindu khắp thế giới. Đặt một Brahmin trong một vùng sẽ khiến dân chúng dần cải đạo sang Ấn Độ giáo. Họ sẽ tiếp tục tự động cải đạo vùng đó cho đến khi được di chuyển.
+[30] Một Nhà truyền giáo Công giáo là giáo sĩ truyền bá giáo lý Công giáo. Đặt một Nhà truyền giáo trong một vùng sẽ khiến dân chúng dần cải đạo sang Công giáo. Họ sẽ tiếp tục tự động cải đạo vùng đó cho đến khi được di chuyển.
+[31] Đội trưởng. PLACEHOLDER.
+[32] Đội trưởng. PLACEHOLDER.
+[33] Đội trưởng. PLACEHOLDER.
+[34] Đội trưởng. PLACEHOLDER.
+[35] Đội trưởng. PLACEHOLDER.
+[36] Đội trưởng. PLACEHOLDER.
+[37] Cường đạo. PLACEHOLDER.
+[38] Colonel. PLACEHOLDER.
+[39] Colonel. PLACEHOLDER.
+[40] Cường đạo. PLACEHOLDER.
+[41] Một Hashishin là gián điệp, kẻ phá hoại và sát thủ có thể được cử vào một thành phố mục tiêu để báo cáo tình hình bên trong và phá hoại các công trình. Để thực hiện ám sát hãy chọn một nhân vật mục tiêu.
+[42] Một Thugee là gián điệp, kẻ phá hoại và sát thủ có thể được cử vào một thành phố mục tiêu để báo cáo tình hình bên trong và phá hoại các công trình. Để thực hiện ám sát hãy chọn một nhân vật mục tiêu.
+[43] Một Hashishin là gián điệp, kẻ phá hoại và sát thủ có thể được cử vào một thành phố mục tiêu để báo cáo tình hình bên trong và phá hoại các công trình. Để thực hiện ám sát hãy chọn một nhân vật mục tiêu.
+[44] Đô đốc. PLACEHOLDER
+[45] Đô đốc. PLACEHOLDER
+[46] Đô đốc. PLACEHOLDER
+[47] Đô đốc. PLACEHOLDER
+[48] Cường đạo. PLACEHOLDER.
+[49] Cường đạo. PLACEHOLDER.
+[50] Hải tặc
+[51] Hải tặc
+[52] Gián điệp
+[53] Gián điệp
+[54] Ninja
+[55] Nhà truyền giáo Chính Thống
+[56] Hải tặc
+[57] Hải tặc
+[58] Trinh sát
+[59] Đội trưởng
+[60] Thượng thư
+[61] Thượng thư
+[62] Thượng thư
+[63] Thượng thư
+[64] Imam
+[65] Imam
+[66] Thượng thư
+[67] Thượng thư
+[68] Nhà truyền giáo
+[69] Nhà sư
+[70] Tướng quân
+[71] Orgeneral
+[72] Orgeneral
+[73] Tướng quân
+[74] Học giả Đông phương
+[75] Học giả Đông phương
+[76] Tướng quân
+[77] Học giả Đông phương
+[78] Đô đốc
+[79] Nhà truyền giáo Tin Lành
+[80] Hashishin
+[81] Thugee

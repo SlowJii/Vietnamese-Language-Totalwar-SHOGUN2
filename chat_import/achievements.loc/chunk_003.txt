@@ -1,2 +1,52 @@
-# Dán response từ Gemini chat vào đây (xóa dòng này)
-# File: achievements.loc.tsv — Chunk 3/3
+[160] Thắng một trận với Thủy quân lục chiến Hoa Kỳ trong quân đội của bạn.
+[161] Đạt cấp phát triển Gia tộc tối đa.
+[162] Chiến thắng Tokugawa
+[163] Đánh chìm một tàu lớp HMS Warrior.
+[164] Có được một metsuke cấp tối đa.
+[165] Đáng gờm
+[166] Khắc tinh của chiến binh
+[167] Khi chơi Aizu, thực hiện 3 vụ ám sát tướng thành công trong cùng chiến dịch bằng Shinsengumi.
+[168] Khi chơi Nagaoka, nghiên cứu một công nghệ bậc tám bất kỳ.
+[169] Hoàn thành chiến dịch với Gia tộc Tokugawa.
+[170] Semper Fi
+[171] Đón nhận cái mới
+[172] Anh hùng của Đế quốc
+[173] Thắng một trận vây hãm phòng thủ với Lãnh chúa của bạn trong bất kỳ lượt mùa đông nào.
+[174] Hoàn thành chiến dịch ở độ khó khó.
+[175] Giữ toàn bộ quân đội của bạn (trừ Tướng quân) ẩn nấp đồng thời hơn 30 giây.
+[176] Xây dựng đường sắt giữa 2 Tỉnh.
+[177] Hoàn thành chiến dịch với Gia tộc Date.
+[178] Rule, Britannia!
+[179] Trung thành với Gia tộc
+[180] Sohei huyền thoại
+[181] Giữ gìn truyền thống
+[182] Hoàn thành chiến dịch ở độ khó huyền thoại khi chơi Satsuma, Tosa hoặc Choshu.
+[183] Trên bản đồ có nhiều công trình then chốt, liên minh của bạn chiếm giữ tất cả cùng lúc.
+[184] Độc quyền tuyến thương mại
+[185] Thông qua hệ thống Hóa thân, đưa một đơn vị Lão binh lên cấp 9.
+[186] Thắng 100 trận đấu ghép trận trong nhiều người chơi.
+[187] Đòn giáng vào đền chùa
+[188] Danh tiếng bay cao
+[189] Có được một ninja cấp tối đa trong chiến dịch.
+[190] Hoàn thành chiến dịch ở độ khó rất khó.
+[191] Gọi hỗ trợ hỏa lực hải quân trong trận đánh trên bộ.
+[192] Hiện đại hóa
+[193] Thắng Trận Osaka sau khi cả hai cây cầu bị quân phòng thủ phá hủy.
+[194] Chủ nhân của Kyushu
+[195] Với vai trò tấn công, đốt cổng, tháp và tenshu của lâu đài bằng hỏa tiễn rồi thắng trận.
+[196] Tiêu diệt hoàn toàn một đơn vị địch.
+[197] Thắng một trận nhiều người chơi khi hơn 50% quân đội của bạn là thần cơ bộ binh.
+[198] Đạo quân đang hành quân
+[199] Khi chơi Tosa, thực hiện 5 cuộc oanh kích hải quân trong cùng chiến dịch.
+[200] Lãnh chúa của bạn thắng 3 trận đánh trên bộ liên tiếp trong mùa hè.
+[201] Đầu đạn
+[202] Chiến thắng Chosokabe
+[203] Chiến thắng Takeda
+[204] Khi chơi Jozai, thắng 3 trận phục kích trong cùng chiến dịch.
+[205] Tận tâm như thiền
+[206] Thợ săn thủ cấp
+[207] Khi chơi Choshu, kích động 3 cuộc nổi dậy trong cùng chiến dịch bằng ishin shishi.
+[208] Quả cầu phá hoại
+[209] Không dưới sự canh gác của ta
+[210] Một hành trình bắt đầu
+[211] Kiểm soát toàn bộ các Tỉnh trên đảo Shikoku trong chiến dịch.

@@ -1,0 +1,100 @@
+[1000] Chiếm Sanuki
+[1001] Danh tiếng gia tộc
+[1002] Chế độ Avatar Conquest
+[1003] Đánh vòng sườn bằng kỵ binh
+[1004] Quản lý quân đội & hạm đội
+[1005] Cấp độ phát triển gia tộc
+[1006] Trận chiến nhiều người chơi
+[1007] Tình huống tiến thoái lưỡng nan
+[1008] Cướp bóc
+[1009] Bảng quản lý gia tộc
+[1010] Shirabyoshi
+[1011] Pháo kích hải quân
+[1012] Tấn công từ bờ biển!
+[1013] Tuyến thương mại
+[1014] Chúng ta là Date
+[1015] Khả năng đơn vị
+[1016] Ngoại giao
+[1017] Xây dựng
+[1018] Ám sát
+[1019] Chúng ta là Fujiwara
+[1020] Cướp bóc
+[1021] Video hướng dẫn
+[1022] Bổ nhiệm tướng
+[1023] Chúng ta là Date
+[1024] Miễn thuế cho tỉnh
+[1025] Chế độ Avatar Conquest
+[1026] Kiểm soát tỉnh
+[1027] Cướp phá
+[1028] Geisha
+[1029] Tiến lên và chinh phục!
+[1030] Kích động nổi loạn
+[1031] Do thám thụ động
+[1032] Chế độ Avatar Conquest
+[1033] Kinh nghiệm đơn vị
+[1034] Quản lý gia tộc
+[1035] Bản đồ chinh phục
+[1036] Đấu tay đôi
+[1037] Bổ sung quân số đơn vị
+[1038] Chế độ Avatar Conquest
+[1039] Chế độ Avatar Conquest
+[1040] Trận chiến nhiều người chơi
+[1041] Nút cận chiến
+[1042] Ngoại giao
+[1043] Chúng ta là Taira
+[1044] Trấn áp bất đồng
+[1045] Jozai
+[1046] Chế độ Avatar Conquest
+[1047] Ảnh hưởng của tướng
+[1048] Mệt mỏi của kỵ binh
+[1049] Gia tộc chư hầu mới
+[1050] Chiến tranh tiêu hao
+[1051] Chiến tranh
+[1052] Daimyo
+[1053] Chế độ Avatar Conquest
+[1054] Trao đổi con tin
+[1055] Nâng cấp lâu đài
+[1056] Chúng ta là Hojo
+[1057] Tùy chỉnh Avatar của bạn
+[1058] Mở bản đồ
+[1059] Nagaoka
+[1060] Gia đình & hội đồng
+[1061] Trở thành Shogun
+[1062] Chúng ta là Hattori
+[1063] Quân đội
+[1064] Kích động nổi loạn
+[1065] Chế độ Avatar Conquest
+[1066] Saga
+[1067] Nhà sư
+[1068] Chế độ Avatar Conquest
+[1069] Trận chiến nhiều người chơi
+[1070] Bạo loạn!
+[1071] Mạng lưới gián điệp
+[1072] Thiên tai
+[1073] Chế độ Avatar Conquest
+[1074] Thị trấn lâu đài & cảng
+[1075] Truyền bá giáo lý
+[1076] Nâng cấp tàu
+[1077] Chế độ Avatar Conquest
+[1078] Tuyển quân ngoài chiến trường
+[1079] Hết điểm di chuyển
+[1080] Chỉnh sửa tùy tùng
+[1081] Chế độ Avatar Conquest
+[1082] Tuyển mộ đặc vụ
+[1083] Mất tiền
+[1084] Nâng cấp nhân vật
+[1085] Phòng thủ bờ biển
+[1086] Tập hợp dân chúng
+[1087] Trận chiến nhiều người chơi
+[1088] Viện binh
+[1089] Trinh sát
+[1090] Chúng ta là Hattori
+[1091] Áp sát tàu
+[1092] Điều kiện chiến thắng & nhiệm vụ
+[1093] Giao diện người dùng
+[1094] Bắn nhầm quân mình
+[1095] Phá sản!
+[1096] Nâng cấp nhân vật
+[1097] Khơi dậy nhiệt huyết
+[1098] Chế độ Avatar Conquest
+[1099] Bắt giữ

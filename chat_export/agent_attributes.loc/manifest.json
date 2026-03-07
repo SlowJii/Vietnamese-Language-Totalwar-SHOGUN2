@@ -1,0 +1,310 @@
+{
+  "filename": "agent_attributes.loc.tsv",
+  "category": "ui",
+  "header_lines": [
+    "key\ttext\ttooltip",
+    "#Loc;1;text/db/agent_attributes.loc\t\t"
+  ],
+  "rows": [
+    {
+      "key": "agent_attributes_effect_text_research",
+      "text": "%+n to Research.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_name_land_siege_engineering",
+      "text": "Siege engineering",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_name_movement_points_land",
+      "text": "movement_points_land_name",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_name_command_land",
+      "text": "Command on Land",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_effect_text_duelling_pistols",
+      "text": "%+n to Duelling when duelling with pistols.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_effect_text_land_defence_engineering",
+      "text": "%+n %% to battlefield defence work points.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_name_zeal",
+      "text": "Religious Zeal",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_effect_text_cunning",
+      "text": "%+n to Cunning",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_name_cunning",
+      "text": "Cunning",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_effect_text_trade",
+      "text": "PLACEHOLDER (agent_attributes.effect_text)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_effect_text_duelling_swords",
+      "text": "%+n to Duelling when duelling with swords.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_name_trade",
+      "text": "Trade",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_name_duelling_swords",
+      "text": "Sword duelling",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_effect_text_land_siege_engineering",
+      "text": "%+n %% to siege works points.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_name_subterfuge",
+      "text": "Subterfuge Skill",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_name_command_sea",
+      "text": "Command at Sea",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_name_morale_land",
+      "text": "Morale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_effect_text_morale_land",
+      "text": "%+n to army Morale.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_effect_text_command_sea",
+      "text": "%+n to Command in sea battles.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_name_morale_sea",
+      "text": "Morale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_name_management",
+      "text": "Management Skill",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_effect_text_morale_sea",
+      "text": "%+n to fleet Morale.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_effect_text_management",
+      "text": "%+n to Management.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_name_research",
+      "text": "Research Skill",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_effect_text_command_land",
+      "text": "%+n to Command in land battles.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_name_duelling_pistols",
+      "text": "Pistol duelling",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_name_land_defence_engineering",
+      "text": "Land defence engineering",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_effect_text_zeal",
+      "text": "%+n to Zeal.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_effect_text_movement_points_land",
+      "text": "%+n %% to army movement allowance.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "agent_attributes_effect_text_subterfuge",
+      "text": "%+n to Subterfuge.",
+      "tooltip": "true",
+      "empty": false
+    }
+  ],
+  "translatable": [
+    {
+      "row_index": 0,
+      "text": "%+n to Research."
+    },
+    {
+      "row_index": 1,
+      "text": "Siege engineering"
+    },
+    {
+      "row_index": 2,
+      "text": "movement_points_land_name"
+    },
+    {
+      "row_index": 3,
+      "text": "Command on Land"
+    },
+    {
+      "row_index": 4,
+      "text": "%+n to Duelling when duelling with pistols."
+    },
+    {
+      "row_index": 5,
+      "text": "%+n %% to battlefield defence work points."
+    },
+    {
+      "row_index": 6,
+      "text": "Religious Zeal"
+    },
+    {
+      "row_index": 7,
+      "text": "%+n to Cunning"
+    },
+    {
+      "row_index": 8,
+      "text": "Cunning"
+    },
+    {
+      "row_index": 10,
+      "text": "%+n to Duelling when duelling with swords."
+    },
+    {
+      "row_index": 11,
+      "text": "Trade"
+    },
+    {
+      "row_index": 12,
+      "text": "Sword duelling"
+    },
+    {
+      "row_index": 13,
+      "text": "%+n %% to siege works points."
+    },
+    {
+      "row_index": 14,
+      "text": "Subterfuge Skill"
+    },
+    {
+      "row_index": 15,
+      "text": "Command at Sea"
+    },
+    {
+      "row_index": 16,
+      "text": "Morale"
+    },
+    {
+      "row_index": 17,
+      "text": "%+n to army Morale."
+    },
+    {
+      "row_index": 18,
+      "text": "%+n to Command in sea battles."
+    },
+    {
+      "row_index": 19,
+      "text": "Morale"
+    },
+    {
+      "row_index": 20,
+      "text": "Management Skill"
+    },
+    {
+      "row_index": 21,
+      "text": "%+n to fleet Morale."
+    },
+    {
+      "row_index": 22,
+      "text": "%+n to Management."
+    },
+    {
+      "row_index": 23,
+      "text": "Research Skill"
+    },
+    {
+      "row_index": 24,
+      "text": "%+n to Command in land battles."
+    },
+    {
+      "row_index": 25,
+      "text": "Pistol duelling"
+    },
+    {
+      "row_index": 26,
+      "text": "Land defence engineering"
+    },
+    {
+      "row_index": 27,
+      "text": "%+n to Zeal."
+    },
+    {
+      "row_index": 28,
+      "text": "%+n %% to army movement allowance."
+    },
+    {
+      "row_index": 29,
+      "text": "%+n to Subterfuge."
+    }
+  ],
+  "total_chunks": 1,
+  "chunk_size": 80
+}

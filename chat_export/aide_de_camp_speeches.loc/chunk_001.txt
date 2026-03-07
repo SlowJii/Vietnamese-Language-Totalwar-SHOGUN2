@@ -1,0 +1,59 @@
+=== CHUNK 1/1 — aide_de_camp_speeches.loc.tsv ===
+(Dịch 56 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[0] The gates are ours!
+[1] The walls are destroyed! Into the breach!
+[2] Beware! Enemy reinforcements have arrived my lord!
+[3] The enemy have taken a tower!
+[4] Our entire unit has perished, my lord!
+[5] Our ship has been destroyed! All hands are lost!
+[6] My Lord; the enemy army contains the deadly gatling gun weapon
+[7] Our tower has fallen to their fire!
+[8] The enemy has discovered our ally's hidden troops!
+[9] Sir! We cannot hold this position much longer!
+[10] Our ship has exploded!
+[11] We have captured their tower, my lord!
+[12] Our gate has fallen to the enemy!
+[13] Our general is in grave danger, my lord!
+[14] Beware! A torpedo approaches our fleet
+[15] The enemy has lost a vital ally, my lord!
+[16] Onwards, sir, onwards, the fort is falling!
+[17] Our general is under threat, my lord! He is too important to lose!
+[18] My lord, their general has fallen! A cutting blow!
+[19] One of our ships has chosen dishonour, my lord!
+[20] Sir! The enemy have called in a bombardment. It may target our position!
+[21] One of our units have used all its ammunition, my lord.
+[22] Our weapons made short work of their tower!
+[23] Their general has fallen! A devastating loss for the enemy!
+[24] All hope is failing, my lord! The battle is almost done!
+[25] The weather looks ominous, my lord! We should be wary of misfires.
+[26] Our general has been injured, my lord! He lives, but must leave the battle!
+[27] Our ally has fallen to the enemy my lord! A terrible loss!
+[28] One of our units is under suppression fire!
+[29] Their ally has abandoned them! Now we have them!
+[30] They now control a key position, my lord!
+[31] Here they come! Prepare to repel boarders!
+[32] Bah! Our esteemed ally has turned about, leaving us to the mercy of our foes!
+[33] Beware! Our ship is in range of a coastal battery
+[34] Hidden units, my lord, treacherously meant to ambush us!
+[35] We have captured a building, my lord!
+[36] One of our ships is withdrawing!
+[37] Our hidden units have been discovered my lord!
+[38] Our men are running from the battlefield: a shameful display!
+[39] The men are fatigued, my lord, and some must rest!
+[40] My lord, a glorious victory will soon be yours!
+[41] My lord! Our ally has fled, abandoning us to the enemy!
+[42] Our allies are under attack!
+[43] My Lord, a friendly reminder that you are the attacker
+[44] This is a black day! Our general has fallen , my lord.
+[45] Our general has fallen, my lord! Our men are shaken by this terrible event!
+[46] We cannot see our targets but will try to hit them
+[47] Our walls crumble under the pounding of their weapons!
+[48] Reinforcements have arrived!
+[49] One of our ships has lost its sails! It may not last much longer in such a state!
+[50] The fort is but moments from being ours, sir!
+[51] My Lord, a friendly reminder that you are the defender
+[52] Naval bombardment incoming!
+[53] Sir, our defences are breached and failing!
+[54] Fire! One of our ships has been set ablaze!
+[55] They have captured a building, my lord!

@@ -1,0 +1,80 @@
+[82] Hashishin
+[83] Highwayman
+[84] Amir-al-bahr
+[85] Đô đốc
+[86] Amir-al-bahr
+[87] Amir-al-bahr
+[88] Thug
+[89] Cường đạo
+[90] Warchief
+[91] Geisha
+[92] Gentleman
+[93] Gentleman
+[94] Brigadier
+[95] Brigadier
+[96] Đội trưởng
+[97] Brigadier
+[98] Brahmin
+[99] Metsuke
+[100] Đội trưởng
+[101] Đội trưởng
+[102] Đội trưởng
+[103] Nhà truyền giáo Công giáo
+[104] Raider
+[105] Đội trưởng
+[106] Đội trưởng
+[107] Đội trưởng
+[108] Brigadier
+[109] Brigadier
+[110] Nhà sư
+[111] Nhà sư
+[112] Nhà truyền giáo
+[113] Nhà truyền giáo
+[114] Metsuke
+[115] Metsuke
+[116] Geisha
+[117] Ishin Shishi
+[118] Geisha
+[119] Geisha
+[120] Ninja
+[121] Ninja
+[122] Thành viên gia tộc
+[123] Đô đốc
+[124] Ikko Monk
+[125] Sou
+[126] Monomi
+[127] Tướng quân
+[128] Junsatsushi
+[129] Tướng quân
+[130] Đội trưởng
+[131] Shirabyoshi
+[132] Lão binh ngoại quốc
+[133] Đội trưởng
+[134] Shinsengumi
+[135] Geisha
+[136] Shinobi
+[137] Metsuke là những người thi hành quyền lực của lãnh chúa daimyo một cách không khoan nhượng, dùng mưu kế để kiểm soát các tướng lĩnh và dân chúng bất mãn trong gia tộc. Họ cũng có thể hối lộ quân đội và thị trấn của kẻ địch. Metsuke còn có thể bắt giữ và đưa các đặc vụ địch ra “công lý”, đồng thời đặc biệt hiệu quả trong việc phát hiện và chống lại hoạt động của ninja.
+[138] Metsuke là những người thi hành quyền lực của lãnh chúa daimyo một cách không khoan nhượng, dùng mưu kế để kiểm soát các tướng lĩnh và dân chúng bất mãn trong gia tộc. Họ cũng có thể hối lộ quân đội và thị trấn của kẻ địch. Metsuke còn có thể bắt giữ và đưa các đặc vụ địch ra “công lý”, đồng thời đặc biệt hiệu quả trong việc phát hiện và chống lại hoạt động của ninja.
+[139] Các Nhà sư là những người nhiệt thành truyền bá giáo lý của Đức Phật. Họ là những kẻ kích động có thể làm suy giảm sĩ khí quân địch và gây bất ổn trong các thị trấn của kẻ thù, đồng thời cũng có thể truyền cảm hứng cho quân ta và mang lại sự hài lòng cho dân chúng của mình. Các Nhà sư còn có thể cải đạo dân chúng sang Phật giáo và khiến đặc vụ địch từ bỏ nhiệm vụ để theo đuổi cuộc sống thanh bình và tự chiêm nghiệm. Họ đặc biệt hiệu quả khi đối đầu với metsuke.
+[140] Các Nhà sư là những người nhiệt thành truyền bá giáo lý của Đức Phật. Họ là những kẻ kích động có thể làm suy giảm sĩ khí quân địch và gây bất ổn trong các thị trấn của kẻ thù, đồng thời cũng có thể truyền cảm hứng cho quân ta và mang lại sự hài lòng cho dân chúng của mình. Các Nhà sư còn có thể cải đạo dân chúng sang Phật giáo và khiến đặc vụ địch từ bỏ nhiệm vụ để theo đuổi cuộc sống thanh bình và tự chiêm nghiệm. Họ đặc biệt hiệu quả khi đối đầu với metsuke.
+[141] Các Nhà truyền giáo là những người nhiệt thành truyền bá con đường Cơ Đốc. Họ là những kẻ kích động có thể làm suy giảm sĩ khí quân địch và gây bất ổn trong các thị trấn của kẻ thù, đồng thời cũng có thể truyền cảm hứng cho quân ta và mang lại sự hài lòng cho dân chúng của mình. Các Nhà truyền giáo còn có thể cải đạo dân chúng sang Cơ Đốc giáo và khiến đặc vụ địch từ bỏ nhiệm vụ để sống cuộc đời sám hối kính sợ Chúa. Họ đặc biệt hiệu quả khi đối đầu với metsuke.
+[142] Các Nhà truyền giáo là những người nhiệt thành truyền bá con đường Cơ Đốc. Họ là những kẻ kích động có thể làm suy giảm sĩ khí quân địch và gây bất ổn trong các thị trấn của kẻ thù, đồng thời cũng có thể truyền cảm hứng cho quân ta và mang lại sự hài lòng cho dân chúng của mình. Các Nhà truyền giáo còn có thể cải đạo dân chúng sang Cơ Đốc giáo và khiến đặc vụ địch từ bỏ nhiệm vụ để sống cuộc đời sám hối kính sợ Chúa. Họ đặc biệt hiệu quả khi đối đầu với metsuke.
+[143] Ninja là bậc thầy về mưu kế và thâm nhập. Kỹ năng ninjutsu cho phép họ do thám kẻ địch hoặc phá hoại quân đội và thị trấn lâu đài của chúng, đồng thời di chuyển qua lãnh thổ mà không bị phát hiện. Họ cũng là những sát thủ lão luyện, ra tay từ trong bóng tối để giết cả tướng lĩnh lẫn đặc vụ địch. Kỹ năng thâm nhập khiến ninja trở thành trinh sát vô giá cho quân đội của gia tộc, trong khi các mối quan hệ trong thế giới ngầm giúp họ nắm rõ mọi động tĩnh khi đến thăm các tỉnh thân thiện.
+[144] Ninja là bậc thầy về mưu kế và thâm nhập. Kỹ năng ninjutsu cho phép họ do thám kẻ địch hoặc phá hoại quân đội và thị trấn lâu đài của chúng, đồng thời di chuyển qua lãnh thổ mà không bị phát hiện. Họ cũng là những sát thủ lão luyện, ra tay từ trong bóng tối để giết cả tướng lĩnh lẫn đặc vụ địch. Kỹ năng thâm nhập khiến ninja trở thành trinh sát vô giá cho quân đội của gia tộc, trong khi các mối quan hệ trong thế giới ngầm giúp họ nắm rõ mọi động tĩnh khi đến thăm các tỉnh thân thiện.
+[145] Geisha là những sát thủ sử dụng sự quyến rũ và cải trang để xâm nhập vào hàng ngũ kẻ địch và hạ sát cả tướng lĩnh lẫn đặc vụ. Dù không có khả năng ẩn mình như ninja, họ ra tay với hiệu quả chết người và có thể thoát khỏi sự truy bắt của cả những đặc vụ địch lành nghề nhất.
+[146] Geisha là những sát thủ sử dụng sự quyến rũ và cải trang để xâm nhập vào hàng ngũ kẻ địch và hạ sát cả tướng lĩnh lẫn đặc vụ. Dù không có khả năng ẩn mình như ninja, họ ra tay với hiệu quả chết người và có thể thoát khỏi sự truy bắt của cả những đặc vụ địch lành nghề nhất.
+[147] Ishin shishi là những “người mang chí lớn”, tận tụy với một mục tiêu duy nhất: khôi phục quyền cai trị thiêng liêng của Thiên hoàng. Là những người bảo vệ Thiên hoàng, họ tập hợp và truyền cảm hứng cho những người trung thành, đồng thời khuấy động bất ổn trong hàng ngũ đối thủ. Kiên định và nguy hiểm, họ sẽ không ngần ngại giết bất kỳ ai cản đường mình.
+[148] Geisha là những nghệ sĩ tài hoa về âm nhạc, khiêu vũ và thi ca, dùng nghệ thuật của mình để giải trí và nâng cao tinh thần. Tài năng của họ đôi khi cũng phục vụ mục đích quân sự: có người đàn ông yếu đuối và dễ bị phân tâm; có người sẵn sàng phản bội lý tưởng vì sắc đẹp.
+[149] Geisha là những sát thủ sử dụng sự quyến rũ và cải trang để xâm nhập vào hàng ngũ kẻ địch và hạ sát cả tướng lĩnh lẫn đặc vụ. Dù không có khả năng ẩn mình như ninja, họ ra tay với hiệu quả chết người và có thể thoát khỏi sự truy bắt của cả những đặc vụ địch lành nghề nhất.
+[150] Shinobi là bậc thầy về mưu kế; họ tiến hành do thám, phá hoại và ám sát. Khả năng thâm nhập và quan sát của họ cũng khiến họ trở thành trinh sát vô giá cho quân đội, đồng thời cho phép thiết lập mạng lưới gián điệp trong các khu định cư của gia tộc.
+[151] Shirabyoshi là những vũ công truyền thống biểu diễn cho giới quý tộc trong các dịp nghi lễ. Mặc trang phục Thần đạo trang trọng của nam giới và trang điểm mặt trắng, những điệu múa chậm rãi, nhịp nhàng để tôn vinh các vị thần còn bao gồm thơ ca, ca hát và âm nhạc. Kỹ năng chính của shirabyoshi là quyến rũ, thuyết phục mục tiêu gia nhập phe của lãnh chúa mình. Shirabyoshi cũng có thể giải trí cho quý tộc tại các thị trấn thân thiện để thúc đẩy sự phát triển của họ và giải trí cho các tướng quân thân thiện trên chiến trường, từ đó tăng lòng trung thành của họ với gia tộc và chống lại nỗ lực hối lộ hoặc dụ dỗ của đặc vụ địch.
+[152] Các lão binh ngoại quốc là bậc thầy chiến tranh, đã chiến đấu và sống sót qua nhiều trận đánh. Nhiều năm phục vụ khiến họ trở thành những huấn luyện viên và quản trị quân sự xuất sắc; kinh nghiệm của họ giúp họ trở thành xạ thủ thiện xạ và công binh phá hoại giỏi, đồng thời là những đấu sĩ tay đôi không biết sợ hãi.
+[154] Shinsengumi là những người thi hành công lý của Shogun, cưỡng ép hoặc trấn áp bất kỳ ai dám chống lại ý chí của ông. Họ sẽ sử dụng mọi biện pháp cần thiết để ngăn phe ủng hộ Thiên hoàng lật đổ Mạc phủ, kể cả ám sát kẻ thù và kích động những phần tử bất mãn nổi dậy công khai.
+[155] Junsatsushi đảm bảo lòng trung thành và sự tuân phục của các tướng quân thân thiện, tăng thu nhập bằng cách ngăn chặn tham nhũng, bảo vệ các thị trấn lâu đài và quân đội của ta khỏi mưu kế của kẻ địch khi được bố trí trong đó, và có thể yêu cầu các thị trấn lâu đài trung lập hoặc của địch tuyên thệ trung thành cùng với mọi lực lượng đồn trú tại đó. Junsatsushi cũng có thể mua chuộc các đặc vụ đối thủ.
+[159] Monomi hoạt động như sát thủ, gián điệp, kẻ phá hoại và trinh sát, được tuyển mộ từ các công trình đặc sản của tỉnh. Ngoài kỹ năng mưu kế, monomi còn tăng phạm vi di chuyển và tầm nhìn của quân đội ta khi được đặt trong đó. Họ cũng có thể thiết lập mạng lưới gián điệp trong các thị trấn lâu đài, tăng khả năng phát hiện các đặc vụ và quân đội đối thủ đang ẩn náu trong một tỉnh. Monomi vô hình với kẻ địch cho đến khi bị phát hiện.
+[161] Đô đốc.PLACEHOLDER
+[162] Các Ikko Monk là những tín đồ nhiệt thành của tông phái Ikko thuộc Phật giáo Jodo Shinshu. Họ là những kẻ kích động có thể làm suy giảm sĩ khí quân địch và gây bất ổn trong các thị trấn của kẻ thù, đồng thời cũng có thể truyền cảm hứng cho quân ta và mang lại sự hài lòng cho dân chúng của mình. Ikko Monk còn có thể cải đạo dân chúng sang tín ngưỡng Ikko và khiến đặc vụ địch từ bỏ nhiệm vụ để theo đuổi đời sống tâm linh Jodo Shinshu. Họ đặc biệt hiệu quả khi đối đầu với metsuke.
+[163] Sou có thể truyền cảm hứng cho quân đội thân thiện hoặc xoa dịu dân chúng đang phẫn nộ bằng lời lẽ khai sáng, đồng thời cũng có thể làm suy giảm sĩ khí lực lượng địch, giảm khả năng hối lộ thành công, tẩy não đặc vụ địch khiến họ giải nghệ, hoặc kích động dân chúng của kẻ thù nổi dậy.
+[164] Đô đốc.PLACEHOLDER
+[165] Một Nhà truyền giáo Tin Lành là giáo sĩ truyền bá giáo lý Tin Lành. Đặt một Nhà truyền giáo trong một vùng sẽ khiến dân chúng dần cải đạo sang Tin Lành. Họ sẽ tiếp tục cải đạo vùng đó cho đến khi được di chuyển.
+[166] Tướng quân. PLACEHOLDER.

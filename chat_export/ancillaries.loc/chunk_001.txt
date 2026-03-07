@@ -1,0 +1,103 @@
+=== CHUNK 1/14 — ancillaries.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[0] Noodle Chef
+[1] "Gissa job! I could do that. No, really, I could do that. Go on, gissa job!"
+[2] French Naval Engineer
+[3] Henry Schnell
+[4] Legendary Netsuke Carver
+[5] Tiger Claws
+[6] Sojutsu Master
+[7] "Do not throw your bow when the arrows are gone!"
+[8] von Clausewitz's "On War"
+[9] Hunting Dog
+[10] Origami Master
+[11] Yakuza
+[12] Doug Philips
+[13] Tony Newman
+[14] Even the mightiest man had to learn how to use his might from someone.
+[15] A little goes a long way.
+[16] All swords are dangerous: a master ensures that only the enemy needs worry about that danger.
+[17] Spencer Repeating Rifle
+[18] Fintry-Kyle Escape Apparatus
+[19] Groom
+[20] Legendary Banner
+[21] Flute Player
+[22] Not all mysteries need be understood.
+[23] Naginatajutsu Master
+[24] "Pass the rice, fatty, before you eat it all!"
+[25] "Proven in combat, by the Confederate States of America, sir, among others."
+[26] "Your bowstring, my lord. It is disharmonious."
+[27] There are strategies for everything, from love to conquest.
+[28] Legendary Spy Master
+[29] Biwa Player
+[30] "We will expel all the barbarians…by the sword if necessary!"
+[31] Shirabyoshi Dancer
+[32] Pet Monkey
+[33] Master of the Tea Ceremony
+[34] Unpracticed Gun Crews
+[35] Rich Merchant
+[36] Spoiled Rations
+[37] Time is never wasted, only misspent.
+[38] "Learn what your enemy thinks, and you learn his weaknesses."
+[39] A warrior's chest may be pierced by a thousand arrows but, as long as his heart is true, what does it matter?
+[40] Every good player knows that victory is the precise application of strategy.
+[41] Pearl Fisherman
+[42] Legendary Kabuki Master
+[43] Edo Cat
+[44] Gun Crew Drill
+[45] Honourable Attendant
+[46] One cut, one death.
+[47] A hungry student listens only to his belly.
+[48] "No, I do not keep her for her wits!"
+[49] Skittish Mounts
+[50] A game of kings, played by any man.
+[51] There is more to a farmers' world than rice.
+[52] Onsen Geisha
+[53] Legendary Bowyer
+[54] Glass Plate Camera
+[55] The first cut is the deepest.
+[56] "But there are no elephants in Japan..."
+[57] "Sordid, lurid stuff, and funny. But it tells us a truth about the gaijin."
+[58] Precision engineered for maximum efficiency.
+[59] "Peaceful" does not mean "defenceless".
+[60] Apocryphal Ninjato
+[61] Apocryphal Shinobigatana
+[62] Flash Powder Bombs
+[63] "There is no art in slashing a man to pieces!"
+[64] Whisky
+[65] Every ninja has his tricks.
+[66] A stud is always useful.
+[67] A single thrust, and life is gone.
+[68] Mandokoro
+[69] Tetsu-Bishi Caltrops
+[70] Only an arrow's length separates archer and target.
+[71] A good eye for wind and wave can be profitable.
+[72] Livestock Pestilence
+[73] "Do try the fish."
+[74] "A bit of a kick, but nothing a good man cannot handle."
+[75] Okinawan Kobudo Master
+[76] Leon Roches
+[77] Chinese Courtier
+[78] Household Chamberlain
+[79] Kumicho
+[80] Battle gives a man a powerful thirst.
+[81] Gomuyumi
+[82] Sword training is hardly ever wasted.
+[83] "Get off me, you miserable rice-nibbling bugger!"
+[84] Begging Bowl
+[85] Some swords will seek out worthy hands.
+[86] Exceptional Bodyguard
+[87] The wise man runs with caution when touching cloth.
+[88] Nothing ventured over dinner, nothing gained.
+[89] There are many paths to heaven.
+[90] English Butler
+[91] French Chef
+[92] Kawahori Hand Fan
+[93] A samurai may need his weapon at any moment.
+[94] The burden of a lifetime bends a man's back.
+[95] Truth flies on swift wings.
+[96] The White Bear is come!
+[97] Orders are orders.
+[98] Retiring from the world is not ignoring the world.
+[99] "Real? Of course it's real!"

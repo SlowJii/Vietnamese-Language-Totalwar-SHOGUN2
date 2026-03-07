@@ -1,0 +1,103 @@
+=== CHUNK 11/14 — ancillaries.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[1000] King James Bible
+[1001] Simple, sturdy and soldier-proof. Deadly, in the right hands, too.
+[1002] Legendary Kabuto
+[1003] A cow in a bottle! What will these foreigners think of next?
+[1004] "Drink. Be at peace."
+[1005] Hangyoku
+[1006] Dreyse Needle Gun
+[1007] Loyalty reflects well on the one who gives it.
+[1008] Victory can be decided on the pages of a ledger.
+[1009] "How'd you like to kill thirty bandits?"
+[1010] "If you can’t run in a war then it’s already over."
+[1011] A wise samurai does not always need to draw his sword, or see others fight, to know the outcome.
+[1012] "If it had been a real sword, you would be dead."
+[1013] "I can't kill a lot with one sword!"
+[1014] "I'm Hayashida Heihachi, a fencer of the Wood Cut School."
+[1015] "No sir, my decision has been made. I'll follow you, sir."
+[1016] "I will fight damn Yankees wherever they may be found, sir!"
+[1017] Elegance sometimes gives way to convenience.
+[1018] Shogun's Emissary
+[1019] Shamisen
+[1020] Common Mistress
+[1021] Blowpipe
+[1022] Jujutsu Master
+[1023] "A Frenchman, sir, mixes business with passion!"
+[1024] A battlefleet obeys orders. Fishermen drift.
+[1025] Sticky-Fingered Storemaster
+[1026] "Take that man's name!"
+[1027] A good firm swing is always an answer.
+[1028] Samurai-dokoro
+[1029] "I challenge you. And now you will fail!"
+[1030] No task is humble if it is done well.
+[1031] Garden of Convalescence
+[1032] Artillery Binoculars
+[1033] Anything from the far side of the world, even the strange  "Low Countries", grants power.
+[1034] "Neatly done, Lieutenant. Carry on."
+[1035] Cold hands make strangers of familiar tasks.
+[1036] Buddhist Rabblerouser
+[1037] To meet the sword's edge is the only true test of courage.
+[1038] Money matters.
+[1039] Improved Gun Sights
+[1040] Master Calligrapher
+[1041] Charles Albert Dubousquet
+[1042] Groom
+[1043] "There are ironclad arguments as to why the Royal Navy rules the waves."
+[1044] Quench the raging fires within.
+[1045] "Trade, my lord, is beneath your dignity, but wealth is never dishonourable."
+[1046] "Unbalanced? Nonsense! Next you'll be saying I'm unbalanced!"
+[1047] "This is a sword! Your blade - ha! - I would not scrape out a peasants' dungheap with it!"
+[1048] Legendary Suneate
+[1049] Legendary Go Player
+[1050] Moon Carp
+[1051] Make every shot count.
+[1052] Hunting Dog
+[1053] Cherry Blossom
+[1054] European Journalist
+[1055] Expert Gun Instructor
+[1056] "Let them look in all the wrong places!"
+[1057] Master of the Tea Ceremony
+[1058] Shinobi Informer
+[1059] Clan Specialism Retainer: Yumi Training Network
+[1060] Karakuri Ningyo
+[1061] "Flagellation! That's what! Whip some faith into the little bleeders!"
+[1062] "As you wish it, my lord!"
+[1063] Ore no hobaakurafuto unagi ippai aru!
+[1064] Wooden Practice Spears
+[1065] Legendary Banner
+[1066] "Is there an able-bodied seaman anywhere on this ship?!"
+[1067] Shakuhachi
+[1068] Suburi Bokken
+[1069] Bokken
+[1070] Koguma
+[1071] Benkei
+[1072] To capture a thought, a moment, on paper: that is power.
+[1073] "Oooh, you have got rough hands!"
+[1074] The holiest of water may convert many a heathen.
+[1075] "It was a gift."
+[1076] Hand Warmer
+[1077] "I am a man of god!"
+[1078] French Naval Engineer
+[1079] Christian Breastplate
+[1080] "I'm from Swansea, look you!"
+[1081] Bad Omen
+[1082] Legendary Item: Legendary Kabuto of The Shogun
+[1083] "You ain't seen me, right?"
+[1084] Microscope
+[1085] Overweight Infantry Officer
+[1086] Gaijin fear a man with the refined taste to wear one of these.
+[1087] Forage Parties
+[1088] Tachi
+[1089] Iaijutsu Master
+[1090] There are eyes and ears everywhere, but only one mind.
+[1091] Mii-dera Monk
+[1092] Inquisitor
+[1093] Snider Breech-loading Rifle
+[1094] Skilled Weaponsmith
+[1095] Tennis Racket
+[1096] Zen-Like Silence
+[1097] German Gunmaker's Agent
+[1098] Against some daggers, armour is no defence.
+[1099] The poem waits for the right pen.

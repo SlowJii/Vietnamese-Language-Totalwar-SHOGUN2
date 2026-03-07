@@ -1,0 +1,176 @@
+key	text	tooltip
+#Loc;1;text/db/agent_culture_details.loc		
+agent_culture_details_description_text_57	Một Gián điệp đồng thời cũng là kẻ phá hoại và sát thủ, có thể được cử vào một thành phố mục tiêu để báo cáo tình hình bên trong và phá hoại các công trình. Để thực hiện ám sát hãy chọn một nhân vật mục tiêu.	true
+agent_culture_details_description_text_56	Một Gián điệp đồng thời cũng là kẻ phá hoại và sát thủ, có thể được cử vào một thành phố mục tiêu để báo cáo tình hình bên trong và phá hoại các công trình. Để thực hiện ám sát hãy chọn một nhân vật mục tiêu.	true
+agent_culture_details_description_text_55	Arrr! Ye scurvy pirate! (PLACEHOLDER)	true
+agent_culture_details_description_text_54	Arrr! Ye scurvy pirate! (PLACEHOLDER)	true
+agent_culture_details_description_text_53	Arrr! Ye scurvy pirate! (PLACEHOLDER)	true
+agent_culture_details_description_text_52	Arrr! Ye scurvy pirate! (PLACEHOLDER)	true
+agent_culture_details_description_text_51	Một Nhà truyền giáo Chính Thống là giáo sĩ truyền bá đức tin Chính Thống giáo. Đặt họ trong một vùng sẽ khiến dân chúng dần cải đạo sang Chính Thống giáo. Họ sẽ tiếp tục tự động cải đạo dân cư cho đến khi được di chuyển.	true
+agent_culture_details_description_text_50	Ninja là bậc thầy về mưu kế và thâm nhập. Kỹ năng ninjutsu cho phép họ do thám kẻ địch hoặc phá hoại quân đội và thị trấn lâu đài của chúng, đồng thời di chuyển qua lãnh thổ mà không bị phát hiện. Họ cũng là những sát thủ lão luyện, ra tay từ trong bóng tối để giết cả tướng lĩnh lẫn đặc vụ địch. Kỹ năng thâm nhập khiến ninja trở thành trinh sát vô giá cho quân đội của gia tộc, trong khi các mối quan hệ trong thế giới ngầm giúp họ nắm rõ mọi động tĩnh khi đến thăm các tỉnh thân thiện.	true
+agent_culture_details_description_text_59	PLACEHOLDER	true
+agent_culture_details_description_text_58	Một Trinh sát là gián điệp, kẻ phá hoại và sát thủ có thể được cử vào một thành phố mục tiêu để báo cáo tình hình bên trong và phá hoại các công trình. Để thực hiện ám sát hãy chọn một nhân vật mục tiêu.	true
+agent_culture_details_description_text_47	Thượng thư. PLACEHOLDER.	true
+agent_culture_details_description_text_46	Thượng thư. PLACEHOLDER.	true
+agent_culture_details_description_text_45	Thượng thư. PLACEHOLDER.	true
+agent_culture_details_description_text_44	Thượng thư. PLACEHOLDER.	true
+agent_culture_details_description_text_43	Thượng thư. PLACEHOLDER.	true
+agent_culture_details_description_text_42	Thượng thư. PLACEHOLDER.	true
+agent_culture_details_description_text_41	Một Imam là giáo sĩ truyền bá giáo lý Hồi giáo khắp thế giới. Đặt một Imam trong một vùng sẽ khiến dân chúng dần cải đạo sang Hồi giáo. Họ sẽ tiếp tục tự động cải đạo vùng đó cho đến khi được di chuyển.	true
+agent_culture_details_description_text_40	Một Imam là giáo sĩ truyền bá giáo lý Hồi giáo khắp thế giới. Đặt một Imam trong một vùng sẽ khiến dân chúng dần cải đạo sang Hồi giáo. Họ sẽ tiếp tục tự động cải đạo vùng đó cho đến khi được di chuyển.	true
+agent_culture_details_description_text_49	Các Nhà sư là những người nhiệt thành truyền bá giáo lý của Đức Phật. Họ là những kẻ kích động có thể làm suy giảm sĩ khí quân địch và gây bất ổn trong các thị trấn của kẻ thù, đồng thời cũng có thể truyền cảm hứng cho quân ta và mang lại sự hài lòng cho dân chúng của mình. Các Nhà sư còn có thể cải đạo dân chúng sang Phật giáo và khiến đặc vụ địch từ bỏ nhiệm vụ để theo đuổi cuộc sống thanh bình và tự chiêm nghiệm. Họ đặc biệt hiệu quả khi đối đầu với metsuke.	true
+agent_culture_details_description_text_48	Các Nhà truyền giáo là những người nhiệt thành truyền bá con đường Cơ Đốc. Họ là những kẻ kích động có thể làm suy giảm sĩ khí quân địch và gây bất ổn trong các thị trấn của kẻ thù, đồng thời cũng có thể truyền cảm hứng cho quân ta và mang lại sự hài lòng cho dân chúng của mình. Các Nhà truyền giáo còn có thể cải đạo dân chúng sang Cơ Đốc giáo và khiến đặc vụ địch từ bỏ nhiệm vụ để sống cuộc đời sám hối kính sợ Chúa. Họ đặc biệt hiệu quả khi đối đầu với metsuke.	true
+agent_culture_details_description_text_37	Một Gentleman là người có học thức, có thể được cử vào các công trình giáo dục để đẩy nhanh quá trình nghiên cứu, đồng thời có thể đấu tay đôi với Gián điệp và các Gentleman khác. Hãy chọn một nhân vật mục tiêu để thách đấu tay đôi.	true
+agent_culture_details_description_text_36	Một Gentleman là người có học thức, có thể được cử vào các công trình giáo dục để đẩy nhanh quá trình nghiên cứu, đồng thời có thể đấu tay đôi với Gián điệp và các Gentleman khác. Hãy chọn một nhân vật mục tiêu để thách đấu tay đôi.	true
+agent_culture_details_description_text_35	Geisha là những sát thủ sử dụng sự quyến rũ và cải trang để xâm nhập vào hàng ngũ kẻ địch và hạ sát cả tướng lĩnh lẫn đặc vụ. Dù không có khả năng ẩn mình như ninja, họ ra tay với hiệu quả chết người và có thể thoát khỏi sự truy bắt của cả những đặc vụ địch lành nghề nhất.	true
+agent_culture_details_description_text_34	Colonel. PLACEHOLDER.	true
+agent_culture_details_description_text_33	Colonel. PLACEHOLDER.	true
+agent_culture_details_description_text_32	PLACEHOLDER Colonel lvl 0	true
+agent_culture_details_description_text_31	Colonel. PLACEHOLDER.	true
+agent_culture_details_description_text_30	Colonel. PLACEHOLDER.	true
+agent_culture_details_description_text_39	Metsuke là những người thi hành quyền lực của lãnh chúa daimyo một cách không khoan nhượng, dùng mưu kế để kiểm soát các tướng lĩnh và dân chúng bất mãn trong gia tộc. Họ cũng có thể hối lộ quân đội và thị trấn của kẻ địch. Metsuke còn có thể bắt giữ và đưa các đặc vụ địch ra “công lý”, đồng thời đặc biệt hiệu quả trong việc phát hiện và chống lại hoạt động của ninja.	true
+agent_culture_details_description_text_38	Một Brahmin là giáo sĩ truyền bá đức tin Hindu khắp thế giới. Đặt một Brahmin trong một vùng sẽ khiến dân chúng dần cải đạo sang Ấn Độ giáo. Họ sẽ tiếp tục tự động cải đạo vùng đó cho đến khi được di chuyển.	true
+agent_culture_details_description_text_27	Một Nhà truyền giáo Công giáo là giáo sĩ truyền bá giáo lý Công giáo. Đặt một Nhà truyền giáo trong một vùng sẽ khiến dân chúng dần cải đạo sang Công giáo. Họ sẽ tiếp tục tự động cải đạo vùng đó cho đến khi được di chuyển.	true
+agent_culture_details_description_text_26	Đội trưởng. PLACEHOLDER.	true
+agent_culture_details_description_text_25	Đội trưởng. PLACEHOLDER.	true
+agent_culture_details_description_text_24	Đội trưởng. PLACEHOLDER.	true
+agent_culture_details_description_text_23	Đội trưởng. PLACEHOLDER.	true
+agent_culture_details_description_text_22	Đội trưởng. PLACEHOLDER.	true
+agent_culture_details_description_text_21	Đội trưởng. PLACEHOLDER.	true
+agent_culture_details_description_text_20	Cường đạo. PLACEHOLDER.	true
+agent_culture_details_description_text_29	Colonel. PLACEHOLDER.	true
+agent_culture_details_description_text_28	Colonel. PLACEHOLDER.	true
+agent_culture_details_description_text_17	Cường đạo. PLACEHOLDER.	true
+agent_culture_details_description_text_16	Một Hashishin là gián điệp, kẻ phá hoại và sát thủ có thể được cử vào một thành phố mục tiêu để báo cáo tình hình bên trong và phá hoại các công trình. Để thực hiện ám sát hãy chọn một nhân vật mục tiêu.	true
+agent_culture_details_description_text_15	Một Thugee là gián điệp, kẻ phá hoại và sát thủ có thể được cử vào một thành phố mục tiêu để báo cáo tình hình bên trong và phá hoại các công trình. Để thực hiện ám sát hãy chọn một nhân vật mục tiêu.	true
+agent_culture_details_description_text_14	Một Hashishin là gián điệp, kẻ phá hoại và sát thủ có thể được cử vào một thành phố mục tiêu để báo cáo tình hình bên trong và phá hoại các công trình. Để thực hiện ám sát hãy chọn một nhân vật mục tiêu.	true
+agent_culture_details_description_text_13	Đô đốc. PLACEHOLDER	true
+agent_culture_details_description_text_12	Đô đốc. PLACEHOLDER	true
+agent_culture_details_description_text_11	Đô đốc. PLACEHOLDER	true
+agent_culture_details_description_text_10	Đô đốc. PLACEHOLDER	true
+agent_culture_details_description_text_19	Cường đạo. PLACEHOLDER.	true
+agent_culture_details_description_text_18	Cường đạo. PLACEHOLDER.	true
+agent_culture_details_onscreen_name_54	Hải tặc	true
+agent_culture_details_onscreen_name_55	Hải tặc	true
+agent_culture_details_onscreen_name_56	Gián điệp	true
+agent_culture_details_onscreen_name_57	Gián điệp	true
+agent_culture_details_onscreen_name_50	Ninja	true
+agent_culture_details_onscreen_name_51	Nhà truyền giáo Chính Thống	true
+agent_culture_details_onscreen_name_52	Hải tặc	true
+agent_culture_details_onscreen_name_53	Hải tặc	true
+agent_culture_details_onscreen_name_58	Trinh sát	true
+agent_culture_details_onscreen_name_59	Đội trưởng	true
+agent_culture_details_onscreen_name_44	Thượng thư	true
+agent_culture_details_onscreen_name_45	Thượng thư	true
+agent_culture_details_onscreen_name_46	Thượng thư	true
+agent_culture_details_onscreen_name_47	Thượng thư	true
+agent_culture_details_onscreen_name_40	Imam	true
+agent_culture_details_onscreen_name_41	Imam	true
+agent_culture_details_onscreen_name_42	Thượng thư	true
+agent_culture_details_onscreen_name_43	Thượng thư	true
+agent_culture_details_onscreen_name_48	Nhà truyền giáo	true
+agent_culture_details_onscreen_name_49	Nhà sư	true
+agent_culture_details_onscreen_name_5	Tướng quân	true
+agent_culture_details_onscreen_name_4	Orgeneral	true
+agent_culture_details_onscreen_name_7	Orgeneral	true
+agent_culture_details_onscreen_name_6	Tướng quân	true
+agent_culture_details_onscreen_name_1	Học giả Đông phương	true
+agent_culture_details_onscreen_name_0	Học giả Đông phương	true
+agent_culture_details_onscreen_name_3	Tướng quân	true
+agent_culture_details_onscreen_name_2	Học giả Đông phương	true
+agent_culture_details_onscreen_name_9	Đô đốc	true
+agent_culture_details_onscreen_name_8	Nhà truyền giáo Tin Lành	true
+agent_culture_details_onscreen_name_14	Hashishin	true
+agent_culture_details_onscreen_name_15	Thugee	true
+agent_culture_details_onscreen_name_16	Hashishin	true
+agent_culture_details_onscreen_name_17	Highwayman	true
+agent_culture_details_onscreen_name_10	Amir-al-bahr	true
+agent_culture_details_onscreen_name_11	Đô đốc	true
+agent_culture_details_onscreen_name_12	Amir-al-bahr	true
+agent_culture_details_onscreen_name_13	Amir-al-bahr	true
+agent_culture_details_onscreen_name_18	Thug	true
+agent_culture_details_onscreen_name_19	Cường đạo	true
+agent_culture_details_onscreen_name_34	Warchief	true
+agent_culture_details_onscreen_name_35	Geisha	true
+agent_culture_details_onscreen_name_36	Gentleman	true
+agent_culture_details_onscreen_name_37	Gentleman	true
+agent_culture_details_onscreen_name_30	Brigadier	true
+agent_culture_details_onscreen_name_31	Brigadier	true
+agent_culture_details_onscreen_name_32	Đội trưởng	true
+agent_culture_details_onscreen_name_33	Brigadier	true
+agent_culture_details_onscreen_name_38	Brahmin	true
+agent_culture_details_onscreen_name_39	Metsuke	true
+agent_culture_details_onscreen_name_24	Đội trưởng	true
+agent_culture_details_onscreen_name_25	Đội trưởng	true
+agent_culture_details_onscreen_name_26	Đội trưởng	true
+agent_culture_details_onscreen_name_27	Nhà truyền giáo Công giáo	true
+agent_culture_details_onscreen_name_20	Raider	true
+agent_culture_details_onscreen_name_21	Đội trưởng	true
+agent_culture_details_onscreen_name_22	Đội trưởng	true
+agent_culture_details_onscreen_name_23	Đội trưởng	true
+agent_culture_details_onscreen_name_28	Brigadier	true
+agent_culture_details_onscreen_name_29	Brigadier	true
+agent_culture_details_onscreen_name_183	Nhà sư	true
+agent_culture_details_onscreen_name_185	Nhà sư	true
+agent_culture_details_onscreen_name_186	Nhà truyền giáo	true
+agent_culture_details_onscreen_name_187	Nhà truyền giáo	true
+agent_culture_details_onscreen_name_190	Metsuke	true
+agent_culture_details_onscreen_name_194	Metsuke	true
+agent_culture_details_onscreen_name_141	Geisha	true
+agent_culture_details_onscreen_name_246	Ishin Shishi	true
+agent_culture_details_onscreen_name_247	Geisha	true
+agent_culture_details_onscreen_name_150	Geisha	true
+agent_culture_details_onscreen_name_168	Ninja	true
+agent_culture_details_onscreen_name_173	Ninja	true
+agent_culture_details_onscreen_name_200	Thành viên gia tộc	true
+agent_culture_details_onscreen_name_202	Đô đốc	true
+agent_culture_details_onscreen_name_205	Ikko Monk	true
+agent_culture_details_onscreen_name_206	Sou	true
+agent_culture_details_onscreen_name_213	Monomi	true
+agent_culture_details_onscreen_name_118	Tướng quân	true
+agent_culture_details_onscreen_name_222	Junsatsushi	true
+agent_culture_details_onscreen_name_125	Tướng quân	true
+agent_culture_details_onscreen_name_127	Đội trưởng	true
+agent_culture_details_onscreen_name_230	Shirabyoshi	true
+agent_culture_details_onscreen_name_232	Lão binh ngoại quốc	true
+agent_culture_details_onscreen_name_133	Đội trưởng	true
+agent_culture_details_onscreen_name_233	Shinsengumi	true
+agent_culture_details_onscreen_name_138	Geisha	true
+agent_culture_details_onscreen_name_239	Shinobi	true
+agent_culture_details_description_text_190	Metsuke là những người thi hành quyền lực của lãnh chúa daimyo một cách không khoan nhượng, dùng mưu kế để kiểm soát các tướng lĩnh và dân chúng bất mãn trong gia tộc. Họ cũng có thể hối lộ quân đội và thị trấn của kẻ địch. Metsuke còn có thể bắt giữ và đưa các đặc vụ địch ra “công lý”, đồng thời đặc biệt hiệu quả trong việc phát hiện và chống lại hoạt động của ninja.	true
+agent_culture_details_description_text_194	Metsuke là những người thi hành quyền lực của lãnh chúa daimyo một cách không khoan nhượng, dùng mưu kế để kiểm soát các tướng lĩnh và dân chúng bất mãn trong gia tộc. Họ cũng có thể hối lộ quân đội và thị trấn của kẻ địch. Metsuke còn có thể bắt giữ và đưa các đặc vụ địch ra “công lý”, đồng thời đặc biệt hiệu quả trong việc phát hiện và chống lại hoạt động của ninja.	true
+agent_culture_details_description_text_183	Các Nhà sư là những người nhiệt thành truyền bá giáo lý của Đức Phật. Họ là những kẻ kích động có thể làm suy giảm sĩ khí quân địch và gây bất ổn trong các thị trấn của kẻ thù, đồng thời cũng có thể truyền cảm hứng cho quân ta và mang lại sự hài lòng cho dân chúng của mình. Các Nhà sư còn có thể cải đạo dân chúng sang Phật giáo và khiến đặc vụ địch từ bỏ nhiệm vụ để theo đuổi cuộc sống thanh bình và tự chiêm nghiệm. Họ đặc biệt hiệu quả khi đối đầu với metsuke.	true
+agent_culture_details_description_text_185	Các Nhà sư là những người nhiệt thành truyền bá giáo lý của Đức Phật. Họ là những kẻ kích động có thể làm suy giảm sĩ khí quân địch và gây bất ổn trong các thị trấn của kẻ thù, đồng thời cũng có thể truyền cảm hứng cho quân ta và mang lại sự hài lòng cho dân chúng của mình. Các Nhà sư còn có thể cải đạo dân chúng sang Phật giáo và khiến đặc vụ địch từ bỏ nhiệm vụ để theo đuổi cuộc sống thanh bình và tự chiêm nghiệm. Họ đặc biệt hiệu quả khi đối đầu với metsuke.	true
+agent_culture_details_description_text_186	Các Nhà truyền giáo là những người nhiệt thành truyền bá con đường Cơ Đốc. Họ là những kẻ kích động có thể làm suy giảm sĩ khí quân địch và gây bất ổn trong các thị trấn của kẻ thù, đồng thời cũng có thể truyền cảm hứng cho quân ta và mang lại sự hài lòng cho dân chúng của mình. Các Nhà truyền giáo còn có thể cải đạo dân chúng sang Cơ Đốc giáo và khiến đặc vụ địch từ bỏ nhiệm vụ để sống cuộc đời sám hối kính sợ Chúa. Họ đặc biệt hiệu quả khi đối đầu với metsuke.	true
+agent_culture_details_description_text_187	Các Nhà truyền giáo là những người nhiệt thành truyền bá con đường Cơ Đốc. Họ là những kẻ kích động có thể làm suy giảm sĩ khí quân địch và gây bất ổn trong các thị trấn của kẻ thù, đồng thời cũng có thể truyền cảm hứng cho quân ta và mang lại sự hài lòng cho dân chúng của mình. Các Nhà truyền giáo còn có thể cải đạo dân chúng sang Cơ Đốc giáo và khiến đặc vụ địch từ bỏ nhiệm vụ để sống cuộc đời sám hối kính sợ Chúa. Họ đặc biệt hiệu quả khi đối đầu với metsuke.	true
+agent_culture_details_description_text_173	Ninja là bậc thầy về mưu kế và thâm nhập. Kỹ năng ninjutsu cho phép họ do thám kẻ địch hoặc phá hoại quân đội và thị trấn lâu đài của chúng, đồng thời di chuyển qua lãnh thổ mà không bị phát hiện. Họ cũng là những sát thủ lão luyện, ra tay từ trong bóng tối để giết cả tướng lĩnh lẫn đặc vụ địch. Kỹ năng thâm nhập khiến ninja trở thành trinh sát vô giá cho quân đội của gia tộc, trong khi các mối quan hệ trong thế giới ngầm giúp họ nắm rõ mọi động tĩnh khi đến thăm các tỉnh thân thiện.	true
+agent_culture_details_description_text_168	Ninja là bậc thầy về mưu kế và thâm nhập. Kỹ năng ninjutsu cho phép họ do thám kẻ địch hoặc phá hoại quân đội và thị trấn lâu đài của chúng, đồng thời di chuyển qua lãnh thổ mà không bị phát hiện. Họ cũng là những sát thủ lão luyện, ra tay từ trong bóng tối để giết cả tướng lĩnh lẫn đặc vụ địch. Kỹ năng thâm nhập khiến ninja trở thành trinh sát vô giá cho quân đội của gia tộc, trong khi các mối quan hệ trong thế giới ngầm giúp họ nắm rõ mọi động tĩnh khi đến thăm các tỉnh thân thiện.	true
+agent_culture_details_description_text_150	Geisha là những sát thủ sử dụng sự quyến rũ và cải trang để xâm nhập vào hàng ngũ kẻ địch và hạ sát cả tướng lĩnh lẫn đặc vụ. Dù không có khả năng ẩn mình như ninja, họ ra tay với hiệu quả chết người và có thể thoát khỏi sự truy bắt của cả những đặc vụ địch lành nghề nhất.	true
+agent_culture_details_description_text_141	Geisha là những sát thủ sử dụng sự quyến rũ và cải trang để xâm nhập vào hàng ngũ kẻ địch và hạ sát cả tướng lĩnh lẫn đặc vụ. Dù không có khả năng ẩn mình như ninja, họ ra tay với hiệu quả chết người và có thể thoát khỏi sự truy bắt của cả những đặc vụ địch lành nghề nhất.	true
+agent_culture_details_description_text_246	Ishin shishi là những “người mang chí lớn”, tận tụy với một mục tiêu duy nhất: khôi phục quyền cai trị thiêng liêng của Thiên hoàng. Là những người bảo vệ Thiên hoàng, họ tập hợp và truyền cảm hứng cho những người trung thành, đồng thời khuấy động bất ổn trong hàng ngũ đối thủ. Kiên định và nguy hiểm, họ sẽ không ngần ngại giết bất kỳ ai cản đường mình.	true
+agent_culture_details_description_text_247	Geisha là những nghệ sĩ tài hoa về âm nhạc, khiêu vũ và thi ca, dùng nghệ thuật của mình để giải trí và nâng cao tinh thần. Tài năng của họ đôi khi cũng phục vụ mục đích quân sự: có người đàn ông yếu đuối và dễ bị phân tâm; có người sẵn sàng phản bội lý tưởng vì sắc đẹp.	true
+agent_culture_details_description_text_138	Geisha là những sát thủ sử dụng sự quyến rũ và cải trang để xâm nhập vào hàng ngũ kẻ địch và hạ sát cả tướng lĩnh lẫn đặc vụ. Dù không có khả năng ẩn mình như ninja, họ ra tay với hiệu quả chết người và có thể thoát khỏi sự truy bắt của cả những đặc vụ địch lành nghề nhất.	true
+agent_culture_details_description_text_239	Shinobi là bậc thầy về mưu kế; họ tiến hành do thám, phá hoại và ám sát. Khả năng thâm nhập và quan sát của họ cũng khiến họ trở thành trinh sát vô giá cho quân đội, đồng thời cho phép thiết lập mạng lưới gián điệp trong các khu định cư của gia tộc.	true
+agent_culture_details_description_text_230	Shirabyoshi là những vũ công truyền thống biểu diễn cho giới quý tộc trong các dịp nghi lễ. Mặc trang phục Thần đạo trang trọng của nam giới và trang điểm mặt trắng, những điệu múa chậm rãi, nhịp nhàng để tôn vinh các vị thần còn bao gồm thơ ca, ca hát và âm nhạc. Kỹ năng chính của shirabyoshi là quyến rũ, thuyết phục mục tiêu gia nhập phe của lãnh chúa mình. Shirabyoshi cũng có thể giải trí cho quý tộc tại các thị trấn thân thiện để thúc đẩy sự phát triển của họ và giải trí cho các tướng quân thân thiện trên chiến trường, từ đó tăng lòng trung thành của họ với gia tộc và chống lại nỗ lực hối lộ hoặc dụ dỗ của đặc vụ địch.	true
+agent_culture_details_description_text_232	Các lão binh ngoại quốc là bậc thầy chiến tranh, đã chiến đấu và sống sót qua nhiều trận đánh. Nhiều năm phục vụ khiến họ trở thành những huấn luyện viên và quản trị quân sự xuất sắc; kinh nghiệm của họ giúp họ trở thành xạ thủ thiện xạ và công binh phá hoại giỏi, đồng thời là những đấu sĩ tay đôi không biết sợ hãi.	true
+agent_culture_details_description_text_133	PLACEHOLDER Colonel lvl 2	true
+agent_culture_details_description_text_233	Shinsengumi là những người thi hành công lý của Shogun, cưỡng ép hoặc trấn áp bất kỳ ai dám chống lại ý chí của ông. Họ sẽ sử dụng mọi biện pháp cần thiết để ngăn phe ủng hộ Thiên hoàng lật đổ Mạc phủ, kể cả ám sát kẻ thù và kích động những phần tử bất mãn nổi dậy công khai.	true
+agent_culture_details_description_text_222	Junsatsushi đảm bảo lòng trung thành và sự tuân phục của các tướng quân thân thiện, tăng thu nhập bằng cách ngăn chặn tham nhũng, bảo vệ các thị trấn lâu đài và quân đội của ta khỏi mưu kế của kẻ địch khi được bố trí trong đó, và có thể yêu cầu các thị trấn lâu đài trung lập hoặc của địch tuyên thệ trung thành cùng với mọi lực lượng đồn trú tại đó. Junsatsushi cũng có thể mua chuộc các đặc vụ đối thủ.	true
+agent_culture_details_description_text_125	PLACEHOLDER General lvl 0	true
+agent_culture_details_description_text_127	PLACEHOLDER Colonel lvl 4	true
+agent_culture_details_description_text_118	PLACEHOLDER General lvl 2	true
+agent_culture_details_description_text_213	Monomi hoạt động như sát thủ, gián điệp, kẻ phá hoại và trinh sát, được tuyển mộ từ các công trình đặc sản của tỉnh. Ngoài kỹ năng mưu kế, monomi còn tăng phạm vi di chuyển và tầm nhìn của quân đội ta khi được đặt trong đó. Họ cũng có thể thiết lập mạng lưới gián điệp trong các thị trấn lâu đài, tăng khả năng phát hiện các đặc vụ và quân đội đối thủ đang ẩn náu trong một tỉnh. Monomi vô hình với kẻ địch cho đến khi bị phát hiện.	true
+agent_culture_details_description_text_200	PLACEHOLDER	true
+agent_culture_details_description_text_202	Đô đốc.PLACEHOLDER	true
+agent_culture_details_description_text_205	Các Ikko Monk là những tín đồ nhiệt thành của tông phái Ikko thuộc Phật giáo Jodo Shinshu. Họ là những kẻ kích động có thể làm suy giảm sĩ khí quân địch và gây bất ổn trong các thị trấn của kẻ thù, đồng thời cũng có thể truyền cảm hứng cho quân ta và mang lại sự hài lòng cho dân chúng của mình. Ikko Monk còn có thể cải đạo dân chúng sang tín ngưỡng Ikko và khiến đặc vụ địch từ bỏ nhiệm vụ để theo đuổi đời sống tâm linh Jodo Shinshu. Họ đặc biệt hiệu quả khi đối đầu với metsuke.	true
+agent_culture_details_description_text_206	Sou có thể truyền cảm hứng cho quân đội thân thiện hoặc xoa dịu dân chúng đang phẫn nộ bằng lời lẽ khai sáng, đồng thời cũng có thể làm suy giảm sĩ khí lực lượng địch, giảm khả năng hối lộ thành công, tẩy não đặc vụ địch khiến họ giải nghệ, hoặc kích động dân chúng của kẻ thù nổi dậy.	true
+agent_culture_details_description_text_9	Đô đốc.PLACEHOLDER	true
+agent_culture_details_description_text_8	Một Nhà truyền giáo Tin Lành là giáo sĩ truyền bá giáo lý Tin Lành. Đặt một Nhà truyền giáo trong một vùng sẽ khiến dân chúng dần cải đạo sang Tin Lành. Họ sẽ tiếp tục cải đạo vùng đó cho đến khi được di chuyển.	true
+agent_culture_details_description_text_7	Tướng quân. PLACEHOLDER.	true
+agent_culture_details_description_text_6	PLACEHOLDER General lvl 4	true
+agent_culture_details_description_text_5	BASIC_SPENDING_BIAS_RECRUITMENT_ARMY	true
+agent_culture_details_description_text_4	Tướng quân. PLACEHOLDER.	true
+agent_culture_details_description_text_3	Tướng quân. PLACEHOLDER.	true
+agent_culture_details_description_text_2	Một Học giả Đông phương là người có học thức có thể được cử vào các công trình giáo dục để đẩy nhanh việc nghiên cứu, nhưng không thể đấu tay đôi với các nhân vật khác.	true
+agent_culture_details_description_text_1	Một Học giả Đông phương là người có học thức có thể được cử vào các công trình giáo dục để đẩy nhanh việc nghiên cứu, nhưng không thể đấu tay đôi với các nhân vật khác.	true
+agent_culture_details_description_text_0	Một Học giả Đông phương là người có học thức có thể được cử vào các công trình giáo dục để đẩy nhanh việc nghiên cứu, nhưng không thể đấu tay đôi với các nhân vật khác.	true

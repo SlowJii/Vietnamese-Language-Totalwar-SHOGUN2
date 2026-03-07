@@ -1,0 +1,100 @@
+[900] Đặc vụ – Ninja
+[901] Kỵ binh chống lưỡi lê
+[902] Bổ sung quân số đơn vị
+[903] Đèo núi
+[904] Nổi loạn!
+[905] Liên minh
+[906] Kỹ năng
+[907] Chúng ta là Date
+[908] Chúng ta là Minamoto
+[909] Chế độ Avatar Conquest
+[910] Chế độ Avatar Conquest
+[911] Đặc vụ – Nhà sư
+[912] Gia tộc
+[913] Quân nổi dậy
+[914] Thời gian lượt
+[915] Không đủ tiền!
+[916] Cảng
+[917] Choshu
+[918] Các tỉnh
+[919] Chuồng ngựa
+[920] Tỉnh miễn thuế
+[921] Hối lộ
+[922] Hết điểm hành động
+[923] Satsuma
+[924] Đặc tính nhân vật
+[925] Màn hình thiết lập đội
+[926] Shinsengumi
+[927] Xây dựng
+[928] Tiêu hao
+[929] Chế độ Avatar Conquest
+[930] Tiêu hao
+[931] Hạm đội
+[932] Tình huống tiến thoái lưỡng nan
+[933] Chúng ta là Uesugi
+[934] Chúng ta là Tokugawa
+[935] Phản bội đồng minh
+[936] Di chuyển
+[937] Danh sách chiến dịch
+[938] Kinh nghiệm tàu
+[939] Ảnh hưởng
+[940] Tháp phòng thủ có thể nâng cấp
+[941] Chế độ Avatar Conquest
+[942] Chế độ Avatar Conquest
+[943] Trận chiến nhiều người chơi
+[944] Tăng tốc độ di chuyển
+[945] Đặc vụ – Metsuke
+[946] Phòng thủ phục kích
+[947] Mạng lưới gián điệp
+[948] Phong tỏa cảng
+[949] Bất ổn tôn giáo
+[950] Anh hùng
+[951] Tùy tùng
+[952] Chúng ta là Tokugawa
+[953] Cố vấn quân sự nước ngoài
+[954] Lực lượng thị trường
+[955] Kỵ binh dự bị
+[956] Chi phí duy trì đơn vị
+[957] Tuyến thương mại
+[958] Thứ tự viện binh
+[959] Mở cổng
+[960] Thang công thành
+[961] Điều khiển camera
+[962] Chi tiết phát triển gia tộc
+[963] Cố thủ
+[964] Ishin Shishi
+[965] Nổi dậy
+[966] Trận chiến nhiều người chơi
+[967] Hối lộ
+[968] Bách khoa toàn thư
+[969] Chúng ta là Mori
+[970] Hỏa lực hải quân yểm trợ
+[971] Metsuke
+[972] Trạm thương mại
+[973] Hạnh phúc
+[974] Chiến tranh tiêu hao
+[975] Hiệp định thương mại
+[976] Chúng ta là Hojo
+[977] Bảng chi tiết tỉnh
+[978] Chiếm Iyo
+[979] Chi tiết tỉnh
+[980] Chúng ta là Hojo
+[981] Quyến rũ
+[982] Hiện đại hóa
+[983] Sửa chữa công trình bị hư hại
+[984] Địa hình cao
+[985] Truyền cảm hứng cho quân lính
+[986] Đàm phán ngoại giao
+[987] Thiết lập kỷ luật
+[988] Chế độ Avatar Conquest
+[989] Công thành
+[990] Công trình huyền thoại
+[991] Bản đồ cạnh tranh gia tộc
+[992] Lòng trung thành
+[993] Tuyến thương mại nước ngoài
+[994] Đối phó kỵ binh
+[995] Thuế theo gia tộc
+[996] Tài nguyên tỉnh
+[997] Quan hệ ngoại giao
+[998] Sắp xếp hôn nhân
+[999] Bảng chi tiết tỉnh

@@ -1,2 +1,80 @@
-# Dán response từ Gemini chat vào đây (xóa dòng này)
-# File: achievements.loc.tsv — Chunk 1/3
+[0] Tạo một Hóa thân thứ hai để sử dụng trong chế độ Chinh phục Hóa thân.
+[1] Kiểm soát toàn bộ các Tỉnh trên đảo Kyushu trong chiến dịch.
+[2] Chiến thắng Oda
+[3] Hành trình kết thúc
+[4] Thắng 20 trận hải chiến trong chế độ nhiều người chơi.
+[5] Đánh chìm tàu địch bằng cách đâm trực diện.
+[6] Hoàn thành một chiến dịch với một Lãnh chúa theo Kitô giáo.
+[7] Kẻ thách đấu tay đôi
+[8] Thế bóp nghẹt
+[9] Kẻ thù bị ô nhục
+[10] Cha đẻ của Hải quân Hoàng gia
+[11] Xung phong cuồng nộ
+[12] Thắng 50 trận đấu ghép trận trong nhiều người chơi.
+[13] Thắng 25 trận đấu ghép trận trong nhiều người chơi.
+[14] Thắng một trận nhiều người chơi mà quân đội không có đơn vị tầm xa.
+[15] Nhanh và chí mạng
+[16] Tham gia một trận đánh drop-in.
+[17] Ý nguyện của Người sẽ thành
+[18] Thắng một trận với đội quân chỉ gồm các đơn vị Anh hùng và Tướng quân của bạn.
+[19] Onna-Bugeisha
+[20] Chơi 10 trận nhiều người chơi bất kỳ.
+[21] Bậc thầy của đại dương
+[22] Mặc kệ phóng lôi
+[23] Đạt mục tiêu tối thượng và trở thành Đại Soái trong chiến dịch lớn.
+[24] Hoàn thành tất cả các trận đánh lịch sử.
+[25] Hoàn thành một chiến dịch với Gia tộc Chosokabe.
+[26] Đánh chìm tàu địch bằng phóng lôi.
+[27] Thắng một trận với đội quân có ít nhất một đơn vị của mọi loại (đao bộ binh, kỵ binh, cung binh, thần cơ bộ binh, trường thương bộ binh, naginata).
+[28] Song long
+[29] Thành công tập hợp lại 5 đơn vị cùng lúc bằng một lần dùng kỹ năng hiệu triệu của Tướng quân.
+[30] Nữ tướng sắt
+[31] Chiến thắng Shimazu
+[32] Tôi tớ của Thượng Đế
+[33] Hoàn thành một chiến dịch với Gia tộc Takeda.
+[34] Lan rộng như cháy rừng
+[35] Đạt được một đơn vị cấp tối đa trong chiến dịch lớn.
+[36] Hoàn thành một chiến dịch với Gia tộc Hojo.
+[37] Phụng sự với Danh dự
+[38] Chiến thắng Uesugi
+[39] Khởi đầu đầy hứa hẹn
+[40] Thắng Trận Aizu sau khi khiêu khích cả bốn đạo quân ẩn cùng lúc.
+[41] Chiến thắng Hojo
+[42] Một triều đại đáng kính
+[43] Truy kích và đánh tan một đơn vị địch khi chúng cố rút lui khỏi Trận Toba-Fushimi.
+[44] Chơi một trận đánh lịch sử.
+[45] Thắng 10 trận vây hãm với vai trò tấn công.
+[46] Hoàn thành một chiến dịch với Gia tộc Shimazu.
+[47] Có được một nhà truyền giáo cấp tối đa.
+[48] Hoàn thành Trận Vịnh Miyako với thiết giáp hạm Kotetsu chịu dưới 25% sát thương.
+[49] Trở thành Gia tộc đầu tiên trong chiến dịch đạt được bậc thầy thuốc súng.
+[50] Có được một nhà sư cấp tối đa.
+[51] Hoàn thành chiến dịch ở độ khó huyền thoại.
+[52] Với vai trò phòng thủ, chiếm lại một tháp.
+[53] Bậc thầy thẩm vấn
+[54] Sói của Mibu
+[55] Đánh bại một đạo quân Fall of the Samurai bằng quân đội Shogun 2.
+[56] Khúc cầu siêu cho người chết
+[57] Chống lại mọi nghịch cảnh
+[58] Kiểm soát toàn bộ các điểm thương mại trên bản đồ chiến dịch cùng lúc.
+[59] Không sợ kỵ binh
+[60] Đại Soái lừng danh
+[61] Lên tàu nào!
+[62] Thắng một trận với tàu Anh trong hạm đội của bạn.
+[63] Rồng của Nhật Bản
+[64] Chiến thắng Date
+[65] Thắng Trận Ueno mà không chiếm bất kỳ công trình chùa then chốt nào.
+[66] Thắng một trận nhiều người chơi mà quân đội không có đơn vị kỵ binh (trừ Tướng quân).
+[67] Chỉ huy đáng sợ của binh sĩ
+[68] Cộng hòa Ezo
+[69] Giữ ít nhất 4 đơn vị Ashigaru trong suốt trận mà không đơn vị nào bỏ chạy.
+[70] Chiến thắng Mori
+[71] Chiến binh xuất chúng
+[72] Gói quà sẵn
+[73] Hợp nhất trong chinh phục
+[74] Thắng một chiến dịch hợp tác nhiều người chơi.
+[75] Thắng 10 trận vây hãm với vai trò phòng thủ.
+[76] Thông qua hệ thống Hóa thân, đưa một đơn vị Lão binh lên cấp 4.
+[77] Thắng trận nhiều người chơi đầu tiên của bạn.
+[78] Đánh bại một đạo quân Shogun 2 bằng quân đội Fall of the Samurai.
+[79] Người thống nhất Nhật Bản

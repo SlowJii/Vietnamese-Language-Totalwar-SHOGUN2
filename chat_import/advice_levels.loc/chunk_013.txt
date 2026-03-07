@@ -1,0 +1,100 @@
+[1200] Công thành
+[1201] Xây dựng
+[1202] Hợp nhất tàn quân
+[1203] Hợp nhất hạm đội & quân đội
+[1204] Rút lui khi bị áp đảo
+[1205] Đánh vòng sườn bằng kỵ binh
+[1206] Đội hình đường lượn sóng
+[1207] Nút chế độ quấy rối
+[1208] Phá sản!
+[1209] Tướng lĩnh & tinh thần
+[1210] Đánh vòng sườn
+[1211] Phản xung phong
+[1212] Yêu cầu tham chiến
+[1213] Phòng thủ trên đồi
+[1214] Ẩn mình trên biển
+[1215] Cảng bị phong tỏa
+[1216] Truy đuổi quân quấy rối
+[1217] La bàn thao diễn
+[1218] Dụ địch
+[1219] Ngoại giao
+[1220] Chinh phục Honshu
+[1221] Đội hình nêm hoặc kim cương
+[1222] Chi tiết công trình
+[1223] Lực lượng dự bị
+[1224] Tuyến thương mại bị cướp phá
+[1225] Tấn công lên đồi
+[1226] Xây dựng
+[1227] Tuyển quân ngoài chiến trường
+[1228] Lưỡi lê chống giáo
+[1229] Đặc vụ – Nhà sư
+[1230] Sương mù chiến tranh
+[1231] Phá sản!
+[1232] Chiến đấu đến chết
+[1233] Nút áp sát tàu
+[1234] Hình ảnh triển khai quân
+[1235] Bảng xem lại
+[1236] Xây dựng phân tán
+[1237] Nâng cấp lâu đài
+[1238] Nút dừng
+[1239] Phòng thủ trên đồi
+[1240] Không đủ tiền!
+[1241] Đề nghị/Yêu cầu thanh toán
+[1242] Chi tiết tướng
+[1243] Ám sát
+[1244] Phòng thủ điểm vượt sông
+[1245] Địch đang lập đội hình
+[1246] Nút chạy
+[1247] Giành thế chủ động
+[1248] Nâng cấp lâu đài
+[1249] Yêu cầu cấm vận
+[1250] Có nổi loạn gần đây!
+[1251] Đặc vụ
+[1252] Trạm thương mại
+[1253] Tan vỡ đội hình
+[1254] Tuyển mộ
+[1255] Thu nhập & chi tiêu
+[1256] Viện binh
+[1257] Chi tiết tỉnh
+[1258] Gia tộc địa phương
+[1259] Lên tàu
+[1260] Yêu cầu phá vỡ liên minh
+[1261] Đèo núi
+[1262] Phá sản
+[1263] Nút bắn tự do
+[1264] Gia tộc địa phương
+[1265] Phòng thủ công thành
+[1266] Tài chính
+[1267] Kho bạc, thu nhập & lương thực
+[1268] Đường sá tốt hơn
+[1269] Tuyến chiến đấu dao động
+[1270] Ngoại giao
+[1271] Đặc vụ – Ninja
+[1272] Thu hẹp khoảng cách
+[1273] Đánh lạc hướng kẻ địch
+[1274] Bổ sung quân số
+[1275] Kiểm soát tỉnh
+[1276] Mục tiêu pháo kích kém
+[1277] Liên minh quân sự
+[1278] Chế độ quấy rối
+[1279] Tinh thần
+[1280] Cảng bị phong tỏa
+[1281] Có trận Drop-in khả dụng
+[1282] Tuyên chiến
+[1283] Thị trấn lâu đài
+[1284] Gia tộc của bạn
+[1285] Nút chế độ phòng thủ
+[1286] Chiến thuật kỵ binh nhẹ
+[1287] Thống kê sau trận
+[1288] Cướp phá tuyến thương mại
+[1289] Ưu thế hỏa lực tầm xa
+[1290] Làm chủ các nghệ thuật
+[1291] Bản đồ radar
+[1292] Nghệ thuật
+[1293] Quân có thể hy sinh
+[1294] Ngoại giao
+[1295] Trận Drop-in
+[1296] Chiếm đóng & cướp bóc
+[1297] Cảng kém phát triển
+[1298] Các mùa
+[1299] Xây dựng

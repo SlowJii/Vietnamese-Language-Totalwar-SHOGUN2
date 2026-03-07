@@ -1,0 +1,63 @@
+=== CHUNK 1/1 — avatar_aesthetic_sets.loc.tsv ===
+(Dịch 60 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[0] Armour Set: Scale Cuirass
+[1] Armour Set: Blade Master
+[2] Crest: Tier 1 Clan Promotion
+[3] Achievement Crest: Win a Clanmap Region
+[4] Achievement Crest: Fight 1 Drop-In Battle
+[5] Achievement Crest: Clan Season Victory
+[6] Armour Set: Oda Nobunaga
+[7] Armour Set: Kato Kiyomasa
+[8] Shinsengumi Uniform 2
+[9] Shinsengumi Uniform 1
+[10] Achievement Crest: Join a Clan
+[11] Armour Set: Toyotomi Hideyoshi
+[12] Armour Set: Maeda Toshie
+[13] Armour Set: Date Masamune
+[14] Armour Set: Kawari Kabuto
+[15] Armour Set: Sparse Point Laced
+[16] Late Samurai Uniform 3
+[17] Late Samurai Uniform 2
+[18] Armour Set: Catfish Tail
+[19] Armour Item: Clan Champions
+[20] Armour Set: Itakura Katsushige
+[21] Achievement Crest: Fight 1 Naval Battle
+[22] Armour Set: Ichinotani
+[23] Armour Set: Morning Glory
+[24] Armour Set: Western Style
+[25] Armour Set: Silver Scale Cuirass
+[26] Armour Set: Golden Scale Cuirass
+[27] Achievement Crest: Fight 1 Quick Battle
+[28] Achievement Crest: Clan Leaderboard Top 25
+[29] Achievement Crest: Army Colour Change
+[30] Achievement Crest: Clan Leaderboard Top 10
+[31] Achievement Crest: Win 5 Clanmap Regions
+[32] Armour Set: Multicolour Laced
+[33] Armour Set: Honda Tadakatsu
+[34] Modern Uniform 3
+[35] Modern Uniform 2
+[36] Modern Uniform 4
+[37] Crest: Clan Promotion
+[38] French Uniform
+[39] Armour Set: Akechi Mitsuharu
+[40] Armour Set: Triple Hollyhock
+[41] American Uniform 1
+[42] American Uniform 2
+[43] Achievement Crest: Clan Leaderboard Top 1
+[44] Armour Set: Uesugi Kenshin
+[45] Armour Set: Default PLACEHOLDER
+[46] Achievement Crest: Clan Leaderboard Top 100
+[47] Armour Set: Hosokawa Tadaoki
+[48] British Uniform
+[49] Armour Set: Robes of the Ikko Ikki
+[50] Officer Uniform 2
+[51] Officer Uniform 1
+[52] Armour Set: Goldfish Scale
+[53] Achievement Crest: Collect 25% of all Items
+[54] Achievement Crest: Collect 50% of all items
+[55] Achievement Crest: Collect 75% of all Items
+[56] Armour Set: Naoe Kanetsugu
+[57] Achievement Crest: Fight 1 Land Battle
+[58] Armour Set of The Shogun
+[59] Armour Set: Tokugawa Ieyasu
