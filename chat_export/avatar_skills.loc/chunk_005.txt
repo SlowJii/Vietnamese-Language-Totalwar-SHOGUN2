@@ -1,0 +1,103 @@
+=== CHUNK 5/17 — avatar_skills.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[400] Increased light infantry ammunition \\n \\nYour Tosa Riflemen, Yugekitai & Sharpshooters carry extra bullets. \\n \\n Requires: Gun Instructor \\n \\n 
+[401] Greatly increased light infantry ammunition \\n \\n Your Tosa Riflemen, Yugekitai & Sharpshooters carry extra bullets. \\n \\n Requires: Extra Ammunition (rifle light infantry) \\n
+[402] Greatly Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[403] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[404] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[405] Inspire Ability
+[406] Inspire Ability
+[407] Inspire Ability
+[408] Speed
+[409] Speed
+[410] Speed
+[411] Melee Defence
+[412] Increased Range
+[413] Increased Range
+[414] Inspire Ability. \\n \\n When activated, allows the unit to boost the morale, melee attack and accuracy of a single unit. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a spear specialism clan.
+[415] Melee Defence
+[416] Inspire Ability. \\n \\n When activated, allows the unit to boost the morale, melee attack and accuracy of a single unit. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a spear specialism clan.
+[417] Melee Defence
+[418] Melee Defence
+[419] Melee Defence
+[420] Increased Range. \\n \\n Shot range is increased. \\n \\n Requires 20 clan tokens.
+[421] Legendary Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. 
+[422] Increased Range. \\n \\n Shot range is increased. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Shogunate specialism clan. \\n \\n Requires 20 clan tokens.
+[423] Improved Melee Defence. \\n \\n Increases the skill of your avatar and his bodyguard at defending themselves against melee attacks. \\n
+[424] Increased Ammunition. \\n \\n The men of this unit carry significantly more ammunition than usual for this unit type. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Shogunate specialism clan. \\n \\n Requires 20 clan tokens.
+[425] Improved Melee Defence. \\n \\n Increases the skill of your avatar and his bodyguard at defending themselves against melee attacks. \\n
+[426] Increased Ammunition. \\n \\n The men of this unit carry significantly more ammunition than usual for this unit type. \\n \\n Requires 20 clan tokens.
+[427] Elite Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. 
+[428] Greatly Improved Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. 
+[429] Speed
+[430] Speed
+[431] Speed
+[432] Greatly Increased Bow Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased. \\n \\n Requires 1 point in basic Bow Damage. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[433] Greatly Increased Bow Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased. \\n \\n Requires 1 point in basic Bow Damage. \\n \\n Requires 10 clan tokens.
+[434] Rally Ability. \\n \\n When activated, the rally ability will restore nearby routing units to order (shattered units are not affected). \\n \\n Units nearby that aren't routing will receive a morale bonus whilst rally is active. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[435] Rally Ability. \\n \\n When activated, the rally ability will restore nearby routing units to order (shattered units are not affected). \\n \\n Units nearby that aren't routing will receive a morale bonus whilst rally is active. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[436] Increased Range. \\n \\n Shot range is increased. \\n \\n Requires 10 clan tokens.
+[437] Increased Range. \\n \\n Shot range is increased. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[438] Bonus vs. Cavalry
+[439] Elite Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Requires 2 points in basic Reload Speed. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[440] Bonus vs. Cavalry
+[441] Elite Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Requires 10 clan tokens.
+[442] Bonus vs. Cavalry
+[443] Reload Speed
+[444] Reload Speed
+[445] Legendary Reload Speed. \\n \\n Increases the rate at which the unit shoots. \\n \\n Requires 10 clan tokens.
+[446] Elite Reload Speed. \\n \\n Increases the rate at which the unit shoots. \\n \\n Requires 2 points in basic Reload. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[447] Elite Reload Speed. \\n \\n Increases the rate at which the unit shoots. \\n \\n Requires 10 clan tokens.
+[448] Whistling Arrows
+[449] Whistling Arrows
+[450] Snipe Ability. \\n \\n If hidden already, the unit can shoot without betraying its position. \\n \\n Only works whilst stationary. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[451] Snipe Ability. \\n \\n If hidden already, the unit can shoot without betraying its position. \\n \\n Only works whilst stationary. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[452] Speed
+[453] Speed
+[454] Speed
+[455] Greatly Improved Enemy Spotting. \\n \\n The range at which this unit spots hidden enemies is increased. \\n \\n Requires 1 point in basic Enemy Spotting. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[456] Greatly Improved Enemy Spotting. \\n \\n The range at which this unit spots hidden enemies is increased. \\n \\n Requires 10 clan tokens.
+[457] Elite Enemy Spotting. \\n \\n The range at which this unit spots hidden enemies is increased. \\n \\n Requires 10 clan tokens.
+[458] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[459] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[460] Enable Ganbatte ability. \\n \\n When activated, your avatar will encourage units near to him, boosting their morale, melee attack and reload speed. \\n
+[461] Enable Ganbatte ability. \\n \\n When activated, your avatar will encourage units near to him, boosting their morale, melee attack and reload speed. \\n
+[462] Greatly Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[463] Spotting Range
+[464] Spotting Range
+[465] Last man standing
+[466] Last Man Standing
+[467] Extra Ammunition
+[468] Extra Ammunition
+[469] Kisho Training
+[470] Kisho Training
+[471] Increased Range. \\n \\n Shot range is increased. \\n \\n Requires 20 clan tokens.
+[472] Increased Range. \\n \\n Shot range is increased. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Shogunate specialism clan. \\n \\n Requires 20 clan tokens.
+[473] Increased Ammunition. \\n \\n The men of this unit carry significantly more ammunition than usual for this unit type. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Shogunate specialism clan. \\n \\n Requires 20 clan tokens.
+[474] Increased Ammunition. \\n \\n The men of this unit carry significantly more ammunition than usual for this unit type. \\n \\n Requires 20 clan tokens.
+[475] Your avatar has an uncanny ability to cheat death and will always be the last man in his unit to die. \\n \\n Requires: 2 points in Armour \\n
+[476] Your avatar has an uncanny ability to cheat death and will always be the last man in his unit to die. \\n \\n Requires: Armour \\n
+[477] Kisho Training. \\n \\n During the deployment phase, this unit is able to deploy outside of the deployment area. \\n \\n May not deploy too close to a key building. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[478] Kisho Training. \\n \\n During the deployment phase, this unit is able to deploy outside of the deployment area. \\n \\n May not deploy too close to a key building. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[479] Fatigue Resistance
+[480] Fatigue Resistance
+[481] Fatigue Resistance
+[482] Fatigue Resistance
+[483] Legendary Accuracy. \\n \\n The unit shoots with greater accuracy. \\n \\n Requires 10 clan tokens.
+[484] Elite Accuracy. \\n \\n The unit shoots with greater accuracy. \\n \\n Requires 2 points in basic Accuracy. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[485] Elite Accuracy. \\n \\n The unit shoots with greater accuracy. \\n \\n Requires 10 clan tokens.
+[486] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[487] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[488] Elite Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[489] Greatly Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[490] Bow Damage
+[491] Bow Damage
+[492] Bow Damage
+[493] Bow Damage
+[494] Charge Bonus
+[495] Charge Bonus
+[496] Bonus vs. Cavalry
+[497] Bonus vs. Cavalry
+[498] Bonus vs. Cavalry
+[499] Hours of training across all kinds of terrain has resulted in all melee cavalry units gaining a speed and fatigue resistance bonus. \\n \\n Requires: 1 point in Double Time (cavalry) \\n

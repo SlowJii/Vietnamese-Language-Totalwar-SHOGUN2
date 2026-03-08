@@ -1,0 +1,100 @@
+[100] \n Hộ vệ hạm địch: %+n%% thời gian hồi Quá Nhiệt Động Cơ &
+[101] \n %-n%% đạn dược cho đơn vị cung của địch. \n \n "À! Mấy thứ đó. Cho tôi một ngày, tôi sẽ kiếm được…"
+[102] \n %+n giáp cho toàn bộ bộ binh cận chiến. \n \n Phòng hộ chính là trí tuệ.
+[103] \n Độ chính xác Tosa Riflemen, Yugekitai & Sharpshooter của địch: %-n. \n \n "Chết tiệt cặp kính này! Có trúng không vậy, Trung sĩ?"
+[104] \n Kỵ binh hỏa khí hiện đại tăng kháng mệt mỏi. \n \n Kẻ ngu chỉ chăm sóc kiếm mà bỏ bê ngựa.
+[105] \n Thời gian hồi kỹ năng mọi đơn vị giảm 10%. \n Vô hiệu hiệu ứng tùy tùng Wizened Monk của địch. \n \n "Đừng tìm kiếm trí tuệ. Nó sẽ tìm đến ngươi."
+[106] \n %+n kỹ năng nạp lại cho mọi thần cơ bộ binh. \n \n Súng trong tay kẻ ngu chỉ là đồ bỏ.
+[107] \n Foot Samurai: %n tấn công cận chiến,
+[108] %n phòng thủ cận chiến,
+[109] %+n độ chính xác,
+[110] %+n tốc độ nạp lại. \n \n Một người không thể đi hai con đường cùng lúc. Mỗi hành trình đều bắt đầu bằng lựa chọn.
+[111] %-n sĩ khí. \n \n Gánh nặng cả đời khiến lưng người cong xuống.
+[112] %-n độ chính xác &
+[113] \n Đơn vị lão binh (bao gồm anh hùng) dưới quyền địch nhận: \n %-n tấn công cận chiến,
+[114] \n Hóa thân làm giảm nhẹ sĩ khí đơn vị địch xung quanh. \n \n Ngay cả chiến binh cũng có lúc tìm thấy sự an ủi.
+[115] \n %+n tấn công cận chiến cho Loan-Sword Ashigaru. \n \n Nhát chém đầu tiên luôn sâu nhất.
+[116] \n Độ chính xác hộ vệ hạm địch: %n. \n \n "Lại thiếu 100 yard!"
+[117] \n Đơn vị Warrior Monk tăng %n%% tốc độ. \n \n Chân lý bay trên đôi cánh nhanh.
+[118] \n Kỹ năng nạp lại kỵ binh hỏa khí hiện đại của địch: %-n. \n \n Độ chính xác luôn có cái giá của nó.
+[119] \n Anh hùng Naginata Warrior Monk: %+n sĩ khí. \n \n "Benkei đây! Không ai được qua!"
+[120] \n %+n độ chính xác cho mọi đơn vị cung. \n \n Khi trái tim thuần khiết, mũi tên tự tìm đường.
+[121] \n Sĩ khí bộ binh tuyến và tinh nhuệ: %+n. \n \n Chiến tranh là trường học của chiến binh.
+[122] \n Giảm thương vong kỵ binh cận chiến. \n Tăng điểm Ảnh hưởng Gia tộc nhận được. \n \n Huấn luyện chưa bao giờ là vô ích.
+[123] \n Hóa thân: %+n sĩ khí. \n \n Lá cờ tung bay trong gió là cảnh tượng cao quý.
+[124] \n Giảm tốc độ mọi kỵ binh địch. \n \n Ánh mắt đờ đẫn và tai rũ xuống nói lên nỗi đau bên trong.
+[125] %+n sĩ khí. \n \n "Đến đây đấu với TA!"
+[126] \n Katana Hero: %+n tấn công cận chiến,
+[127] \n Kỹ năng nạp lại pháo hạm: %+n. \n \n Khi ít pháo, hãy bắn thường xuyên hơn.
+[128] \n Kỹ năng nạp lại thiết giáp hạm địch: %n. \n \n "Tập bắn à Trung úy? Hôm nay tôi đau đầu."
+[129] Giảm kỹ năng nạp lại cho mọi thần cơ bộ binh địch. \n \n Mưa, sương và nước khiến thuốc súng trở nên vô dụng.
+[130] \n %+n%% tốc độ cho toàn bộ kỵ binh. \n \n Người cưỡi có yên tốt sẽ cưỡi nhanh hơn.
+[131] \n Giảm thương vong trường thương bộ binh. \n Tăng điểm Ảnh hưởng Gia tộc nhận được. \n \n Huấn luyện chưa bao giờ là vô ích.
+[132] \n Kỹ năng nạp lại Tosa Riflemen, Yugekitai & Sharpshooter của địch: %-n. \n \n Độ chính xác luôn có cái giá của nó.
+[133] \n %+n% đạn dược cho toàn bộ đơn vị cung và thần cơ. \n \n "Đừng ném cung khi hết tên!"
+[134] \n Tăng kháng mệt mỏi cho toàn bộ kỵ binh. \n \n Nông dân không thể che giấu mọi thứ.
+[135] \n %+n sĩ khí cho mọi đơn vị. \n \n Khi con người ngước nhìn trời cao, trái tim họ cũng theo đó.
+[136] \n Tăng kháng mệt mỏi cho toàn bộ cung và thần cơ bộ binh. \n \n Chiến trận khiến người ta khát cháy cổ.
+[137] \n %+n tấn công cận chiến cho mọi trường thương bộ binh. \n \n Lưỡi đao là nơi định đoạt khoảnh khắc chiến thắng.
+[138] \n Hóa thân: %+n điểm sinh lực. \n \n Mọi chàng trai đều sẵn sàng chết vì anh hùng của mình.
+[139] \n %-n độ chính xác cung và thần cơ của địch. \n \n Rượu mạnh là niềm an ủi với người này, công cụ với người khác.
+[140] \n Kỹ năng nạp lại bộ binh tinh nhuệ địch: %-n. \n \n Đã từng hiệu quả, nay đã lỗi thời.
+[141] \n Kỵ binh địch: %-n thưởng xung phong. \n \n Chỉ là trộm nếu ngươi bị bắt.
+[142] \n %+n tấn công cận chiến cho toàn bộ kỵ binh cận chiến. \n \n Trong chiến trận, không điều gì nên là bất ngờ.
+[143] \n %+n độ chính xác cho mọi đơn vị cung. \n \n Mục tiêu đứng yên; kẻ địch suy nghĩ.
+[144] \n Cho phép triển khai Kisho Ninjas. \n \n Con dao giấu kín vẫn chết người dù đã đoán trước.
+[145] & %-n thưởng xung phong. \n \n "Kẻ ngu luôn bị mắc bẫy bởi lòng trung thành."
+[146] \n Attendants địch: %-n sĩ khí
+[147] \n %+n tấn công cho toàn bộ đao bộ binh. \n \n Thanh kiếm phải hòa làm một với bàn tay.
+[148] %n%% thời gian hồi Nạp Nhanh. \n \n Ngay cả tàu nhỏ nếu điều khiển tốt cũng có thể đánh vượt tầm.
+[149] \n Pháo hạm: %n%% thời gian hồi Quá Nhiệt Động Cơ &
+[150] +%n%% chi phí tuyển quân &
+[151] %+n sĩ khí. \n \n Đức tin của nhân dân là sức mạnh của nhân dân.
+[152] \n Warrior Monk và Ashigaru dưới quyền bạn có %+n phòng thủ cận chiến,
+[153] \n Tăng khả năng phát hiện đơn vị địch ẩn nấp. \n \n Tri thức tốt hơn lời đồn.
+[154] \n Kỹ năng nạp lại hộ vệ hạm: %+n. \n \n "54 giây: không tệ. Nhưng chưa xuất sắc! Lại!"
+[155] \n Tăng khả năng phát hiện đơn vị địch ẩn nấp. \n \n Tri thức tốt hơn lời đồn.
+[156] \n %+n phòng thủ cận chiến cho toàn bộ trường thương bộ binh. \n \n Ngay cả điều đơn giản nhất cũng phải luyện đến tinh thông.
+[157] \n %+n phòng thủ cận chiến cho toàn bộ naginata bộ binh. \n \n Luyện tập cũng như trận chiến không đổ máu.
+[158] \n Độ chính xác khinh hạm: %+n. \n \n "Bắn khi tàu đang nâng!"
+[159] %+n%% thời gian hồi Nạp Nhanh. \n \n "Các ngươi không phân biệt nổi mạn phải với mạn trái sao?"
+[160] \n %+n sĩ khí cho đơn vị ashigaru. \n \n Giàu có là bát cơm đầy.
+[161] \n Khinh hạm địch: %+n%% thời gian hồi Quá Nhiệt Động Cơ &
+[162] \n Giảm thương vong đao bộ binh. \n Tăng điểm Ảnh hưởng Gia tộc nhận được. \n \n Huấn luyện chưa bao giờ là vô ích.
+[163] \n Hóa thân: %+n giáp. \n \n Phục vụ tận tâm cũng là danh dự.
+[164] \n Giảm kháng mệt mỏi của toàn bộ kỵ binh địch. \n \n Sức bền ngựa chỉ tốt như số yến mạch nó được ăn.
+[165] \n Tăng kháng mệt mỏi cho toàn bộ bộ binh cận chiến. \n \n Không có lương thảo, quân đội sớm biến thành đám đông đói khát.
+[166] \n Hóa thân: tấn công cận chiến %+n. \n \n "Ôi! Giá có nàng thơ của lửa…"
+[167] \n Hóa thân: %+n thưởng xung phong, \n %+n thưởng chống kỵ binh. \n \n Mọi thứ đều có thể hoàn thiện.
+[168] \n Hai đơn vị lão binh bị thiệt hại nặng nhất sẽ hồi phục hoàn toàn trước trận đánh tiếp theo. \n \n Khu vườn tĩnh lặng xoa dịu tâm hồn.
+[169] \n %+n kỹ năng nạp lại cho toàn bộ cung bộ binh. \n \n Binh sĩ phải được dẫn dắt trong chiến trận.
+[170] \n Hóa thân: tấn công cận chiến %+n. \n \n "Ôi! Giá có nàng thơ của lửa…"
+[171] \n Sĩ khí bộ binh tuyến và tinh nhuệ của địch: %-n. \n \n "Binh sĩ tôn trọng tôi vì điều đó."
+[172] \n %+n thưởng chống kỵ binh cho toàn bộ trường thương, cung và thần cơ bộ binh. \n \n Làm què ngựa tức là chặn đứng chiến binh.
+[173] \n Hóa thân: %+n tốc độ. \n \n Chiến mã cao quý đòi hỏi chủ nhân cao quý.
+[174] %n%% thời gian hồi Nạp Nhanh. \n \n Thủy thủ giỏi hòa làm một với con tàu.
+[175] \n Hộ vệ hạm: %n%% thời gian hồi Quá Nhiệt Động Cơ &
+[176] \n Độ bền thân thiết giáp hạm: %+n%% \n \n Có những lý lẽ "thiết giáp" giải thích vì sao Hải quân Hoàng gia làm chủ đại dương.
+[177] \n Phát hiện vị trí triển khai của toàn bộ đơn vị địch không ẩn nấp. \n \n Bí mật và dối trá cùng ngồi chung một cỗ xe.
+[178] \n Tốc độ di chuyển khinh hạm: %+n%%. \n \n "Người Pháp đóng tàu có linh hồn. Bất cứ gã Anglo-Saxon nào cũng đóng được thiết giáp hạm."
+[179] và %-n% giảm phạt tốc độ khi vượt địa hình gồ ghề. \n \n Bước chân vững vàng chính là phần thưởng.
+[180] \n Tất cả đơn vị giảm tích lũy mệt mỏi
+[181] \n Mọi bộ binh cận chiến địch chịu %-n giáp. \n \n Thép tốt nhất cũng vô dụng nếu phục vụ mục đích tồi tệ.
+[182] %+n%% thời gian hồi Nạp Nhanh. \n \n "Ghi lại tên người đó!"
+[183] \n Thiết giáp hạm địch: %+n%% thời gian hồi Quá Nhiệt Động Cơ &
+[184] \n Giảm tốc độ toàn bộ cung và thần cơ bộ binh địch. \n \n Người khôn ngoan luôn cẩn trọng khi hành động.
+[185] \n Kỵ binh hỏa khí hiện đại địch giảm mạnh kháng mệt mỏi. \n \n "Thấy chưa? Vai ngựa quá hẹp."
+[186] \n %-n%% chi phí tuyển quân cho toàn bộ đơn vị. \n \n Thương mại dưới tầm samurai; nhưng tiền bạc thì không.
+[187] \n Hóa thân: tăng kháng mệt mỏi. \n \n Không việc nào hèn kém nếu làm cho tốt.
+[188] \n %+n thưởng xung phong cho mọi đơn vị tăng binh. \n \n Có nhiều con đường dẫn đến thiên đường.
+[189] \n Độ chính xác kỵ binh hỏa khí hiện đại của địch: %-n. \n \n "Thử đứng yên khi có người bắn súng trên đầu xem!"
+[190] \n %+n%% tốc độ cho toàn bộ kỵ binh. \n \n Ngựa giống tốt luôn hữu ích.
+[191] \n %-n%% đạn dược cho đơn vị cung của địch. \n \n "À! Mấy thứ đó. Cho tôi một ngày, tôi sẽ kiếm được…"
+[192] \n %+n giáp cho mọi đơn vị tăng binh. \n \n Giáp trụ không làm suy yếu tinh thần.
+[193] \n %-n tấn công cận chiến cho toàn bộ đao bộ binh địch. \n \n Không mạo hiểm thì không đạt được gì.
+[194] \n Hóa thân: tăng bán kính hào quang và giảm thời gian hồi kỹ năng Tập Hợp. \n \n Biểu tượng cao quý gieo rắc nỗi sợ trong tim kẻ địch.
+[195] \n %+n%% tốc độ cho toàn bộ kỵ binh. \n \n Ngựa giống tốt luôn hữu ích.
+[196] \n Hóa thân: %+n sĩ khí. \n %-n sĩ khí cho hóa thân địch. \n Vô hiệu hiệu ứng tùy tùng Geisha Đầu độc của địch. \n \n "Không có kẻ thù nào cả: hãy đánh bại nỗi sợ của chính mình!"
+[197] \n Hóa thân: %+n thưởng xung phong. \n \n Samurai phải luôn sẵn sàng dùng vũ khí bất cứ lúc nào.
+[198] \n Hóa thân: %+n% tốc độ. \n \n Kỵ sĩ chỉ giỏi khi chiến mã của hắn giỏi.
+[199] \n %+n đạn dược cho mọi đơn vị cung. \n \n Mũi tên cũng quan trọng không kém cây cung.

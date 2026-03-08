@@ -1,0 +1,9 @@
+[160] Sado
+[161] Omi
+[162] Biển Hyuga
+[163] Biển Tohoku phía Tây
+[164] Bờ biển đảo Sado
+[165] Bờ biển San'in
+[166] Biển Hyuga
+[167] Biển Tohoku phía Đông
+[168] Bờ biển San'in

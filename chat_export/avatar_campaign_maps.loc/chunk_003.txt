@@ -1,0 +1,12 @@
+=== CHUNK 3/3 — avatar_campaign_maps.loc.tsv ===
+(Dịch 9 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[160] Sado
+[161] Omi
+[162] Sea of Hyuga
+[163] Western Tohoku Sea
+[164] Sado Island Coast
+[165] San'in Coast
+[166] Sea of Hyuga
+[167] Eastern Tohoku Sea
+[168] San'in Coast

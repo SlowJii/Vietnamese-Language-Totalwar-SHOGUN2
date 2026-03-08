@@ -1,0 +1,33 @@
+key	text	tooltip
+#Loc;1;text/db/avatar_dojo_chains.loc		
+avatar_dojo_chains_recruitment_requirement_description_sword	Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Võ Đường Kiếm Thuật trên bản đồ Chinh Phạt.	true
+avatar_dojo_chains_recruitment_requirement_description_spear	Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Sân Luyện Yari trên bản đồ Chinh Phạt.	true
+avatar_dojo_chains_onscreen_name_artillery	Xưởng Pháo Binh	true
+avatar_dojo_chains_recruitment_requirement_description_naval_emporium	Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Thương Điếm Hải Quân trên bản đồ Chinh Phạt.	true
+avatar_dojo_chains_recruitment_requirement_description_siege	Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Xưởng Chế Tạo trên bản đồ Chinh Phạt.	true
+avatar_dojo_chains_onscreen_name_shogunate_barrack	Doanh Trại Mạc Phủ	true
+avatar_dojo_chains_onscreen_name_shogunate_armoury	Kho Vũ Khí Mạc Phủ	true
+avatar_dojo_chains_onscreen_name_port	Quân Cảng	true
+avatar_dojo_chains_recruitment_requirement_description_bow	Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Võ Đường Cung Thuật trên bản đồ Chinh Phạt.	true
+avatar_dojo_chains_recruitment_requirement_description_dock	Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Bến Quân Sự trên bản đồ Chinh Phạt.	true
+avatar_dojo_chains_onscreen_name_gun	Trường Bắn Teppo	true
+avatar_dojo_chains_onscreen_name_bow	Võ Đường Cung Thuật	true
+avatar_dojo_chains_onscreen_name_dock	Bến Quân Sự	true
+avatar_dojo_chains_recruitment_requirement_description_port	Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Quân Cảng trên bản đồ Chinh Phạt.	true
+avatar_dojo_chains_recruitment_requirement_description_gun	Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Trường Bắn Teppo trên bản đồ Chinh Phạt.	true
+avatar_dojo_chains_onscreen_name_imperial_armoury	Kho Vũ Khí Hoàng Gia	true
+avatar_dojo_chains_onscreen_name_temple	Chùa Phật Giáo	true
+avatar_dojo_chains_recruitment_requirement_description_stealth	Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Quán Rượu Sake trên bản đồ Chinh Phạt.	true
+avatar_dojo_chains_onscreen_name_cavalry	Chuồng Ngựa	true
+avatar_dojo_chains_recruitment_requirement_description_emporium	Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Thương Điếm trên bản đồ Chinh Phạt.	true
+avatar_dojo_chains_onscreen_name_naval_emporium	Thương Điếm Hải Quân	true
+avatar_dojo_chains_onscreen_name_emporium	Thương Điếm	true
+avatar_dojo_chains_recruitment_requirement_description_cavalry	Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Chuồng Ngựa trên bản đồ Chinh Phạt.	true
+avatar_dojo_chains_recruitment_requirement_description_imperial_armoury	Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Kho Vũ Khí Hoàng Gia trên bản đồ Chinh Phạt.	true
+avatar_dojo_chains_onscreen_name_stealth	Quán Rượu Sake	true
+avatar_dojo_chains_recruitment_requirement_description_shogunate_barrack	Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Doanh Trại Mạc Phủ trên bản đồ Chinh Phạt.	true
+avatar_dojo_chains_recruitment_requirement_description_shogunate_armoury	Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Kho Vũ Khí Mạc Phủ trên bản đồ Chinh Phạt.	true
+avatar_dojo_chains_onscreen_name_spear	Sân Luyện Yari	true
+avatar_dojo_chains_recruitment_requirement_description_artillery	Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Xưởng Pháo Binh trên bản đồ Chinh Phạt.	true
+avatar_dojo_chains_onscreen_name_siege	Xưởng Chế Tạo	true
+avatar_dojo_chains_onscreen_name_sword	Võ Đường Kiếm Thuật	true

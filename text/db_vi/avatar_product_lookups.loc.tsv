@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/db/avatar_product_lookups.loc		
+avatar_product_lookups_localised_string_otomo	Bạn phải mua DLC Otomo Clan để truy cập nội dung này	true
+avatar_product_lookups_localised_string_unit_pack_2	Bạn phải cài đặt DLC Saints & Heroes Unit Pack để tuyển mộ đơn vị này.	true
+avatar_product_lookups_localised_string_unit_pack_1	Bạn phải cài đặt DLC Sengoku Jidai Unit Pack để tuyển mộ đơn vị này.	true
+avatar_product_lookups_localised_string_shogun2	blah	true
+avatar_product_lookups_localised_string_common	n/a	true
+avatar_product_lookups_localised_string_boshin	Bạn phải mua DLC Fall of the Samurai để truy cập nội dung này	true
+avatar_product_lookups_localised_string_gempei	Bạn phải mua DLC Rise of the Samurai để truy cập nội dung này	true
+avatar_product_lookups_localised_string_ikko_ikki	Bạn phải mua DLC Ikko Ikki để truy cập nội dung này	true

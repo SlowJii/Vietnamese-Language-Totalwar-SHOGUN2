@@ -1,0 +1,103 @@
+=== CHUNK 1/17 — avatar_skills.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[0] Ganbatte
+[1] Ganbatte
+[2] Fatigue Resistance
+[3] Fatigue Resistance
+[4] Fatigue Resistance
+[5] Greatly increased avatar aura radius. \\n \\n Units within the avatar's aura radius receive a morale bonus, with the effect being stronger closer to your avatar.
+[6] Increased avatar aura radius. \\n \\n Units within the avatar's aura radius receive a morale bonus, with the effect being stronger closer to your avatar.
+[7] Increased avatar aura radius. \\n \\n Units within the avatar's aura radius receive a morale bonus, with the effect being stronger closer to your avatar.
+[8] Armour Penetration. \\n \\n Melee attacks penetrate armour. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a sword specialism clan.
+[9] Armour Penetration. \\n \\n Melee attacks penetrate armour. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a sword specialism clan.
+[10] Enable Fire Arrows.  \\n \\n When activated, fire arrows increase the lethality of your avatar and his bodyguard's shots and can also ignite wooden buildings. \\n
+[11] Enable Fire Arrows.  \\n \\n When activated, fire arrows increase the lethality of your avatar and his bodyguard's shots and can also ignite wooden buildings. \\n
+[12] Increased Range
+[13] Increased Range
+[14] Increased Range
+[15] Increased Range
+[16] Charge Bonus
+[17] Charge Bonus
+[18] Charge Bonus
+[19] Improved Armour. \\n \\n Increases defence against both melee and missile attacks. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[20] Improved Armour. \\n \\n Increases defence against both melee and missile attacks. \\n \\n Requires 10 clan tokens.
+[21] Increased Avatar Bodyguard Unit Size. \\n \\n The number of men in your avatar's personal guard is increased. \\n \\n Requires No Penalty Against Spears skill. \\n
+[22] Armour
+[23] Increased Avatar Bodyguard Unit Size. \\n \\n The number of men in your avatar's personal guard is increased. \\n \\n Requires No Penalty Against Spears skill. \\n
+[24] Armour
+[25] Sniping
+[26] Sniping
+[27] Greatly Increased Range. \\n \\n Shot range is increased. \\n \\n Requires 1 point in basic Increased Range. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[28] Greatly Increased Range. \\n \\n Shot range is increased. \\n \\n Requires 10 clan tokens.
+[29] Greatly Improved Morale. \\n \\n Units with high morale are less likelt to rout in battle. \\n \\n Requires 10 clan tokens.
+[30] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[31] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Requires 10 clan tokens.
+[32] Extra Ammunition
+[33] Extra Ammunition
+[34] Hours of training across all kinds of terrain has resulted in all non-gunpowder infantry units gaining a speed and fatigue resistance bonus. \\n \\n Requires: Second Wind \\n
+[35] Hours of training across all kinds of terrain has resulted in all non-gunpowder infantry units gaining a speed and fatigue resistance bonus. \\n \\n Requires: Bushido Command \\n \\n Requires: Speed
+[36] Hours of training across all kinds of terrain has resulted in all non-gunpowder infantry units gaining a speed and fatigue resistance bonus. \\n \\n Requires: 1 point in Second Wind \\n
+[37] Morale
+[38] Morale
+[39] Improved Speed. \\n \\n Increases the unit's movement speed.
+[40] Improved Speed. \\n \\n Increases the unit's movement speed.
+[41] Improved Speed. \\n \\n Increases the unit's movement speed.
+[42] Fatigue Resistance Aura
+[43] Fatigue Resistance Aura
+[44] Fatigue Resistance Aura
+[45] Fatigue Resistance Aura
+[46] Greatly Increased Bow Damage. \\n \\n The amount of damage inflicted by the arrows of your avatar and his bodyguard is increased. \\n
+[47] Elite Bow Damage. \\n \\n The amount of damage inflicted by the arrows of your avatar and his bodyguard is increased. \\n
+[48] Increased Bow Damage. \\n \\n The amount of damage inflicted by the arrows of your avatar and his bodyguard is increased. \\n \\n Requires Enable Bow skill. \\n
+[49] Increased Bow Damage. \\n \\n The amount of damage inflicted by the arrows of your avatar and his bodyguard is increased. \\n \\n Requires Enable Bow skill. \\n
+[50] Fatigue Resistance
+[51] Fatigue Resistance
+[52] Fatigue Resistance
+[53] Accuracy
+[54] Accuracy
+[55] Accuracy
+[56] Greatly Improved Accuracy. \\n \\n Your avatar and his bodyguard shoot their bows with greater accuracy. \\n
+[57] Elite Accuracy. \\n \\n Your avatar and his bodyguard shoot their bows with greater accuracy. \\n
+[58] Improved Accuracy. \\n \\n Your avatar and his bodyguard shoot their bows with greater accuracy. \\n \\n Requires Enable Bow skill. \\n
+[59] Improved Accuracy. \\n \\n Your avatar and his bodyguard shoot their bows with greater accuracy. \\n \\n Requires Enable Bow skill. \\n
+[60] Improved accuracy. \\n \\n Your cavalry units shoot their guns with greater accuracy. \\n \\n Requires Gun instructor. \\n \\n
+[61] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[62] Improved Cavalry Accuracy. \\n \\n Your cavalry units shoot their guns with greater accuracy. \\n \\n Requires: Accuracy (light infantry) \\n
+[63] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[64] Greatly improved Cavalry Accuracy. \\n \\n Your cavalry units shoot their guns with greater accuracy. \\n \\n Requires: 1 point in Accuracy (cavalry) \\n
+[65] Hold Firm Ability. \\n \\n When active, boosts melee defence of the unit and up to 3 adjacent units and gives them unbreakable morale for a short time. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a spear specialism clan.
+[66] Hold Firm Ability. \\n \\n When active, boosts melee defence of the unit and up to 3 adjacent units and gives them unbreakable morale for a short time. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a spear specialism clan.
+[67] Elite Reload Speed. \\n \\n Increases the rate at which the unit shoots.
+[68] Replenish Unit
+[69] Replenish Unit
+[70] Increased Ammunition. \\n \\n The men of this unit carry significantly more firebombs than usual for this unit type.
+[71] Reload Speed
+[72] Increased Ammunition. \\n \\n The men of this unit carry significantly more firebombs than usual for this unit type.
+[73] Hold Firm
+[74] Hold Firm
+[75] Increased Range
+[76] Increased Range
+[77] Accuracy
+[78] Accuracy
+[79] Accuracy
+[80] Improved Enemy Spotting. \\n \\n The range at which this unit spots hidden enemies is increased.
+[81] Improved Enemy Spotting. \\n \\n The range at which this unit spots hidden enemies is increased.
+[82] Greatly Improved Accuracy. \\n \\n The unit shoots with greater accuracy.
+[83] Improved Accuracy. \\n \\n The unit shoots with greater accuracy.
+[84] Improved Accuracy. \\n \\n The unit shoots with greater accuracy.
+[85] Enemy Spotting
+[86] Enemy Spotting
+[87] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[88] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[89] Greatly improved Reload Speed. \\n \\n Increases the rate at which your avatar and his bodyguard shoot arrows. \\n
+[90] Improved Reload Speed. \\n \\n Increases the rate at which the unit shoots.
+[91] Improved Reload Speed. \\n \\n Increases the rate at which your avatar and his bodyguard shoot arrows. \\n \\n Requires 1 point in Accuracy skill and 1 point in Speed skill. \\n
+[92] Improved Reload Speed. \\n \\n Increases the rate at which the unit shoots.
+[93] Improved Reload Speed. \\n \\n Increases the rate at which your avatar and his bodyguard shoot arrows. \\n \\n Requires 1 point in Accuracy skill and 1 point in Speed skill. \\n
+[94] Improved Reload Speed. \\n \\n Increases the rate at which the unit shoots.
+[95] Gives a speed, morale and stamina bonus to all units for a short period of time. \\n
+[96] Gives a speed, morale and stamina bonus to all units for a short period of time. \\n
+[97] Improved Accuracy. \\n \\n The unit shoots with greater accuracy.
+[98] Improved Accuracy. \\n \\n The unit shoots with greater accuracy.
+[99] Greatly Improved Accuracy. \\n \\n The unit shoots with greater accuracy.

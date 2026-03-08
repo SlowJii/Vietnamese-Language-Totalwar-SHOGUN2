@@ -1,0 +1,1704 @@
+{
+  "filename": "avatar_campaign_maps.loc.tsv",
+  "category": "ui",
+  "header_lines": [
+    "key\ttext\ttooltip",
+    "#Loc;1;text/db/avatar_campaign_maps.loc\t\t"
+  ],
+  "rows": [
+    {
+      "key": "avatar_campaign_maps_onscreen_name_9_nagato",
+      "text": "Nagato",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s8_west_kanto_coast_boshin",
+      "text": "West Kanto Coast",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s7_hokuriki_coast",
+      "text": "Hokuriku Coast",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s8_west_kanto_coast",
+      "text": "West Kanto Coast",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s5_eastern_seto_inland_sea_boshin",
+      "text": "Eastern Seto Inland Sea",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_2_satsuma_boshin",
+      "text": "Satsuma",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s10_east_kanto_coast",
+      "text": "East Kanto Coast",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s5_eastern_seto_inland_sea",
+      "text": "Eastern Seto Inland Sea",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s2_western_seto_inland_sea_boshin",
+      "text": "Western Seto Inland Sea",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s2_western_seto_inland_sea",
+      "text": "Western Seto Inland Sea",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_60_sado_boshin",
+      "text": "Sado",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_8_bungo_boshin",
+      "text": "Bungo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_16_bingo",
+      "text": "Bingo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_30_tango",
+      "text": "Tango",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_41_mikawa",
+      "text": "Mikawa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_75_aomori_boshin",
+      "text": "Aomori",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_47_totomi_boshin",
+      "text": "Totomi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_42_kaga_boshin",
+      "text": "Kaga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_35_omi",
+      "text": "Omi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_26_tajima",
+      "text": "Tajima",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_47_totomi",
+      "text": "Totomi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_21_bizen",
+      "text": "Bizen",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_56_kazusa",
+      "text": "Kazusa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s13_goto_island_coast_boshin",
+      "text": "Goto Island Coast",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_19_sanuki",
+      "text": "Sanuki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_53_echigo_boshin",
+      "text": "Echigo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_70_oshima_boshin",
+      "text": "Oshima",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_24_harima_boshin",
+      "text": "Harima",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_23_inaba",
+      "text": "Inaba",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_31_tamba",
+      "text": "Tamba",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_26_tajima_boshin",
+      "text": "Tajima",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_52_sagami",
+      "text": "Sagami",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_12_aki",
+      "text": "Aki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_27_kii",
+      "text": "Kii",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_36_iga",
+      "text": "Iga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_49_kai",
+      "text": "Kai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_17_hoki_boshin",
+      "text": "Hoki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_14_tosa_boshin",
+      "text": "Tosa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s15_tanegashima_island_coast_boshin",
+      "text": "Tanegashima Island Coast",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_43_hida_boshin",
+      "text": "Hida",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_11_iwami",
+      "text": "Iwami",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_15_izumo",
+      "text": "Izumo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s1_china_sea_boshin",
+      "text": "China Sea",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s9_sado_island_coast_boshin",
+      "text": "Sado Island Coast",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_34_wakasa_boshin",
+      "text": "Wakasa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_71_hiyama_boshin",
+      "text": "Hiyama",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_63_miyagi_boshin",
+      "text": "Miyagi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_25_awaji",
+      "text": "Awaji",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_32_yamato_boshin",
+      "text": "Yamato",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_41_mikawa_boshin",
+      "text": "Mikawa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_52_sagami_boshin",
+      "text": "Sagami",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_73_sapporo_boshin",
+      "text": "Sapporo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_57_shimosa_boshin",
+      "text": "Shimosa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_44_noto_boshin",
+      "text": "Noto",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_39_mino_boshin",
+      "text": "Mino",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_64_ugo",
+      "text": "Ugo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_5_higo",
+      "text": "Higo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_18_bitchu_boshin",
+      "text": "Bitchu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_45_etchu",
+      "text": "Etchu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_55_musashi_boshin",
+      "text": "Musashi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_66_goto_boshin",
+      "text": "Goto",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_50_suruga",
+      "text": "Suruga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_38_echizen_boshin",
+      "text": "Echizen",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s7_hokuriki_coast_boshin",
+      "text": "Hokuriku Coast",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_4_tsukushi_boshin",
+      "text": "Tsukushi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_1_hizen",
+      "text": "Hizen",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_7_buzen",
+      "text": "Buzen",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_3_osumi_boshin",
+      "text": "Osumi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_18_bitchu",
+      "text": "Bitchu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_63_miyagi",
+      "text": "Miyagi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_65_iwate",
+      "text": "Iwate",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_6_hyuga",
+      "text": "Hyuga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_8_bungo",
+      "text": "Bungo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_61_fukushima_boshin",
+      "text": "Fukushima",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_51_izu",
+      "text": "Izu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_48_north_shinano",
+      "text": "North Shinano",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_40_owari",
+      "text": "Owari",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_6_hyuga_boshin",
+      "text": "Hyuga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_46_south_shinano",
+      "text": "South Shinano",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_13_iyo",
+      "text": "Iyo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s10_east_kanto_coast_boshin",
+      "text": "East Kanto Coast",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s16_tsugaru_strait_boshin",
+      "text": "Tsugaru Strait",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_32_yamato",
+      "text": "Yamato",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_2_satsuma",
+      "text": "Satsuma",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_33_yamashiro_boshin",
+      "text": "Kyoto",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_54_kozuke_boshin",
+      "text": "Kozuke",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_50_suruga_boshin",
+      "text": "Suruga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_19_sanuki_boshin",
+      "text": "Sanuki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_56_kazusa_boshin",
+      "text": "Kazusa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_10_suo",
+      "text": "Suo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_29_kawachi_boshin",
+      "text": "Kawachi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_3_osumi",
+      "text": "Osumi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_28_settsu_boshin",
+      "text": "Settsu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_20_awa",
+      "text": "Awa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_53_echigo",
+      "text": "Echigo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_7_buzen_boshin",
+      "text": "Buzen",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_62_uzen_boshin",
+      "text": "Uzen",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_28_settsu",
+      "text": "Settsu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_59_hitachi_boshin",
+      "text": "Hitachi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_54_kozuke",
+      "text": "Kozuke",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_1_hizen_boshin",
+      "text": "Hizen",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_37_ise",
+      "text": "Ise",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_9_nagato_boshin",
+      "text": "Nagato",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_24_harima",
+      "text": "Harima",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_34_wakasa",
+      "text": "Wakasa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_22_mimasaka",
+      "text": "Mimasaka",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_15_izumo_boshin",
+      "text": "Izumo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_68_nagasaki_boshin",
+      "text": "Nagasaki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_74_iburi_boshin",
+      "text": "Iburi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s12_eastern_tohuku_sea_boshin",
+      "text": "Eastern Tohoku Sea",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_10_suo_boshin",
+      "text": "Suo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_64_ugo_boshin",
+      "text": "Ugo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_29_kawachi",
+      "text": "Kawachi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s14_tsushima_island_coast_boshin",
+      "text": "Tsushima Island Coast",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_59_hitachi",
+      "text": "Hitachi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_38_echizen",
+      "text": "Echizen",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_69_tanegashima_boshin",
+      "text": "Tanegashima",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_44_noto",
+      "text": "Noto",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_21_bizen_boshin",
+      "text": "Bizen",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_58_shimotsuke",
+      "text": "Shimotsuke",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_14_tosa",
+      "text": "Tosa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_72_shiribeshi_boshin",
+      "text": "Shiribeshi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s6_tokai_coast_boshin",
+      "text": "Tokai Coast",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s6_tokai_coast",
+      "text": "Tokai Coast",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_22_mimasaka_boshin",
+      "text": "Mimasaka",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s1_china_sea",
+      "text": "China Sea",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_11_iwami_boshin",
+      "text": "Iwami",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_20_awa_boshin",
+      "text": "Awa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_40_owari_boshin",
+      "text": "Owari",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_46_south_shinano_boshin",
+      "text": "South Shinano",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_12_aki_boshin",
+      "text": "Aki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s17_northern_japanese_sea_boshin",
+      "text": "Northern Japanese Sea",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_57_shimosa",
+      "text": "Shimosa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_23_inaba_boshin",
+      "text": "Inaba",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_65_iwate_boshin",
+      "text": "Iwate",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_25_awaji_boshin",
+      "text": "Awaji",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_55_musashi",
+      "text": "Musashi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_33_yamashiro",
+      "text": "Kyoto",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_4_tsukushi",
+      "text": "Tsukushi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_58_shimotsuke_boshin",
+      "text": "Shimotsuke",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_45_etchu_boshin",
+      "text": "Etchu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_17_hoki",
+      "text": "Hoki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_48_north_shinano_boshin",
+      "text": "North Shinano",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_16_bingo_boshin",
+      "text": "Bingo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s11_western_tohoku_sea_boshin",
+      "text": "Western Tohoku Sea",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_37_ise_boshin",
+      "text": "Ise",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_51_izu_boshin",
+      "text": "Izu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_13_iyo_boshin",
+      "text": "Iyo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_36_iga_boshin",
+      "text": "Iga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_5_higo_boshin",
+      "text": "Higo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_49_kai_boshin",
+      "text": "Kai",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_67_tsushima_boshin",
+      "text": "Tsushima",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_27_kii_boshin",
+      "text": "Kii",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_62_uzen",
+      "text": "Uzen",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_39_mino",
+      "text": "Mino",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_31_tamba_boshin",
+      "text": "Tamba",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_43_hida",
+      "text": "Hida",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_30_tango_boshin",
+      "text": "Tango",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_42_kaga",
+      "text": "Kaga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_61_fukushima",
+      "text": "Fukushima",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_60_sado",
+      "text": "Sado",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_35_omi_boshin",
+      "text": "Omi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s3_sea_of_hyuga",
+      "text": "Sea of Hyuga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s11_western_tohoku_sea",
+      "text": "Western Tohoku Sea",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s9_sado_island_coast",
+      "text": "Sado Island Coast",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s4_san_in_coast_boshin",
+      "text": "San'in Coast",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s3_sea_of_hyuga_boshin",
+      "text": "Sea of Hyuga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s12_eastern_tohuku_sea",
+      "text": "Eastern Tohoku Sea",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_campaign_maps_onscreen_name_s4_san_in_coast",
+      "text": "San'in Coast",
+      "tooltip": "true",
+      "empty": false
+    }
+  ],
+  "translatable": [
+    {
+      "row_index": 0,
+      "text": "Nagato"
+    },
+    {
+      "row_index": 1,
+      "text": "West Kanto Coast"
+    },
+    {
+      "row_index": 2,
+      "text": "Hokuriku Coast"
+    },
+    {
+      "row_index": 3,
+      "text": "West Kanto Coast"
+    },
+    {
+      "row_index": 4,
+      "text": "Eastern Seto Inland Sea"
+    },
+    {
+      "row_index": 5,
+      "text": "Satsuma"
+    },
+    {
+      "row_index": 6,
+      "text": "East Kanto Coast"
+    },
+    {
+      "row_index": 7,
+      "text": "Eastern Seto Inland Sea"
+    },
+    {
+      "row_index": 8,
+      "text": "Western Seto Inland Sea"
+    },
+    {
+      "row_index": 9,
+      "text": "Western Seto Inland Sea"
+    },
+    {
+      "row_index": 10,
+      "text": "Sado"
+    },
+    {
+      "row_index": 11,
+      "text": "Bungo"
+    },
+    {
+      "row_index": 12,
+      "text": "Bingo"
+    },
+    {
+      "row_index": 13,
+      "text": "Tango"
+    },
+    {
+      "row_index": 14,
+      "text": "Mikawa"
+    },
+    {
+      "row_index": 15,
+      "text": "Aomori"
+    },
+    {
+      "row_index": 16,
+      "text": "Totomi"
+    },
+    {
+      "row_index": 17,
+      "text": "Kaga"
+    },
+    {
+      "row_index": 18,
+      "text": "Omi"
+    },
+    {
+      "row_index": 19,
+      "text": "Tajima"
+    },
+    {
+      "row_index": 20,
+      "text": "Totomi"
+    },
+    {
+      "row_index": 21,
+      "text": "Bizen"
+    },
+    {
+      "row_index": 22,
+      "text": "Kazusa"
+    },
+    {
+      "row_index": 23,
+      "text": "Goto Island Coast"
+    },
+    {
+      "row_index": 24,
+      "text": "Sanuki"
+    },
+    {
+      "row_index": 25,
+      "text": "Echigo"
+    },
+    {
+      "row_index": 26,
+      "text": "Oshima"
+    },
+    {
+      "row_index": 27,
+      "text": "Harima"
+    },
+    {
+      "row_index": 28,
+      "text": "Inaba"
+    },
+    {
+      "row_index": 29,
+      "text": "Tamba"
+    },
+    {
+      "row_index": 30,
+      "text": "Tajima"
+    },
+    {
+      "row_index": 31,
+      "text": "Sagami"
+    },
+    {
+      "row_index": 32,
+      "text": "Aki"
+    },
+    {
+      "row_index": 33,
+      "text": "Kii"
+    },
+    {
+      "row_index": 34,
+      "text": "Iga"
+    },
+    {
+      "row_index": 35,
+      "text": "Kai"
+    },
+    {
+      "row_index": 36,
+      "text": "Hoki"
+    },
+    {
+      "row_index": 37,
+      "text": "Tosa"
+    },
+    {
+      "row_index": 38,
+      "text": "Tanegashima Island Coast"
+    },
+    {
+      "row_index": 39,
+      "text": "Hida"
+    },
+    {
+      "row_index": 40,
+      "text": "Iwami"
+    },
+    {
+      "row_index": 41,
+      "text": "Izumo"
+    },
+    {
+      "row_index": 42,
+      "text": "China Sea"
+    },
+    {
+      "row_index": 43,
+      "text": "Sado Island Coast"
+    },
+    {
+      "row_index": 44,
+      "text": "Wakasa"
+    },
+    {
+      "row_index": 45,
+      "text": "Hiyama"
+    },
+    {
+      "row_index": 46,
+      "text": "Miyagi"
+    },
+    {
+      "row_index": 47,
+      "text": "Awaji"
+    },
+    {
+      "row_index": 48,
+      "text": "Yamato"
+    },
+    {
+      "row_index": 49,
+      "text": "Mikawa"
+    },
+    {
+      "row_index": 50,
+      "text": "Sagami"
+    },
+    {
+      "row_index": 51,
+      "text": "Sapporo"
+    },
+    {
+      "row_index": 52,
+      "text": "Shimosa"
+    },
+    {
+      "row_index": 53,
+      "text": "Noto"
+    },
+    {
+      "row_index": 54,
+      "text": "Mino"
+    },
+    {
+      "row_index": 55,
+      "text": "Ugo"
+    },
+    {
+      "row_index": 56,
+      "text": "Higo"
+    },
+    {
+      "row_index": 57,
+      "text": "Bitchu"
+    },
+    {
+      "row_index": 58,
+      "text": "Etchu"
+    },
+    {
+      "row_index": 59,
+      "text": "Musashi"
+    },
+    {
+      "row_index": 60,
+      "text": "Goto"
+    },
+    {
+      "row_index": 61,
+      "text": "Suruga"
+    },
+    {
+      "row_index": 62,
+      "text": "Echizen"
+    },
+    {
+      "row_index": 63,
+      "text": "Hokuriku Coast"
+    },
+    {
+      "row_index": 64,
+      "text": "Tsukushi"
+    },
+    {
+      "row_index": 65,
+      "text": "Hizen"
+    },
+    {
+      "row_index": 66,
+      "text": "Buzen"
+    },
+    {
+      "row_index": 67,
+      "text": "Osumi"
+    },
+    {
+      "row_index": 68,
+      "text": "Bitchu"
+    },
+    {
+      "row_index": 69,
+      "text": "Miyagi"
+    },
+    {
+      "row_index": 70,
+      "text": "Iwate"
+    },
+    {
+      "row_index": 71,
+      "text": "Hyuga"
+    },
+    {
+      "row_index": 72,
+      "text": "Bungo"
+    },
+    {
+      "row_index": 73,
+      "text": "Fukushima"
+    },
+    {
+      "row_index": 74,
+      "text": "Izu"
+    },
+    {
+      "row_index": 75,
+      "text": "North Shinano"
+    },
+    {
+      "row_index": 76,
+      "text": "Owari"
+    },
+    {
+      "row_index": 77,
+      "text": "Hyuga"
+    },
+    {
+      "row_index": 78,
+      "text": "South Shinano"
+    },
+    {
+      "row_index": 79,
+      "text": "Iyo"
+    },
+    {
+      "row_index": 80,
+      "text": "East Kanto Coast"
+    },
+    {
+      "row_index": 81,
+      "text": "Tsugaru Strait"
+    },
+    {
+      "row_index": 82,
+      "text": "Yamato"
+    },
+    {
+      "row_index": 83,
+      "text": "Satsuma"
+    },
+    {
+      "row_index": 84,
+      "text": "Kyoto"
+    },
+    {
+      "row_index": 85,
+      "text": "Kozuke"
+    },
+    {
+      "row_index": 86,
+      "text": "Suruga"
+    },
+    {
+      "row_index": 87,
+      "text": "Sanuki"
+    },
+    {
+      "row_index": 88,
+      "text": "Kazusa"
+    },
+    {
+      "row_index": 89,
+      "text": "Suo"
+    },
+    {
+      "row_index": 90,
+      "text": "Kawachi"
+    },
+    {
+      "row_index": 91,
+      "text": "Osumi"
+    },
+    {
+      "row_index": 92,
+      "text": "Settsu"
+    },
+    {
+      "row_index": 93,
+      "text": "Awa"
+    },
+    {
+      "row_index": 94,
+      "text": "Echigo"
+    },
+    {
+      "row_index": 95,
+      "text": "Buzen"
+    },
+    {
+      "row_index": 96,
+      "text": "Uzen"
+    },
+    {
+      "row_index": 97,
+      "text": "Settsu"
+    },
+    {
+      "row_index": 98,
+      "text": "Hitachi"
+    },
+    {
+      "row_index": 99,
+      "text": "Kozuke"
+    },
+    {
+      "row_index": 100,
+      "text": "Hizen"
+    },
+    {
+      "row_index": 101,
+      "text": "Ise"
+    },
+    {
+      "row_index": 102,
+      "text": "Nagato"
+    },
+    {
+      "row_index": 103,
+      "text": "Harima"
+    },
+    {
+      "row_index": 104,
+      "text": "Wakasa"
+    },
+    {
+      "row_index": 105,
+      "text": "Mimasaka"
+    },
+    {
+      "row_index": 106,
+      "text": "Izumo"
+    },
+    {
+      "row_index": 107,
+      "text": "Nagasaki"
+    },
+    {
+      "row_index": 108,
+      "text": "Iburi"
+    },
+    {
+      "row_index": 109,
+      "text": "Eastern Tohoku Sea"
+    },
+    {
+      "row_index": 110,
+      "text": "Suo"
+    },
+    {
+      "row_index": 111,
+      "text": "Ugo"
+    },
+    {
+      "row_index": 112,
+      "text": "Kawachi"
+    },
+    {
+      "row_index": 113,
+      "text": "Tsushima Island Coast"
+    },
+    {
+      "row_index": 114,
+      "text": "Hitachi"
+    },
+    {
+      "row_index": 115,
+      "text": "Echizen"
+    },
+    {
+      "row_index": 116,
+      "text": "Tanegashima"
+    },
+    {
+      "row_index": 117,
+      "text": "Noto"
+    },
+    {
+      "row_index": 118,
+      "text": "Bizen"
+    },
+    {
+      "row_index": 119,
+      "text": "Shimotsuke"
+    },
+    {
+      "row_index": 120,
+      "text": "Tosa"
+    },
+    {
+      "row_index": 121,
+      "text": "Shiribeshi"
+    },
+    {
+      "row_index": 122,
+      "text": "Tokai Coast"
+    },
+    {
+      "row_index": 123,
+      "text": "Tokai Coast"
+    },
+    {
+      "row_index": 124,
+      "text": "Mimasaka"
+    },
+    {
+      "row_index": 125,
+      "text": "China Sea"
+    },
+    {
+      "row_index": 126,
+      "text": "Iwami"
+    },
+    {
+      "row_index": 127,
+      "text": "Awa"
+    },
+    {
+      "row_index": 128,
+      "text": "Owari"
+    },
+    {
+      "row_index": 129,
+      "text": "South Shinano"
+    },
+    {
+      "row_index": 130,
+      "text": "Aki"
+    },
+    {
+      "row_index": 131,
+      "text": "Northern Japanese Sea"
+    },
+    {
+      "row_index": 132,
+      "text": "Shimosa"
+    },
+    {
+      "row_index": 133,
+      "text": "Inaba"
+    },
+    {
+      "row_index": 134,
+      "text": "Iwate"
+    },
+    {
+      "row_index": 135,
+      "text": "Awaji"
+    },
+    {
+      "row_index": 136,
+      "text": "Musashi"
+    },
+    {
+      "row_index": 137,
+      "text": "Kyoto"
+    },
+    {
+      "row_index": 138,
+      "text": "Tsukushi"
+    },
+    {
+      "row_index": 139,
+      "text": "Shimotsuke"
+    },
+    {
+      "row_index": 140,
+      "text": "Etchu"
+    },
+    {
+      "row_index": 141,
+      "text": "Hoki"
+    },
+    {
+      "row_index": 142,
+      "text": "North Shinano"
+    },
+    {
+      "row_index": 143,
+      "text": "Bingo"
+    },
+    {
+      "row_index": 144,
+      "text": "Western Tohoku Sea"
+    },
+    {
+      "row_index": 145,
+      "text": "Ise"
+    },
+    {
+      "row_index": 146,
+      "text": "Izu"
+    },
+    {
+      "row_index": 147,
+      "text": "Iyo"
+    },
+    {
+      "row_index": 148,
+      "text": "Iga"
+    },
+    {
+      "row_index": 149,
+      "text": "Higo"
+    },
+    {
+      "row_index": 150,
+      "text": "Kai"
+    },
+    {
+      "row_index": 151,
+      "text": "Tsushima"
+    },
+    {
+      "row_index": 152,
+      "text": "Kii"
+    },
+    {
+      "row_index": 153,
+      "text": "Uzen"
+    },
+    {
+      "row_index": 154,
+      "text": "Mino"
+    },
+    {
+      "row_index": 155,
+      "text": "Tamba"
+    },
+    {
+      "row_index": 156,
+      "text": "Hida"
+    },
+    {
+      "row_index": 157,
+      "text": "Tango"
+    },
+    {
+      "row_index": 158,
+      "text": "Kaga"
+    },
+    {
+      "row_index": 159,
+      "text": "Fukushima"
+    },
+    {
+      "row_index": 160,
+      "text": "Sado"
+    },
+    {
+      "row_index": 161,
+      "text": "Omi"
+    },
+    {
+      "row_index": 162,
+      "text": "Sea of Hyuga"
+    },
+    {
+      "row_index": 163,
+      "text": "Western Tohoku Sea"
+    },
+    {
+      "row_index": 164,
+      "text": "Sado Island Coast"
+    },
+    {
+      "row_index": 165,
+      "text": "San'in Coast"
+    },
+    {
+      "row_index": 166,
+      "text": "Sea of Hyuga"
+    },
+    {
+      "row_index": 167,
+      "text": "Eastern Tohoku Sea"
+    },
+    {
+      "row_index": 168,
+      "text": "San'in Coast"
+    }
+  ],
+  "total_chunks": 2,
+  "chunk_size": 100
+}

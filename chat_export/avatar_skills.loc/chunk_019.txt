@@ -1,0 +1,83 @@
+=== CHUNK 19/21 — avatar_skills.loc.tsv ===
+(Dịch 80 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[1440] Improved Armour. \\n \\n Increases the defence of your avatar and his bodyguard against both melee and missile attacks. \\n \\n Requires 1 point in Melee Defence skill. \\n
+[1441] Whistling Arrows. \\n \\n When activated, whistling arrows reduce the morale, melee attack and reload speed of enemy units targeted by them.
+[1442] Whistling Arrows. \\n \\n When activated, whistling arrows reduce the morale, melee attack and reload speed of enemy units targeted by them.
+[1443] Accuracy
+[1444] Accuracy
+[1445] Accuracy
+[1446] Accuracy
+[1447] Melee Attack
+[1448] Melee Attack
+[1449] Melee Attack
+[1450] Morale
+[1451] Morale
+[1452] Whistling Arrows
+[1453] Whistling Arrows
+[1454] Improved Accuracy. \\n \\n The unit fires with greater accuracy.
+[1455] Improved Accuracy \\n \\n The unit fires with greater accuracy.
+[1456] Greatly Improved Accuracy \\n \\n The unit fires with greater accuracy.
+[1457] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle.
+[1458] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle.
+[1459] Improved Speed. \\n \\n Increases the unit's movement speed.
+[1460] Improved Speed. \\n \\n Increases the unit's movement speed.
+[1461] Greatly Improved Speed. \\n \\n Increases the unit's movement speed.
+[1462] Increases the speed at which key buildings will be captured in land battles. \\n \\n Requires: Quick March \\n
+[1463] Increases the speed at which key buildings will be captured in land battles. \\n \\n Requires: Quick March \\n
+[1464] Greatly increases the speed at which key buildings will be captured in land battles. \\n \\n Requires: 1 point in Rapid Capture \\n
+[1465] Rapid Capture \\n (land)
+[1466] Rapid Capture \\n (land)
+[1467] Rapid Capture \\n (land)
+[1468] Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[1469] Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[1470] Fatigue Resistance
+[1471] Fatigue Resistance
+[1472] Fatigue Resistance
+[1473] Morale
+[1474] Morale
+[1475] Morale
+[1476] Accuracy \\n (rifle light infantry)
+[1477] Accuracy \\n (rifle light infantry)
+[1478] Accuracy \\n (rifle light infantry)
+[1479] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle.
+[1480] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle.
+[1481] Greatly Improved Morale. \\n \\n Units with high morale are less likely to rout in battle.
+[1482] Melee Attack
+[1483] Melee Attack
+[1484] Melee Attack
+[1485] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[1486] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1487] Greatly Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1488] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1489] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1490] Enables your avatar to train naval units. \\n
+[1491] Enables your avatar to train naval units. \\n
+[1492] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1493] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1494] Greatly Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1495] Reload Speed
+[1496] Reload Speed
+[1497] Reload Speed
+[1498] Greatly Improved Melee Defence. \\n \\n Increases the skill of your avatar and his bodyguard at defending themselves against melee attacks. \\n
+[1499] Elite Melee Defence. \\n \\n Increases the skill of your avatar and his bodyguard at defending themselves against melee attacks. \\n
+[1500] Improved Melee Defence. \\n \\n Increases the skill of your avatar and his bodyguard at defending themselves against melee attacks. \\n
+[1501] Improved Melee Defence. \\n \\n Increases the skill of your avatar and his bodyguard at defending themselves against melee attacks. \\n
+[1502] Replenish Unit
+[1503] Replenish Unit
+[1504] Greatly Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy. \\n \\n Requires 1 point in basic Charge Bonus. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1505] Greatly Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy. \\n \\n Requires 10 clan tokens.
+[1506] Increased Range. \\n \\n Shot range is increased. \\n \\n Requires 10 clan tokens.
+[1507] Increased Range. \\n \\n Shot range is increased. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1508] Melee Defence
+[1509] Melee Defence
+[1510] Melee Defence
+[1511] Melee Defence
+[1512] Reload Speed
+[1513] Reload Speed
+[1514] Reload Speed
+[1515] Melee Attack
+[1516] Melee Attack
+[1517] Melee Attack
+[1518] Missile Damage
+[1519] Missile Damage

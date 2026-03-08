@@ -1,0 +1,65 @@
+[0] Hoàn thành bộ giáp: Sparse Point Laced
+[1] Trở thành thành viên của một gia tộc chuyên về trường thương bộ binh
+[2] Hoàn thành bộ giáp: Toyotomi Hideyoshi
+[3] Trở thành thành viên của một gia tộc chuyên về đơn vị Mạc phủ hiện đại.
+[4] Trở thành thành viên của một gia tộc chuyên về đao bộ binh
+[5] Trở thành thành viên của một gia tộc chuyên về kỵ binh
+[6] Hoàn thành bộ giáp: Silver Scale Cuirass
+[7] Hoàn thành bộ giáp: Golden Scale Cuirass
+[8] Nguồn: Chuỗi công trình Sword School
+[9] Trở thành thành viên của một gia tộc chuyên về đơn vị Đế quốc hiện đại.
+[10] Gia tộc của bạn phải chiến thắng bậc 1 để mở khóa mon này.
+[11] Nguồn: Chuỗi công trình Teppo Range
+[12] Hoàn thành bộ giáp: Blade Master
+[13] Hoàn thành bộ giáp: Oda Nobunaga
+[14] placeholder
+[15] Hoàn thành bộ giáp: Multicolour Laced
+[16] Trở thành thành viên của một gia tộc chuyên về xạ tiễn binh
+[17] Hoàn thành bộ giáp: Itakura Katsushiga
+[18] Hóa thân của bạn bắt đầu trò chơi với tùy tùng này.
+[19] Bạn phải sở hữu DLC Rise of the Samurai để sử dụng mon này.
+[20] Nguồn: Vùng trên bản đồ Chinh phục Hóa thân
+[21] Nguồn: Rơi ngẫu nhiên sau trận đánh \n \n Bạn phải sở hữu DLC Rise of the Samurai để sử dụng tùy tùng này.
+[22] Hoàn thành bộ giáp: Maeda Toshie
+[23] Hoàn thành bộ giáp: Catfish Tail
+[24] Hoàn thành thành tựu: Đại Soái
+[25] Nguồn: Chuỗi công trình Archery Dojo
+[26] Hoàn thành bộ giáp: Ichinotani
+[27] Hoàn thành bộ giáp: Late Samurai Uniform 2
+[28] Hoàn thành bộ giáp: Late Samurai Uniform 3
+[29] Hoàn thành bộ giáp: Late Samurai Uniform 1
+[30] Bạn phải sở hữu DLC Ikko-Ikki để sử dụng tùy tùng này.
+[31] Hoàn thành bộ giáp: Shinsengumi Uniform 2
+[32] Hoàn thành bộ giáp: Shinsengumi Uniform 1
+[33] Hoàn thành bộ giáp: British Uniform
+[34] Hoàn thành bộ giáp: Hosokawa Tadakoi
+[35] Nguồn: Chuỗi công trình Stables
+[36] Nguồn: Chuỗi công trình Workshop
+[37] Hoàn thành bộ giáp: Uesugi Kenshin
+[38] Hoàn thành bộ giáp: Western Style
+[39] Hoàn thành bộ giáp: Morning Glory
+[40] Hoàn thành bộ giáp: Robes of the Ikko Ikki
+[41] Nguồn: Rơi ngẫu nhiên sau trận đánh
+[42] Nguồn: Rơi ngẫu nhiên sau trận đánh \n \n Bạn phải sở hữu DLC Ikko-Ikki để sử dụng tùy tùng này.
+[43] Nguồn: Chuỗi công trình Sake Den
+[44] Gia tộc của bạn phải đạt thăng cấp để mở khóa mon này.
+[45] Hoàn thành bộ giáp: Tokugawa Ieyasu
+[46] Hoàn thành bộ giáp: French Uniform
+[47] Bạn phải sở hữu DLC Rise of the Samurai để sử dụng tùy tùng này.
+[48] Hoàn thành bộ giáp: Officer Uniform 1
+[49] Hoàn thành bộ giáp: Officer Uniform 1
+[50] Hoàn thành bộ giáp: Modern Uniform 4
+[51] Hoàn thành bộ giáp: Modern Uniform 2
+[52] Hoàn thành bộ giáp: Modern Uniform 3
+[53] Hoàn thành bộ giáp: Goldfish Scale
+[54] Hoàn thành bộ giáp: Scale Cuirass
+[55] Hoàn thành bộ giáp: Naoe Kanetsugu
+[56] Hoàn thành bộ giáp: Kato Kiyomasa
+[57] Hoàn thành bộ giáp: Honda Tadakatsu
+[58] Hoàn thành bộ giáp: American Uniform 1
+[59] Hoàn thành bộ giáp: American Uniform 2
+[60] Hoàn thành bộ giáp: Kawari Kabuto
+[61] Hoàn thành bộ giáp: Triple Hollyhock
+[62] Hoàn thành bộ giáp: Date Masamune
+[63] Hoàn thành bộ giáp: Akechi Mitsuharu
+[64] Gia tộc của bạn phải thăng cấp lên bậc 1 để mở khóa mon này.

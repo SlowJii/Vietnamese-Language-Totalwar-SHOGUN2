@@ -1,0 +1,68 @@
+=== CHUNK 1/1 — avatar_ancillaries_localised_source_lookups.loc.tsv ===
+(Dịch 65 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[0] Complete armour set: Sparse Point Laced
+[1] Become a member of a clan specialising in spear infantry
+[2] Complete armour set: Toyotomi Hideyoshi
+[3] Become a member of a clan specialising in modern Shogunate units.
+[4] Become a member of a clan specialising in sword infantry
+[5] Become a member of a clan specialising in cavalry
+[6] Complete armour set: Silver Scale Cuirass
+[7] Complete armour set: Golden Scale Cuirass
+[8] Source: Sword School building chain
+[9] Become a member of a clan specialising in modern Imperial units.
+[10] Your clan must win tier 1 to unlock this mon.
+[11] Source: Teppo Range building chain
+[12] Complete armour set: Blade Master
+[13] Complete armour set: Oda Nobunaga
+[14] placeholder
+[15] Complete armour set: Multicolour Laced
+[16] Become a member of a clan specialising in bow infantry
+[17] Complete armour set: Itakura Katsushiga
+[18] Your avatar starts the game with this retainer.
+[19] You must own the Rise of the Samurai DLC in order to use this mon.
+[20] Source: Avatar conquest map region
+[21] Source: Random post-battle drop \\n \\n You must own the Rise of the Samurai DLC in order to use this retainer.
+[22] Complete armour set: Maeda Toshie
+[23] Complete armour set: Catfish Tail
+[24] Complete achievement: Shogun
+[25] Source: Archery Dojo building chain
+[26] Complete armour set: Ichinotani
+[27] Complete armour set: Late Samurai Uniform 2
+[28] Complete armour set: Late Samurai Uniform 3
+[29] Complete armour set: Late Samurai Uniform 1
+[30] You must own the Ikko-Ikki DLC in order to use this retainer.
+[31] Complete armour set: Shinsengumi Uniform 2
+[32] Complete armour set: Shinsengumi Uniform 1
+[33] Complete armour set: British Uniform
+[34] Complete armour set: Hosokawa Tadakoi
+[35] Source: Stables building chain
+[36] Source: Workshop building chain
+[37] Complete armour set: Uesugi Kenshin
+[38] Complete armour set: Western Style
+[39] Complete armour set: Morning Glory
+[40] Complete armour set: Robes of the Ikko Ikki
+[41] Source: Random post-battle drop
+[42] Source: Random post-battle drop \\n \\n You must own the Ikko-Ikki DLC in order to use this retainer.
+[43] Source: Sake Den building chain
+[44] Your clan must achieve promotion to unlock this mon.
+[45] Complete armour set: Tokugawa Ieyasu
+[46] Complete armour set: French Uniform
+[47] You must own the Rise of the Samurai DLC in order to use this retainer.
+[48] Complete armour set: Officer Uniform 1
+[49] Complete armour set: Officer Uniform 1
+[50] Complete armour set: Modern Uniform 4
+[51] Complete armour set: Modern Uniform 2
+[52] Complete armour set: Modern Uniform 3
+[53] Complete armour set: Goldfish Scale
+[54] Complete armour set: Scale Cuirass
+[55] Complete armour set: Naoe Kanetsugu
+[56] Complete armour set: Kato Kiyomasa
+[57] Complete armour set: Honda Tadakatsu
+[58] Complete armour set: American Uniform 1
+[59] Complete armour set: American Uniform 2
+[60] Complete armour set: Kawari Kabuto
+[61] Complete armour set: Triple Hollyhock
+[62] Complete armour set: Date Masamune
+[63] Complete armour set: Akechi Mitsuharu
+[64] Your clan must achieve promotion to tier 1 to unlock this mon.

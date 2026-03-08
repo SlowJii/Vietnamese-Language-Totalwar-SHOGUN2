@@ -1,0 +1,103 @@
+=== CHUNK 2/3 — avatar_ancillaries_descriptions.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[100] \\n Enemy corvettes: %+n%% to Overheat Engine ability cooldown & 
+[101] \\n %-n%% ammunition for enemy bow units. \\n \\n "Ah! Those. Give me a day. I'll find some…"
+[102] \\n %+n armour to all melee infantry. \\n \\n Protection is wisdom.
+[103] \\n Enemy Tosa Riflemen, Yugekitai & Sharpshooter accuracy: %-n. \\n \\n "Oh, drat these spectacles! Was that a hit? Sergeant?"
+[104] \\n  Modern gunpowder cavalry have increased fatigue resistance. \\n \\n Only a fool looks after his sword yet neglects his horse.
+[105] \\n All unit cooldowns reduced by 10%. \\n Cancels effects of enemy Wizened Monk retainer. \\n \\n "Do not look for wisdom. It will find you."
+[106] \\n %+n reload skill for all matchlock units. \\n \\n Guns are useless in the hands of idiots.
+[107] \\n Foot Samurai: %n melee attack,
+[108] %n melee defence,
+[109] %+n accuracy,
+[110] %+n reload speed. \\n \\n A man cannot walk two paths at once. A choice lies at the start of every journey.
+[111] %-n morale. \\n \\n The burden of a lifetime bends a man's back.
+[112] %-n accuracy &
+[113] \\n Veteran units (including heroes) under your enemy's command receive: \\n %-n melee attack,
+[114] \\n Avatar slightly decreases morale of enemy units in vicinity. \\n \\n There is solace, even for the warrior.
+[115] \\n %+n melee attack for Loan-Sword Ashigaru units. \\n \\n The first cut is the deepest.
+[116] \\n Enemy corvette accuracy: %n. \\n \\n "100 yards short again!"
+[117] \\n Warrior Monk units receive %n%% increased speed. \\n \\n Truth flies on swift wings.
+[118] \\n Enemy modern gunpowder cavalry reload skill: %-n. \\n \\n Accuracy comes at a price.
+[119] \\n Naginata Warrior Monk Hero: %+n morale. \\n \\n "Here is Benkei! None shall pass!"
+[120] \\n %+n accuracy to all bow units. \\n \\n When the heart is pure, the arrow finds a way.
+[121] \\n Line & elite infantry morale: %+n. \\n \\n War is the school of warriors.
+[122] \\n Reduced melee cavalry casualties. \\n Increased Clan Influence Points gain. \\n \\n Training is never wasted in life.
+[123] \\n Avatar: %+n morale. \\n \\n A banner, floating on the breeze, is a noble sight.
+[124] \\n Reduced speed for all enemy cavalry units. \\n \\n Dull eye and drooping ear speak eloquently of the suffering within.
+[125] %+n morale. \\n \\n "Fight ME!"
+[126] \\n Katana Hero: %+n melee attack,
+[127] \\n Gunboat reload skill: %+n. \\n \\n When you've few guns, make sure you fire often.
+[128] \\n Enemy Ironclad reload skill: %n. \\n \\n "Gun practice Lieutenant? Not today, I have a headache."
+[129] Reduced reload skill for all enemy matchlock units. \\n \\n Rain, fog and water drive the devils from black powder.
+[130] \\n %+n%% speed for all cavalry units. \\n \\n Speed comes more readily to the rider with a comfortable seat.
+[131] \\n Reduced spear infantry casualties. \\n Increased Clan Influence Points gain. \\n \\n Training is never wasted in life.
+[132] \\n Enemy Tosa Riflemen, Yugekitai & Sharpshooter reload skill: %-n. \\n \\n Accuracy comes at a price.
+[133] \\n %+n% ammunition to all bow and matchlock units. \\n \\n "Do not throw your bow when the arrows are gone!"
+[134] \\n Increased fatigue resistance for all cavalry. \\n \\n  Peasants cannot hide everything.
+[135] \\n %+n morale for all units. \\n \\n When men lift their eyes to heaven, their hearts follow.
+[136] \\n Increased fatigue resistance for all bow and matchlock infantry. \\n \\n Battle gives a man a powerful thirst.
+[137] \\n %+n melee attack for all spear infantry units. \\n \\n The edge is where the moment is decided.
+[138] \\n Avatar: %+n hitpoints. \\n \\n Every boy would die for his hero.
+[139] \\n %-n enemy bow and matchlock accuracy. \\n \\n Strong drink is a comfort to some, a tool for others.
+[140] \\n Enemy elite infantry reload skill: %-n. \\n \\n Tried, tested and out-dated.
+[141] \\n Enemy cavalry: %-n charge bonus. \\n \\n It's only theft if you are caught.
+[142] \\n %+n melee attack to all melee cavalry. \\n \\n Nothing in battle should be a surprise.
+[143] \\n %+n accuracy for all bow units. \\n \\n A target stands; an enemy thinks.
+[144] \\n Allows player to field Kisho Ninjas. \\n \\n The hidden knife is no less deadly for being expected.
+[145] & %-n charge bonus. \\n \\n "Fools are always trapped by loyalty."
+[146] \\n Enemy Attendants: %-n morale
+[147] \\n %+n attack to all sword infantry. \\n \\n The sword must be one with the hand.
+[148] %n%% to Fast Reload ability cooldown. \\n \\n Even a little ship well-handled can punch above its weight.
+[149] \\n Gunboats: %n%% to Overheat Engine ability cooldown & 
+[150] +%n%% recruitment cost & 
+[151] %+n morale. \\n \\n The faith of the people is the strength of the people.
+[152] \\n Warrior Monk and Ashigaru units you command have %+n melee defence, 
+[153] \\n Increased ability to spot hidden enemy units. \\n \\n Knowledge is better than rumour.
+[154] \\n Corvette reload skill: %+n. \\n \\n "54 seconds: not bad. Not outstanding either! Again!"
+[155] \\n Increased ability to spot hidden enemy units. \\n \\n Knowledge is better than rumour.
+[156] \\n %+n melee defence for all spear infantry. \\n \\n Even the simplest thing must be mastered.
+[157] \\n %+n melee defence to all naginata infantry. \\n \\n Drill is a battle without blood.
+[158] \\n Frigate accuracy: %+n. \\n \\n "Fire on the rise!"
+[159] %+n%% to Fast Reload ability cooldown. \\n \\n "Don't you lot know your starboard from your larboard?"
+[160]  \\n %+n morale for ashigaru units. \\n \\n Wealth is a full ricebowl.
+[161] \\n Enemy frigates: %+n%% to Overheat Engine ability cooldown & 
+[162] \\n Reduced sword infantry casualties. \\n Increased Clan Influence Points gain. \\n \\n Training is never wasted in life.
+[163] \\n Avatar: %+n armour. \\n \\n There is honour in serving well.
+[164] \\n Reduced fatigue resistance for all enemy cavalry. \\n \\n A horse's stamina is only a good as the oats it is fed.
+[165] \\n Increased fatigue resistance for all melee infantry. \\n \\n Without stores, an army soon becomes a hungry mob.
+[166] \\n Avatar: melee attack %+n. \\n \\n "O! For a muse of fire…"
+[167] \\n Avatar: %+n charge bonus, \\n %+n bonus versus cavalry. \\n \\n Everything can be perfected.
+[168] \\n Your two most damaged veteran units will fully heal before the next battle. \\n \\n A garden soothes the soul.
+[169] \\n %+n reload skill for all bow infantry. \\n \\n Men must be lead in battle.
+[170] \\n Avatar: melee attack %+n. \\n \\n "O! For a muse of fire…"
+[171] \\n Enemy line & elite infantry morale: %-n. \\n \\n "The men respect me for it."
+[172] \\n %+n bonus versus cavalry for all spear, bow and matchlock infantry. \\n \\n To cripple a horse is to stop the warrior.
+[173] \\n Avatar: %+n speed. \\n \\n The noble steed demands a noble master.
+[174] %n%% to Fast Reload ability cooldown. \\n \\n A good crew is as one with their ship.
+[175] \\n Corvettes: %n%% to Overheat Engine ability cooldown & 
+[176] \\n Ironclad hull strength: %+n%% \\n \\n There are ironclad arguments as to why the Royal Navy rules the waves.
+[177] \\n Reveals the deployment of all enemy units not hidden. \\n \\n Secrets and lies travel in the same cart.
+[178] \\n Frigate movement speed: %+n%%. \\n \\n "A Frenchman, sir, builds a ship with a soul. Any Anglo-Saxon idiot can make an ironclad."
+[179] and %-n% to standard speed penalties for crossing rough terrain. \\n \\n The sure-footed way is its own reward.
+[180] \\n All units have reduced fatigue gain 
+[181] \\n All enemy melee infantry receive %-n armour. \\n \\n The strongest steel will not serve in a worthless cause.
+[182] %+n%% to Fast Reload ability cooldown. \\n \\n "Take that man's name!"
+[183] \\n Enemy Ironclads: %+n%% to Overheat Engine ability cooldown & 
+[184] \\n Reduced speed for all enemy bow and matchlock infantry. \\n \\n The wise man runs with caution when touching cloth.
+[185] \\n Enemy modern gunpowder cavalry have greatly decreased fatigue resistance. \\n \\n "See what I mean? Too narrow across the withers."
+[186] \\n %-n%% recruitment cost for all units. \\n \\n Trade is beneath a samurai; money is not.
+[187] \\n Avatar: increased fatigue resistance. \\n \\n No task is humble if it is done well.
+[188] \\n %+n charge bonus to all monk units. \\n \\n There are many paths to heaven.
+[189] \\n Enemy modern gunpowder cavalry accuracy: %-n. \\n \\n "YOU try standing still whilst someone fires a gun over your head!"
+[190] \\n %+n%% speed for all cavalry. \\n \\n A stud is always useful.
+[191] \\n %-n%% ammunition for enemy bow units. \\n \\n "Ah! Those. Give me a day. I'll find some…"
+[192] \\n %+n armour to all monk units. \\n \\n Armour does not weaken the spirit.
+[193] \\n %-n melee attack to all enemy sword infantry. \\n \\n Nothing ventured over dinner, nothing gained.
+[194] \\n Avatar: aura radius increased and rally ability cooldown decreased. \\n \\n A noble sign brings terror to enemies' hearts.
+[195] \\n %+n%% speed for all cavalry. \\n \\n A stud is always useful.
+[196] \\n Avatar: %+n morale. \\n %-n morale for enemy avatar. \\n Cancels effect of enemy Geisha Poisoner retainer. \\n \\n "There is no enemy: defeat your own fears!"
+[197] \\n Avatar: %+n charge bonus. \\n \\n A samurai may need his weapon at any moment.
+[198] \\n Avatar: %+n% speed. \\n \\n A horseman is only as good as his horse.
+[199] \\n %+n ammunition to all bow units. \\n \\n The arrow is no less important than the bow.

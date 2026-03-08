@@ -1,0 +1,26 @@
+=== CHUNK 1/1 — avatar_skill_chain_lookups.loc.tsv ===
+(Dịch 23 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[0] Bow Mastery
+[1] Melee Cavalry Skills
+[2] Spear Skills
+[3] Siege Engine Skills
+[4] Light Cavalry Skills
+[5] Firebomb Skills
+[6] Sword Skills
+[7] Bow Ashigaru Skills
+[8] Bow Skills
+[9] Firearm Cavalry Skills
+[10] Physical
+[11] Gunpowder
+[12] Leadership
+[13] Bow Cavalry Skills
+[14] Ninja Skills
+[15] Command
+[16] Melee Combat
+[17] Bushido
+[18] Gatling Gun Skills
+[19] Line Infantry Skills
+[20] Warrior Monk Cavalry Skills
+[21] Light Infantry Skills
+[22] Matchlock Skills

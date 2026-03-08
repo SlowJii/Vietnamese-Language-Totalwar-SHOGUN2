@@ -1,0 +1,103 @@
+=== CHUNK 8/17 — avatar_skills.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[700] Morale
+[701] Morale
+[702] Improved Reload Speed. \\n \\n Increases the rate at which the unit shoots.
+[703] Morale
+[704] Improved Reload Speed. \\n \\n Increases the rate at which the unit shoots.
+[705] Morale
+[706] Increased Ammunition. \\n \\n The men of this unit carry significantly more ammunition than usual for this unit type. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Imperial specialism clan. \\n \\n Requires 20 clan tokens.
+[707] Increased Ammunition. \\n \\n The men of this unit carry significantly more ammunition than usual for this unit type. \\n \\n Requires 20 clan tokens.
+[708] Extra Ammunition
+[709] Extra Ammunition
+[710] Greatly Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[711] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[712] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[713] Extra Ammunition
+[714] Extra Ammunition
+[715] Extra Ammunition
+[716] Extra Ammunition
+[717] Melee Defence
+[718] Melee Defence
+[719] Scare Nearby Enemies. \\n \\n Enemies close to the unit will suffer a morale penalty. \\n \\n This effect is always active. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a cavalry specialism clan.
+[720] Enemy Spotting
+[721] Scare Nearby Enemies. \\n \\n Enemies close to the unit will suffer a morale penalty. \\n \\n This effect is always active. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a cavalry specialism clan.
+[722] Enemy Spotting
+[723] Accuracy
+[724] Accuracy
+[725] Fire By Rank Ability. \\n \\n A more efficient firing drill. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[726] Fire By Rank Ability. \\n \\n A more efficient firing drill. \\n \\n Requires 10 clan tokens.
+[727] Melee Defence
+[728] Melee Defence
+[729] Melee Defence
+[730] Reload \\n (line infantry)
+[731] Reload \\n (line infantry)
+[732] Reload \\n (line infantry)
+[733] Increased ammunition. \\n \\n Your avatar and his bodyguard each carry 20 extra arrows. \\n \\n Requires Enable Bow skill. \\n
+[734] Increased ammunition. \\n \\n Your avatar and his bodyguard each carry 20 extra arrows. \\n \\n Requires Enable Bow skill. \\n
+[735] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[736] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[737] Greatly Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[738] Elite Accuracy. \\n \\n The unit shoots with greater accuracy. \\n \\n Requires 10 clan tokens.
+[739] Greatly Improved Accuracy. \\n \\n The unit shoots with greater accuracy. \\n \\n Requires 10 clan tokens.
+[740] Extra Ammunition
+[741] Greatly Improved Accuracy. \\n \\n The unit shoots with greater accuracy. \\n \\n Requires 10 clan tokens.
+[742] Extra Ammunition
+[743] Fatigue Resistance
+[744] Fatigue Resistance
+[745] Fatigue Resistance
+[746] Increased Range. \\n \\n Shot range is increased. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[747] Increased Range. \\n \\n Shot range is increased. \\n \\n Requires 10 clan tokens.
+[748] Fire Arrows
+[749] Fire Arrows
+[750] Armour Penetration
+[751] Armour Penetration
+[752] Greatly Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[753] Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[754] Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[755] Reload \\n (cavalry)
+[756] Reload \\n (cavalry)
+[757] Reload \\n (cavalry)
+[758] Greatly improves the rate at which all naval units reload their artillery. \\n \\n Requires: 1 point in Reload (naval) \\n
+[759] Improves the rate at which all naval units reload their artillery. \\n \\n Requires: Enable Gun \\n
+[760] Improves the rate at which all naval units reload their artillery. \\n \\n Requires: Enable Gun \\n
+[761] Increased Bodyguard Size
+[762] Increased Bodyguard Size
+[763] Melee Attack
+[764] Melee Attack
+[765] Speed
+[766] Speed
+[767] Speed
+[768] Melee Attack
+[769] Accuracy \\n (cavalry)
+[770] Melee Attack
+[771] Melee Attack
+[772] Accuracy \\n (cavalry)
+[773] Melee Attack
+[774] Accuracy \\n (cavalry)
+[775] Missile Damage
+[776] Missile Damage
+[777] Blinding Grenades
+[778] Blinding Grenades
+[779] Extra Ammunition
+[780] Extra Ammunition
+[781] Greatly Increased Firebomb Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased. \\n \\n Requires 10 clan tokens.
+[782] Greatly Increased Firebomb Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased. \\n \\n Requires 1 point in basic Missile Damage. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[783] Reload Speed
+[784] Reload Speed
+[785] Reload Speed
+[786] Greatly Improved Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Requires 10 clan tokens.
+[787] Greatly Improved Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Requires 1 point in basic Morale. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[788] Greatly Improved Enemy Spotting. \\n \\n The range at which this unit spot hidden enemies is increased. \\n \\n Requires 1 point in basic Enemy Spotting. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[789] Greatly Improved Enemy Spotting. \\n \\n The range at which this unit spot hidden enemies is increased. \\n \\n Requires 10 clan tokens.
+[790] Elite Reload Speed. \\n \\n Increases the rate at which the unit prepares and throws firebombs. \\n \\n Requires 10 clan tokens.
+[791] Elite Reload Speed. \\n \\n Increases the rate at which the unit prepares and throws firebombs. \\n \\n Requires 2 points in basic Reload Speed. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[792] Legendary Reload Speed. \\n \\n Increases the rate at which the unit prepares and throws firebombs. \\n \\n Requires 10 clan tokens.
+[793] Greatly Improved Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Requires 10 clan tokens.
+[794] Greatly Improved Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Requires 1 point in basic Morale. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[795] Reload Speed
+[796] Reload Speed
+[797] Reload Speed
+[798] Legendary Enemy Spotting. \\n \\n The range at which this unit spots hidden enemies is increased. \\n \\n Requires 3 points in basic Spot Enemies. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[799] Legendary Enemy Spotting. \\n \\n The range at which this unit spots hidden enemies is increased. \\n \\n Requires 10 clan tokens.

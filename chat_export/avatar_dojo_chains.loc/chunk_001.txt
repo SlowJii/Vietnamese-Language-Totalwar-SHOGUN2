@@ -1,0 +1,34 @@
+=== CHUNK 1/1 — avatar_dojo_chains.loc.tsv ===
+(Dịch 31 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[0] To unlock this unit, you must have explored %n provinces containing a Sword School on the conquest map.
+[1] To unlock this unit, you must have explored %n provinces containing a Yari Drill Yard on the conquest map.
+[2] Artillery Workshop
+[3] To unlock this unit, you must have explored %n provinces containing a Naval Emporium on the conquest map.
+[4] To unlock this unit, you must have explored %n provinces containing a Workshop on the conquest map.
+[5] Shogunate Barracks
+[6] Shogunate Armoury
+[7] Military Port
+[8] To unlock this unit, you must have explored %n provinces containing an Archery Dojo on the conquest map.
+[9] To unlock this unit, you must have explored %n provinces containing a Military Dock on the conquest map.
+[10] Teppo Range
+[11] Archery Dojo
+[12] Military Dock
+[13] To unlock this unit, you must have explored %n provinces containing a Military Port on the conquest map.
+[14] To unlock this unit, you must have explored %n provinces containing a Teppo Range on the conquest map.
+[15] Imperial Armoury
+[16] Buddhist Temple
+[17] To unlock this unit, you must have explored %n provinces containing a Sake Den on the conquest map.
+[18] Stables
+[19] To unlock this unit, you must have explored %n provinces containing an Emporium on the conquest map.
+[20] Naval Emporium
+[21] Emporium
+[22] To unlock this unit, you must have explored %n provinces containing a Stables on the conquest map.
+[23] To unlock this unit, you must have explored %n provinces containing an Imperial Armoury on the conquest map.
+[24] Sake Den
+[25] To unlock this unit, you must have explored %n provinces containing a Shogunate Barracks on the conquest map.
+[26] To unlock this unit, you must have explored %n provinces containing a Shogunate Armoury on the conquest map.
+[27] Yari Drill Yard
+[28] To unlock this unit, you must have explored %n provinces containing an Artillery Workshop on the conquest map.
+[29] Workshop
+[30] Sword School

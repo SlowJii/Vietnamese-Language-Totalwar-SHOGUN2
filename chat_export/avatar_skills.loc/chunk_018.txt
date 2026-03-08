@@ -1,0 +1,83 @@
+=== CHUNK 18/21 — avatar_skills.loc.tsv ===
+(Dịch 80 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[1360] Greatly Improved Avatar Morale. \\n \\n Improves the morale of your avatar and his bodyguard. \\n
+[1361] Replenish Unit
+[1362] Replenish Unit
+[1363] Replenish Unit
+[1364] Replenish Unit
+[1365] Reload Speed
+[1366] Reload Speed
+[1367] Reload Speed
+[1368] Reload Speed
+[1369] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[1370] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1371] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[1372] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1373] Elite Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1374] Greatly Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1375] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1376] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1377] Legendary Bonus Versus Cavalry. \\n \\n Increases the unit's skill in melee versus cavalry. \\n \\n Requires 10 clan tokens.
+[1378] Elite Bonus Versus Cavalry. \\n \\n Increases the unit's skill in melee versus cavalry. \\n \\n Requires 2 points in basic Bonus vs. Cavalry. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1379] Elite Bonus Versus Cavalry. \\n \\n Increases the unit's skill in melee versus cavalry. \\n \\n Requires 10 clan tokens.
+[1380] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1381] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1382] Greatly Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1383] Reload Speed
+[1384] Reload Speed
+[1385] Reload Speed
+[1386] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1387] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1388] Greatly Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1389] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1390] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[1391] Morale
+[1392] Morale
+[1393] Inspire Ability
+[1394] Inspire Ability
+[1395] Banzai Ability
+[1396] Banzai Ability
+[1397] Melee Attack
+[1398] Melee Attack
+[1399] Speed
+[1400] Speed
+[1401] Speed
+[1402] Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit.
+[1403] Bow Damage
+[1404] Improved melee Attack. \\n \\n Increases the melee attack skill of the unit.
+[1405] Bow Damage
+[1406] Banzai Ability. \\n \\n When activated, boosts the unit's melee attack and charge bonus, and gives them unbreakable morale for a short time. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a spear specialism clan.
+[1407] Banzai Ability. \\n \\n When activated, boosts the unit's melee attack and charge bonus, and gives them unbreakable morale for a short time. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a spear specialism clan.
+[1408] Greatly Increased Projectile Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[1409] Increased Projectile Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[1410] Increased Projectile Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[1411] Replenish Unit
+[1412] Replenish Unit
+[1413] Elite Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. \\n \\n Requires 2 points in basic Fatigue Resistance. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1414] Elite Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. \\n \\n Requires 10 clan tokens.
+[1415] Legendary Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. \\n \\n Requires 10 clan tokens.
+[1416] Elite Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1417] Elite Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Requires 2 points in basic Reload Speed. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1418] Reload Speed
+[1419] Reload Speed
+[1420] Reload Speed
+[1421] Speed
+[1422] Fatigue Resistance
+[1423] Speed
+[1424] Speed
+[1425] Fatigue Resistance
+[1426] Speed
+[1427] Fatigue Resistance
+[1428] Bow Damage
+[1429] Bow Damage
+[1430] Enable Banzai Ability. \\n \\n When activated, boosts the melee attack and charge bonus of your avatar and his bodyguard, and gives them unbreakable morale for a short time. \\n \\n Requires 2 points in Charge skill. \\n
+[1431] Enable Banzai Ability. \\n \\n When activated, boosts the melee attack and charge bonus of your avatar and his bodyguard, and gives them unbreakable morale for a short time. \\n \\n Requires 2 points in Charge skill. \\n
+[1432] Reload Speed
+[1433] Reload Speed
+[1434] Rapid Volley Ability. \\n \\n When active, greatly increases reload rate for a short period. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1435] Rapid Volley Ability. \\n \\n When active, greatly increases reload rate for a short period. \\n \\n Requires 10 clan tokens.
+[1436] Legendary Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n\\n Requires 20 clan tokens.
+[1437] Legendary Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Requires 20 clan tokens.
+[1438] Greatly Improved Armour. \\n \\n Increases the defence of your avatar and his bodyguard against both melee and missile attacks. \\n
+[1439] Improved Armour. \\n \\n Increases the defence of your avatar and his bodyguard against both melee and missile attacks. \\n \\n Requires 1 point in Melee Defence skill \\n

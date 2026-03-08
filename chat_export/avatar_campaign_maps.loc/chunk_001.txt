@@ -1,0 +1,103 @@
+=== CHUNK 1/2 — avatar_campaign_maps.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[0] Nagato
+[1] West Kanto Coast
+[2] Hokuriku Coast
+[3] West Kanto Coast
+[4] Eastern Seto Inland Sea
+[5] Satsuma
+[6] East Kanto Coast
+[7] Eastern Seto Inland Sea
+[8] Western Seto Inland Sea
+[9] Western Seto Inland Sea
+[10] Sado
+[11] Bungo
+[12] Bingo
+[13] Tango
+[14] Mikawa
+[15] Aomori
+[16] Totomi
+[17] Kaga
+[18] Omi
+[19] Tajima
+[20] Totomi
+[21] Bizen
+[22] Kazusa
+[23] Goto Island Coast
+[24] Sanuki
+[25] Echigo
+[26] Oshima
+[27] Harima
+[28] Inaba
+[29] Tamba
+[30] Tajima
+[31] Sagami
+[32] Aki
+[33] Kii
+[34] Iga
+[35] Kai
+[36] Hoki
+[37] Tosa
+[38] Tanegashima Island Coast
+[39] Hida
+[40] Iwami
+[41] Izumo
+[42] China Sea
+[43] Sado Island Coast
+[44] Wakasa
+[45] Hiyama
+[46] Miyagi
+[47] Awaji
+[48] Yamato
+[49] Mikawa
+[50] Sagami
+[51] Sapporo
+[52] Shimosa
+[53] Noto
+[54] Mino
+[55] Ugo
+[56] Higo
+[57] Bitchu
+[58] Etchu
+[59] Musashi
+[60] Goto
+[61] Suruga
+[62] Echizen
+[63] Hokuriku Coast
+[64] Tsukushi
+[65] Hizen
+[66] Buzen
+[67] Osumi
+[68] Bitchu
+[69] Miyagi
+[70] Iwate
+[71] Hyuga
+[72] Bungo
+[73] Fukushima
+[74] Izu
+[75] North Shinano
+[76] Owari
+[77] Hyuga
+[78] South Shinano
+[79] Iyo
+[80] East Kanto Coast
+[81] Tsugaru Strait
+[82] Yamato
+[83] Satsuma
+[84] Kyoto
+[85] Kozuke
+[86] Suruga
+[87] Sanuki
+[88] Kazusa
+[89] Suo
+[90] Kawachi
+[91] Osumi
+[92] Settsu
+[93] Awa
+[94] Echigo
+[95] Buzen
+[96] Uzen
+[97] Settsu
+[98] Hitachi
+[99] Kozuke

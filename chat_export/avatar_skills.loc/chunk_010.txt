@@ -1,0 +1,103 @@
+=== CHUNK 10/17 — avatar_skills.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[900] Melee Attack
+[901] Melee Attack
+[902] Melee Attack
+[903] Melee Defence
+[904] Melee Defence
+[905] Melee Defence
+[906] Increased Range
+[907] Increased Range
+[908] Elite Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. \\n \\n Requires 10 clan tokens.
+[909] Elite Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks.  \\n \\n Requires 2 points in basic Melee Defence. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[910] Legendary Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. \\n \\n Requires 10 clan tokens.
+[911] Swooping Crane
+[912] Accuracy
+[913] Swooping Crane
+[914] Accuracy
+[915] Accuracy
+[916] Spot Enemies
+[917] Spot Enemies
+[918] Spot Enemies
+[919] Spot Enemies
+[920] Legendary Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Requires 3 points in basic Reload Speed. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[921] Legendary Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Requires 10 clan tokens.
+[922] Greatly improved reload speed. \\n \\n Increases the rate at which your avatar and his bodyguard reload their guns. \\n \\n Requires: 1 point in Reload \\n
+[923] Improved reload speed. \\n \\n Increases the rate at which your avatar and his bodyguard shoot their guns. \\n \\n Requires: Enable Gun \\n
+[924] Improved Armour. \\n \\n Increases defence against both melee and missile attacks. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a sword specialism clan.
+[925] Improved reload speed. \\n \\n Increases the rate at which your avatar and his bodyguard reload their guns. \\n \\n Requires: Enable Gun \\n
+[926] Improved Armour. \\n \\n Increases defence against both melee and missile attacks. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a sword specialism clan.
+[927] Flagship Armour
+[928] Flagship Armour
+[929] Flagship Armour
+[930] Flagship Armour
+[931] Flagship Armour
+[932] Fatigue Resistance
+[933] Fatigue Resistance
+[934] Fatigue Resistance
+[935] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[936] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[937] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[938] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[939] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[940] Melee Attack
+[941] Melee Attack
+[942] Melee Attack
+[943] Increased Aura
+[944] Increased Aura
+[945] Increased Aura
+[946] Increased Aura
+[947] Enable Gun
+[948] Enable Gun
+[949] Improved Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. 
+[950] Improved Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. 
+[951] Extra Ammunition
+[952] Extra Ammunition
+[953] Improved Enemy Spotting. \\n \\n The range at which this unit spot hidden enemies is increased.
+[954] Improved Enemy Spotting. \\n \\n The range at which this unit spot hidden enemies is increased.
+[955] Banzai Ability
+[956] Banzai Ability
+[957] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[958] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[959] Greatly Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[960] Elite Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[961] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle.
+[962] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle.
+[963] Greatly improves the accuracy of the artillery for all naval units. \\n \\n Requires: 1 point in Accuracy (naval) \\n
+[964] Improves the accuracy of the artillery for all naval units. \\n \\n Requires: Accuracy \\n
+[965] Improves the accuracy of the artillery for all naval units. \\n \\n Requires: Enable Gun \\n
+[966] Improved Speed. \\n \\n Increases the movement speed of your avatar and his bodyguard. \\n
+[967] Improved Speed. \\n \\n Increases the movement speed of your avatar and his bodyguard. \\n
+[968] Elite Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy. \\n \\n Requires 2 points in basic Charge Bonus. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[969] Elite Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy. \\n \\n Requires 10 clan tokens.
+[970] Legendary Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy. \\n \\n Requires 10 clan tokens.
+[971] Replenish Unit
+[972] Replenish Unit
+[973] Reload Speed
+[974] Reload Speed
+[975] Reload Speed
+[976] Reload Speed
+[977] Reload Speed
+[978] Reload Speed
+[979] Stealth Ability. \\n \\n When activated, this ability allows the unit to remain hidden whilst running for a short period. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[980] Stealth Ability. \\n \\n When activated, this ability allows the unit to remain hidden whilst running for a short period. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[981] Melee Defence
+[982] Melee Defence
+[983] Melee Defence
+[984] Greatly Improved Speed. \\n \\n Increases the unit's movement speed.
+[985] Improved Speed. \\n \\n Increases the unit's movement speed.
+[986] Improved Speed. \\n \\n Increases the unit's movement speed.
+[987] Quick March
+[988] Quick March
+[989] Quick March
+[990] Bow Damage
+[991] Bow Damage
+[992] Improved Enemy Spotting. \\n \\n The range at which this unit spot hidden enemies is increased.
+[993] Improved Enemy Spotting. \\n \\n The range at which this unit spot hidden enemies is increased.
+[994] Kisho Training. \\n \\n During the deployment phase, this unit is able to deploy outside of the deployment area. \\n \\n May not deploy too close to a key building. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[995] Kisho Training. \\n \\n During the deployment phase, this unit is able to deploy outside of the deployment area. \\n \\n May not deploy too close to a key building. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[996] Armour
+[997] Armour
+[998] Armour
+[999] Hold Firm Ability. \\n \\n When active, boosts melee defence of the unit and up to 3 adjacent units and gives them unbreakable morale for a short time. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a cavalry specialism clan.

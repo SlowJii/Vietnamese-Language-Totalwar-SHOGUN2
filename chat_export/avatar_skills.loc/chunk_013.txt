@@ -1,0 +1,103 @@
+=== CHUNK 13/17 — avatar_skills.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[1200] Greatly improved Flagship Armour. \\n \\n The hull of your avatar's flagship is re-inforced to afford better protection. \\n \\n Requires: 1 point in Flagship Armour \\n
+[1201] Elite Flagship Armour. \\n \\n The hull of your avatar's flagship is re-inforced to afford better protection. \\n \\n Requires: 2 points in Flagship Armour \\n
+[1202] Banzai Ability
+[1203] Banzai Ability
+[1204] Increased army morale
+[1205] Increased Army Morale
+[1206] Scare Enemies
+[1207] Scare Enemies
+[1208] Increased Army Morale. \\n \\n Your avatar's reputation inspires his entire army, increasing the morale of all units. \\n 
+[1209] Increased army morale. \\n \\n Your avatar's reputation inspires his entire army, increasing the morale of all units. \\n 
+[1210] Banzai Ability. \\n \\n When activated, boosts the unit's melee attack and charge bonus, and gives them unbreakable morale for a short time. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a sword specialism clan.
+[1211] Banzai Ability. \\n \\n When activated, boosts the unit's melee attack and charge bonus, and gives them unbreakable morale for a short time. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a sword specialism clan.
+[1212] Reload Speed
+[1213] Reload Speed
+[1214] Reload
+[1215] Reload
+[1216] Reload
+[1217] Armour
+[1218] Armour
+[1219] Improved Accuracy. \\n \\n The unit fires with greater accuracy.
+[1220] Improved Accuracy \\n \\n The unit fires with greater accuracy.
+[1221] Swooping Crane Ability. \\n \\n When this ability is activated, the unit will wheel in a circular formation maintaining a steady fire on the target unit.
+[1222] Greatly Improved Accuracy \\n \\n The unit fires with greater accuracy.
+[1223] Swooping Crane Ability. \\n \\n When this ability is activated, the unit will wheel in a circular formation maintaining a steady fire on the target unit.
+[1224] Charge
+[1225] Charge
+[1226] Charge
+[1227] Improved Armour. \\n \\n Increases defence against both melee and missile attacks. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1228] Improved Armour. \\n \\n Increases defence against both melee and missile attacks. \\n \\n Requires 10 clan tokens.
+[1229] Elite Enemy Spotting. \\n \\n The range at which this unit spot hidden enemies is increased.
+[1230] Greatly Improved Enemy Spotting. \\n \\n The range at which this unit spots hidden enemies is increased.
+[1231] Greatly Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[1232] Improved Enemy Spotting. \\n \\n The range at which this unit spots hidden enemies is increased.
+[1233] Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[1234] Improved Enemy Spotting. \\n \\n The range at which this unit spots hidden enemies is increased.
+[1235] Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[1236] Replenish Unit
+[1237] Replenish Unit
+[1238] Improved Speed. \\n \\n Increases the unit's movement speed.
+[1239] Improved Speed. \\n \\n Increases the unit's movement speed.
+[1240] Greatly Improved Speed. \\n \\n Increases the unit's movement speed.
+[1241] Increased Range
+[1242] Increased Range
+[1243] Increased Range
+[1244] Range
+[1245] Enable Inspire Ability. \\n \\n When activated, allows the avatar to boost the morale, melee attack and accuracy of a single unit. \\n
+[1246] Enable Inspire Ability. \\n \\n When activated, allows the avatar to boost the morale, melee attack and accuracy of a single unit. \\n
+[1247] Reduced Cooldown For Inspire Ability. \\n \\n When activated, allows the avatar to boost the morale, melee attack and accuracy of a single unit. \\n
+[1248] Replenish Unit
+[1249] Replenish Unit
+[1250] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1251] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[1252] Greatly Improved Morale. \\n \\n Units with high morale are less likely to rout in battle.
+[1253] Elite Morale. \\n \\n Units with high morale are less likely to rout in battle.
+[1254] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle.
+[1255] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle.
+[1256] Fatigue Resistance
+[1257] Fatigue Resistance
+[1258] Fatigue Resistance
+[1259] Improved Melee Defence. \\n \\n Increases the skill of your avatar and his bodyguard at defending themselves against melee attacks. \\n \\n Requires: Charge \\n
+[1260] Improved Melee Defence. \\n \\n Increases the skill of your avatar and his bodyguard at defending themselves against melee attacks. \\n \\n Requires: Charge \\n
+[1261] Greatly improved Melee Defence. \\n \\n Increases the skill of your avatar and his bodyguard at defending themselves against melee attacks. \\n \\n Requires: 1 point in Melee Defence \\n
+[1262] Elite Melee Defence. \\n \\n Increases the skill of your avatar and his bodyguard at defending themselves against melee attacks. \\n \\n Requires: 2 points in Melee Defence \\n
+[1263] Speed
+[1264] Speed
+[1265] Extra Ammunition
+[1266] Extra Ammunition
+[1267] Speed
+[1268] Melee Defence
+[1269] Melee Defence
+[1270] Melee Defence
+[1271] Melee Defence
+[1272] Reload \\n (naval)
+[1273] Reload \\n (naval)
+[1274] Reload \\n (naval)
+[1275] Banzai Ability
+[1276] Banzai Ability
+[1277] Enemy Spotting
+[1278] Enemy Spotting
+[1279] Enemy Spotting
+[1280] Greatly improved cavalry Reload Speed. \\n \\n Increases the rate at which your cavalry units reload their guns. \\n \\n Requires: 1 point in Reload (cavalry) \\n
+[1281] Improved Cavalry Reload Speed. \\n \\n Increases the rate at which your cavalry units reload their guns. \\n \\n Requires: Gun instructor \\n  
+[1282] Improved cavalry Reload Speed. \\n \\n Increases the rate at which your cavalry units reload their guns. \\n \\n Requires: Reload (line infantry) \\n
+[1283] Banzai Ability. \\n \\n When activated, boosts the unit's melee attack and charge bonus, and gives them unbreakable morale for a short time. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a cavalry specialism clan.
+[1284] Banzai Ability. \\n \\n When activated, boosts the unit's melee attack and charge bonus, and gives them unbreakable morale for a short time. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a cavalry specialism clan.
+[1285] Legendary Accuracy. \\n \\n The unit shoots with greater accuracy. \\n \\n Requires 2 points in basic Accuracy. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1286] Legendary Accuracy. \\n \\n The unit shoots with greater accuracy. \\n \\n Requires 10 clan tokens.
+[1287] Armour
+[1288] Armour
+[1289] Fatigue Resistance
+[1290] Fatigue Resistance
+[1291] Fatigue Resistance
+[1292] Armour
+[1293] Armour
+[1294] Charge
+[1295] Charge
+[1296] Charge
+[1297] Charge
+[1298] Charge
+[1299] Drilled Crew

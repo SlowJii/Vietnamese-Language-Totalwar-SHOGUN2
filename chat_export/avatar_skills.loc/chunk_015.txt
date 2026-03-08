@@ -1,0 +1,103 @@
+=== CHUNK 15/17 — avatar_skills.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[1400] Speed
+[1401] Speed
+[1402] Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit.
+[1403] Bow Damage
+[1404] Improved melee Attack. \\n \\n Increases the melee attack skill of the unit.
+[1405] Bow Damage
+[1406] Banzai Ability. \\n \\n When activated, boosts the unit's melee attack and charge bonus, and gives them unbreakable morale for a short time. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a spear specialism clan.
+[1407] Banzai Ability. \\n \\n When activated, boosts the unit's melee attack and charge bonus, and gives them unbreakable morale for a short time. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a spear specialism clan.
+[1408] Greatly Increased Projectile Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[1409] Increased Projectile Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[1410] Increased Projectile Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[1411] Replenish Unit
+[1412] Replenish Unit
+[1413] Elite Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. \\n \\n Requires 2 points in basic Fatigue Resistance. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1414] Elite Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. \\n \\n Requires 10 clan tokens.
+[1415] Legendary Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. \\n \\n Requires 10 clan tokens.
+[1416] Elite Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1417] Elite Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Requires 2 points in basic Reload Speed. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1418] Reload Speed
+[1419] Reload Speed
+[1420] Reload Speed
+[1421] Speed
+[1422] Fatigue Resistance
+[1423] Speed
+[1424] Speed
+[1425] Fatigue Resistance
+[1426] Speed
+[1427] Fatigue Resistance
+[1428] Bow Damage
+[1429] Bow Damage
+[1430] Enable Banzai Ability. \\n \\n When activated, boosts the melee attack and charge bonus of your avatar and his bodyguard, and gives them unbreakable morale for a short time. \\n \\n Requires 2 points in Charge skill. \\n
+[1431] Enable Banzai Ability. \\n \\n When activated, boosts the melee attack and charge bonus of your avatar and his bodyguard, and gives them unbreakable morale for a short time. \\n \\n Requires 2 points in Charge skill. \\n
+[1432] Reload Speed
+[1433] Reload Speed
+[1434] Rapid Volley Ability. \\n \\n When active, greatly increases reload rate for a short period. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1435] Rapid Volley Ability. \\n \\n When active, greatly increases reload rate for a short period. \\n \\n Requires 10 clan tokens.
+[1436] Legendary Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n\\n Requires 20 clan tokens.
+[1437] Legendary Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Requires 20 clan tokens.
+[1438] Greatly Improved Armour. \\n \\n Increases the defence of your avatar and his bodyguard against both melee and missile attacks. \\n
+[1439] Improved Armour. \\n \\n Increases the defence of your avatar and his bodyguard against both melee and missile attacks. \\n \\n Requires 1 point in Melee Defence skill \\n
+[1440] Improved Armour. \\n \\n Increases the defence of your avatar and his bodyguard against both melee and missile attacks. \\n \\n Requires 1 point in Melee Defence skill. \\n
+[1441] Whistling Arrows. \\n \\n When activated, whistling arrows reduce the morale, melee attack and reload speed of enemy units targeted by them.
+[1442] Whistling Arrows. \\n \\n When activated, whistling arrows reduce the morale, melee attack and reload speed of enemy units targeted by them.
+[1443] Accuracy
+[1444] Accuracy
+[1445] Accuracy
+[1446] Accuracy
+[1447] Melee Attack
+[1448] Melee Attack
+[1449] Melee Attack
+[1450] Morale
+[1451] Morale
+[1452] Whistling Arrows
+[1453] Whistling Arrows
+[1454] Improved Accuracy. \\n \\n The unit fires with greater accuracy.
+[1455] Improved Accuracy \\n \\n The unit fires with greater accuracy.
+[1456] Greatly Improved Accuracy \\n \\n The unit fires with greater accuracy.
+[1457] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle.
+[1458] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle.
+[1459] Improved Speed. \\n \\n Increases the unit's movement speed.
+[1460] Improved Speed. \\n \\n Increases the unit's movement speed.
+[1461] Greatly Improved Speed. \\n \\n Increases the unit's movement speed.
+[1462] Increases the speed at which key buildings will be captured in land battles. \\n \\n Requires: Quick March \\n
+[1463] Increases the speed at which key buildings will be captured in land battles. \\n \\n Requires: Quick March \\n
+[1464] Greatly increases the speed at which key buildings will be captured in land battles. \\n \\n Requires: 1 point in Rapid Capture \\n
+[1465] Rapid Capture \\n (land)
+[1466] Rapid Capture \\n (land)
+[1467] Rapid Capture \\n (land)
+[1468] Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[1469] Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[1470] Fatigue Resistance
+[1471] Fatigue Resistance
+[1472] Fatigue Resistance
+[1473] Morale
+[1474] Morale
+[1475] Morale
+[1476] Accuracy \\n (rifle light infantry)
+[1477] Accuracy \\n (rifle light infantry)
+[1478] Accuracy \\n (rifle light infantry)
+[1479] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle.
+[1480] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle.
+[1481] Greatly Improved Morale. \\n \\n Units with high morale are less likely to rout in battle.
+[1482] Melee Attack
+[1483] Melee Attack
+[1484] Melee Attack
+[1485] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[1486] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1487] Greatly Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1488] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1489] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1490] Enables your avatar to train naval units. \\n
+[1491] Enables your avatar to train naval units. \\n
+[1492] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1493] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1494] Greatly Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1495] Reload Speed
+[1496] Reload Speed
+[1497] Reload Speed
+[1498] Greatly Improved Melee Defence. \\n \\n Increases the skill of your avatar and his bodyguard at defending themselves against melee attacks. \\n
+[1499] Elite Melee Defence. \\n \\n Increases the skill of your avatar and his bodyguard at defending themselves against melee attacks. \\n

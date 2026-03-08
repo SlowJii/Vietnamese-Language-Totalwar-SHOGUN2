@@ -1,0 +1,103 @@
+=== CHUNK 3/17 — avatar_skills.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[200] Increased Ammunition. \\n \\n The men of this unit carry significantly more arrows than usual for this unit type.
+[201] Increases the movement speed of all land units. \\n
+[202] Increases the movement speed of all land units. \\n
+[203] Greatly increases the movement speed of all land units. \\n \\n Requires: 1 point in Quick March \\n
+[204] Elite Avatar Aura Radius. \\n \\n Units within the aura radius receive a morale bonus, with the effect being stronger closer to your avatar. \\n
+[205] Greatly Increased Avatar Aura Radius. \\n \\n Units within the aura radius receive a morale bonus, with the effect being stronger closer to your avatar. \\n
+[206] Increased Avatar Aura Radius. \\n \\n Units within the aura radius receive a morale bonus, with the effect being stronger closer to your avatar. \\n \\n Requires 2 points in Rally. \\n
+[207] Increased Avatar Aura Radius. \\n \\n Units within the aura radius receive a morale bonus, with the effect being stronger closer to your avatar. \\n \\n Requires 2 points in Rally. \\n
+[208] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Requires 20 clan tokens.
+[209] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Shogunate specialism clan. \\n \\n Requires 20 clan tokens.
+[210] Enemy Spotting
+[211] Enemy Spotting
+[212] Scare Nearby Enemies. \\n \\n Enemies close to the unit will suffer a morale penalty. \\n \\n This effect is always active. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a sword specialism clan.
+[213] Scare Nearby Enemies. \\n \\n Enemies close to the unit will suffer a morale penalty. \\n \\n This effect is always active. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a sword specialism clan.
+[214] Elite Accuracy. \\n \\n The unit shoots with greater accuracy. \\n \\n Requires 10 clan tokens.
+[215] Elite Accuracy. \\n \\n The unit shoots with greater accuracy. \\n \\n Requires 2 points in basic Accuracy. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[216] Legendary Accuracy. \\n \\n The unit shoots with greater accuracy. \\n \\n Requires 10 clan tokens.
+[217] Morale
+[218] Morale
+[219] Improved Enemy Spotting. \\n \\n The range at which this unit spot hidden enemies is increased.
+[220] Improved Enemy Spotting. \\n \\n The range at which this unit spot hidden enemies is increased.
+[221] Elite Melee Attack. \\n \\n Increases the melee attack skill of the unit. \\n \\n Requires 2 points in basic Melee Attack. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[222] Elite Melee Attack. \\n \\n Increases the melee attack skill of the unit. \\n \\n Requires 10 clan tokens.
+[223] Legendary Melee Attack. \\n \\n Increases the melee attack skill of the unit. \\n \\n Requires 10 clan tokens.
+[224] Increased Ammunition. \\n \\n The men of this unit carry significantly more ammunition than usual for this unit type.
+[225] Increased Ammunition. \\n \\n The men of this unit carry significantly more ammunition than usual for this unit type.
+[226] Increased Range. \\n \\n Shot range is increased. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[227] Increased Range. \\n \\n Shot range is increased. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[228] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[229] Improved Morale \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Requires 10 clan tokens.
+[230] Reload Speed
+[231] Reload Speed
+[232] Accuracy
+[233] Accuracy
+[234] Accuracy
+[235] Banzai Ability. \\n \\n When activated, boosts the unit's melee attack and charge bonus, and gives them unbreakable morale for a short time. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a Shogunate specialism clan.
+[236] Banzai Ability. \\n \\n When activated, boosts the unit's melee attack and charge bonus, and gives them unbreakable morale for a short time. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a Shogunate specialism clan.
+[237] Legendary Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n\\n Requires 20 clan tokens.
+[238] Legendary Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of a Shogunate specialism clan. \\n \\n Requires 20 clan tokens.
+[239] Increased Ammunition. \\n \\n The men of this unit carry significantly more ammunition than usual for this unit type. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Imperial specialism clan. \\n \\n Requires 20 clan tokens.
+[240] Increased Ammunition. \\n \\n The men of this unit carry significantly more ammunition than usual for this unit type. \\n \\n Requires 20 clan tokens.
+[241] Reload Speed
+[242] Reload Speed
+[243] Greatly Improved Accuracy \\n \\n The unit fires with greater accuracy.
+[244] Improved Accuracy. \\n \\n The unit fires with greater accuracy.
+[245] Improved Accuracy \\n \\n The unit fires with greater accuracy.
+[246] Improved Melee Attack. \\n \\n Increases the melee attack skill of your avatar and his bodyguard. \\n
+[247] Improved Melee Attack. \\n \\n Increases the melee attack skill of your avatar and his bodyguard. \\n
+[248] Elite Melee Attack. \\n \\n Increases the melee attack skill of your avatar and his bodyguard. \\n
+[249] Greatly Improved Melee Attack. \\n \\n Increases the melee attack skill of your avatar and his bodyguard. \\n
+[250] Charge Bonus
+[251] Charge Bonus
+[252] Elite Accuracy \\n \\n The unit fires with greater accuracy. \\n \\n Requires 2 points in basic Accuracy. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[253] Elite Accuracy \\n \\n The unit fires with greater accuracy. \\n \\n Requires 10 clan tokens.
+[254] Legendary Accuracy \\n \\n The unit fires with greater accuracy. \\n \\n Requires 10 clan tokens.
+[255] Accuracy
+[256] Accuracy
+[257] Accuracy
+[258] Increased Range. \\n \\n Shot range is increased. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[259] Increased Range. \\n \\n Shot range is increased. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[260] Increased line infantry ammunition \\n \\n All your line infantry units will carry extra bullets. \\n \\n Requires: Gun Instructor \\n
+[261] Banzai Ability
+[262] Increased line infantry ammunition \\n \\n All your line infantry units will carry extra bullets. \\n \\n Requires: Gun Instructor \\n \\n 
+[263] Banzai Ability
+[264] Greatly increased line infantry ammunition \\n \\n All your line infantry units will carry extra bullets. \\n \\n Requires: Extra Ammunition (line infantry) \\n
+[265] Extra Ammunition (line infantry)
+[266] Extra Ammunition (line infantry)
+[267] Extra Ammunition (line infantry)
+[268] Inspire Ability
+[269] Inspire Ability
+[270] Reload Speed
+[271] Reload Speed
+[272] Improved Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. 
+[273] Improved Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. 
+[274] Greatly Improved Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. 
+[275] Replenish Unit
+[276] Replenish Unit
+[277] Range
+[278] Range
+[279] Range
+[280] Snipe Ability. \\n \\n If hidden already, the unit can shoot without betraying its position. \\n \\n Only works whilst stationary. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[281] Snipe Ability. \\n \\n If hidden already, the unit can shoot without betraying its position. \\n \\n Only works whilst stationary. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[282] Improved line infantry Reload Speed. \\n \\n Increases the rate at which your line infantry units reload their guns. \\n \\n Requires: Gun Instructor \\n
+[283] Improved line infantry Reload Speed. \\n \\n Increases the rate at which your line infantry units reload their guns. \\n \\n Requires: Gun Instructor \\n \\n
+[284] Greatly improved line infantry Reload Speed. \\n \\n Increases the rate at which your line infantry units reload their guns. \\n \\n Requires: 1 point in Reload (line infantry) \\n
+[285] Accuracy
+[286] Accuracy
+[287] Accuracy
+[288] Accuracy
+[289] Armour
+[290] Armour
+[291] Speed
+[292] Speed
+[293] Speed
+[294] Increased Firebomb Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[295] Increased Firebomb Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[296] Increased Range. \\n \\n Shot range is increased. \\n \\n Requires 10 clan tokens.
+[297] Greatly Improved Army Morale. \\n \\n Your avatar's reputation inspires his entire army, increasing the morale of all units. \\n 
+[298] Increased Range. \\n \\n Shot range is increased. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[299] Improved Army Morale. \\n \\n Your avatar's reputation inspires his entire army, increasing the morale of all units. \\n 

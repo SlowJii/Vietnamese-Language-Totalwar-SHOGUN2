@@ -1,0 +1,1484 @@
+{
+  "filename": "avatar_ranks.loc.tsv",
+  "category": "ui",
+  "header_lines": [
+    "key\ttext\ttooltip",
+    "#Loc;1;text/db/avatar_ranks.loc\t\t"
+  ],
+  "rows": [
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_25",
+      "text": "Kashira (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_24",
+      "text": "Kashira (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_26",
+      "text": "Kashira (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_21",
+      "text": "Kashira (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_20",
+      "text": "Kashira (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_23",
+      "text": "Kashira (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_22",
+      "text": "Kashira (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_35",
+      "text": "Kumigashira (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_34",
+      "text": "Kumigashira (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_36",
+      "text": "Kumigashira (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_31",
+      "text": "Kumigashira (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_30",
+      "text": "Kumigashira (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_33",
+      "text": "Kumigashira (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_32",
+      "text": "Kumigashira (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_half2",
+      "text": "Ashigaru (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_half3",
+      "text": "Ashigaru (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_half0",
+      "text": "Ashigaru (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_half1",
+      "text": "Ashigaru (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_half6",
+      "text": "Ashigaru (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_half4",
+      "text": "Ashigaru (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_half5",
+      "text": "Ashigaru (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_05",
+      "text": "Ashigaru (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_04",
+      "text": "Ashigaru (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_06",
+      "text": "Ashigaru (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_01",
+      "text": "Ashigaru (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_00",
+      "text": "Ashigaru (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_03",
+      "text": "Ashigaru (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_02",
+      "text": "Ashigaru (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_15",
+      "text": "Kogashira (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_14",
+      "text": "Kogashira (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_16",
+      "text": "Kogashira (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_11",
+      "text": "Kogashira (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_10",
+      "text": "Kogashira (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_13",
+      "text": "Kogashira (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_12",
+      "text": "Kogashira (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_65",
+      "text": "Taisho (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_64",
+      "text": "Taisho (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_66",
+      "text": "Taisho (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_61",
+      "text": "Taisho (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_60",
+      "text": "Taisho (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_63",
+      "text": "Taisho (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_62",
+      "text": "Taisho (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_75",
+      "text": "Bugyo (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_74",
+      "text": "Bugyo (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_76",
+      "text": "Bugyo (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_71",
+      "text": "Bugyo (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_70",
+      "text": "Bugyo (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_73",
+      "text": "Bugyo (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_72",
+      "text": "Bugyo (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_45",
+      "text": "Gokenin (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_44",
+      "text": "Gokenin (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_46",
+      "text": "Gokenin (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_41",
+      "text": "Gokenin (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_40",
+      "text": "Gokenin (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_43",
+      "text": "Gokenin (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_42",
+      "text": "Gokenin (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_55",
+      "text": "Hatamoto (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_54",
+      "text": "Hatamoto (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_56",
+      "text": "Hatamoto (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_51",
+      "text": "Hatamoto (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_50",
+      "text": "Hatamoto (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_53",
+      "text": "Hatamoto (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_52",
+      "text": "Hatamoto (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_85",
+      "text": "Sobugyo (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_84",
+      "text": "Sobugyo (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_86",
+      "text": "Sobugyo (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_81",
+      "text": "Sobugyo (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_80",
+      "text": "Sobugyo (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_83",
+      "text": "Sobugyo (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_82",
+      "text": "Sobugyo (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_95",
+      "text": "Daimyo (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_94",
+      "text": "Daimyo (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_96",
+      "text": "Daimyo (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_91",
+      "text": "Daimyo (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_90",
+      "text": "Daimyo (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_93",
+      "text": "Daimyo (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_92",
+      "text": "Daimyo (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_101",
+      "text": "Hatamoto (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_100",
+      "text": "Hatamoto (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_103",
+      "text": "Hatamoto (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_102",
+      "text": "Hatamoto (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_105",
+      "text": "Hatamoto (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_104",
+      "text": "Hatamoto (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_106",
+      "text": "Hatamoto (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_1_half1",
+      "text": "Kogashira (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_2_half1",
+      "text": "Kashira (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_3_half1",
+      "text": "Kumigashira (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_4_half1",
+      "text": "Gokenin (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_5_half1",
+      "text": "Hatamoto (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_6_half1",
+      "text": "Taisho (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_7_half1",
+      "text": "Bugyo (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_8_half1",
+      "text": "Sobugyo (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_9_half1",
+      "text": "Daimyo (Silver)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_1_half0",
+      "text": "Kogashira (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_2_half0",
+      "text": "Kashira (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_3_half0",
+      "text": "Kumigashira (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_4_half0",
+      "text": "Gokenin (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_5_half0",
+      "text": "Hatamoto (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_6_half0",
+      "text": "Taisho (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_7_half0",
+      "text": "Bugyo (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_8_half0",
+      "text": "Sobugyo (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_9_half0",
+      "text": "Daimyo (Bronze)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_1_half3",
+      "text": "Kogashira (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_2_half3",
+      "text": "Kashira (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_3_half3",
+      "text": "Kumigashira (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_4_half3",
+      "text": "Gokenin (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_5_half3",
+      "text": "Hatamoto (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_6_half3",
+      "text": "Taisho (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_7_half3",
+      "text": "Bugyo (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_8_half3",
+      "text": "Sobugyo (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_9_half3",
+      "text": "Daimyo (Emerald)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_1_half2",
+      "text": "Kogashira (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_2_half2",
+      "text": "Kashira (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_3_half2",
+      "text": "Kumigashira (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_4_half2",
+      "text": "Gokenin (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_5_half2",
+      "text": "Hatamoto (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_6_half2",
+      "text": "Taisho (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_7_half2",
+      "text": "Bugyo (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_8_half2",
+      "text": "Sobugyo (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_9_half2",
+      "text": "Daimyo (Gold)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_1_half5",
+      "text": "Kogashira (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_2_half5",
+      "text": "Kashira (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_3_half5",
+      "text": "Kumigashira (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_4_half5",
+      "text": "Gokenin (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_5_half5",
+      "text": "Hatamoto (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_6_half5",
+      "text": "Taisho (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_7_half5",
+      "text": "Bugyo (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_8_half5",
+      "text": "Sobugyo (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_9_half5",
+      "text": "Daimyo (Ruby)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_1_half4",
+      "text": "Kogashira (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_2_half4",
+      "text": "Kashira (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_3_half4",
+      "text": "Kumigashira (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_4_half4",
+      "text": "Gokenin (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_5_half4",
+      "text": "Hatamoto (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_6_half4",
+      "text": "Taisho (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_7_half4",
+      "text": "Bugyo (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_8_half4",
+      "text": "Sobugyo (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_9_half4",
+      "text": "Daimyo (Sapphire)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_1_half6",
+      "text": "Kogashira (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_2_half6",
+      "text": "Kashira (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_3_half6",
+      "text": "Kumigashira (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_4_half6",
+      "text": "Gokenin (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_5_half6",
+      "text": "Hatamoto (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_6_half6",
+      "text": "Taisho (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_7_half6",
+      "text": "Bugyo (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_8_half6",
+      "text": "Sobugyo (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ranks_onscreen_name_avatar_rank_9_half6",
+      "text": "Daimyo (Diamond)",
+      "tooltip": "true",
+      "empty": false
+    }
+  ],
+  "translatable": [
+    {
+      "row_index": 0,
+      "text": "Kashira (Ruby)"
+    },
+    {
+      "row_index": 1,
+      "text": "Kashira (Sapphire)"
+    },
+    {
+      "row_index": 2,
+      "text": "Kashira (Diamond)"
+    },
+    {
+      "row_index": 3,
+      "text": "Kashira (Silver)"
+    },
+    {
+      "row_index": 4,
+      "text": "Kashira (Bronze)"
+    },
+    {
+      "row_index": 5,
+      "text": "Kashira (Emerald)"
+    },
+    {
+      "row_index": 6,
+      "text": "Kashira (Gold)"
+    },
+    {
+      "row_index": 7,
+      "text": "Kumigashira (Ruby)"
+    },
+    {
+      "row_index": 8,
+      "text": "Kumigashira (Sapphire)"
+    },
+    {
+      "row_index": 9,
+      "text": "Kumigashira (Diamond)"
+    },
+    {
+      "row_index": 10,
+      "text": "Kumigashira (Silver)"
+    },
+    {
+      "row_index": 11,
+      "text": "Kumigashira (Bronze)"
+    },
+    {
+      "row_index": 12,
+      "text": "Kumigashira (Emerald)"
+    },
+    {
+      "row_index": 13,
+      "text": "Kumigashira (Gold)"
+    },
+    {
+      "row_index": 14,
+      "text": "Ashigaru (Gold)"
+    },
+    {
+      "row_index": 15,
+      "text": "Ashigaru (Emerald)"
+    },
+    {
+      "row_index": 16,
+      "text": "Ashigaru (Bronze)"
+    },
+    {
+      "row_index": 17,
+      "text": "Ashigaru (Silver)"
+    },
+    {
+      "row_index": 18,
+      "text": "Ashigaru (Diamond)"
+    },
+    {
+      "row_index": 19,
+      "text": "Ashigaru (Sapphire)"
+    },
+    {
+      "row_index": 20,
+      "text": "Ashigaru (Ruby)"
+    },
+    {
+      "row_index": 21,
+      "text": "Ashigaru (Ruby)"
+    },
+    {
+      "row_index": 22,
+      "text": "Ashigaru (Sapphire)"
+    },
+    {
+      "row_index": 23,
+      "text": "Ashigaru (Diamond)"
+    },
+    {
+      "row_index": 24,
+      "text": "Ashigaru (Silver)"
+    },
+    {
+      "row_index": 25,
+      "text": "Ashigaru (Bronze)"
+    },
+    {
+      "row_index": 26,
+      "text": "Ashigaru (Emerald)"
+    },
+    {
+      "row_index": 27,
+      "text": "Ashigaru (Gold)"
+    },
+    {
+      "row_index": 28,
+      "text": "Kogashira (Ruby)"
+    },
+    {
+      "row_index": 29,
+      "text": "Kogashira (Sapphire)"
+    },
+    {
+      "row_index": 30,
+      "text": "Kogashira (Diamond)"
+    },
+    {
+      "row_index": 31,
+      "text": "Kogashira (Silver)"
+    },
+    {
+      "row_index": 32,
+      "text": "Kogashira (Bronze)"
+    },
+    {
+      "row_index": 33,
+      "text": "Kogashira (Emerald)"
+    },
+    {
+      "row_index": 34,
+      "text": "Kogashira (Gold)"
+    },
+    {
+      "row_index": 35,
+      "text": "Taisho (Ruby)"
+    },
+    {
+      "row_index": 36,
+      "text": "Taisho (Sapphire)"
+    },
+    {
+      "row_index": 37,
+      "text": "Taisho (Diamond)"
+    },
+    {
+      "row_index": 38,
+      "text": "Taisho (Silver)"
+    },
+    {
+      "row_index": 39,
+      "text": "Taisho (Bronze)"
+    },
+    {
+      "row_index": 40,
+      "text": "Taisho (Emerald)"
+    },
+    {
+      "row_index": 41,
+      "text": "Taisho (Gold)"
+    },
+    {
+      "row_index": 42,
+      "text": "Bugyo (Ruby)"
+    },
+    {
+      "row_index": 43,
+      "text": "Bugyo (Sapphire)"
+    },
+    {
+      "row_index": 44,
+      "text": "Bugyo (Diamond)"
+    },
+    {
+      "row_index": 45,
+      "text": "Bugyo (Silver)"
+    },
+    {
+      "row_index": 46,
+      "text": "Bugyo (Bronze)"
+    },
+    {
+      "row_index": 47,
+      "text": "Bugyo (Emerald)"
+    },
+    {
+      "row_index": 48,
+      "text": "Bugyo (Gold)"
+    },
+    {
+      "row_index": 49,
+      "text": "Gokenin (Ruby)"
+    },
+    {
+      "row_index": 50,
+      "text": "Gokenin (Sapphire)"
+    },
+    {
+      "row_index": 51,
+      "text": "Gokenin (Diamond)"
+    },
+    {
+      "row_index": 52,
+      "text": "Gokenin (Silver)"
+    },
+    {
+      "row_index": 53,
+      "text": "Gokenin (Bronze)"
+    },
+    {
+      "row_index": 54,
+      "text": "Gokenin (Emerald)"
+    },
+    {
+      "row_index": 55,
+      "text": "Gokenin (Gold)"
+    },
+    {
+      "row_index": 56,
+      "text": "Hatamoto (Ruby)"
+    },
+    {
+      "row_index": 57,
+      "text": "Hatamoto (Sapphire)"
+    },
+    {
+      "row_index": 58,
+      "text": "Hatamoto (Diamond)"
+    },
+    {
+      "row_index": 59,
+      "text": "Hatamoto (Silver)"
+    },
+    {
+      "row_index": 60,
+      "text": "Hatamoto (Bronze)"
+    },
+    {
+      "row_index": 61,
+      "text": "Hatamoto (Emerald)"
+    },
+    {
+      "row_index": 62,
+      "text": "Hatamoto (Gold)"
+    },
+    {
+      "row_index": 63,
+      "text": "Sobugyo (Ruby)"
+    },
+    {
+      "row_index": 64,
+      "text": "Sobugyo (Sapphire)"
+    },
+    {
+      "row_index": 65,
+      "text": "Sobugyo (Diamond)"
+    },
+    {
+      "row_index": 66,
+      "text": "Sobugyo (Silver)"
+    },
+    {
+      "row_index": 67,
+      "text": "Sobugyo (Bronze)"
+    },
+    {
+      "row_index": 68,
+      "text": "Sobugyo (Emerald)"
+    },
+    {
+      "row_index": 69,
+      "text": "Sobugyo (Gold)"
+    },
+    {
+      "row_index": 70,
+      "text": "Daimyo (Ruby)"
+    },
+    {
+      "row_index": 71,
+      "text": "Daimyo (Sapphire)"
+    },
+    {
+      "row_index": 72,
+      "text": "Daimyo (Diamond)"
+    },
+    {
+      "row_index": 73,
+      "text": "Daimyo (Silver)"
+    },
+    {
+      "row_index": 74,
+      "text": "Daimyo (Bronze)"
+    },
+    {
+      "row_index": 75,
+      "text": "Daimyo (Emerald)"
+    },
+    {
+      "row_index": 76,
+      "text": "Daimyo (Gold)"
+    },
+    {
+      "row_index": 77,
+      "text": "Hatamoto (Silver)"
+    },
+    {
+      "row_index": 78,
+      "text": "Hatamoto (Bronze)"
+    },
+    {
+      "row_index": 79,
+      "text": "Hatamoto (Emerald)"
+    },
+    {
+      "row_index": 80,
+      "text": "Hatamoto (Gold)"
+    },
+    {
+      "row_index": 81,
+      "text": "Hatamoto (Ruby)"
+    },
+    {
+      "row_index": 82,
+      "text": "Hatamoto (Sapphire)"
+    },
+    {
+      "row_index": 83,
+      "text": "Hatamoto (Diamond)"
+    },
+    {
+      "row_index": 84,
+      "text": "Kogashira (Silver)"
+    },
+    {
+      "row_index": 85,
+      "text": "Kashira (Silver)"
+    },
+    {
+      "row_index": 86,
+      "text": "Kumigashira (Silver)"
+    },
+    {
+      "row_index": 87,
+      "text": "Gokenin (Silver)"
+    },
+    {
+      "row_index": 88,
+      "text": "Hatamoto (Silver)"
+    },
+    {
+      "row_index": 89,
+      "text": "Taisho (Silver)"
+    },
+    {
+      "row_index": 90,
+      "text": "Bugyo (Silver)"
+    },
+    {
+      "row_index": 91,
+      "text": "Sobugyo (Silver)"
+    },
+    {
+      "row_index": 92,
+      "text": "Daimyo (Silver)"
+    },
+    {
+      "row_index": 93,
+      "text": "Kogashira (Bronze)"
+    },
+    {
+      "row_index": 94,
+      "text": "Kashira (Bronze)"
+    },
+    {
+      "row_index": 95,
+      "text": "Kumigashira (Bronze)"
+    },
+    {
+      "row_index": 96,
+      "text": "Gokenin (Bronze)"
+    },
+    {
+      "row_index": 97,
+      "text": "Hatamoto (Bronze)"
+    },
+    {
+      "row_index": 98,
+      "text": "Taisho (Bronze)"
+    },
+    {
+      "row_index": 99,
+      "text": "Bugyo (Bronze)"
+    },
+    {
+      "row_index": 100,
+      "text": "Sobugyo (Bronze)"
+    },
+    {
+      "row_index": 101,
+      "text": "Daimyo (Bronze)"
+    },
+    {
+      "row_index": 102,
+      "text": "Kogashira (Emerald)"
+    },
+    {
+      "row_index": 103,
+      "text": "Kashira (Emerald)"
+    },
+    {
+      "row_index": 104,
+      "text": "Kumigashira (Emerald)"
+    },
+    {
+      "row_index": 105,
+      "text": "Gokenin (Emerald)"
+    },
+    {
+      "row_index": 106,
+      "text": "Hatamoto (Emerald)"
+    },
+    {
+      "row_index": 107,
+      "text": "Taisho (Emerald)"
+    },
+    {
+      "row_index": 108,
+      "text": "Bugyo (Emerald)"
+    },
+    {
+      "row_index": 109,
+      "text": "Sobugyo (Emerald)"
+    },
+    {
+      "row_index": 110,
+      "text": "Daimyo (Emerald)"
+    },
+    {
+      "row_index": 111,
+      "text": "Kogashira (Gold)"
+    },
+    {
+      "row_index": 112,
+      "text": "Kashira (Gold)"
+    },
+    {
+      "row_index": 113,
+      "text": "Kumigashira (Gold)"
+    },
+    {
+      "row_index": 114,
+      "text": "Gokenin (Gold)"
+    },
+    {
+      "row_index": 115,
+      "text": "Hatamoto (Gold)"
+    },
+    {
+      "row_index": 116,
+      "text": "Taisho (Gold)"
+    },
+    {
+      "row_index": 117,
+      "text": "Bugyo (Gold)"
+    },
+    {
+      "row_index": 118,
+      "text": "Sobugyo (Gold)"
+    },
+    {
+      "row_index": 119,
+      "text": "Daimyo (Gold)"
+    },
+    {
+      "row_index": 120,
+      "text": "Kogashira (Ruby)"
+    },
+    {
+      "row_index": 121,
+      "text": "Kashira (Ruby)"
+    },
+    {
+      "row_index": 122,
+      "text": "Kumigashira (Ruby)"
+    },
+    {
+      "row_index": 123,
+      "text": "Gokenin (Ruby)"
+    },
+    {
+      "row_index": 124,
+      "text": "Hatamoto (Ruby)"
+    },
+    {
+      "row_index": 125,
+      "text": "Taisho (Ruby)"
+    },
+    {
+      "row_index": 126,
+      "text": "Bugyo (Ruby)"
+    },
+    {
+      "row_index": 127,
+      "text": "Sobugyo (Ruby)"
+    },
+    {
+      "row_index": 128,
+      "text": "Daimyo (Ruby)"
+    },
+    {
+      "row_index": 129,
+      "text": "Kogashira (Sapphire)"
+    },
+    {
+      "row_index": 130,
+      "text": "Kashira (Sapphire)"
+    },
+    {
+      "row_index": 131,
+      "text": "Kumigashira (Sapphire)"
+    },
+    {
+      "row_index": 132,
+      "text": "Gokenin (Sapphire)"
+    },
+    {
+      "row_index": 133,
+      "text": "Hatamoto (Sapphire)"
+    },
+    {
+      "row_index": 134,
+      "text": "Taisho (Sapphire)"
+    },
+    {
+      "row_index": 135,
+      "text": "Bugyo (Sapphire)"
+    },
+    {
+      "row_index": 136,
+      "text": "Sobugyo (Sapphire)"
+    },
+    {
+      "row_index": 137,
+      "text": "Daimyo (Sapphire)"
+    },
+    {
+      "row_index": 138,
+      "text": "Kogashira (Diamond)"
+    },
+    {
+      "row_index": 139,
+      "text": "Kashira (Diamond)"
+    },
+    {
+      "row_index": 140,
+      "text": "Kumigashira (Diamond)"
+    },
+    {
+      "row_index": 141,
+      "text": "Gokenin (Diamond)"
+    },
+    {
+      "row_index": 142,
+      "text": "Hatamoto (Diamond)"
+    },
+    {
+      "row_index": 143,
+      "text": "Taisho (Diamond)"
+    },
+    {
+      "row_index": 144,
+      "text": "Bugyo (Diamond)"
+    },
+    {
+      "row_index": 145,
+      "text": "Sobugyo (Diamond)"
+    },
+    {
+      "row_index": 146,
+      "text": "Daimyo (Diamond)"
+    }
+  ],
+  "total_chunks": 2,
+  "chunk_size": 100
+}

@@ -1,0 +1,103 @@
+=== CHUNK 1/3 — avatar_ancillaries_descriptions.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[0] \\n %+n melee attack for all spear infantry units. \\n \\n The edge is where the moment is decided.
+[1] \\n Enemy frigate movement speed: %n%%. \\n \\n "A foul bottom? How dare you sir?!"
+[2] \\n %-n reload skill for all enemy bow units. \\n \\n Cold hands make strangers of familiar tasks.
+[3] \\n %-n reload skill for all enemy bow units. \\n \\n Cold hands make strangers of familiar tasks.
+[4] \\n Reduced bow unit casualties. \\n Increased Clan Influence Points gain. \\n \\n Training is never wasted in life.
+[5] \\n Gunboat accuracy: %+n. \\n \\n "Steady. Steady. Fire!"
+[6] \\n %+n melee attack for all sword infantry. \\n \\n "Do not cut at your enemy. Perfect the stroke!"
+[7] \\n Corvette accuracy: %+n. \\n \\n Science removes the guesswork from gunnery.
+[8] \\n Reveals the deployment of all enemy units not hidden. \\n Cancels effect of enemy Sage Advisor retainer. \\n \\n Secrets and lies travel in the same cart.
+[9] \\n Increases enemy avatar cooldowns by %n0%. \\n Cancels effects of enemy Metsuke Inspector retainer. \\n \\n There can be mercy in a dish of tea.
+[10] \\n Avatar: %+n melee attack. \\n \\n Some swords will seek out worthy hands.
+[11] \\n Avatar: \\n Your Avatar and his bodyguard have %+n morale. \\n \\n An honest faith armours an honest soul.
+[12] \\n Your two most damaged veteran units will fully heal before the next battle. \\n \\n A garden soothes the soul.
+[13] \\n Allows player to field Great Guard units. \\n \\n The blessings of heaven come in many forms.
+[14] \\n The range at which the enemy can spot hidden units is subject to a %n%% penalty. \\n \\n The calm heart does not beat like a drum.
+[15] \\n Increased fatigue resistance for all melee infantry. \\n \\n Without stores, an army soon becomes a hungry mob.
+[16] \\n %-n morale to all enemy ashigaru units. \\n \\n A man makes his own fate, sometimes.
+[17] \\n Ironclad reload skill: %+n. \\n \\n Precision engineered for maximum efficiency.
+[18] \\n %+n melee defence for all spear infantry. \\n \\n Even the simplest thing must be mastered.
+[19] \\n %+n accuracy for all matchlock units. \\n \\n The smell is sulphurous, the results: astounding!
+[20] \\n Tosa Riflemen, Yugekitai & Sharpshooter accuracy: %+n. \\n \\n Simple, sturdy, and soldier-proof. Deadly, in the right hands, too.
+[21] \\n Avatar: %+n% speed. \\n \\n A horseman is only as good as his horse.
+[22] \\n Naginata Attendants: %+n charge bonus,
+[23] %+n melee attack. \\n \\n "Fall upon the enemy with the flames of Enryakuji in your hearts!"
+[24] \\n Reduced modern Imperial unit casualties. \\n Increased Clan Influence Points gain. \\n \\n There is great honour in service to the Emperor.
+[25] \\n Light cavalry: %+n melee attack. \\n \\n Careful husbandry always improves the breed.
+[26] \\n Reduced speed for all enemy cavalry units. \\n \\n Dull eye and drooping ear speak eloquently of the suffering within.
+[27] \\n Avatar: increased fatigue resistance. \\n \\n No task is humble if it is done well.
+[28] \\n Increased fatigue resistance for all cavalry. \\n \\n  Peasants cannot hide everything.
+[29] \\n %+n morale to all cavalry. \\n \\n Men, like horses, need a firm hand.
+[30] \\n Reduced fatigue resistance for all enemy cavalry. \\n \\n A horse's stamina is only a good as the oats it is fed.
+[31] \\n Avatar: %+n melee defence. \\n \\n A man at your back forestalls many problems.
+[32] %n%% to Fast Reload ability cooldown. \\n \\n Even a frigate is only as fast as her crew.
+[33] \\n Frigates: %n%% to Overheat Engine ability cooldown & 
+[34] \\n Avatar: %+n accuracy, \\n %+n reloading skill. \\n \\n Horse and bow can be in harmony.
+[35] \\n A proportion of each unit's casualties will be healed after a battle. \\n \\n "Brave wounds mend the quickest!"
+[36] and %-n% to standard speed penalties for crossing rough terrain. \\n \\n The sure-footed way is its own reward.
+[37] \\n All units have reduced fatigue gain 
+[38] \\n Reduced modern Shogunate unit casualties. \\n Increased Clan Influence Points gain. \\n \\n Tradition and honour are everything.
+[39] \\nYour avatar has %+n morale. \\n \\n The God of Battles should show a hard face to the world.
+[40] \\n Enemy units close to your avatar suffer a %-n morale penalty.
+[41] \\n %+n melee defence for Yari Ashigaru units. \\n \\n A sore head or bruised knuckles is fair exchange for one's life.
+[42] \\n Enemy Tosa Riflemen, Yugekitai & Sharpshooter movement speed: %-n%%. \\n \\n "Phew! I'll catch you up, men."
+[43] \\n Avatar: %+n morale. \\n \\n A banner, floating on the breeze, is a noble sight.
+[44] \\n %+n melee attack for all monk units. \\n \\n The pure heart beats louder than any war drum.
+[45] %+n morale. \\n \\n There is little wisdom in bringing pain to others, yet much in avoiding pain.
+[46] %-n reload speed
+[47] %+n melee defence
+[48] \\n Your units sacrifice attack power for greatly increased defence. \\n All units receive: \\n %-n melee attack
+[49] \\n Avatar: \\n Your Avatar and his bodyguard's melee attacks pierce armour. \\n \\n The cleansing stroke brings its own peace.
+[50] \\n Line & elite infantry ammunition: %+n . \\n \\n Victory can be decided on the pages of a ledger.
+[51] \\n Avatar's rally ability also causes %-n to enemy morale in radius. \\n Cancels effect of enemy Shinobi Informer retainer. \\n \\n "You're nicked, my old beauty!"
+[52] \\n %+n morale to all samurai melee infantry. \\n \\n The mob is not an army.
+[53] \\n Avatar: %+n hitpoints. \\n \\n The wise man seeks out the very best of everything.
+[54] \\n %+n armour to all melee infantry. \\n \\n Protection is wisdom.
+[55] \\n Enemy Warrior Monk units receive %-n morale. \\n \\n Doubt gnaws at even the smallest grain of faith.
+[56] \\n Modern gunpowder cavalry reload skill: %+n. \\n \\n "Proven in combat, by the Confederate States of America, sir, among others."
+[57] Reduced reload skill for enemy European Cannon, Mangonels, Fire Rockets and Hand Mortars. \\n \\n Sometimes looking is not the same as seeing.
+[58] \\n %+n accuracy to all bow units. \\n \\n When the heart is pure, the arrow finds a way.
+[59] \\n Elite infantry reload skill: %+n. \\n \\n The bullet is substantial. The needle is within the workings.
+[60] \\n Avatar: %+n melee defence. \\n \\n What use a general's brains if they are splashed to the winds?
+[61] \\n Allows you to field 1 siege engine (Fire Rockets, Mangonel or Cannon) \\n \\n Summer dust and heat, oxen bellow, drivers goad: doom rumbles onward.
+[62] \\n Avatar: %+n armour. \\n \\n There is honour in serving well.
+[63] \\n Avatar: %+n hitpoints, \\n %+n armour. \\n \\n "Yes Great Lord, truly a splendid helmet!"
+[64] & increased movement speed. \\n \\n "You ain't seen me, right?"
+[65] \\n Fortress gates in siege battles in which you are the attacker will be open at the start of battle. \\n 
+[66] Kisho Ninjas gain: %+n melee attack,
+[67] %+n melee defence,
+[68] \\n Reduced fatigue resistance for all enemy melee infantry. \\n \\n Food nourishes the spirit as well as the body.
+[69] \\n %+n reload skill for all bow infantry. \\n \\n Men must be lead in battle.
+[70] \\n Modern gunpowder cavalry accuracy: %+n. \\n \\n Man and beast in perfect harmony.
+[71] \\n %-n melee defence for all enemy spear infantry. \\n \\n "Unbalanced? Nonsense! Next you'll be saying I'm unbalanced!"
+[72] \\n %-n melee defence for all enemy spear infantry. \\n \\n "Unbalanced? Nonsense! Next you'll be saying I'm unbalanced!"
+[73] \\n Avatar: %+n hitpoints. \\n \\n Loyalty reflects well on the one who gives it.
+[74] \\n Enemy gunboats: %+n%% to Overheat Engine ability cooldown & 
+[75] %+n%% to Fast Reload ability cooldown. \\n \\n "Other side lads. 'The port is always left on the table', remember?"
+[76] \\n Enemy line & elite infantry ammunition: %-n%. \\n \\n ...Click!...
+[77] \\n Tosa Riflemen, Yugekitai & Sharpshooter reload skill: %+n. \\n \\n A good reliable weapon, as you'd expect from Her Majesty's Government.
+[78] \\n Avatar: %+n hitpoints. \\n \\n Every boy would die for his hero.
+[79] \\n Enemy cavalry: %-n charge bonus. \\n \\n It's only theft if you are caught.
+[80] \\n %+n ammunition to all bow units. \\n \\n The arrow is no less important than the bow.
+[81] \\n %+n melee attack to all melee cavalry. \\n \\n Nothing in battle should be a surprise.
+[82] & increased movement speed. \\n \\n "You ain't seen me, right?"
+[83] %+n melee defence,
+[84] Kisho Ninjas gain: %+n melee attack,
+[85] \\n Fortress gates in siege battles in which you are the attacker will be open at the start of battle. \\n 
+[86] \\n %+n accuracy for Bow Ashigaru units. \\n \\n Men are the fiercest prey of all.
+[87] \\n Enemy gunboat reload skill: %n. \\n \\n "All equipment to be correctly stowed BEFORE firing."
+[88] \\n Avatar: %+n charge bonus. \\n \\n A samurai may need his weapon at any moment.
+[89] \\n Warrior Monks and Nuns: %+n%% recruitment cost. \\n \\n Lust and loathing are two sides of the same coin.
+[90] \\n Avatar and all veterans: %+n morale.
+[91] \\n Allows you to field 1 piece of artillery (Wooden Cannon, Parrot Gun, Armstrong Gun or Gatling Gun) \\n \\n Make every shot count.
+[92] \\n Avatar: %+n armour. \\n \\n Sometimes age adds to the worthiness of a thing.
+[93] \\n %+n attack to all sword infantry. \\n \\n The sword must be one with the hand.
+[94] Warrior Monks and Nuns: %+n morale. 
+[95] \\n All veterans: %+n%% recruitment cost.\\n \\n "Ignore all earthly beauty. It fades."
+[96] \\n %-n%% recruitment cost for all ashigaru units. \\n \\n Words can move a man's heart to sorrow, or anger.
+[97] %n%% to Fast Reload ability cooldown. \\n \\n "Neatly done, Lieutenant. Carry on."
+[98] \\n Ironclads: %n%% to Overheat Engine ability cooldown & 
+[99] %+n%% to Fast Reload ability cooldown. \\n \\n "Is there an able seaman anywhere on this ship?!"

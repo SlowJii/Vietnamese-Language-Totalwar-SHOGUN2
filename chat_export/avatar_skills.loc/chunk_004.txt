@@ -1,0 +1,103 @@
+=== CHUNK 4/17 — avatar_skills.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[300] Improved Army Morale. \\n \\n Your avatar's reputation inspires his entire army, increasing the morale of all units. \\n
+[301] Increased Ammunition. \\n \\n The men of this unit carry significantly more arrows than usual for this unit type.
+[302] Increased Ammunition. \\n \\n The men of this unit carry significantly more arrows than usual for this unit type.
+[303] Naval Speed \\n \\n All naval units have increased speed. \\n \\n Requires: Speed \\n
+[304] Naval Speed \\n \\n All naval units have increased speed. \\n \\n Requires: Speed \\n
+[305] Greatly improved Naval Speed \\n \\n All naval units have increased speed. \\n \\n Requires: 1 point in Naval Speed \\n
+[306] Enables Bombardment ability \\n \\n Your avatar can call up the support of a naval bombardment to wreak havoc in a specified area. \\n
+[307] Enables Bombardment ability \\n \\n Your avatar can call up the support of a naval bombardment to wreak havoc in a specified area. \\n
+[308] Inspire Ability
+[309] Inspire Ability
+[310] Improved Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. 
+[311] Improved Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. 
+[312] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[313] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[314] Improved Reload Speed. \\n \\n Increases the rate at which the unit prepares and throws firebombs.
+[315] Improved Reload Speed. \\n \\n Increases the rate at which the unit prepares and throws firebombs..
+[316] Greatly Improved Reload Speed. \\n \\n Increases the rate at which the unit prepares and throws firebombs.
+[317] Greatly Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit. \\n \\n Requires 10 clan tokens.
+[318] Greatly Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit. \\n \\n Requires 1 point in basic Melee Attack. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[319] Improved Speed. \\n \\n Increases the unit's movement speed.
+[320] Improved Speed. \\n \\n Increases the unit's movement speed.
+[321] Greatly Improved Speed. \\n \\n Increases the unit's movement speed.
+[322] Elite Melee Attack. \\n \\n Increases the melee attack skill of your avatar and his bodyguard. \\n \\n Requires: 2 points in Melee Attack \\n
+[323] Greatly improved Melee Attack. \\n \\n Increases the melee attack skill of your avatar and his bodyguard. \\n \\n Requires: 1 point in Melee Attack \\n
+[324] Improved Melee Attack. \\n \\n Increases the melee attack skill of your avatar and his bodyguard. \\n \\n Requires: Charge \\n
+[325] Improved Melee Attack. \\n \\n Increases the melee attack skill of your avatar and his bodyguard. \\n \\n Requires: Charge \\n
+[326] Blinding Grenades. \\n \\n Blinding grenades temporarily disable the target unit. \\n \\n Requires 10 clan tokens.
+[327] Blinding Grenades. \\n \\n Blinding grenades temporarily disable the target unit. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[328] Charge
+[329] Charge
+[330] Legendary Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[331] Legendary Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Requires 10 clan tokens.
+[332] Warcry. \\n \\n Grants this unit the Warcry special ability, allowing it to terrify and stun mearby enemy units. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[333] Warcry. \\n \\n Grants this unit the Warcry special ability, allowing it to terrify and stun mearby enemy units. \\n \\n Requires 10 clan tokens.
+[334] Your avatar gains the second wind ability. When utilised, this ability gives the avatar bodyguard unit and units in the near vicinity an immediate energy boost. \\n \\n Requires: Speed \\n
+[335] Your avatar gains the second wind ability. When utilised, this ability gives the avatar bodyguard unit and units in the near vicinity an immediate energy boost. \\n \\n Requires: Speed \\n
+[336] Greatly Improved Speed. \\n \\n Increases the unit's movement speed.
+[337] Improved Speed. \\n \\n Increases the unit's movement speed.
+[338] Improved Speed. \\n \\n Increases the unit's movement speed.
+[339] Improved Accuracy. \\n \\n Missile attacks are more accurate. \\n \\n Requires 2 points in basic Accuracy. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[340] Improved Accuracy. \\n \\n Missile attacks are more accurate. \\n \\n Requires 10 clan tokens.
+[341] Improved Accuracy. \\n \\n Missile attacks are more accurate. \\n \\n Requires 10 clan tokens.
+[342] Warcry
+[343] Warcry
+[344] Morale
+[345] Morale
+[346] Morale
+[347] Morale
+[348] Reload Speed
+[349] Reload Speed
+[350] Reload Speed
+[351] Increased Range. \\n \\n Shot range is increased. \\n \\n Requires 20 clan tokens.
+[352] Increased Range. \\n \\n Shot range is increased. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Imperial specialism clan. \\n\\n Requires 20 clan tokens.
+[353] Greatly Increased Missile Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased. \\n \\n Requires 1 point in basic Missile Damage. \\n \\n Requires 10 clan tokens.
+[354] Greatly Increased Missile Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased. \\n \\n Requires 1 point in basic Missile Damage. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[355] Legendary Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Requires 10 clan tokens.
+[356] Elite Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Requires 10 clan tokens.
+[357] Elite Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Requires 2 points in basic Reload Speed. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[358] Bushido Charge
+[359] Bushido Charge
+[360] Enable Avatar Bow. \\n \\n Your avatar and his bodyguard can shoot bows from horseback. \\n
+[361] Enable Avatar Bow. \\n \\n Your avatar and his bodyguard can shoot bows from horseback. \\n
+[362] Greatly Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit.
+[363] Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit.
+[364] Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit. 
+[365] Speed
+[366] Speed
+[367] Speed
+[368] Elite Enemy Spotting. \\n \\n The range at which this unit spots hidden enemies is increased. \\n \\n Requires 10 clan tokens.
+[369] Greatly Improved Enemy Spotting. \\n \\n The range at which this unit spots hidden enemies is increased. \\n \\n Requires 1 point in basic Enemy Spotting. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[370] Charge
+[371] Greatly Improved Enemy Spotting. \\n \\n The range at which this unit spots hidden enemies is increased. \\n \\n Requires 10 clan tokens.
+[372] Charge
+[373] Fatigue Resistance
+[374] Fatigue Resistance
+[375] Fatigue Resistance
+[376] Kisho Training. \\n \\n During the deployment phase, this unit is able to deploy outside of the deployment area. \\n \\n May not deploy too close to a key building. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[377] Kisho Training. \\n \\n During the deployment phase, this unit is able to deploy outside of the deployment area. \\n \\n May not deploy too close to a key building. \\n \\n Requires 10 clan tokens.
+[378] Greatly Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[379] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[380] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[381] Kisho Training
+[382] Kisho Training
+[383] Greatly Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[384] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[385] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[386] Rally Ability. \\n \\n When activated, the rally ability will restore nearby routing units to order (shattered units are not affected). \\n \\n Units nearby that aren't routing will receive a morale bonus whilst rally is active. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a sword specialism clan.
+[387] Rally Ability. \\n \\n When activated, the rally ability will restore nearby routing units to order (shattered units are not affected). \\n \\n Units nearby that aren't routing will receive a morale bonus whilst rally is active. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a sword specialism clan.
+[388] Reload Speed
+[389] Reload Speed
+[390] Reload Speed
+[391] Speed
+[392] Speed
+[393] Rally Ability. \\n \\n When activated, the rally ability will restore nearby routing units to order (shattered units are not affected). \\n \\n Units nearby that aren't routing will receive a morale bonus whilst rally is active. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a spear specialism clan.
+[394] Rally Ability. \\n \\n When activated, the rally ability will restore nearby routing units to order (shattered units are not affected). \\n \\n Units nearby that aren't routing will receive a morale bonus whilst rally is active. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a spear specialism clan.
+[395] Second Wind Ability. \\n \\n This ability restore the stamina levels of nearby friendly units. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a cavalry specialism clan.
+[396] Second Wind Ability. \\n \\n This ability restore the stamina levels of nearby friendly units. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a cavalry specialism clan.
+[397] Inspire Ability
+[398] Inspire Ability
+[399] Increased light infantry ammunition \\n \\n Your Tosa Riflemen, Yugekitai & Sharpshooters carry extra bullets. \\n \\n Requires: Extra Ammunition (rifle light infantry) \\n

@@ -1,0 +1,72 @@
+=== CHUNK 2/2 — avatar_campaign_maps.loc.tsv ===
+(Dịch 69 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[100] Hizen
+[101] Ise
+[102] Nagato
+[103] Harima
+[104] Wakasa
+[105] Mimasaka
+[106] Izumo
+[107] Nagasaki
+[108] Iburi
+[109] Eastern Tohoku Sea
+[110] Suo
+[111] Ugo
+[112] Kawachi
+[113] Tsushima Island Coast
+[114] Hitachi
+[115] Echizen
+[116] Tanegashima
+[117] Noto
+[118] Bizen
+[119] Shimotsuke
+[120] Tosa
+[121] Shiribeshi
+[122] Tokai Coast
+[123] Tokai Coast
+[124] Mimasaka
+[125] China Sea
+[126] Iwami
+[127] Awa
+[128] Owari
+[129] South Shinano
+[130] Aki
+[131] Northern Japanese Sea
+[132] Shimosa
+[133] Inaba
+[134] Iwate
+[135] Awaji
+[136] Musashi
+[137] Kyoto
+[138] Tsukushi
+[139] Shimotsuke
+[140] Etchu
+[141] Hoki
+[142] North Shinano
+[143] Bingo
+[144] Western Tohoku Sea
+[145] Ise
+[146] Izu
+[147] Iyo
+[148] Iga
+[149] Higo
+[150] Kai
+[151] Tsushima
+[152] Kii
+[153] Uzen
+[154] Mino
+[155] Tamba
+[156] Hida
+[157] Tango
+[158] Kaga
+[159] Fukushima
+[160] Sado
+[161] Omi
+[162] Sea of Hyuga
+[163] Western Tohoku Sea
+[164] Sado Island Coast
+[165] San'in Coast
+[166] Sea of Hyuga
+[167] Eastern Tohoku Sea
+[168] San'in Coast

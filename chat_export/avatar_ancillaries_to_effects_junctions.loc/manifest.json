@@ -1,0 +1,541 @@
+{
+  "filename": "avatar_ancillaries_to_effects_junctions.loc.tsv",
+  "category": "ui",
+  "header_lines": [
+    "key\ttext\ttooltip",
+    "#Loc;1;text/db/avatar_ancillaries_to_effects_junctions.loc\t\t"
+  ],
+  "rows": [
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_blessed_kote_armoured_sleevesmod_armour",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_legendary_kawari_kabuto_helmmod_melee_defence",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_steppe_horse_studmod_unit_morale",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_shoguns_emissaryenable_unit_selection_great_guard",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_legendary_dragonfly_cutting_spearmod_bonus_vs_cavalry",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_shinobi_informercancel_enemy_ancillary_effect_wizened_monk",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_artisan_sailmakermod_ship_speed",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_sticky_fingered_storemastermod_enemy_ammo_quantity",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_yabusami_mastermod_reload_speed",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_geisha_poisonermod_enemy_avatar_cooldowns",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_bandit_horse_thievesmod_enemy_melee_attack",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_uma_jirushi_nobori_standard_bearermod_unit_morale",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_sake_peddlermod_enemy_marksmanship",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_metsuke_inspectorcancel_enemy_ancillary_effect_shinobi_informer",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_contrary_currentsmod_enemy_ship_turn_rate",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_uma_i_horse_doctormod_unit_speed",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_famous_shipyardmod_ship_turn_rate",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_geisha_poisonercancel_enemy_ancillary_effect_sage_advisor",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_metsuke_inspectorenable_ability_anti_rally",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_mounted_scoutmod_distance_to_spot_enemies",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_famous_armourymod_armour",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_open_basketwork_quiversmod_ammo_quantity",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_gokamon_bodyguardmod_melee_defence",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_hero_worshipping_boymod_avatar_hp",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_legendary_legendary_kabuto_of_ykokmod_armour",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_forage_partiesmod_stamina",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_practice_groundsmod_melee_attack",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_legendary_masterwork_do_maru_armourmod_armour",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_yabusami_mastermod_marksmanship",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_infantry_officermod_unit_morale",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_siege_engine_instructormod_reload_speed",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_european_gunsmithmod_marksmanship",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_bandit_horse_thievesmod_enemy_charge_bonus",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_legendary_hideous_menpo_maskmod_unit_morale",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_legendary_flawless_mount_okagemod_unit_speed",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_steppe_horse_studmod_melee_attack",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_tetsu_bishi_caltropsmod_bonus_vs_cavalry",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_shinobi_informerreveal_enemy_deployment",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_untrained_fugu_cookmod_enemy_melee_attack",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_water_carriermod_stamina",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_zori_tori_sandal_bearermod_stamina",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_legendary_hachiman_crestmod_avatar_aura_radius",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_trading_postmod_unit_cost",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_blind_bow_senseimod_marksmanship",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_sage_advisorcancel_enemy_ancillary_effect_geisha_poisoner",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_bad_omenmod_enemy_unit_morale",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_legendary_dragonfly_cutting_spearmod_charge_bonus",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_wizened_monkcancel_enemy_ancillary_effect_metsuke_inspector",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_expert_gun_instructormod_marksmanship",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_dissolute_crewmod_enemy_melee_attack",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_gunnery_rangemod_reload_speed",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_gosha_odosama_samurai_priestmod_melee_attack",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_skilled_weaponsmithmod_melee_attack",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_sage_advisormod_unit_cooldowns",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_cavalry_officermod_unit_morale",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_yagyu_sword_instructormod_melee_attack",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_wizened_monkmod_unit_morale",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_garden_of_convalescencemod_replenishment_rate",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_yumi_mastermod_marksmanship",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_iron_abumi_stirrupsmod_melee_defence",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_okinawan_pirate_crewmod_melee_attack",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_legendary_heavenly_bannermod_avatar_global_morale_effect",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_legendary_hideous_menpo_maskenable_ability_scare_enemies",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_mochiyari_gumi_spear_bearermod_charge_bonus",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_blade_mastermod_melee_attack",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_yumi_officermod_reload_speed",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_yari_mastermod_melee_defence",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_supply_wagonmod_ammo_quantity",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_fur_tradermod_stamina_in_cold",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_admiralmod_avatar_global_morale_effect",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_target_rangemod_marksmanship",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_legendary_masterwork_kote_armguardsmod_avatar_hp",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_drill_squaremod_melee_defence",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_ninja_joninenable_unit_selection_ninja",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_inspiring_oratormod_unit_cost",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_seasoned_marinermod_enemy_marksmanship",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_surgeonmod_battle_casualties",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_legendary_legendary_kabuto_of_ykokmod_avatar_hp",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_european_horse_tradermod_unit_speed",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_kacchu_mochi_armour_bearermod_armour",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_loyal_fudai_shu_retainersmod_avatar_hp",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_legendary_tenkagoken_swordmod_melee_attack",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_gosha_odosama_samurai_priestmod_enemy_morale_in_radius",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_ill_windmod_enemy_ship_speed",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_scroll_of_inspirational_versemod_melee_attack",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_military_storehousemod_stamina",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_anc_productive_rice_paddymod_unit_morale",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_to_effects_junctions_description_mp_legendary_hachiman_crestmod_ability_rally",
+      "text": "PLACEHOLDER",
+      "tooltip": "true",
+      "empty": false
+    }
+  ],
+  "translatable": [],
+  "total_chunks": 0,
+  "chunk_size": 80
+}

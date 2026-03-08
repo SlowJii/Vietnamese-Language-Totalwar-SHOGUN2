@@ -1,0 +1,11 @@
+=== CHUNK 1/1 — avatar_product_lookups.loc.tsv ===
+(Dịch 8 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[0] You must purchase the Otomo clan dlc in order to access this content
+[1] You must have the Saints & Heroes Unit Pack dlc installed to recruit this unit.
+[2] You must have the Sengoku Jidai Unit Pack dlc installed to recruit this unit.
+[3] blah
+[4] n/a
+[5] You must purchase the Fall of the Samurai dlc in order to access this content
+[6] You must purchase the Rise of the Samurai dlc in order to access this content
+[7] You must purchase the Ikko Ikki dlc in order to access this content

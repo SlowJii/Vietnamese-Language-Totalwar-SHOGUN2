@@ -1,0 +1,103 @@
+=== CHUNK 9/17 — avatar_skills.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[800] Elite Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. \\n \\n Requires 10 clan tokens.
+[801] Elite Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. \\n \\n Requires 2 points in basic Fatigue Resistance. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[802] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[803] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Requires 10 clan tokens.
+[804] Speed
+[805] Speed
+[806] Speed
+[807] Missile Damage
+[808] Spot Enemies
+[809] Missile Damage
+[810] Spot Enemies
+[811] Fatigue Resistance
+[812] Fatigue Resistance
+[813] Morale
+[814] Morale
+[815] Morale
+[816] Morale
+[817] Enable Snipe Ability. \\n \\n If hidden already, your avatar and his bodyguard can shoot without betraying their position. \\n \\n Only works whilst stationary. \\n \\n Requires 2 points in Increased Range skill. \\n
+[818] Enable Snipe Ability. \\n \\n If hidden already, your avatar and his bodyguard can shoot without betraying their position. \\n \\n Only works whilst stationary. \\n \\n Requires 2 points in Increased Range skill. \\n
+[819] Greatly improved Speed. \\n \\n Increases the movement speed of your avatar and his bodyguard. \\n \\n Requires: 1 point in Speed \\n
+[820] Improved Speed. \\n \\n Increases the movement speed of your avatar and his bodyguard. \\n \\n Requires: Charge \\n
+[821] Improved Speed. \\n \\n Increases the movement speed of your avatar and his bodyguard. \\n \\n Requires: Charge \\n
+[822] Improved Fatigue Resistance Aura \\n \\n Your units within your avatar's aura radius will become fatigued more slowly and will recover more quickly. \\n
+[823] Greatly Improved Fatigue Resistance Aura \\n \\n Your units within your avatar's aura radius will become fatigued more slowly and will recover more quickly. \\n
+[824] Fatigue Resistance Aura \\n \\n Your units within your avatar's aura radius will become fatigued more slowly and will recover more quickly. \\n
+[825] Fatigue Resistance Aura \\n \\n Your units within your avatar's aura radius will become fatigued more slowly and will recover more quickly. \\n
+[826] Melee Defence
+[827] Melee Defence
+[828] Melee Defence
+[829] Melee Defence
+[830] Greatly Improved Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks.  \\n \\n Requires 1 point in basic Melee Defence. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[831] Greatly Improved Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. \\n \\n Requires 10 clan tokens.
+[832] Sniping
+[833] Replenish Unit
+[834] Sniping
+[835] Replenish Unit
+[836] Speed
+[837] Speed
+[838] Speed
+[839] Reload Speed
+[840] Reload Speed
+[841] Reload Speed
+[842] Reduced Cooldown For Rally Ability. \\n \\n When activated, the rally ability will restore routing units within your avatar's aura radius to order (shattered units are not affected). \\n \\n Units within the radius that aren't routing will receive a morale bonus whilst rally is active. \\n
+[843] Greatly Increased Bow Range. \\n \\n Shot range for your avatar and his bodyguard is increased. \\n
+[844] Reduced Cooldown For Rally Ability. \\n \\n When activated, the rally ability will restore routing units within your avatar's aura radius to order (shattered units are not affected). \\n \\n Units within the radius that aren't routing will receive a morale bonus whilst rally is active. \\n
+[845] Further Reduced Cooldown For Rally Ability. \\n \\n When activated, the rally ability will restore routing units within your avatar's aura radius to order (shattered units are not affected). \\n \\n Units within the radius that aren't routing will receive a morale bonus whilst rally is active. \\n
+[846] Increased Bow Range. \\n \\n Shot range for your avatar and his bodyguard is increased. \\n
+[847] Greatly Reduced Cooldown For Rally Ability. \\n \\n When activated, the rally ability will restore routing units within your avatar's aura radius to order (shattered units are not affected). \\n \\n Units within the radius that aren't routing will receive a morale bonus whilst rally is active. \\n
+[848] Increased Bow Range. \\n \\n Shot range for your avatar and his bodyguard is increased. \\n
+[849] Rally
+[850] Increased Range
+[851] Rally
+[852] Increased Range
+[853] Rally
+[854] Rally
+[855] Increased Range
+[856] Kneel Fire
+[857] Kneel Fire
+[858] Scare Enemies
+[859] Scare Enemies
+[860] Elite Accuracy \\n \\n The unit fires with greater accuracy. \\n \\n Requires 10 clan tokens.
+[861] Elite Accuracy \\n \\n The unit fires with greater accuracy. \\n \\n Requires 2 points in basic Accuracy. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[862] Melee Attack
+[863] Melee Attack
+[864] Accuracy
+[865] Accuracy
+[866] Accuracy
+[867] Heroic Assault
+[868] Heroic Assault
+[869] Armour-Piercing Arrows. \\n \\n Your avatar and his bodyguard shoot bodkin-style arrows designed to penetrate armour. \\n \\n Requires 3 points in Bow Damage skill. \\n
+[870] Armour-Piercing Arrows. \\n \\n Your avatar and his bodyguard shoot bodkin-style arrows designed to penetrate armour. \\n \\n Requires 3 points in Bow Damage skill. \\n
+[871] Rapid Capture \\n (naval)
+[872] Rapid Capture \\n (naval)
+[873] Rapid Capture \\n (land)
+[874] Gun Instruction. \\n \\n Enables your avatar to unlock the Reload (line infantry), Extra ammunition (line infantry) and Accuracy (light infantry) skills. \\n \\n Requires: Reload \\n \\n Requires: Extra Ammunition \\n \\n Requires: Accuracy \\n
+[875] Gun instruction. \\n \\n Your avatar becomes skilled in the art of instruction and can now impart some of his skills to his army. \\n
+[876] Improved Reload Speed. \\n \\n Increases the rate at which the unit shoots. \\n \\n Requires 10 clan tokens.
+[877] Improved Reload Speed. \\n \\n Increases the rate at which the unit shoots. \\n \\n Requires 2 points in basic Reload Speed. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[878] Improved Reload Speed. \\n \\n Increases the rate at which the unit shoots. \\n \\n Requires 10 clan tokens.
+[879] Increased Ammunition. \\n \\n The men of this unit carry significantly more ammunition than usual for this unit type. \\n \\n Requires 10 clan tokens.
+[880] Increased Ammunition. \\n \\n The men of this unit carry significantly more ammunition than usual for this unit type. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[881] Fatigue Resistance
+[882] Fatigue Resistance
+[883] Reload Speed
+[884] Reload Speed
+[885] Reload Speed
+[886] No Penalty Against Spears. \\n \\n Your avatar and his bodyguard ignore the penalty suffered by all other cavalry units when attacking enemies armed with spears. \\n \\n Requires Banzai skill and 2 points in Armour skill. \\n
+[887] No Penalty Against Spears. \\n \\n Your avatar and his bodyguard ignore the penalty suffered by all other cavalry units when attacking enemies armed with spears. \\n \\n Requires Banzai skill and 2 points in Armour skill. \\n
+[888] Melee cavalry units can capture key buildings without dismounting.  \\n \\n Requires: Double Time (cavalry).
+[889] Melee cavalry units can capture key buildings without dismounting.  \\n \\n Requires: Double Time (cavalry).
+[890] Greatly Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[891] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[892] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[893] Morale
+[894] Morale
+[895] Blinding Grenades. \\n \\n Blinding grenades temporarily disable the target unit.
+[896] Blinding Grenades. \\n \\n Blinding grenades temporarily disable the target unit.
+[897] Elite Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[898] Elite Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Requires 2 points in basic Reload Speed. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[899] Melee Attack

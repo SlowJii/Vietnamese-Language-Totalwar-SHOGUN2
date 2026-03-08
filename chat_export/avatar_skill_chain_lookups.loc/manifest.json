@@ -1,0 +1,244 @@
+{
+  "filename": "avatar_skill_chain_lookups.loc.tsv",
+  "category": "ui",
+  "header_lines": [
+    "key\ttext\ttooltip",
+    "#Loc;1;text/db/avatar_skill_chain_lookups.loc\t\t"
+  ],
+  "rows": [
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_avatar_bow_skills",
+      "text": "Bow Mastery",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_unit_melee_cavalry_skills",
+      "text": "Melee Cavalry Skills",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_unit_spear_skills",
+      "text": "Spear Skills",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_unit_siege_skills",
+      "text": "Siege Engine Skills",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_unit_light_cavalry_skills",
+      "text": "Light Cavalry Skills",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_unit_cooking_pot_firebomb_skills",
+      "text": "Firebomb Skills",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_unit_sword_skills",
+      "text": "Sword Skills",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_unit_bow_ashigaru_skills",
+      "text": "Bow Ashigaru Skills",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_unit_bow_skills",
+      "text": "Bow Skills",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_unit_firearm_cav_skills",
+      "text": "Firearm Cavalry Skills",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_avatar_physical_skills",
+      "text": "Physical",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_boshin_avatar_gunpowder_skills",
+      "text": "Gunpowder",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_avatar_leadership_skills",
+      "text": "Leadership",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_unit_bow_cavalry_skills",
+      "text": "Bow Cavalry Skills",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_unit_stealth_skills",
+      "text": "Ninja Skills",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_boshin_avatar_command_skills",
+      "text": "Command",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_avatar_combat_skills",
+      "text": "Melee Combat",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_boshin_avatar_bushido_skills",
+      "text": "Bushido",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_unit_gatling_skills",
+      "text": "Gatling Gun Skills",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_unit_line_inf_skills",
+      "text": "Line Infantry Skills",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_unit_monk_cav_skills",
+      "text": "Warrior Monk Cavalry Skills",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_unit_light_inf_skills",
+      "text": "Light Infantry Skills",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_skill_chain_lookups_localised_string_unit_firearms_skills",
+      "text": "Matchlock Skills",
+      "tooltip": "true",
+      "empty": false
+    }
+  ],
+  "translatable": [
+    {
+      "row_index": 0,
+      "text": "Bow Mastery"
+    },
+    {
+      "row_index": 1,
+      "text": "Melee Cavalry Skills"
+    },
+    {
+      "row_index": 2,
+      "text": "Spear Skills"
+    },
+    {
+      "row_index": 3,
+      "text": "Siege Engine Skills"
+    },
+    {
+      "row_index": 4,
+      "text": "Light Cavalry Skills"
+    },
+    {
+      "row_index": 5,
+      "text": "Firebomb Skills"
+    },
+    {
+      "row_index": 6,
+      "text": "Sword Skills"
+    },
+    {
+      "row_index": 7,
+      "text": "Bow Ashigaru Skills"
+    },
+    {
+      "row_index": 8,
+      "text": "Bow Skills"
+    },
+    {
+      "row_index": 9,
+      "text": "Firearm Cavalry Skills"
+    },
+    {
+      "row_index": 10,
+      "text": "Physical"
+    },
+    {
+      "row_index": 11,
+      "text": "Gunpowder"
+    },
+    {
+      "row_index": 12,
+      "text": "Leadership"
+    },
+    {
+      "row_index": 13,
+      "text": "Bow Cavalry Skills"
+    },
+    {
+      "row_index": 14,
+      "text": "Ninja Skills"
+    },
+    {
+      "row_index": 15,
+      "text": "Command"
+    },
+    {
+      "row_index": 16,
+      "text": "Melee Combat"
+    },
+    {
+      "row_index": 17,
+      "text": "Bushido"
+    },
+    {
+      "row_index": 18,
+      "text": "Gatling Gun Skills"
+    },
+    {
+      "row_index": 19,
+      "text": "Line Infantry Skills"
+    },
+    {
+      "row_index": 20,
+      "text": "Warrior Monk Cavalry Skills"
+    },
+    {
+      "row_index": 21,
+      "text": "Light Infantry Skills"
+    },
+    {
+      "row_index": 22,
+      "text": "Matchlock Skills"
+    }
+  ],
+  "total_chunks": 1,
+  "chunk_size": 80
+}

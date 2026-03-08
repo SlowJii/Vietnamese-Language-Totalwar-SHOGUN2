@@ -1,0 +1,103 @@
+=== CHUNK 14/17 — avatar_skills.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[1300] Drilled Crew
+[1301] Drilled Crew
+[1302] Elite Armour. \\n \\n Increases defence against both melee and missile attacks. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a cavalry specialism clan.
+[1303] Elite Armour. \\n \\n Increases defence against both melee and missile attacks. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a cavalry specialism clan.
+[1304] Improved Armour. \\n \\n Increases defence against both melee and missile attacks. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1305] Improved Armour. \\n \\n Increases defence against both melee and missile attacks. \\n \\n Requires 10 clan tokens.
+[1306] Legendary Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[1307] Elite Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[1308] Greatly Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[1309] Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[1310] Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[1311] Improved Spotting Range. \\n \\n The range at which this unit spot hidden enemies is increased.
+[1312] Improved Spotting Range. \\n \\n The range at which this unit spot hidden enemies is increased.
+[1313] Accuracy
+[1314] Accuracy
+[1315] Accuracy
+[1316] Melee Defence
+[1317] Melee Defence
+[1318] Melee Defence
+[1319] Replenish Unit
+[1320] Replenish Unit
+[1321] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1322] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[1323] Fire By Rank
+[1324] Fire By Rank
+[1325] Improved Morale \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Requires 10 clan tokens.
+[1326] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1327] Accuracy
+[1328] Accuracy
+[1329] Greatly Increased Bonus Versus Cavalry. \\n \\n Increases the unit's skill in melee versus cavalry. \\n \\n Requires 10 clan tokens.
+[1330] Accuracy
+[1331] Accuracy
+[1332] Increased Bonus Versus Cavalry. \\n \\n Increases the unit's skill in melee versus cavalry.  \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1333] Accuracy
+[1334] Armour
+[1335] Increased Bonus Versus Cavalry. \\n \\n Increases the unit's skill in melee versus cavalry. \\n \\n Requires 10 clan tokens.
+[1336] Accuracy
+[1337] Armour
+[1338] Missile Damage
+[1339] Missile Damage
+[1340] Missile Damage
+[1341] Missile Damage
+[1342] Double Time \\n (cavalry)
+[1343] Double Time \\n (cavalry)
+[1344] Double Time \\n (cavalry)
+[1345] Increased Projectile Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[1346] Increased Projectile Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[1347] Elite Projectile Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[1348] Greatly Increased Projectile Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[1349] Improved Accuracy. \\n \\n The unit shoots with greater accuracy.
+[1350] Improved Armour. \\n \\n Increases defence against both melee and missile attacks. \\n \\n Requires 10 clan tokens.
+[1351] Improved Accuracy. \\n \\n The unit shoots with greater accuracy.
+[1352] Improved Armour. \\n \\n Increases defence against both melee and missile attacks. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1353] Improved Accuracy. \\n \\n The unit shoots with greater accuracy.
+[1354] Improved Accuracy. \\n \\n The unit shoots with greater accuracy.
+[1355] Additional Avatar Hitpoint. \\n \\n Increases the amount of damage your avatar can sustain before being incapacitated. \\n \\n Requires 3 points in Fatigue Resistance. \\n
+[1356] Additional Avatar Hitpoint. \\n \\n Increases the amount of damage your avatar can sustain before being incapacitated. \\n \\n Requires 3 points in Fatigue Resistance. \\n
+[1357] Improved Avatar Morale. \\n \\n Improves the morale of your avatar and his bodyguard. \\n \\n Requires 1 point in Melee Attack skill and 1 point in Melee Defence skill. \\n
+[1358] Improved Avatar Morale. \\n \\n Improves the morale of your avatar and his bodyguard. \\n \\n Requires 1 point in Melee Attack skill and 1 point in Melee Defence skill. \\n
+[1359] Elite Avatar Morale. \\n \\n Improves the morale of your avatar and his bodyguard. \\n
+[1360] Greatly Improved Avatar Morale. \\n \\n Improves the morale of your avatar and his bodyguard. \\n
+[1361] Replenish Unit
+[1362] Replenish Unit
+[1363] Replenish Unit
+[1364] Replenish Unit
+[1365] Reload Speed
+[1366] Reload Speed
+[1367] Reload Speed
+[1368] Reload Speed
+[1369] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[1370] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1371] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[1372] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1373] Elite Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1374] Greatly Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1375] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1376] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1377] Legendary Bonus Versus Cavalry. \\n \\n Increases the unit's skill in melee versus cavalry. \\n \\n Requires 10 clan tokens.
+[1378] Elite Bonus Versus Cavalry. \\n \\n Increases the unit's skill in melee versus cavalry. \\n \\n Requires 2 points in basic Bonus vs. Cavalry. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1379] Elite Bonus Versus Cavalry. \\n \\n Increases the unit's skill in melee versus cavalry. \\n \\n Requires 10 clan tokens.
+[1380] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1381] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1382] Greatly Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1383] Reload Speed
+[1384] Reload Speed
+[1385] Reload Speed
+[1386] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1387] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1388] Greatly Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1389] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1390] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[1391] Morale
+[1392] Morale
+[1393] Inspire Ability
+[1394] Inspire Ability
+[1395] Banzai Ability
+[1396] Banzai Ability
+[1397] Melee Attack
+[1398] Melee Attack
+[1399] Speed

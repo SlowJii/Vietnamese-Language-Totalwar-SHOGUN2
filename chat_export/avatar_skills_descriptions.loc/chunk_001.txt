@@ -1,0 +1,4 @@
+=== CHUNK 1/1 — avatar_skills_descriptions.loc.tsv ===
+(Dịch 1 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[0] placeholder

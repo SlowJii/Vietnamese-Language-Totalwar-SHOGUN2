@@ -1,0 +1,103 @@
+=== CHUNK 7/17 — avatar_skills.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[600] Enable Fire Arrows.  \\n \\n When activated, fire arrows increase the lethality of this unit's shots and can also ignite wooden buildings. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[601] Legendary Accuracy. \\n \\n The unit shoots with greater accuracy. \\n \\n Requires 10 clan tokens.
+[602] Legendary Accuracy. \\n \\n The unit shoots with greater accuracy. \\n \\n Requires 3 points in basic Accuracy. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[603] Inspire Ability. \\n \\n When activated, allows the unit to boost the morale, melee attack and accuracy of a single unit. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a sword specialism clan.
+[604] Inspire Ability. \\n \\n When activated, allows the unit to boost the morale, melee attack and accuracy of a single unit. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a sword specialism clan.
+[605] Hitpoint Bonus
+[606] Hitpoint Bonus
+[607] Increased Range
+[608] Increased Range
+[609] Naval Speed
+[610] Naval Speed
+[611] Naval Speed
+[612] Improved Speed. \\n \\n Increases the unit's movement speed.
+[613] Improved Speed. \\n \\n Increases the unit's movement speed.
+[614] Greatly Improved Speed. \\n \\n Increases the unit's movement speed.
+[615] Bonus vs. Cavalry
+[616] Bonus vs. Cavalry
+[617] Bonus vs. Cavalry
+[618] Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit.
+[619] Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit.
+[620] Greatly Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit.
+[621] Accuracy
+[622] Accuracy
+[623] Accuracy
+[624] Fatigue Resistance
+[625] Fatigue Resistance
+[626] Fatigue Resistance
+[627] Stand & Fight
+[628] Fatigue Resistance
+[629] Stand & Fight
+[630] Morale
+[631] Morale
+[632] Elite Melee Attack. \\n \\n Increases the melee attack skill of the unit. \\n \\n Requires 2 points in basic Melee Attack. \\n \\n  Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[633] Elite Melee Attack. \\n \\n Increases the melee attack skill of the unit. \\n \\n Requires 10 clan tokens.
+[634] Legendary Melee Attack. \\n \\n Increases the melee attack skill of the unit. \\n \\n Requires 10 clan tokens.
+[635] Elite Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Requires 10 clan tokens.
+[636] Elite Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Requires 2 points in basic Reload Speed. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[637] Speed
+[638] Speed
+[639] Elite Bow Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased. \\n \\n Unit level requirement: level 9. \\n \\n Requires 1 point in advanced Bow Damage, 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[640] Elite Bow Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased. \\n \\n Unit level requirement: level 9. \\n \\n Requires 1 point in advanced Bow Damage, 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[641] Reload Speed
+[642] Reload Speed
+[643] Elite Speed. \\n \\n Increases the unit's movement speed.
+[644] Elite Speed. \\n \\n Increases the unit's movement speed.
+[645] Fatigue Resistance
+[646] Fatigue Resistance
+[647] Fatigue Resistance
+[648] Bow Damage
+[649] Fatigue Resistance
+[650] Bow Damage
+[651] Fatigue Resistance
+[652] Extra Ammunition
+[653] Extra Ammunition
+[654] Scouting
+[655] Scouting
+[656] Scouting
+[657] Scouting
+[658] Scouting
+[659] Increased Range. \\n \\n Shot range is increased. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Shogunate specialism clan. \\n \\n Requires 20 clan tokens.
+[660] Increased Range. \\n \\n Shot range is increased. \\n \\n Requires 20 clan tokens.
+[661] Enemy Spotting
+[662] Enemy Spotting
+[663] Suppressive Fire
+[664] Suppressive Fire
+[665] Melee Attack
+[666] Melee Attack
+[667] Elite Speed. \\n \\n Increases the unit's movement speed. \\n \\n Requires 10 clan tokens.
+[668] Elite Speed. \\n \\n Increases the unit's movement speed. \\n \\n Requires 2 points in basic Speed. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[669] Improved avatar accuracy. \\n \\n Your avatar and his bodyguard shoot their guns with greater accuracy. \\n \\n 
+[670] Increased avatar ammunition. \\n \\n Your avatar and his bodyguard unit will carry extra bullets. \\n \\n Requires: Firing Drill (avatar) \\n
+[671] Improved avatar accuracy. \\n \\n Your avatar and his bodyguard shoot their guns with greater accuracy. \\n \\n Requires: Enable Gun \\n
+[672] Increased avatar ammunition. \\n \\n Your avatar and his bodyguard unit will carry extra bullets. \\n \\n Requires: Enable Gun \\n
+[673] Greatly improved Avatar Accuracy. \\n \\n Your avatar and his bodyguard shoot their guns with greater accuracy. \\n \\n Requires: Accuracy \\n
+[674] Greatly increased avatar ammunition. \\n \\n Your avatar and his bodyguard unit will carry extra bullets. \\n \\n Requires: Extra Ammunition \\n
+[675] Accuracy
+[676] Accuracy
+[677] Accuracy
+[678] Legendary Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. \\n \\n Requires 10 clan tokens.
+[679] Legendary Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. \\n \\n Requires Elite Fatigue Resistance skill. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[680] Stand and Fight
+[681] Stand and Fight
+[682] Improved Armour. \\n \\n Increases defence against both melee and missile attacks. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[683] Improved Armour. \\n \\n Increases defence against both melee and missile attacks. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a bow specialism clan.
+[684] Increased Bow Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[685] Increased Bow Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[686] Fatigue Resistance
+[687] Fatigue Resistance
+[688] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[689] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[690] Increased Range. \\n \\n Shot range is increased. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[691] Increased Range. \\n \\n Shot range is increased. \\n \\n Requires 10 clan tokens.
+[692] Greatly Increased Range. \\n \\n Shot range is increased. \\n \\n Requires 10 clan tokens.
+[693] Elite Range. \\n \\n Shot range is increased. \\n \\n Requires 10 clan tokens.
+[694] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[695] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[696] Fatigue Resistance
+[697] Fatigue Resistance
+[698] Fatigue Resistance
+[699] Greatly Improved Reload Speed. \\n \\n Increases the rate at which the unit shoots.

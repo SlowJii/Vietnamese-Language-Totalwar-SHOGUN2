@@ -1,0 +1,8 @@
+=== CHUNK 3/3 — avatar_ancillaries_descriptions.loc.tsv ===
+(Dịch 5 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[200] \\n Naginata Warrior Monk Hero: %+n armour. \\n \\n "Tajima... cut through those [arrows]... with his whirling naginata, so that even the enemy looked on in admiration."
+[201] \\n The range at which the enemy can spot hidden units is subject to a %n%% penalty. \\n \\n The calm heart does not beat like a drum.
+[202] \\n Reduced fatigue resistance for all enemy melee infantry. \\n \\n Food nourishes the spirit as well as the body.
+[203] \\n Tosa Riflemen, Yugekitai & Sharpshooter movement speed: %+n%%. \\n \\n "At the double, men!"
+[204] \\n Sword Attendants: %+n melee attack. \\n \\n Technique and honour separate the warrior on the battlefield from the peasant in the rice field.

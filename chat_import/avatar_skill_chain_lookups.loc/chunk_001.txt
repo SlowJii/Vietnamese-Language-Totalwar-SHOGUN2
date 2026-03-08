@@ -1,0 +1,23 @@
+[0] Kỹ năng Cung Thuật
+[1] Kỹ năng Kỵ binh Cận Chiến
+[2] Kỹ năng Thương Thuật
+[3] Kỹ năng Máy Công Thành
+[4] Kỹ năng Kỵ binh Nhẹ
+[5] Kỹ năng Bom Lửa
+[6] Kỹ năng Kiếm Thuật
+[7] Kỹ năng Cung Ashigaru
+[8] Kỹ năng Cung Thuật
+[9] Kỹ năng Kỵ binh Hỏa Khí
+[10] Thể chất
+[11] Hỏa dược
+[12] Lãnh đạo
+[13] Kỹ năng Kỵ binh Cung
+[14] Kỹ năng Ninja
+[15] Chỉ huy
+[16] Cận chiến
+[17] Bushido
+[18] Kỹ năng Súng Gatling
+[19] Kỹ năng Bộ binh Tuyến
+[20] Kỹ năng Kỵ binh Tăng Binh
+[21] Kỹ năng Bộ binh Nhẹ
+[22] Kỹ năng Súng Hỏa Mai

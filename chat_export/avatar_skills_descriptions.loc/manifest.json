@@ -1,0 +1,24 @@
+{
+  "filename": "avatar_skills_descriptions.loc.tsv",
+  "category": "ui",
+  "header_lines": [
+    "key\ttext\ttooltip",
+    "#Loc;1;text/db/avatar_skills_descriptions.loc\t\t"
+  ],
+  "rows": [
+    {
+      "key": "avatar_skills_descriptions_description_avatar_skill_ammo_quantity_1",
+      "text": "placeholder",
+      "tooltip": "true",
+      "empty": false
+    }
+  ],
+  "translatable": [
+    {
+      "row_index": 0,
+      "text": "placeholder"
+    }
+  ],
+  "total_chunks": 1,
+  "chunk_size": 80
+}

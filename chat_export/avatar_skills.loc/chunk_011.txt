@@ -1,0 +1,103 @@
+=== CHUNK 11/17 — avatar_skills.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[1000] Hold Firm Ability. \\n \\n When active, boosts melee defence of the unit and up to 3 adjacent units and gives them unbreakable morale for a short time. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a cavalry specialism clan.
+[1001] Increased Ammunition. \\n \\n The men of this unit carry significantly more ammunition than usual for this unit type. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Imperial specialism clan. \\n \\n Requires 20 clan tokens.
+[1002] Increased Ammunition. \\n \\n The men of this unit carry significantly more ammunition than usual for this unit type. \\n \\n Requires 20 clan tokens.
+[1003] Reload Speed
+[1004] Reload Speed
+[1005] Banzai Ability
+[1006] Banzai Ability
+[1007] Reload Speed
+[1008] Reload Speed
+[1009] Elite Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1010] Elite Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Requires 2 points in basic Reload Speed. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1011] Extra Ammunition
+[1012] Extra Ammunition
+[1013] Speed
+[1014] Speed
+[1015] Speed
+[1016] Speed
+[1017] Speed
+[1018] Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[1019] Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[1020] Charge
+[1021] Charge
+[1022] Charge
+[1023] Greatly Improved Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Requires 10 clan tokens.
+[1024] Greatly Improved Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Requires 1 point in basic Morale. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1025] Elite Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Requires 10 clan tokens.
+[1026] Bushido Morale
+[1027] Bushido Morale
+[1028] Improved Speed. \\n \\n Increases the unit's movement speed.
+[1029] Improved Speed. \\n \\n Increases the unit's movement speed.
+[1030] Greatly Improved Speed. \\n \\n Increases the unit's movement speed.
+[1031] Enemy Spotting
+[1032] Enemy Spotting
+[1033] Legendary Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy. \\n \\n Requires 10 clan tokens.
+[1034] Elite Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy. \\n \\n Requires 2 points in basic Charge Bonus. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1035] Elite Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy. \\n \\n Requires 10 clan tokens.
+[1036] Increased Range
+[1037] Increased Range
+[1038] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1039] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[1040] Snipe
+[1041] Snipe
+[1042] Increased avatar gun range. \\n \\n Shot range for your avatar and his bodyguard is increased. \\n
+[1043] Increased avatar gun range. \\n \\n Shot range for your avatar and his bodyguard is increased. \\n \\n 
+[1044] Greatly increased avatar gun range. \\n \\n Shot range for your avatar and his bodyguard is increased. \\n \\n Requires: 1 point in Range \\n
+[1045] Accuracy
+[1046] Accuracy
+[1047] Accuracy
+[1048] Legendary Speed. \\n \\n Increases the movement speed of your avatar and his bodyguard. \\n
+[1049] Improved Speed. \\n \\n Increases the movement speed of your avatar and his bodyguard. \\n
+[1050] Improved Speed. \\n \\n Increases the movement speed of your avatar and his bodyguard. \\n
+[1051] Elite Speed. \\n \\n Increases the movement speed of your avatar and his bodyguard. \\n
+[1052] Greatly Improved Speed. \\n \\n Increases the movement speed of your avatar and his bodyguard. \\n
+[1053] Improved Accuracy. \\n \\n The unit shoots with greater accuracy.
+[1054] Improved Accuracy. \\n \\n The unit shoots with greater accuracy.
+[1055] Greatly Improved Accuracy. \\n \\n The unit shoots with greater accuracy.
+[1056] Elite Accuracy. \\n \\n The unit shoots with greater accuracy.
+[1057] Improved Armour. \\n \\n Increases defence against both melee and missile attacks. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1058] Improved Armour. \\n \\n Increases defence against both melee and missile attacks. \\n \\n Requires 10 clan tokens.
+[1059] Speed
+[1060] Speed
+[1061] Speed
+[1062] Speed
+[1063] Speed
+[1064] Increased Range
+[1065] Increased Range
+[1066] Morale
+[1067] Morale
+[1068] Morale
+[1069] Armour
+[1070] Armour
+[1071] Armour
+[1072] Banzai Ability. \\n \\n When activated, boosts the unit's melee attack and charge bonus, and gives them unbreakable morale for a short time. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a cavalry specialism clan.
+[1073] Banzai Ability. \\n \\n When activated, boosts the unit's melee attack and charge bonus, and gives them unbreakable morale for a short time. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a cavalry specialism clan.
+[1074] Improve Aura
+[1075] Improve Aura
+[1076] Improve Aura
+[1077] Banzai Ability
+[1078] Banzai Ability
+[1079] Increased Range. \\n \\n Shot range is increased. \\n \\n Requires 20 clan tokens.
+[1080] Increased Range. \\n \\n Shot range is increased. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Imperial specialism clan. \\n\\n Requires 20 clan tokens.
+[1081] Rapid Volley
+[1082] Rapid Volley
+[1083] Gives the ability to see the enemy army during deployment phase. \\n \\n Requires: Scouting. \\n
+[1084] Gives the ability to see the enemy army during deployment phase. \\n \\n Requires: 4 points in Scouting \\n
+[1085] Improved Speed. \\n \\n Increases the unit's movement speed.
+[1086] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[1087] Improved Speed. \\n \\n Increases the unit's movement speed.
+[1088] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[1089] Improved Speed. \\n \\n Increases the unit's movement speed.
+[1090] Greatly Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[1091] Improved Speed. \\n \\n Increases the unit's movement speed.
+[1092] Reconnaissance
+[1093] Reconnaissance
+[1094] Reload Speed
+[1095] Reload Speed
+[1096] Your avatar and his bodyguard unit gain a charge bonus \\n
+[1097] Your avatar and his bodyguard unit gain a charge bonus \\n
+[1098] Accuracy
+[1099] Speed

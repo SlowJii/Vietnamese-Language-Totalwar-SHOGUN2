@@ -1,0 +1,31 @@
+=== CHUNK 17/17 — avatar_skills.loc.tsv ===
+(Dịch 28 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[1600] Enable Stand and Fight Ability. \\n \\n When activated, your avatar will dismount to encourage units near to him, boosting their morale, melee attack and reload speed. \\n \\n The ability will remain active until cancelled. \\n \\n Your avatar is unable to move whilst Stand and Fight is active. \\n \\n Requires 2 points in Inspire skill. \\n
+[1601] Armour
+[1602] Armour
+[1603] Greatly Improved Charge Bonus. \\n \\n Increases the melee bonus your avatar and his bodyguard receive when charging an enemy. \\n
+[1604] Improved Charge Bonus. \\n \\n Increases the melee bonus your avatar and his bodyguard receive when charging an enemy. \\n \\n \\n Requires 1 point in Speed skill and 1 point in Melee Attack skill. \\n
+[1605] Improved Charge Bonus. \\n \\n Increases the melee bonus your avatar and his bodyguard receive when charging an enemy. \\n \\n Requires 1 point in Speed skill and 1 point in Melee Attack skill. \\n
+[1606] Rally
+[1607] Rally
+[1608] Inspire Ability. \\n \\n When activated, allows the unit to boost the morale, melee attack and accuracy of a single unit. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a cavalry specialism clan.
+[1609] Inspire Ability. \\n \\n When activated, allows the unit to boost the morale, melee attack and accuracy of a single unit. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a cavalry specialism clan.
+[1610] Increased Ammunition. \\n \\n The men of this unit carry significantly more ammunition than usual for this unit type. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1611] Extra Ammunition (rifle light infantry)
+[1612] Increased Ammunition. \\n \\n The men of this unit carry significantly more ammunition than usual for this unit type. \\n \\n Requires 10 clan tokens.
+[1613] Extra Ammunition (rifle light infantry)
+[1614] Extra Ammunition (rifle light infantry)
+[1615] Reload Speed
+[1616] Reload Speed
+[1617] Reload Speed
+[1618] Replenish Unit
+[1619] Replenish Unit
+[1620] Fatigue Resistance
+[1621] Fatigue Resistance
+[1622] Fatigue Resistance
+[1623] Legendary Speed. \\n \\n Increases the unit's movement speed.
+[1624] Greatly Improved Speed. \\n \\n Increases the unit's movement speed.
+[1625] Elite Speed. \\n \\n Increases the unit's movement speed.
+[1626] Improved Speed. \\n \\n Increases the unit's movement speed.
+[1627] Improved Speed. \\n \\n Increases the unit's movement speed.

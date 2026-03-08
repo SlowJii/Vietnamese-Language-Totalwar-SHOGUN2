@@ -1,0 +1,100 @@
+[0] Nagato
+[1] Bờ biển Tây Kanto
+[2] Bờ biển Hokuriku
+[3] Bờ biển Tây Kanto
+[4] Biển nội địa Seto phía Đông
+[5] Satsuma
+[6] Bờ biển Đông Kanto
+[7] Biển nội địa Seto phía Đông
+[8] Biển nội địa Seto phía Tây
+[9] Biển nội địa Seto phía Tây
+[10] Sado
+[11] Bungo
+[12] Bingo
+[13] Tango
+[14] Mikawa
+[15] Aomori
+[16] Totomi
+[17] Kaga
+[18] Omi
+[19] Tajima
+[20] Totomi
+[21] Bizen
+[22] Kazusa
+[23] Bờ biển đảo Goto
+[24] Sanuki
+[25] Echigo
+[26] Oshima
+[27] Harima
+[28] Inaba
+[29] Tamba
+[30] Tajima
+[31] Sagami
+[32] Aki
+[33] Kii
+[34] Iga
+[35] Kai
+[36] Hoki
+[37] Tosa
+[38] Bờ biển đảo Tanegashima
+[39] Hida
+[40] Iwami
+[41] Izumo
+[42] Biển Trung Hoa
+[43] Bờ biển đảo Sado
+[44] Wakasa
+[45] Hiyama
+[46] Miyagi
+[47] Awaji
+[48] Yamato
+[49] Mikawa
+[50] Sagami
+[51] Sapporo
+[52] Shimosa
+[53] Noto
+[54] Mino
+[55] Ugo
+[56] Higo
+[57] Bitchu
+[58] Etchu
+[59] Musashi
+[60] Goto
+[61] Suruga
+[62] Echizen
+[63] Bờ biển Hokuriku
+[64] Tsukushi
+[65] Hizen
+[66] Buzen
+[67] Osumi
+[68] Bitchu
+[69] Miyagi
+[70] Iwate
+[71] Hyuga
+[72] Bungo
+[73] Fukushima
+[74] Izu
+[75] Bắc Shinano
+[76] Owari
+[77] Hyuga
+[78] Nam Shinano
+[79] Iyo
+[80] Bờ biển Đông Kanto
+[81] Eo biển Tsugaru
+[82] Yamato
+[83] Satsuma
+[84] Kyoto
+[85] Kozuke
+[86] Suruga
+[87] Sanuki
+[88] Kazusa
+[89] Suo
+[90] Kawachi
+[91] Osumi
+[92] Settsu
+[93] Awa
+[94] Echigo
+[95] Buzen
+[96] Uzen
+[97] Settsu
+[98] Hitachi
+[99] Kozuke

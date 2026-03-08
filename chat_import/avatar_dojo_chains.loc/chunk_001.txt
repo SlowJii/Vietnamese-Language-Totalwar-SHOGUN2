@@ -1,0 +1,31 @@
+[0] Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Võ Đường Kiếm Thuật trên bản đồ Chinh Phạt.
+[1] Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Sân Luyện Yari trên bản đồ Chinh Phạt.
+[2] Xưởng Pháo Binh
+[3] Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Thương Điếm Hải Quân trên bản đồ Chinh Phạt.
+[4] Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Xưởng Chế Tạo trên bản đồ Chinh Phạt.
+[5] Doanh Trại Mạc Phủ
+[6] Kho Vũ Khí Mạc Phủ
+[7] Quân Cảng
+[8] Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Võ Đường Cung Thuật trên bản đồ Chinh Phạt.
+[9] Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Bến Quân Sự trên bản đồ Chinh Phạt.
+[10] Trường Bắn Teppo
+[11] Võ Đường Cung Thuật
+[12] Bến Quân Sự
+[13] Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Quân Cảng trên bản đồ Chinh Phạt.
+[14] Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Trường Bắn Teppo trên bản đồ Chinh Phạt.
+[15] Kho Vũ Khí Hoàng Gia
+[16] Chùa Phật Giáo
+[17] Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Quán Rượu Sake trên bản đồ Chinh Phạt.
+[18] Chuồng Ngựa
+[19] Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Thương Điếm trên bản đồ Chinh Phạt.
+[20] Thương Điếm Hải Quân
+[21] Thương Điếm
+[22] Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Chuồng Ngựa trên bản đồ Chinh Phạt.
+[23] Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Kho Vũ Khí Hoàng Gia trên bản đồ Chinh Phạt.
+[24] Quán Rượu Sake
+[25] Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Doanh Trại Mạc Phủ trên bản đồ Chinh Phạt.
+[26] Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Kho Vũ Khí Mạc Phủ trên bản đồ Chinh Phạt.
+[27] Sân Luyện Yari
+[28] Để mở khóa đơn vị này, bạn phải khám phá %n tỉnh có Xưởng Pháo Binh trên bản đồ Chinh Phạt.
+[29] Xưởng Chế Tạo
+[30] Võ Đường Kiếm Thuật

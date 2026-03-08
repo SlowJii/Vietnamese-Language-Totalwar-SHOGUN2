@@ -1,0 +1,103 @@
+=== CHUNK 6/17 — avatar_skills.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[500] Hours of training across all kinds of terrain has resulted in all melee cavalry units gaining a speed and fatigue resistance bonus. \\n \\n Requires: Second Wind \\n
+[501] Hours of training across all kinds of terrain has resulted in all melee cavalry units gaining a speed and fatigue resistance bonus. \\n \\n Requires: Second Wind \\n
+[502] Improved light infantry rifle accuracy. \\n \\n Your Tosa Riflemen, Yugekitai & Sharpshooters shoot their guns with greater accuracy. \\n \\n Requires: Gun Instructor \\n \\n
+[503] Improved light infantry rifle accuracy. \\n \\n Your Tosa Riflemen, Yugekitai & Sharpshooters shoot their guns with greater accuracy. \\n \\n Requires: Gun Instructor \\n
+[504] Greatly light infantry rifle accuracy. \\n \\n Your Tosa Riflemen, Yugekitai & Sharpshooters shoot their guns with greater accuracy. \\n \\n Requires: 1 point in Accuracy (rifle light infantry) \\n
+[505] Replenish Unit
+[506] Replenish Unit
+[507] Reload Speed
+[508] Reload Speed
+[509] Reload Speed
+[510] Increased Ammunition. \\n \\n The men of this unit carry significantly more arrows than usual for this unit type.
+[511] Increased Ammunition. \\n \\n The men of this unit carry significantly more arrows than usual for this unit type.
+[512] Naval Instructor
+[513] Naval Instructor
+[514] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[515] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[516] Greatly Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[517] Drilled Crew. \\n \\n All naval crew are highly drilled and the cooldown period for changing ammunition types is significantly reduced. \\n \\n Requires: Flagship Armour \\n
+[518] Drilled Crew. \\n \\n All naval crew are highly drilled and the cooldown period for changing ammunition types is significantly reduced. \\n \\n Requires: Flagship Armour \\n
+[519] Drilled Crew. \\n \\n All naval crew are highly drilled and the cooldown period for changing ammunition types is significantly reduced. \\n \\n Requires: 1 point in Drilled Crew \\n
+[520] Spotting Range
+[521] Spotting Range
+[522] Greatly Improved Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. 
+[523] Improved Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. 
+[524] Improved Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. 
+[525] Greatly Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit.
+[526] Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit.
+[527] Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit.
+[528] Elite Accuracy. \\n \\n The unit shoots with greater accuracy.
+[529] Greatly Improved Accuracy. \\n \\n The unit shoots with greater accuracy.
+[530] Improved Accuracy. \\n \\n The unit shoots with greater accuracy.
+[531] Improved Accuracy. \\n \\n The unit shoots with greater accuracy.
+[532] Morale
+[533] Morale
+[534] Improved Speed. \\n \\n Increases the unit's movement speed.
+[535] Improved Speed. \\n \\n Increases the unit's movement speed.
+[536] Increased Ammunition. \\n \\n The men of this unit carry significantly more ammunition than usual for this unit type. \\n \\n Requires 20 clan tokens.
+[537] Increased Ammunition. \\n \\n The men of this unit carry significantly more ammunition than usual for this unit type. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Shogunate specialism clan. \\n \\n Requires 20 clan tokens.
+[538] Greatly Improved Speed. \\n \\n Increases the unit's movement speed.
+[539] Improved Reload Speed. \\n \\n Increases the rate at which the unit shoots.
+[540] Improved Reload Speed. \\n \\n Increases the rate at which the unit shoots.
+[541] Greatly Improved Reload Speed. \\n \\n Increases the rate at which the unit shoots.
+[542] Inspire Ability. \\n \\n When activated, allows the unit to boost the morale, melee attack and accuracy of a single unit. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a cavalry specialism clan.
+[543] Inspire Ability. \\n \\n When activated, allows the unit to boost the morale, melee attack and accuracy of a single unit. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a cavalry specialism clan.
+[544] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[545] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[546] Fatigue Resistance
+[547] Fatigue Resistance
+[548] Fatigue Resistance
+[549] Legendary Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n\\n Requires 20 clan tokens.
+[550] Legendary Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Imperial specialism clan. \\n \\n Requires 20 clan tokens.
+[551] Increased Range
+[552] Increased Range
+[553] Increased Bow Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[554] Increased Bow Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[555] Elite Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[556] Elite Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Requires 2 points in basic Reload Speed. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[557] Improved Accuracy. \\n \\n Missile attacks are more accurate.
+[558] Improved Accuracy. \\n \\n Missile attacks are more accurate.
+[559] Improved Accuracy. \\n \\n Missile attacks are more accurate.
+[560] Accuracy
+[561] Accuracy
+[562] Reload Speed
+[563] Reload Speed
+[564] Elite Reload Speed. \\n \\n Increases the rate at which the unit shoots. \\n \\n Requires 10 clan tokens.
+[565] Elite Reload Speed. \\n \\n Increases the rate at which the unit shoots. \\n \\n Requires 2 points in basic Reload Speed. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[566] Legendary Reload Speed. \\n \\n Increases the rate at which the unit shoots. \\n \\n Requires 10 clan tokens.
+[567] Increased Range
+[568] Increased Range
+[569] Increased Range. \\n \\n Shot range is increased. \\n \\n Requires 20 clan tokens.
+[570] Increased Range. \\n \\n Shot range is increased. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Imperial specialism clan. \\n\\n Requires 20 clan tokens.
+[571] Reload Speed
+[572] Reload Speed
+[573] Reload Speed
+[574] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[575] Replenish Unit Between Battles. \\n \\n Any casualties suffered in a previous battle will be restored before the next battle. \\n \\n Requires 10 clan tokens.
+[576] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[577] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[578] Greatly Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[579] Replenish Unit
+[580] Replenish unit
+[581] Increased Range
+[582] Increased Range
+[583] Inspire Ability. \\n \\n When activated, allows the unit to boost the morale, melee attack and accuracy of a single unit. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a Shogunate specialism clan.
+[584] Inspire Ability. \\n \\n When activated, allows the unit to boost the morale, melee attack and accuracy of a single unit. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a Shogunate specialism clan.
+[585] Greatly Improved Speed. \\n \\n Increases the unit's movement speed.
+[586] Improved Speed. \\n \\n Increases the unit's movement speed.
+[587] Improved Speed. \\n \\n Increases the unit's movement speed.
+[588] Greatly Increased Bow Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased. \\n \\n Requires 10 clan tokens.
+[589] Greatly Increased Bow Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased. \\n \\n Requires 1 point in basic Bow Damage. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[590] Missile Damage
+[591] Missile Damage
+[592] Missile Damage
+[593] Improved Armour. \\n \\n Increases defence against both melee and missile attacks. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[594] Improved Armour. \\n \\n Increases defence against both melee and missile attacks. \\n \\n Requires 10 clan tokens.
+[595] Fire Arrows
+[596] Fire Arrows
+[597] Increased Projectile Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[598] Increased Projectile Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[599] Enable Fire Arrows.  \\n \\n When activated, fire arrows increase the lethality of this unit's shots and can also ignite wooden buildings. \\n \\n Requires 10 clan tokens.

@@ -1,0 +1,5 @@
+[200] \n Anh hùng Naginata Warrior Monk: %+n giáp. \n \n "Tajima... vung naginata xoay tít chém tan những [arrows]... đến mức cả kẻ địch cũng phải khâm phục."
+[201] \n Khoảng cách để địch phát hiện đơn vị ẩn nấp chịu phạt %n%%. \n \n Trái tim tĩnh lặng không đập dồn dập như trống trận.
+[202] \n Giảm kháng mệt mỏi của mọi bộ binh cận chiến địch. \n \n Lương thực nuôi dưỡng cả tinh thần lẫn thể xác.
+[203] \n Tốc độ di chuyển Tosa Riflemen, Yugekitai & Sharpshooter: %+n%%. \n \n "Chạy nhanh lên, binh sĩ!"
+[204] \n Sword Attendants: %+n tấn công cận chiến. \n \n Kỹ nghệ và danh dự phân biệt chiến binh nơi chiến trường với nông dân nơi ruộng lúa.

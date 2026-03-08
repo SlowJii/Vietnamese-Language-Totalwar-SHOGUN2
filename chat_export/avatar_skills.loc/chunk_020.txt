@@ -1,0 +1,83 @@
+=== CHUNK 20/21 — avatar_skills.loc.tsv ===
+(Dịch 80 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[1520] Up to three units in a key building's radius will combine to speed the rate of capture. \\n \\n Requires: Double Time (infantry)
+[1521] Up to three units in a key building's radius will combine to speed the rate of capture. \\n \\n Requires: Double Time (infantry)
+[1522] Armour
+[1523] Armour
+[1524] Co-operative Capture
+[1525] Co-operative Capture
+[1526] Scare Nearby Enemies. \\n \\n Enemies close to the unit will suffer a morale penalty. \\n \\n This effect is always active. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a sword specialism clan.
+[1527] Scare Nearby Enemies. \\n \\n Enemies close to the unit will suffer a morale penalty. \\n \\n This effect is always active. \\n \\n Unit level requirement: level 9. \\n \\n Requires 20 clan tokens, 8 other skills to have been selected and membership of a sword specialism clan.
+[1528] Scare Nearby Enemies. \\n \\n Enemies close to your avatar will suffer a morale penalty. \\n \\n This effect is always active. \\n
+[1529] Scare Nearby Enemies. \\n \\n Enemies close to your avatar will suffer a morale penalty. \\n \\n This effect is always active. \\n
+[1530] Scare Nearby Enemies. \\n \\n Enemies close to your avatar will suffer an even greater morale penalty. \\n \\n This effect is always active. \\n
+[1531] Greatly improved Armour. \\n \\n Increases the defence of your avatar and his bodyguard against both melee and missile attacks. \\n \\n Requires: 1 point in Armour \\n
+[1532] Improved Armour. \\n \\n Increases the defence of your avatar and his bodyguard against both melee and missile attacks. \\n \\n Requires: 2 points in Melee Defence \\n
+[1533] Improved Armour. \\n \\n Increases the defence of your avatar and his bodyguard against both melee and missile attacks. \\n \\n Requires: 2 points in Melee Defence \\n
+[1534] Scare Enemies
+[1535] Scare Enemies
+[1536] Scare Enemies
+[1537] Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[1538] Improved Charge Bonus. \\n \\n Increases the melee bonus received by the unit when charging an enemy.
+[1539] Enemy Spotting
+[1540] Enemy Spotting
+[1541] Speed
+[1542] Fatigue Resistance
+[1543] Speed
+[1544] Fatigue Resistance
+[1545] Fatigue Resistance
+[1546] Morale
+[1547] Morale
+[1548] Rally
+[1549] Rally
+[1550] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle.
+[1551] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle.
+[1552] Greatly Improved Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. 
+[1553] Improved Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. 
+[1554] Improved Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. 
+[1555] Greatly Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1556] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1557] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1558] Charge
+[1559] Charge
+[1560] Charge
+[1561] Greatly Increased Fatigue Resistance. \\n \\n Reduces the rate at which your avatar and his bodyguard become fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. \\n
+[1562] Enable Stand & Fight ability. \\n \\n When activated, your avatar will dismount to encourage units near to him, boosting their morale, melee attack and reload speed. \\n \\n The ability will remain active until cancelled. \\n \\n Your avatar is unable to move whilst Stand & Fight is active. \\n
+[1563] Elite Fatigue Resistance. \\n \\n Reduces the rate at which your avatar and his bodyguard become fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. \\n
+[1564] Enable Stand & Fight ability. \\n \\n When activated, your avatar will dismount to encourage units near to him, boosting their morale, melee attack and reload speed. \\n \\n The ability will remain active until cancelled. \\n \\n Your avatar is unable to move whilst Stand & Fight is active. \\n
+[1565] Increased Fatigue Resistance. \\n \\n Reduces the rate at which your avatar and his bodyguard become fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. \\n \\n Requires 1 point in Speed skill. \\n
+[1566] Increased Fatigue Resistance. \\n \\n Reduces the rate at which your avatar and his bodyguard become fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability.  \\n \\n Requires 1 point in Speed skill. \\n
+[1567] Missile Damage
+[1568] Missile Damage
+[1569] Kneel Fire Ability. \\n \\n Unlocks the Kneel Fire ability, which greatly increases the units' rate of fire. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Imperial specialism clan. \\n \\n Requires 20 clan tokens.
+[1570] Kneel Fire Ability. \\n \\n Unlocks the Kneel Fire ability, which greatly increases the units' rate of fire. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Imperial specialism clan. \\n \\n Requires 20 clan tokens.
+[1571] Avatar gains the Banzai ability. When utilised, this ability gives the avatar's bodyguard unit a 20 second boost to morale and attack. \\n \\n Requires: 2 points in Melee Attack \\n
+[1572] Avatar gains the Banzai ability. When utilised, this ability gives the avatar's bodyguard unit a 20 second boost to morale and attack. \\n \\n Requires: 2 points in Melee Attack \\n
+[1573] Kneel Fire
+[1574] Kneel Fire
+[1575] Reload Speed
+[1576] Reload Speed
+[1577] Reload Speed
+[1578] Melee Defence
+[1579] Melee Defence
+[1580] Improved Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. 
+[1581] Improved Melee Defence. \\n \\n Increases the unit's skill in defending against melee attacks. 
+[1582] Bow Damage
+[1583] Bow Damage
+[1584] Elite Accuracy \\n \\n The unit fires with greater accuracy. \\n \\n Requires 2 points in basic Accuracy. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1585] Elite Accuracy \\n \\n The unit fires with greater accuracy. \\n \\n Requires 10 clan tokens.
+[1586] Reload Speed
+[1587] Reload Speed
+[1588] Reload Speed
+[1589] Morale
+[1590] Morale
+[1591] Morale
+[1592] Enable Whistling Arrows. \\n \\n When activated, whistling arrows reduce the morale, melee attack and reload speed of enemy units targeted by them. \\n
+[1593] Enable Whistling Arrows. \\n \\n When activated, whistling arrows reduce the morale, melee attack and reload speed of enemy units targeted by them. \\n
+[1594] Speed
+[1595] Speed
+[1596] Speed
+[1597] Bow Damage
+[1598] Bow Damage
+[1599] Enable Stand and Fight Ability. \\n \\n When activated, your avatar will dismount to encourage units near to him, boosting their morale, melee attack and reload speed. \\n \\n The ability will remain active until cancelled. \\n \\n Your avatar is unable to move whilst Stand and Fight is active. \\n \\n Requires 2 points in Inspire skill. \\n

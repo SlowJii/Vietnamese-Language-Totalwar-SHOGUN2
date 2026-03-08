@@ -1,0 +1,324 @@
+{
+  "filename": "avatar_dojo_chains.loc.tsv",
+  "category": "ui",
+  "header_lines": [
+    "key\ttext\ttooltip",
+    "#Loc;1;text/db/avatar_dojo_chains.loc\t\t"
+  ],
+  "rows": [
+    {
+      "key": "avatar_dojo_chains_recruitment_requirement_description_sword",
+      "text": "To unlock this unit, you must have explored %n provinces containing a Sword School on the conquest map.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_recruitment_requirement_description_spear",
+      "text": "To unlock this unit, you must have explored %n provinces containing a Yari Drill Yard on the conquest map.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_onscreen_name_artillery",
+      "text": "Artillery Workshop",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_recruitment_requirement_description_naval_emporium",
+      "text": "To unlock this unit, you must have explored %n provinces containing a Naval Emporium on the conquest map.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_recruitment_requirement_description_siege",
+      "text": "To unlock this unit, you must have explored %n provinces containing a Workshop on the conquest map.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_onscreen_name_shogunate_barrack",
+      "text": "Shogunate Barracks",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_onscreen_name_shogunate_armoury",
+      "text": "Shogunate Armoury",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_onscreen_name_port",
+      "text": "Military Port",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_recruitment_requirement_description_bow",
+      "text": "To unlock this unit, you must have explored %n provinces containing an Archery Dojo on the conquest map.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_recruitment_requirement_description_dock",
+      "text": "To unlock this unit, you must have explored %n provinces containing a Military Dock on the conquest map.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_onscreen_name_gun",
+      "text": "Teppo Range",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_onscreen_name_bow",
+      "text": "Archery Dojo",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_onscreen_name_dock",
+      "text": "Military Dock",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_recruitment_requirement_description_port",
+      "text": "To unlock this unit, you must have explored %n provinces containing a Military Port on the conquest map.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_recruitment_requirement_description_gun",
+      "text": "To unlock this unit, you must have explored %n provinces containing a Teppo Range on the conquest map.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_onscreen_name_imperial_armoury",
+      "text": "Imperial Armoury",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_onscreen_name_temple",
+      "text": "Buddhist Temple",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_recruitment_requirement_description_stealth",
+      "text": "To unlock this unit, you must have explored %n provinces containing a Sake Den on the conquest map.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_onscreen_name_cavalry",
+      "text": "Stables",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_recruitment_requirement_description_emporium",
+      "text": "To unlock this unit, you must have explored %n provinces containing an Emporium on the conquest map.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_onscreen_name_naval_emporium",
+      "text": "Naval Emporium",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_onscreen_name_emporium",
+      "text": "Emporium",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_recruitment_requirement_description_cavalry",
+      "text": "To unlock this unit, you must have explored %n provinces containing a Stables on the conquest map.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_recruitment_requirement_description_imperial_armoury",
+      "text": "To unlock this unit, you must have explored %n provinces containing an Imperial Armoury on the conquest map.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_onscreen_name_stealth",
+      "text": "Sake Den",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_recruitment_requirement_description_shogunate_barrack",
+      "text": "To unlock this unit, you must have explored %n provinces containing a Shogunate Barracks on the conquest map.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_recruitment_requirement_description_shogunate_armoury",
+      "text": "To unlock this unit, you must have explored %n provinces containing a Shogunate Armoury on the conquest map.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_onscreen_name_spear",
+      "text": "Yari Drill Yard",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_recruitment_requirement_description_artillery",
+      "text": "To unlock this unit, you must have explored %n provinces containing an Artillery Workshop on the conquest map.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_onscreen_name_siege",
+      "text": "Workshop",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_dojo_chains_onscreen_name_sword",
+      "text": "Sword School",
+      "tooltip": "true",
+      "empty": false
+    }
+  ],
+  "translatable": [
+    {
+      "row_index": 0,
+      "text": "To unlock this unit, you must have explored %n provinces containing a Sword School on the conquest map."
+    },
+    {
+      "row_index": 1,
+      "text": "To unlock this unit, you must have explored %n provinces containing a Yari Drill Yard on the conquest map."
+    },
+    {
+      "row_index": 2,
+      "text": "Artillery Workshop"
+    },
+    {
+      "row_index": 3,
+      "text": "To unlock this unit, you must have explored %n provinces containing a Naval Emporium on the conquest map."
+    },
+    {
+      "row_index": 4,
+      "text": "To unlock this unit, you must have explored %n provinces containing a Workshop on the conquest map."
+    },
+    {
+      "row_index": 5,
+      "text": "Shogunate Barracks"
+    },
+    {
+      "row_index": 6,
+      "text": "Shogunate Armoury"
+    },
+    {
+      "row_index": 7,
+      "text": "Military Port"
+    },
+    {
+      "row_index": 8,
+      "text": "To unlock this unit, you must have explored %n provinces containing an Archery Dojo on the conquest map."
+    },
+    {
+      "row_index": 9,
+      "text": "To unlock this unit, you must have explored %n provinces containing a Military Dock on the conquest map."
+    },
+    {
+      "row_index": 10,
+      "text": "Teppo Range"
+    },
+    {
+      "row_index": 11,
+      "text": "Archery Dojo"
+    },
+    {
+      "row_index": 12,
+      "text": "Military Dock"
+    },
+    {
+      "row_index": 13,
+      "text": "To unlock this unit, you must have explored %n provinces containing a Military Port on the conquest map."
+    },
+    {
+      "row_index": 14,
+      "text": "To unlock this unit, you must have explored %n provinces containing a Teppo Range on the conquest map."
+    },
+    {
+      "row_index": 15,
+      "text": "Imperial Armoury"
+    },
+    {
+      "row_index": 16,
+      "text": "Buddhist Temple"
+    },
+    {
+      "row_index": 17,
+      "text": "To unlock this unit, you must have explored %n provinces containing a Sake Den on the conquest map."
+    },
+    {
+      "row_index": 18,
+      "text": "Stables"
+    },
+    {
+      "row_index": 19,
+      "text": "To unlock this unit, you must have explored %n provinces containing an Emporium on the conquest map."
+    },
+    {
+      "row_index": 20,
+      "text": "Naval Emporium"
+    },
+    {
+      "row_index": 21,
+      "text": "Emporium"
+    },
+    {
+      "row_index": 22,
+      "text": "To unlock this unit, you must have explored %n provinces containing a Stables on the conquest map."
+    },
+    {
+      "row_index": 23,
+      "text": "To unlock this unit, you must have explored %n provinces containing an Imperial Armoury on the conquest map."
+    },
+    {
+      "row_index": 24,
+      "text": "Sake Den"
+    },
+    {
+      "row_index": 25,
+      "text": "To unlock this unit, you must have explored %n provinces containing a Shogunate Barracks on the conquest map."
+    },
+    {
+      "row_index": 26,
+      "text": "To unlock this unit, you must have explored %n provinces containing a Shogunate Armoury on the conquest map."
+    },
+    {
+      "row_index": 27,
+      "text": "Yari Drill Yard"
+    },
+    {
+      "row_index": 28,
+      "text": "To unlock this unit, you must have explored %n provinces containing an Artillery Workshop on the conquest map."
+    },
+    {
+      "row_index": 29,
+      "text": "Workshop"
+    },
+    {
+      "row_index": 30,
+      "text": "Sword School"
+    }
+  ],
+  "total_chunks": 1,
+  "chunk_size": 100
+}

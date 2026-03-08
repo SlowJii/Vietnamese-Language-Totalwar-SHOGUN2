@@ -1,0 +1,2 @@
+# Dán response từ Gemini chat vào đây (xóa dòng này)
+# File: avatar_skills.loc.tsv — Chunk 13/21

@@ -1,0 +1,664 @@
+{
+  "filename": "avatar_ancillaries_localised_source_lookups.loc.tsv",
+  "category": "ui",
+  "header_lines": [
+    "key\ttext\ttooltip",
+    "#Loc;1;text/db/avatar_ancillaries_localised_source_lookups.loc\t\t"
+  ],
+  "rows": [
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_sparse_point_laced",
+      "text": "Complete armour set: Sparse Point Laced",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_clan_spear",
+      "text": "Become a member of a clan specialising in spear infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_toyotomi_hideyoshi",
+      "text": "Complete armour set: Toyotomi Hideyoshi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_bosh_clan_shogunate",
+      "text": "Become a member of a clan specialising in modern Shogunate units.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_clan_sword",
+      "text": "Become a member of a clan specialising in sword infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_clan_horse",
+      "text": "Become a member of a clan specialising in cavalry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_silver_scale_cuirass",
+      "text": "Complete armour set: Silver Scale Cuirass",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_golden_scale_cuirass",
+      "text": "Complete armour set: Golden Scale Cuirass",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_dojo_sword",
+      "text": "Source: Sword School building chain",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_bosh_clan_imperial",
+      "text": "Become a member of a clan specialising in modern Imperial units.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_winner_mon",
+      "text": "Your clan must win tier 1 to unlock this mon.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_dojo_gun",
+      "text": "Source: Teppo Range building chain",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_blade_master",
+      "text": "Complete armour set: Blade Master",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_oda_nobunaga",
+      "text": "Complete armour set: Oda Nobunaga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_placeholder",
+      "text": "placeholder",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_multicolour_laced",
+      "text": "Complete armour set: Multicolour Laced",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_clan_bow",
+      "text": "Become a member of a clan specialising in bow infantry",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_itakura_katsushiga",
+      "text": "Complete armour set: Itakura Katsushiga",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_starting",
+      "text": "Your avatar starts the game with this retainer.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_gempei_mon",
+      "text": "You must own the Rise of the Samurai DLC in order to use this mon.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_campaign",
+      "text": "Source: Avatar conquest map region",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_gempei_battle_drop",
+      "text": "Source: Random post-battle drop \\\\n \\\\n You must own the Rise of the Samurai DLC in order to use this retainer.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_maeda_toshiw",
+      "text": "Complete armour set: Maeda Toshie",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_catfish_tail",
+      "text": "Complete armour set: Catfish Tail",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_achievement_shogun",
+      "text": "Complete achievement: Shogun",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_dojo_bow",
+      "text": "Source: Archery Dojo building chain",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_ichinotani",
+      "text": "Complete armour set: Ichinotani",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_bosh_late_samurai_2",
+      "text": "Complete armour set: Late Samurai Uniform 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_bosh_late_samurai_3",
+      "text": "Complete armour set: Late Samurai Uniform 3",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_bosh_late_samurai_1",
+      "text": "Complete armour set: Late Samurai Uniform 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_ikko_ikki",
+      "text": "You must own the Ikko-Ikki DLC in order to use this retainer.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_bosh_shinsengumi_2",
+      "text": "Complete armour set: Shinsengumi Uniform 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_bosh_shinsengumi_1",
+      "text": "Complete armour set: Shinsengumi Uniform 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_bosh_british_1",
+      "text": "Complete armour set: British Uniform",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_hosokawa_tadakoi",
+      "text": "Complete armour set: Hosokawa Tadakoi",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_dojo_cavalry",
+      "text": "Source: Stables building chain",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_dojo_workshop",
+      "text": "Source: Workshop building chain",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_uesugi_kenshin",
+      "text": "Complete armour set: Uesugi Kenshin",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_western_style",
+      "text": "Complete armour set: Western Style",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_morning_glory",
+      "text": "Complete armour set: Morning Glory",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_robes_of_the_ikko_ikki",
+      "text": "Complete armour set: Robes of the Ikko Ikki",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_battle",
+      "text": "Source: Random post-battle drop",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_ikko_ikki_battle_drop",
+      "text": "Source: Random post-battle drop \\\\n \\\\n You must own the Ikko-Ikki DLC in order to use this retainer.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_dojo_stealth",
+      "text": "Source: Sake Den building chain",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_promotion_mon",
+      "text": "Your clan must achieve promotion to unlock this mon.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_tokugawa_ieyasu",
+      "text": "Complete armour set: Tokugawa Ieyasu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_bosh_french_1",
+      "text": "Complete armour set: French Uniform",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_gempei",
+      "text": "You must own the Rise of the Samurai DLC in order to use this retainer.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_bosh_officer_2",
+      "text": "Complete armour set: Officer Uniform 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_bosh_officer_1",
+      "text": "Complete armour set: Officer Uniform 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_bosh_modern_4",
+      "text": "Complete armour set: Modern Uniform 4",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_bosh_modern_2",
+      "text": "Complete armour set: Modern Uniform 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_bosh_modern_3",
+      "text": "Complete armour set: Modern Uniform 3",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_goldfish_scale",
+      "text": "Complete armour set: Goldfish Scale",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_scale_cuirass",
+      "text": "Complete armour set: Scale Cuirass",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_naoe_kanetsugu",
+      "text": "Complete armour set: Naoe Kanetsugu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_kato_kiyomasa",
+      "text": "Complete armour set: Kato Kiyomasa",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_honda_tadakatsu",
+      "text": "Complete armour set: Honda Tadakatsu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_bosh_american_1",
+      "text": "Complete armour set: American Uniform 1",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_bosh_american_2",
+      "text": "Complete armour set: American Uniform 2",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_kawari_kabuto",
+      "text": "Complete armour set: Kawari Kabuto",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_triple_hollyhock",
+      "text": "Complete armour set: Triple Hollyhock",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_date_masamune",
+      "text": "Complete armour set: Date Masamune",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_armour_akechi_mitsuharu",
+      "text": "Complete armour set: Akechi Mitsuharu",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_ancillaries_localised_source_lookups_localised_source_text_promotion_tier_1_mon",
+      "text": "Your clan must achieve promotion to tier 1 to unlock this mon.",
+      "tooltip": "true",
+      "empty": false
+    }
+  ],
+  "translatable": [
+    {
+      "row_index": 0,
+      "text": "Complete armour set: Sparse Point Laced"
+    },
+    {
+      "row_index": 1,
+      "text": "Become a member of a clan specialising in spear infantry"
+    },
+    {
+      "row_index": 2,
+      "text": "Complete armour set: Toyotomi Hideyoshi"
+    },
+    {
+      "row_index": 3,
+      "text": "Become a member of a clan specialising in modern Shogunate units."
+    },
+    {
+      "row_index": 4,
+      "text": "Become a member of a clan specialising in sword infantry"
+    },
+    {
+      "row_index": 5,
+      "text": "Become a member of a clan specialising in cavalry"
+    },
+    {
+      "row_index": 6,
+      "text": "Complete armour set: Silver Scale Cuirass"
+    },
+    {
+      "row_index": 7,
+      "text": "Complete armour set: Golden Scale Cuirass"
+    },
+    {
+      "row_index": 8,
+      "text": "Source: Sword School building chain"
+    },
+    {
+      "row_index": 9,
+      "text": "Become a member of a clan specialising in modern Imperial units."
+    },
+    {
+      "row_index": 10,
+      "text": "Your clan must win tier 1 to unlock this mon."
+    },
+    {
+      "row_index": 11,
+      "text": "Source: Teppo Range building chain"
+    },
+    {
+      "row_index": 12,
+      "text": "Complete armour set: Blade Master"
+    },
+    {
+      "row_index": 13,
+      "text": "Complete armour set: Oda Nobunaga"
+    },
+    {
+      "row_index": 14,
+      "text": "placeholder"
+    },
+    {
+      "row_index": 15,
+      "text": "Complete armour set: Multicolour Laced"
+    },
+    {
+      "row_index": 16,
+      "text": "Become a member of a clan specialising in bow infantry"
+    },
+    {
+      "row_index": 17,
+      "text": "Complete armour set: Itakura Katsushiga"
+    },
+    {
+      "row_index": 18,
+      "text": "Your avatar starts the game with this retainer."
+    },
+    {
+      "row_index": 19,
+      "text": "You must own the Rise of the Samurai DLC in order to use this mon."
+    },
+    {
+      "row_index": 20,
+      "text": "Source: Avatar conquest map region"
+    },
+    {
+      "row_index": 21,
+      "text": "Source: Random post-battle drop \\\\n \\\\n You must own the Rise of the Samurai DLC in order to use this retainer."
+    },
+    {
+      "row_index": 22,
+      "text": "Complete armour set: Maeda Toshie"
+    },
+    {
+      "row_index": 23,
+      "text": "Complete armour set: Catfish Tail"
+    },
+    {
+      "row_index": 24,
+      "text": "Complete achievement: Shogun"
+    },
+    {
+      "row_index": 25,
+      "text": "Source: Archery Dojo building chain"
+    },
+    {
+      "row_index": 26,
+      "text": "Complete armour set: Ichinotani"
+    },
+    {
+      "row_index": 27,
+      "text": "Complete armour set: Late Samurai Uniform 2"
+    },
+    {
+      "row_index": 28,
+      "text": "Complete armour set: Late Samurai Uniform 3"
+    },
+    {
+      "row_index": 29,
+      "text": "Complete armour set: Late Samurai Uniform 1"
+    },
+    {
+      "row_index": 30,
+      "text": "You must own the Ikko-Ikki DLC in order to use this retainer."
+    },
+    {
+      "row_index": 31,
+      "text": "Complete armour set: Shinsengumi Uniform 2"
+    },
+    {
+      "row_index": 32,
+      "text": "Complete armour set: Shinsengumi Uniform 1"
+    },
+    {
+      "row_index": 33,
+      "text": "Complete armour set: British Uniform"
+    },
+    {
+      "row_index": 34,
+      "text": "Complete armour set: Hosokawa Tadakoi"
+    },
+    {
+      "row_index": 35,
+      "text": "Source: Stables building chain"
+    },
+    {
+      "row_index": 36,
+      "text": "Source: Workshop building chain"
+    },
+    {
+      "row_index": 37,
+      "text": "Complete armour set: Uesugi Kenshin"
+    },
+    {
+      "row_index": 38,
+      "text": "Complete armour set: Western Style"
+    },
+    {
+      "row_index": 39,
+      "text": "Complete armour set: Morning Glory"
+    },
+    {
+      "row_index": 40,
+      "text": "Complete armour set: Robes of the Ikko Ikki"
+    },
+    {
+      "row_index": 41,
+      "text": "Source: Random post-battle drop"
+    },
+    {
+      "row_index": 42,
+      "text": "Source: Random post-battle drop \\\\n \\\\n You must own the Ikko-Ikki DLC in order to use this retainer."
+    },
+    {
+      "row_index": 43,
+      "text": "Source: Sake Den building chain"
+    },
+    {
+      "row_index": 44,
+      "text": "Your clan must achieve promotion to unlock this mon."
+    },
+    {
+      "row_index": 45,
+      "text": "Complete armour set: Tokugawa Ieyasu"
+    },
+    {
+      "row_index": 46,
+      "text": "Complete armour set: French Uniform"
+    },
+    {
+      "row_index": 47,
+      "text": "You must own the Rise of the Samurai DLC in order to use this retainer."
+    },
+    {
+      "row_index": 48,
+      "text": "Complete armour set: Officer Uniform 1"
+    },
+    {
+      "row_index": 49,
+      "text": "Complete armour set: Officer Uniform 1"
+    },
+    {
+      "row_index": 50,
+      "text": "Complete armour set: Modern Uniform 4"
+    },
+    {
+      "row_index": 51,
+      "text": "Complete armour set: Modern Uniform 2"
+    },
+    {
+      "row_index": 52,
+      "text": "Complete armour set: Modern Uniform 3"
+    },
+    {
+      "row_index": 53,
+      "text": "Complete armour set: Goldfish Scale"
+    },
+    {
+      "row_index": 54,
+      "text": "Complete armour set: Scale Cuirass"
+    },
+    {
+      "row_index": 55,
+      "text": "Complete armour set: Naoe Kanetsugu"
+    },
+    {
+      "row_index": 56,
+      "text": "Complete armour set: Kato Kiyomasa"
+    },
+    {
+      "row_index": 57,
+      "text": "Complete armour set: Honda Tadakatsu"
+    },
+    {
+      "row_index": 58,
+      "text": "Complete armour set: American Uniform 1"
+    },
+    {
+      "row_index": 59,
+      "text": "Complete armour set: American Uniform 2"
+    },
+    {
+      "row_index": 60,
+      "text": "Complete armour set: Kawari Kabuto"
+    },
+    {
+      "row_index": 61,
+      "text": "Complete armour set: Triple Hollyhock"
+    },
+    {
+      "row_index": 62,
+      "text": "Complete armour set: Date Masamune"
+    },
+    {
+      "row_index": 63,
+      "text": "Complete armour set: Akechi Mitsuharu"
+    },
+    {
+      "row_index": 64,
+      "text": "Your clan must achieve promotion to tier 1 to unlock this mon."
+    }
+  ],
+  "total_chunks": 1,
+  "chunk_size": 100
+}

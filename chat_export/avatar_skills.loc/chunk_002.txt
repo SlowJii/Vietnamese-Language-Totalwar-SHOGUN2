@@ -1,0 +1,103 @@
+=== CHUNK 2/17 — avatar_skills.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[100] Stealth
+[101] Stealth
+[102] Increases the speed at which key buildings will be captured in naval battles. \\n \\n Requires: Naval Speed \\n
+[103] Increases the speed at which key buildings will be captured in naval battles. \\n \\n Requires: Naval Speed \\n
+[104] Greatly increases the speed at which key buildings will be captured in naval battles. \\n \\n Requires: 1 point in Rapid Capture (naval) \\n
+[105] Accuracy
+[106] Accuracy
+[107] Accuracy
+[108] Increased Bow Damage. \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[109] Increased Bow Damage \\n \\n The amount of damage inflicted by this unit's missiles is increased.
+[110] Greatly Improved Speed. \\n \\n Increases the unit's movement speed.
+[111] Improved Speed. \\n \\n Increases the unit's movement speed.
+[112] Improved Speed. \\n \\n Increases the unit's movement speed.
+[113] Extra Ammunition
+[114] Extra Ammunition
+[115] Kisho Training
+[116] Kisho Training
+[117] Elite Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. \\n \\n Requires 10 clan tokens.
+[118] Elite Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. \\n \\n Requires 2 points in basic Fatigue Resistance. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[119] Hold Firm
+[120] Hold Firm
+[121] Extra Ammunition
+[122] Extra Ammunition
+[123] Enables your avatar and his bodyguard to shoot guns from horseback. \\n
+[124] Enables your avatar and his bodyguard to shoot guns from horseback. \\n
+[125] Enable Bow
+[126] Enable Bow
+[127] Increased Ammunition. \\n \\n The men of this unit carry significantly more firebombs than usual for this unit type. \\n \\n Requires 10 clan tokens.
+[128] Increased Ammunition. \\n \\n The men of this unit carry significantly more firebombs than usual for this unit type. \\n \\n Requires 1 point in basic Extra Ammunition. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[129] Morale
+[130] Morale
+[131] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Requires 20 clan tokens.
+[132] Improved Morale. \\n \\n Units with high morale are less likely to rout in battle. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Imperial specialism clan. \\n \\n Requires 20 clan tokens.
+[133] Fatigue Resistance
+[134] Fatigue Resistance
+[135] Fatigue Resistance
+[136] Fatigue Resistance
+[137] Accuracy
+[138] Accuracy
+[139] Accuracy \\n (naval)
+[140] Accuracy \\n (naval)
+[141] Accuracy \\n (naval)
+[142] All of your non-gunpowder units receive a morale bonus. \\n
+[143] All of your non-gunpowder units receive a morale bonus. \\n
+[144] Improved Enemy Spotting. \\n \\n The range at which this unit spot hidden enemies is increased.
+[145] Improved Enemy Spotting. \\n \\n The range at which this unit spot hidden enemies is increased.
+[146] Charge Bonus
+[147] Charge Bonus
+[148] Charge Bonus
+[149] Armour
+[150] Armour
+[151] Increased Range
+[152] Increased Range
+[153] Rally
+[154] Rally
+[155] Greatly Improved Speed. \\n \\n Increases the unit's movement speed.
+[156] Improved Speed. \\n \\n Increases the unit's movement speed.
+[157] Improved Speed. \\n \\n Increases the unit's movement speed.
+[158] Increases the radius of the aura from all elite units. \\n \\n Requires: Rally \\n
+[159] Increases the radius of the aura from all elite units. \\n \\n Requires: Rally \\n
+[160] Increases the potency of the aura from all elite units. \\n \\n Requires: Rally \\n
+[161] Second in Command
+[162] Second in Command
+[163] Second in Command
+[164] Replenish Unit
+[165] Replenish Unit
+[166] Inspire Ability
+[167] Inspire Ability
+[168] Legendary Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n\\n Requires 20 clan tokens.
+[169] Legendary Reload Speed. \\n \\n Increases the rate at which the unit fires. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Requires 20 clan tokens.
+[170] Extra Ammunition
+[171] Extra Ammunition
+[172] Cavalry Capture
+[173] Cavalry Capture
+[174] Blinding Grenades
+[175] Blinding Grenades
+[176] Second Wind
+[177] Second Wind
+[178] Increased Range. \\n \\n Shot range is increased.
+[179] Increased Range. \\n \\n Shot range is increased.
+[180] Accuracy
+[181] Extra Ammunition
+[182] Accuracy
+[183] Extra Ammunition
+[184] Accuracy
+[185] Extra Ammunition
+[186] Gun Instructor
+[187] Gun Instructor
+[188] Improved Enemy Spotting. \\n \\n The range at which this unit spot hidden enemies is increased.
+[189] Improved Enemy Spotting. \\n \\n The range at which this unit spot hidden enemies is increased.
+[190] Suppressive Fire Ability. \\n Unlocks the Suppressive Fire ability.
+[191] Suppressive Fire Ability. \\n Unlocks the Suppressive Fire ability.
+[192] Speed
+[193] Speed
+[194] No Penalty Against Spears
+[195] No Penalty Against Spears
+[196] Speed
+[197] Speed
+[198] Speed
+[199] Increased Ammunition. \\n \\n The men of this unit carry significantly more arrows than usual for this unit type.

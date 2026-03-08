@@ -1,0 +1,103 @@
+=== CHUNK 12/17 — avatar_skills.loc.tsv ===
+(Dịch 100 dòng sau sang tiếng Việt theo quy tắc đã hướng dẫn)
+
+[1100] Accuracy
+[1101] Speed
+[1102] Accuracy
+[1103] Second Wind
+[1104] Accuracy
+[1105] Second Wind
+[1106] Speed
+[1107] Accuracy
+[1108] Accuracy
+[1109] Accuracy
+[1110] Scare Enemies
+[1111] Scare Enemies
+[1112] Elite Melee Attack. \\n \\n Increases the melee attack skill of the unit. \\n \\n Requires 2 points in basic Melee Attack. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1113] Elite Melee Attack. \\n \\n Increases the melee attack skill of the unit. \\n \\n Requires 10 clan tokens.
+[1114] Legendary Melee Attack. \\n \\n Increases the melee attack skill of the unit. \\n \\n Requires 10 clan tokens.
+[1115] Increased Range
+[1116] Increased Range
+[1117] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1118] Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1119] Greatly Improved Reload Speed. \\n \\n Increases the rate at which the unit fires.
+[1120] Charge Bonus
+[1121] Charge Bonus
+[1122] Increased Army Morale
+[1123] Increased Army Morale
+[1124] Increased Army Morale
+[1125] Bombardment
+[1126] Bombardment
+[1127] Extra Ammunition
+[1128] Extra Ammunition
+[1129] Double Time \\n (infantry)
+[1130] Double Time (infantry)
+[1131] Double Time \\n (infantry)
+[1132] Greatly reduced cooldown for Rally ability. \\n \\n When activated, the rally ability will restore routing units within your avatar's aura radius to order (shattered units are not affected). \\n \\n Units within the radius that aren't routing will receive a morale bonus whilst rally is active. \\n \\n Requires: 1 point in Rally \\n
+[1133] Greatly reduced cooldown for Rally ability. \\n \\n When activated, the rally ability will restore routing units within your avatar's aura radius to order (shattered units are not affected). \\n \\n Units within the radius that aren't routing will receive a morale bonus whilst rally is active. \\n \\n Requires: 2 points in Rally \\n
+[1134] Reduced cooldown for Rally ability. \\n \\n When activated, the rally ability will restore routing units within your avatar's aura radius to order (shattered units are not affected). \\n \\n Units within the radius that aren't routing will receive a morale bonus whilst rally is active. \\n \\n Requires: Improve Aura.
+[1135] Reduced cooldown for Rally ability. \\n \\n When activated, the rally ability will restore routing units within your avatar's aura radius to order (shattered units are not affected). \\n \\n Units within the radius that aren't routing will receive a morale bonus whilst rally is active. \\n \\n Requires: Improve Aura.
+[1136] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[1137] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[1138] Greatly Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[1139] Rally
+[1140] Rally
+[1141] Rally
+[1142] Rally
+[1143] Greatly Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[1144] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[1145] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[1146] Enemy Spotting
+[1147] Enemy Spotting
+[1148] Enemy Spotting
+[1149] Greatly increases the spotting range of all units. \\n Requires: 2 points in Scouting \\n
+[1150] Greatly increases the spotting range of all units. \\n Requires: 1 point in Scouting \\n
+[1151] Increases the spotting range of all units. \\n
+[1152] Increases the spotting range of all units. \\n
+[1153] Greatly increases the spotting range of all units. \\n Requires: 3 points in Scouting \\n
+[1154] Elite Speed. \\n \\n Increases the unit's movement speed. \\n \\n Requires 10 clan tokens.
+[1155] Elite Speed. \\n \\n Increases the unit's movement speed. \\n \\n Requires 2 points in basic Speed. \\n \\n Unit must be level 5 and have learned 4 basic skills. \\n \\n Requires 10 clan tokens.
+[1156] Increased Range
+[1157] Increased Range
+[1158] Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit.
+[1159] Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit.
+[1160] Armour Penetration
+[1161] Armour Penetration
+[1162] Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit.
+[1163] Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit. \\n \\n Requires 10 clan tokens.
+[1164] Greatly Improved Accuracy. \\n \\n The unit hurls firebombs with greater accuracy.
+[1165] Improved Accuracy. \\n \\n The unit hurls firebombs with greater accuracy.
+[1166] Improved Accuracy. \\n \\n The unit hurls firebombs with greater accuracy.
+[1167] Greatly Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit.
+[1168] Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit.
+[1169] Improved Melee Attack. \\n \\n Increases the melee attack skill of the unit.
+[1170] All of your non-gunpowder units receive a charge bonus. \\n
+[1171] All of your non-gunpowder units receive a charge bonus. \\n
+[1172] Melee Attack
+[1173] Melee Attack
+[1174] Kneel Fire Ability. \\n \\n Unlocks the Kneel Fire ability, which greatly increases the units' rate of fire. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Shogunate specialism clan. \\n \\n Requires 20 clan tokens.
+[1175] Kneel Fire Ability. \\n \\n Unlocks the Kneel Fire ability, which greatly increases the units' rate of fire. \\n \\n Unit must be level 9 and have learned 8 other skills. \\n \\n Must be member of an Shogunate specialism clan. \\n \\n Requires 20 clan tokens.
+[1176] Melee Attack
+[1177] Melee Attack
+[1178] Melee Attack
+[1179] Melee Attack
+[1180] Melee Attack
+[1181] Melee Attack
+[1182] Melee Attack
+[1183] Legendary Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[1184] Greatly Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[1185] Elite Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[1186] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[1187] Increased Fatigue Resistance. \\n \\n Reduces the rate at which the unit becomes fatigued. \\n \\n Fatigue impairs speed, morale and fighting ability. 
+[1188] Spotting Range
+[1189] Spotting Range
+[1190] Spotting Range
+[1191] Increased Bonus Versus Cavalry. \\n \\n Increases the unit's skill in melee versus cavalry.
+[1192] Increased Bonus Versus Cavalry. \\n \\n Increases the unit's skill in melee versus cavalry.
+[1193] Greatly Increased Bonus Versus Cavalry. \\n \\n Increases the unit's skill in melee versus cavalry.
+[1194] Greatly Improved Spotting Range. \\n \\n The range at which this unit spot hidden enemies is increased.
+[1195] Improved Spotting Range. \\n \\n The range at which this unit spot hidden enemies is increased.
+[1196] Improved Spotting Range. \\n \\n The range at which this unit spot hidden enemies is increased.
+[1197] Legendary Flagship Armour. \\n \\n The hull of your avatar's flagship is re-inforced to afford better protection. \\n \\n Requires: 3 points in Flagship Armour \\n
+[1198] Improved Flagship Armour. \\n \\n The hull of your avatar's flagship is re-inforced to afford better protection. \\n
+[1199] Improved Flagship Armour. \\n \\n The hull of your avatar's flagship is re-inforced to afford better protection. \\n

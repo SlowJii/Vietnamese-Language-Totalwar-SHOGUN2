@@ -1,0 +1,94 @@
+{
+  "filename": "avatar_product_lookups.loc.tsv",
+  "category": "ui",
+  "header_lines": [
+    "key\ttext\ttooltip",
+    "#Loc;1;text/db/avatar_product_lookups.loc\t\t"
+  ],
+  "rows": [
+    {
+      "key": "avatar_product_lookups_localised_string_otomo",
+      "text": "You must purchase the Otomo clan dlc in order to access this content",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_product_lookups_localised_string_unit_pack_2",
+      "text": "You must have the Saints & Heroes Unit Pack dlc installed to recruit this unit.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_product_lookups_localised_string_unit_pack_1",
+      "text": "You must have the Sengoku Jidai Unit Pack dlc installed to recruit this unit.",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_product_lookups_localised_string_shogun2",
+      "text": "blah",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_product_lookups_localised_string_common",
+      "text": "n/a",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_product_lookups_localised_string_boshin",
+      "text": "You must purchase the Fall of the Samurai dlc in order to access this content",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_product_lookups_localised_string_gempei",
+      "text": "You must purchase the Rise of the Samurai dlc in order to access this content",
+      "tooltip": "true",
+      "empty": false
+    },
+    {
+      "key": "avatar_product_lookups_localised_string_ikko_ikki",
+      "text": "You must purchase the Ikko Ikki dlc in order to access this content",
+      "tooltip": "true",
+      "empty": false
+    }
+  ],
+  "translatable": [
+    {
+      "row_index": 0,
+      "text": "You must purchase the Otomo clan dlc in order to access this content"
+    },
+    {
+      "row_index": 1,
+      "text": "You must have the Saints & Heroes Unit Pack dlc installed to recruit this unit."
+    },
+    {
+      "row_index": 2,
+      "text": "You must have the Sengoku Jidai Unit Pack dlc installed to recruit this unit."
+    },
+    {
+      "row_index": 3,
+      "text": "blah"
+    },
+    {
+      "row_index": 4,
+      "text": "n/a"
+    },
+    {
+      "row_index": 5,
+      "text": "You must purchase the Fall of the Samurai dlc in order to access this content"
+    },
+    {
+      "row_index": 6,
+      "text": "You must purchase the Rise of the Samurai dlc in order to access this content"
+    },
+    {
+      "row_index": 7,
+      "text": "You must purchase the Ikko Ikki dlc in order to access this content"
+    }
+  ],
+  "total_chunks": 1,
+  "chunk_size": 100
+}

@@ -1,0 +1,149 @@
+key	text	tooltip
+#Loc;1;text/db/avatar_ranks.loc		
+avatar_ranks_onscreen_name_avatar_rank_25	Kashira (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_24	Kashira (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_26	Kashira (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_21	Kashira (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_20	Kashira (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_23	Kashira (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_22	Kashira (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_35	Kumigashira (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_34	Kumigashira (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_36	Kumigashira (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_31	Kumigashira (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_30	Kumigashira (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_33	Kumigashira (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_32	Kumigashira (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_half2	Ashigaru (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_half3	Ashigaru (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_half0	Ashigaru (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_half1	Ashigaru (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_half6	Ashigaru (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_half4	Ashigaru (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_half5	Ashigaru (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_05	Ashigaru (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_04	Ashigaru (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_06	Ashigaru (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_01	Ashigaru (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_00	Ashigaru (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_03	Ashigaru (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_02	Ashigaru (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_15	Kogashira (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_14	Kogashira (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_16	Kogashira (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_11	Kogashira (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_10	Kogashira (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_13	Kogashira (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_12	Kogashira (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_65	Taisho (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_64	Taisho (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_66	Taisho (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_61	Taisho (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_60	Taisho (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_63	Taisho (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_62	Taisho (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_75	Bugyo (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_74	Bugyo (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_76	Bugyo (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_71	Bugyo (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_70	Bugyo (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_73	Bugyo (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_72	Bugyo (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_45	Gokenin (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_44	Gokenin (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_46	Gokenin (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_41	Gokenin (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_40	Gokenin (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_43	Gokenin (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_42	Gokenin (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_55	Hatamoto (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_54	Hatamoto (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_56	Hatamoto (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_51	Hatamoto (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_50	Hatamoto (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_53	Hatamoto (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_52	Hatamoto (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_85	Sobugyo (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_84	Sobugyo (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_86	Sobugyo (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_81	Sobugyo (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_80	Sobugyo (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_83	Sobugyo (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_82	Sobugyo (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_95	Daimyo (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_94	Daimyo (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_96	Daimyo (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_91	Daimyo (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_90	Daimyo (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_93	Daimyo (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_92	Daimyo (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_101	Hatamoto (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_100	Hatamoto (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_103	Hatamoto (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_102	Hatamoto (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_105	Hatamoto (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_104	Hatamoto (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_106	Hatamoto (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_1_half1	Kogashira (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_2_half1	Kashira (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_3_half1	Kumigashira (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_4_half1	Gokenin (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_5_half1	Hatamoto (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_6_half1	Taisho (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_7_half1	Bugyo (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_8_half1	Sobugyo (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_9_half1	Daimyo (Bạc)	true
+avatar_ranks_onscreen_name_avatar_rank_1_half0	Kogashira (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_2_half0	Kashira (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_3_half0	Kumigashira (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_4_half0	Gokenin (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_5_half0	Hatamoto (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_6_half0	Taisho (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_7_half0	Bugyo (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_8_half0	Sobugyo (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_9_half0	Daimyo (Đồng)	true
+avatar_ranks_onscreen_name_avatar_rank_1_half3	Kogashira (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_2_half3	Kashira (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_3_half3	Kumigashira (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_4_half3	Gokenin (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_5_half3	Hatamoto (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_6_half3	Taisho (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_7_half3	Bugyo (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_8_half3	Sobugyo (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_9_half3	Daimyo (Lục Bảo)	true
+avatar_ranks_onscreen_name_avatar_rank_1_half2	Kogashira (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_2_half2	Kashira (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_3_half2	Kumigashira (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_4_half2	Gokenin (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_5_half2	Hatamoto (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_6_half2	Taisho (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_7_half2	Bugyo (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_8_half2	Sobugyo (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_9_half2	Daimyo (Vàng)	true
+avatar_ranks_onscreen_name_avatar_rank_1_half5	Kogashira (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_2_half5	Kashira (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_3_half5	Kumigashira (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_4_half5	Gokenin (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_5_half5	Hatamoto (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_6_half5	Taisho (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_7_half5	Bugyo (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_8_half5	Sobugyo (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_9_half5	Daimyo (Hồng Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_1_half4	Kogashira (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_2_half4	Kashira (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_3_half4	Kumigashira (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_4_half4	Gokenin (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_5_half4	Hatamoto (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_6_half4	Taisho (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_7_half4	Bugyo (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_8_half4	Sobugyo (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_9_half4	Daimyo (Lam Ngọc)	true
+avatar_ranks_onscreen_name_avatar_rank_1_half6	Kogashira (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_2_half6	Kashira (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_3_half6	Kumigashira (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_4_half6	Gokenin (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_5_half6	Hatamoto (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_6_half6	Taisho (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_7_half6	Bugyo (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_8_half6	Sobugyo (Kim Cương)	true
+avatar_ranks_onscreen_name_avatar_rank_9_half6	Daimyo (Kim Cương)	true
