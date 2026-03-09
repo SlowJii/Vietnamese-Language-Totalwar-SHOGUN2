@@ -1,2 +1,100 @@
-# Dán response từ Gemini chat vào đây (xóa dòng này)
-# File: avatar_skills.loc.tsv — Chunk 3/21
+[200] Tăng đạn dược. \n \n Binh sĩ của đơn vị này mang nhiều mũi tên hơn đáng kể so với bình thường.
+[201] Tăng tốc độ di chuyển của toàn bộ đơn vị lục quân. \n
+[202] Tăng tốc độ di chuyển của toàn bộ đơn vị lục quân. \n
+[203] Tăng mạnh tốc độ di chuyển của toàn bộ đơn vị lục quân. \n \n Yêu cầu: 1 điểm Quick March \n
+[204] Bán kính hào quang Hóa thân tinh nhuệ. \n \n Các đơn vị trong phạm vi hào quang nhận thưởng sĩ khí, hiệu quả càng mạnh khi đứng càng gần Hóa thân. \n
+[205] Bán kính hào quang Hóa thân tăng mạnh. \n \n Các đơn vị trong phạm vi hào quang nhận thưởng sĩ khí, hiệu quả càng mạnh khi đứng càng gần Hóa thân. \n
+[206] Bán kính hào quang Hóa thân tăng. \n \n Các đơn vị trong phạm vi hào quang nhận thưởng sĩ khí, hiệu quả càng mạnh khi đứng càng gần Hóa thân. \n \n Yêu cầu 2 điểm Rally. \n
+[207] Bán kính hào quang Hóa thân tăng. \n \n Các đơn vị trong phạm vi hào quang nhận thưởng sĩ khí, hiệu quả càng mạnh khi đứng càng gần Hóa thân. \n \n Yêu cầu 2 điểm Rally. \n
+[208] Sĩ khí cải thiện. \n \n Đơn vị có sĩ khí cao sẽ ít bị tan vỡ trong trận đánh. \n \n Cần 20 thẻ tộc.
+[209] Sĩ khí cải thiện. \n \n Đơn vị có sĩ khí cao sẽ ít bị tan vỡ trong trận đánh. \n \n Đơn vị phải đạt cấp 9 và đã học 8 kỹ năng khác. \n \n Phải là thành viên của gia tộc chuyên môn Mạc Phủ. \n \n Cần 20 thẻ tộc.
+[210] Phát hiện địch
+[211] Phát hiện địch
+[212] Khiến kẻ địch gần đó khiếp sợ. \n \n Kẻ địch gần đơn vị sẽ chịu phạt sĩ khí. \n \n Hiệu ứng này luôn hoạt động. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 thẻ tộc, đã chọn 8 kỹ năng khác và phải là thành viên của gia tộc chuyên về kiếm.
+[213] Khiến kẻ địch gần đó khiếp sợ. \n \n Kẻ địch gần đơn vị sẽ chịu phạt sĩ khí. \n \n Hiệu ứng này luôn hoạt động. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 thẻ tộc, đã chọn 8 kỹ năng khác và phải là thành viên của gia tộc chuyên về kiếm.
+[214] Độ chính xác tinh nhuệ. \n \n Đơn vị bắn chính xác hơn. \n \n Cần 10 thẻ tộc.
+[215] Độ chính xác tinh nhuệ. \n \n Đơn vị bắn chính xác hơn. \n \n Yêu cầu 2 điểm Accuracy cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Cần 10 thẻ tộc.
+[216] Độ chính xác huyền thoại. \n \n Đơn vị bắn chính xác hơn. \n \n Cần 10 thẻ tộc.
+[217] Sĩ khí
+[218] Sĩ khí
+[219] Phát hiện địch cải thiện. \n \n Tăng khoảng cách mà đơn vị này có thể phát hiện kẻ địch ẩn nấp.
+[220] Phát hiện địch cải thiện. \n \n Tăng khoảng cách mà đơn vị này có thể phát hiện kẻ địch ẩn nấp.
+[221] Tấn công cận chiến tinh nhuệ. \n \n Tăng kỹ năng tấn công cận chiến của đơn vị. \n \n Yêu cầu 2 điểm Melee Attack cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Cần 10 thẻ tộc.
+[222] Tấn công cận chiến tinh nhuệ. \n \n Tăng kỹ năng tấn công cận chiến của đơn vị. \n \n Cần 10 thẻ tộc.
+[223] Tấn công cận chiến huyền thoại. \n \n Tăng kỹ năng tấn công cận chiến của đơn vị. \n \n Cần 10 thẻ tộc.
+[224] Tăng đạn dược. \n \n Binh sĩ của đơn vị này mang nhiều đạn hơn đáng kể so với bình thường.
+[225] Tăng đạn dược. \n \n Binh sĩ của đơn vị này mang nhiều đạn hơn đáng kể so với bình thường.
+[226] Tăng tầm bắn. \n \n Tầm bắn được tăng lên. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 thẻ tộc, đã chọn 8 kỹ năng khác và phải là thành viên của gia tộc chuyên về cung.
+[227] Tăng tầm bắn. \n \n Tầm bắn được tăng lên. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 thẻ tộc, đã chọn 8 kỹ năng khác và phải là thành viên của gia tộc chuyên về cung.
+[228] Sĩ khí cải thiện. \n \n Đơn vị có sĩ khí cao sẽ ít bị tan vỡ trong trận đánh. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Cần 10 thẻ tộc.
+[229] Sĩ khí cải thiện \n \n Đơn vị có sĩ khí cao sẽ ít bị tan vỡ trong trận đánh. \n \n Cần 10 thẻ tộc.
+[230] Tốc độ nạp đạn
+[231] Tốc độ nạp đạn
+[232] Độ chính xác
+[233] Độ chính xác
+[234] Độ chính xác
+[235] Kỹ năng Banzai. \n \n Khi kích hoạt, tăng tấn công cận chiến và thưởng xung phong của đơn vị, đồng thời khiến họ có sĩ khí không thể tan vỡ trong thời gian ngắn. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 thẻ tộc, đã chọn 8 kỹ năng khác và phải là thành viên của gia tộc chuyên môn Mạc Phủ.
+[236] Kỹ năng Banzai. \n \n Khi kích hoạt, tăng tấn công cận chiến và thưởng xung phong của đơn vị, đồng thời khiến họ có sĩ khí không thể tan vỡ trong thời gian ngắn. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 thẻ tộc, đã chọn 8 kỹ năng khác và phải là thành viên của gia tộc chuyên môn Mạc Phủ.
+[237] Tốc độ nạp đạn huyền thoại. \n \n Tăng tốc độ khai hỏa của đơn vị. \n\n Cần 20 thẻ tộc.
+[238] Tốc độ nạp đạn huyền thoại. \n \n Tăng tốc độ khai hỏa của đơn vị. \n \n Đơn vị phải đạt cấp 9 và đã học 8 kỹ năng khác. \n \n Phải là thành viên của gia tộc chuyên môn Mạc Phủ. \n \n Cần 20 thẻ tộc.
+[239] Tăng đạn dược. \n \n Binh sĩ của đơn vị này mang nhiều đạn hơn đáng kể so với bình thường. \n \n Đơn vị phải đạt cấp 9 và đã học 8 kỹ năng khác. \n \n Phải là thành viên của gia tộc chuyên môn Hoàng Gia. \n \n Cần 20 thẻ tộc.
+[240] Tăng đạn dược. \n \n Binh sĩ của đơn vị này mang nhiều đạn hơn đáng kể so với bình thường. \n \n Cần 20 thẻ tộc.
+[241] Tốc độ nạp đạn
+[242] Tốc độ nạp đạn
+[243] Độ chính xác tăng mạnh \n \n Đơn vị khai hỏa chính xác hơn.
+[244] Độ chính xác cải thiện. \n \n Đơn vị khai hỏa chính xác hơn.
+[245] Độ chính xác cải thiện \n \n Đơn vị khai hỏa chính xác hơn.
+[246] Tấn công cận chiến cải thiện. \n \n Tăng kỹ năng tấn công cận chiến của Hóa thân và đội cận vệ. \n
+[247] Tấn công cận chiến cải thiện. \n \n Tăng kỹ năng tấn công cận chiến của Hóa thân và đội cận vệ. \n
+[248] Tấn công cận chiến tinh nhuệ. \n \n Tăng kỹ năng tấn công cận chiến của Hóa thân và đội cận vệ. \n
+[249] Tấn công cận chiến tăng mạnh. \n \n Tăng kỹ năng tấn công cận chiến của Hóa thân và đội cận vệ. \n
+[250] Thưởng xung phong
+[251] Thưởng xung phong
+[252] Độ chính xác tinh nhuệ \n \n Đơn vị khai hỏa chính xác hơn. \n \n Yêu cầu 2 điểm Accuracy cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Cần 10 thẻ tộc.
+[253] Độ chính xác tinh nhuệ \n \n Đơn vị khai hỏa chính xác hơn. \n \n Cần 10 thẻ tộc.
+[254] Độ chính xác huyền thoại \n \n Đơn vị khai hỏa chính xác hơn. \n \n Cần 10 thẻ tộc.
+[255] Độ chính xác
+[256] Độ chính xác
+[257] Độ chính xác
+[258] Tăng tầm bắn. \n \n Tầm bắn được tăng lên. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 thẻ tộc, đã chọn 8 kỹ năng khác và phải là thành viên của gia tộc chuyên về cung.
+[259] Tăng tầm bắn. \n \n Tầm bắn được tăng lên. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 thẻ tộc, đã chọn 8 kỹ năng khác và phải là thành viên của gia tộc chuyên về cung.
+[260] Tăng đạn dược bộ binh tuyến. \n \n Tất cả đơn vị bộ binh tuyến của bạn mang thêm đạn. \n \n Yêu cầu: Gun Instructor \n
+[261] Kỹ năng Banzai
+[262] Tăng đạn dược bộ binh tuyến. \n \n Tất cả đơn vị bộ binh tuyến của bạn mang thêm đạn. \n \n Yêu cầu: Gun Instructor \n \n
+[263] Kỹ năng Banzai
+[264] Tăng mạnh đạn dược bộ binh tuyến. \n \n Tất cả đơn vị bộ binh tuyến của bạn mang thêm đạn. \n \n Yêu cầu: Extra Ammunition (line infantry) \n
+[265] Thêm đạn dược (bộ binh tuyến)
+[266] Thêm đạn dược (bộ binh tuyến)
+[267] Thêm đạn dược (bộ binh tuyến)
+[268] Kỹ năng Truyền Cảm Hứng
+[269] Kỹ năng Truyền Cảm Hứng
+[270] Tốc độ nạp đạn
+[271] Tốc độ nạp đạn
+[272] Phòng thủ cận chiến cải thiện. \n \n Tăng kỹ năng phòng thủ trước các đòn cận chiến của đơn vị.
+[273] Phòng thủ cận chiến cải thiện. \n \n Tăng kỹ năng phòng thủ trước các đòn cận chiến của đơn vị.
+[274] Phòng thủ cận chiến tăng mạnh. \n \n Tăng kỹ năng phòng thủ trước các đòn cận chiến của đơn vị.
+[275] Bổ sung đơn vị
+[276] Bổ sung đơn vị
+[277] Tầm bắn
+[278] Tầm bắn
+[279] Tầm bắn
+[280] Kỹ năng Bắn Tỉa. \n \n Nếu đã ẩn nấp, đơn vị có thể bắn mà không lộ vị trí. \n \n Chỉ hoạt động khi đứng yên. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 thẻ tộc, đã chọn 8 kỹ năng khác và phải là thành viên của gia tộc chuyên về cung.
+[281] Kỹ năng Bắn Tỉa. \n \n Nếu đã ẩn nấp, đơn vị có thể bắn mà không lộ vị trí. \n \n Chỉ hoạt động khi đứng yên. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 thẻ tộc, đã chọn 8 kỹ năng khác và phải là thành viên của gia tộc chuyên về cung.
+[282] Tốc độ nạp đạn bộ binh tuyến cải thiện. \n \n Tăng tốc độ nạp súng của các đơn vị bộ binh tuyến của bạn. \n \n Yêu cầu: Gun Instructor \n
+[283] Tốc độ nạp đạn bộ binh tuyến cải thiện. \n \n Tăng tốc độ nạp súng của các đơn vị bộ binh tuyến của bạn. \n \n Yêu cầu: Gun Instructor \n \n
+[284] Tốc độ nạp đạn bộ binh tuyến tăng mạnh. \n \n Tăng tốc độ nạp súng của các đơn vị bộ binh tuyến của bạn. \n \n Yêu cầu: 1 điểm Reload (line infantry) \n
+[285] Độ chính xác
+[286] Độ chính xác
+[287] Độ chính xác
+[288] Độ chính xác
+[289] Giáp
+[290] Giáp
+[291] Tốc độ
+[292] Tốc độ
+[293] Tốc độ
+[294] Sát thương hỏa cầu tăng \n \n Lượng sát thương do đạn của đơn vị này gây ra được tăng lên.
+[295] Sát thương hỏa cầu tăng \n \n Lượng sát thương do đạn của đơn vị này gây ra được tăng lên.
+[296] Tăng tầm bắn. \n \n Tầm bắn được tăng lên. \n \n Cần 10 thẻ tộc.
+[297] Sĩ khí toàn quân tăng mạnh. \n \n Danh tiếng của Hóa thân truyền cảm hứng cho toàn quân, gia tăng sĩ khí của mọi đơn vị. \n
+[298] Tăng tầm bắn. \n \n Tầm bắn được tăng lên. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Cần 10 thẻ tộc.
+[299] Sĩ khí toàn quân cải thiện. \n \n Danh tiếng của Hóa thân truyền cảm hứng cho toàn quân, gia tăng sĩ khí của mọi đơn vị. \n

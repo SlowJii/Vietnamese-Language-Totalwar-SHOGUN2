@@ -1,2 +1,100 @@
-# Dán response từ Gemini chat vào đây (xóa dòng này)
-# File: avatar_skills.loc.tsv — Chunk 4/21
+[300] Cải thiện sĩ khí quân đội. \n \n Danh tiếng của avatar truyền cảm hứng cho toàn quân, tăng sĩ khí cho tất cả đơn vị. \n
+[301] Tăng đạn. \n \n Đơn vị mang nhiều mũi tên hơn bình thường.
+[302] Tăng đạn. \n \n Đơn vị mang nhiều mũi tên hơn bình thường.
+[303] Tốc độ hải quân \n \n Tất cả đơn vị hải quân được tăng tốc độ. \n \n Yêu cầu: Tốc độ \n
+[304] Tốc độ hải quân \n \n Tất cả đơn vị hải quân được tăng tốc độ. \n \n Yêu cầu: Tốc độ \n
+[305] Tăng mạnh tốc độ hải quân \n \n Tất cả đơn vị hải quân được tăng tốc độ. \n \n Yêu cầu: 1 điểm Tốc độ hải quân \n
+[306] Kích hoạt kỹ năng Oanh kích \n \n Avatar có thể gọi pháo kích từ hải quân để tàn phá một khu vực chỉ định. \n
+[307] Kích hoạt kỹ năng Oanh kích \n \n Avatar có thể gọi pháo kích từ hải quân để tàn phá một khu vực chỉ định. \n
+[308] Kỹ năng Truyền cảm hứng
+[309] Kỹ năng Truyền cảm hứng
+[310] Cải thiện phòng thủ cận chiến. \n \n Tăng kỹ năng phòng thủ trước các đòn cận chiến.
+[311] Cải thiện phòng thủ cận chiến. \n \n Tăng kỹ năng phòng thủ trước các đòn cận chiến.
+[312] Bổ sung quân số giữa các trận. \n \n Thương vong từ trận trước sẽ được hồi trước trận tiếp theo. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[313] Bổ sung quân số giữa các trận. \n \n Thương vong từ trận trước sẽ được hồi trước trận tiếp theo. \n \n Yêu cầu 10 clan tokens.
+[314] Cải thiện tốc độ tái nạp. \n \n Tăng tốc độ chuẩn bị và ném bom lửa.
+[315] Cải thiện tốc độ tái nạp. \n \n Tăng tốc độ chuẩn bị và ném bom lửa.
+[316] Tăng mạnh tốc độ tái nạp. \n \n Tăng tốc độ chuẩn bị và ném bom lửa.
+[317] Tăng mạnh tấn công cận chiến. \n \n Tăng kỹ năng tấn công cận chiến của đơn vị. \n \n Yêu cầu 10 clan tokens.
+[318] Tăng mạnh tấn công cận chiến. \n \n Tăng kỹ năng tấn công cận chiến của đơn vị. \n \n Yêu cầu 1 điểm Tấn công cận chiến cơ bản. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[319] Cải thiện tốc độ. \n \n Tăng tốc độ di chuyển.
+[320] Cải thiện tốc độ. \n \n Tăng tốc độ di chuyển.
+[321] Tăng mạnh tốc độ. \n \n Tăng tốc độ di chuyển.
+[322] Tấn công cận chiến tinh nhuệ. \n \n Tăng kỹ năng tấn công cận chiến của avatar và đội cận vệ. \n \n Yêu cầu: 2 điểm Tấn công cận chiến \n
+[323] Tăng mạnh tấn công cận chiến. \n \n Tăng kỹ năng tấn công cận chiến của avatar và đội cận vệ. \n \n Yêu cầu: 1 điểm Tấn công cận chiến \n
+[324] Cải thiện tấn công cận chiến. \n \n Tăng kỹ năng tấn công cận chiến của avatar và đội cận vệ. \n \n Yêu cầu: Xung phong \n
+[325] Cải thiện tấn công cận chiến. \n \n Tăng kỹ năng tấn công cận chiến của avatar và đội cận vệ. \n \n Yêu cầu: Xung phong \n
+[326] Lựu đạn gây mù. \n \n Lựu đạn gây mù tạm thời vô hiệu hóa đơn vị mục tiêu. \n \n Yêu cầu 10 clan tokens.
+[327] Lựu đạn gây mù. \n \n Lựu đạn gây mù tạm thời vô hiệu hóa đơn vị mục tiêu. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[328] Xung phong
+[329] Xung phong
+[330] Sĩ khí huyền thoại. \n \n Đơn vị có sĩ khí cao ít có khả năng tháo chạy trong trận chiến. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[331] Sĩ khí huyền thoại. \n \n Đơn vị có sĩ khí cao ít có khả năng tháo chạy trong trận chiến. \n \n Yêu cầu 10 clan tokens.
+[332] Tiếng hô xung trận. \n \n Cấp cho đơn vị khả năng đặc biệt Tiếng hô xung trận, khiến đơn vị địch gần đó hoảng sợ và choáng váng. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[333] Tiếng hô xung trận. \n \n Cấp cho đơn vị khả năng đặc biệt Tiếng hô xung trận, khiến đơn vị địch gần đó hoảng sợ và choáng váng. \n \n Yêu cầu 10 clan tokens.
+[334] Avatar nhận được kỹ năng Second Wind. Khi kích hoạt, kỹ năng này giúp đội cận vệ của avatar và các đơn vị gần đó hồi phục năng lượng ngay lập tức. \n \n Yêu cầu: Tốc độ \n
+[335] Avatar nhận được kỹ năng Second Wind. Khi kích hoạt, kỹ năng này giúp đội cận vệ của avatar và các đơn vị gần đó hồi phục năng lượng ngay lập tức. \n \n Yêu cầu: Tốc độ \n
+[336] Tăng mạnh tốc độ. \n \n Tăng tốc độ di chuyển.
+[337] Cải thiện tốc độ. \n \n Tăng tốc độ di chuyển.
+[338] Cải thiện tốc độ. \n \n Tăng tốc độ di chuyển.
+[339] Cải thiện độ chính xác. \n \n Đòn tấn công tầm xa chính xác hơn. \n \n Yêu cầu 2 điểm Độ chính xác cơ bản. \n \n Đơn vị phải cấp 5 và học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[340] Cải thiện độ chính xác. \n \n Đòn tấn công tầm xa chính xác hơn. \n \n Yêu cầu 10 clan tokens.
+[341] Cải thiện độ chính xác. \n \n Đòn tấn công tầm xa chính xác hơn. \n \n Yêu cầu 10 clan tokens.
+[342] Tiếng hô xung trận
+[343] Tiếng hô xung trận
+[344] Sĩ khí
+[345] Sĩ khí
+[346] Sĩ khí
+[347] Sĩ khí
+[348] Tốc độ tái nạp
+[349] Tốc độ tái nạp
+[350] Tốc độ tái nạp
+[351] Tăng tầm bắn. \n \n Tầm bắn tăng. \n \n Yêu cầu 20 clan tokens.
+[352] Tăng tầm bắn. \n \n Tầm bắn tăng. \n \n Đơn vị phải cấp 9 và đã học 8 kỹ năng khác. \n \n Phải là thành viên gia tộc chuyên môn Imperial. \n \n Yêu cầu 20 clan tokens.
+[353] Tăng mạnh sát thương đạn. \n \n Sát thương từ đạn của đơn vị tăng lên. \n \n Yêu cầu 1 điểm Sát thương đạn cơ bản. \n \n Yêu cầu 10 clan tokens.
+[354] Tăng mạnh sát thương đạn. \n \n Sát thương từ đạn của đơn vị tăng lên. \n \n Yêu cầu 1 điểm Sát thương đạn cơ bản. \n \n Đơn vị phải cấp 5 và học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[355] Tốc độ tái nạp huyền thoại. \n \n Tăng tốc độ bắn. \n \n Yêu cầu 10 clan tokens.
+[356] Tốc độ tái nạp tinh nhuệ. \n \n Tăng tốc độ bắn. \n \n Yêu cầu 10 clan tokens.
+[357] Tốc độ tái nạp tinh nhuệ. \n \n Tăng tốc độ bắn. \n \n Yêu cầu 2 điểm Tốc độ tái nạp cơ bản. \n \n Đơn vị phải cấp 5 và học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[358] Xung phong Bushido
+[359] Xung phong Bushido
+[360] Kích hoạt cung cho Avatar. \n \n Avatar và đội cận vệ có thể bắn cung khi cưỡi ngựa.
+[361] Kích hoạt cung cho Avatar. \n \n Avatar và đội cận vệ có thể bắn cung khi cưỡi ngựa.
+[362] Tăng mạnh tấn công cận chiến. \n \n Tăng kỹ năng tấn công cận chiến của đơn vị.
+[363] Cải thiện tấn công cận chiến. \n \n Tăng kỹ năng tấn công cận chiến của đơn vị.
+[364] Cải thiện tấn công cận chiến. \n \n Tăng kỹ năng tấn công cận chiến của đơn vị.
+[365] Tốc độ
+[366] Tốc độ
+[367] Tốc độ
+[368] Phát hiện địch tinh nhuệ. \n \n Tăng phạm vi phát hiện kẻ địch ẩn nấp. \n \n Yêu cầu 10 clan tokens.
+[369] Tăng mạnh phát hiện địch. \n \n Tăng phạm vi phát hiện kẻ địch ẩn nấp. \n \n Yêu cầu 1 điểm Phát hiện địch cơ bản. \n \n Đơn vị phải cấp 5 và học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[370] Xung phong
+[371] Tăng mạnh phát hiện địch. \n \n Tăng phạm vi phát hiện kẻ địch ẩn nấp. \n \n Yêu cầu 10 clan tokens.
+[372] Xung phong
+[373] Kháng mệt mỏi
+[374] Kháng mệt mỏi
+[375] Kháng mệt mỏi
+[376] Huấn luyện Kisho. \n \n Trong giai đoạn triển khai, đơn vị có thể triển khai ngoài khu vực triển khai. \n \n Không được triển khai quá gần công trình quan trọng. \n \n Đơn vị phải cấp 5 và học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[377] Huấn luyện Kisho. \n \n Trong giai đoạn triển khai, đơn vị có thể triển khai ngoài khu vực triển khai. \n \n Không được triển khai quá gần công trình quan trọng. \n \n Yêu cầu 10 clan tokens.
+[378] Tăng mạnh kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị mệt. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[379] Tăng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị mệt. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[380] Tăng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị mệt. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[381] Huấn luyện Kisho
+[382] Huấn luyện Kisho
+[383] Tăng mạnh kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị mệt. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[384] Tăng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị mệt. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[385] Tăng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị mệt. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[386] Kỹ năng Tập hợp. \n \n Khi kích hoạt, kỹ năng này giúp các đơn vị đang tháo chạy gần đó lấy lại đội hình (không áp dụng cho đơn vị tan rã). \n \n Các đơn vị gần đó chưa tháo chạy sẽ nhận thêm sĩ khí khi kỹ năng hoạt động. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 clan tokens, 8 kỹ năng khác và gia tộc chuyên môn kiếm.
+[387] Kỹ năng Tập hợp (giống trên)
+[388] Tốc độ tái nạp
+[389] Tốc độ tái nạp
+[390] Tốc độ tái nạp
+[391] Tốc độ
+[392] Tốc độ
+[393] Kỹ năng Tập hợp (nhánh giáo)
+[394] Kỹ năng Tập hợp (nhánh giáo)
+[395] Kỹ năng Second Wind. \n \n Kỹ năng này hồi phục thể lực cho các đơn vị đồng minh gần đó. \n \n Yêu cầu cấp 9, 20 clan tokens, 8 kỹ năng khác và gia tộc chuyên môn kỵ binh.
+[396] Kỹ năng Second Wind (giống trên)
+[397] Kỹ năng Truyền cảm hứng
+[398] Kỹ năng Truyền cảm hứng
+[399] Tăng đạn cho bộ binh nhẹ \n \n Tosa Riflemen, Yugekitai & Sharpshooters mang thêm đạn. \n \n Yêu cầu: Đạn bổ sung (bộ binh nhẹ súng trường) \n

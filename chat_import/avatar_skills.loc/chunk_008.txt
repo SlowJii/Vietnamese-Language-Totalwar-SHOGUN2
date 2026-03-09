@@ -1,2 +1,100 @@
-# Dán response từ Gemini chat vào đây (xóa dòng này)
-# File: avatar_skills.loc.tsv — Chunk 8/21
+[700] Sĩ khí
+[701] Sĩ khí
+[702] Tăng Tốc độ tái nạp. \n \n Tăng tốc độ bắn của đơn vị.
+[703] Sĩ khí
+[704] Tăng Tốc độ tái nạp. \n \n Tăng tốc độ bắn của đơn vị.
+[705] Sĩ khí
+[706] Tăng Lượng Đạn Dược. \n \n Binh lính của đơn vị này mang nhiều đạn dược hơn đáng kể so với thông thường đối với loại đơn vị này. \n \n Đơn vị phải đạt cấp 9 và đã học 8 kỹ năng khác. \n \n Phải là thành viên của một clan chuyên môn Hoàng gia. \n \n Yêu cầu 20 clan tokens.
+[707] Tăng Lượng Đạn Dược. \n \n Binh lính của đơn vị này mang nhiều đạn dược hơn đáng kể so với thông thường đối với loại đơn vị này. \n \n Yêu cầu 20 clan tokens.
+[708] Đạn Dược Bổ Sung
+[709] Đạn Dược Bổ Sung
+[710] Tăng Khả năng Kháng Mệt Mỏi Rất Lớn. \n \n Giảm tốc độ mà đơn vị trở nên mệt mỏi. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[711] Tăng Khả năng Kháng Mệt Mỏi. \n \n Giảm tốc độ mà đơn vị trở nên mệt mỏi. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[712] Tăng Khả năng Kháng Mệt Mỏi. \n \n Giảm tốc độ mà đơn vị trở nên mệt mỏi. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[713] Đạn Dược Bổ Sung
+[714] Đạn Dược Bổ Sung
+[715] Đạn Dược Bổ Sung
+[716] Đạn Dược Bổ Sung
+[717] Phòng thủ Cận chiến
+[718] Phòng thủ Cận chiến
+[719] Làm Sợ Hãi Kẻ Địch Gần Kề. \n \n Kẻ địch ở gần đơn vị sẽ bị giảm sĩ khí. \n \n Hiệu ứng này luôn hoạt động. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 clan tokens, 8 kỹ năng khác đã được chọn và phải là thành viên của clan chuyên môn kỵ binh.
+[720] Phát Hiện Kẻ Địch
+[721] Làm Sợ Hãi Kẻ Địch Gần Kề. \n \n Kẻ địch ở gần đơn vị sẽ bị giảm sĩ khí. \n \n Hiệu ứng này luôn hoạt động. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 clan tokens, 8 kỹ năng khác đã được chọn và phải là thành viên của clan chuyên môn kỵ binh.
+[722] Phát Hiện Kẻ Địch
+[723] Độ Chính Xác
+[724] Độ Chính Xác
+[725] Khả năng Bắn Theo Hàng Ngũ. \n \n Phương pháp bắn hiệu quả hơn. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[726] Khả năng Bắn Theo Hàng Ngũ. \n \n Phương pháp bắn hiệu quả hơn. \n \n Yêu cầu 10 clan tokens.
+[727] Phòng thủ Cận chiến
+[728] Phòng thủ Cận chiến
+[729] Phòng thủ Cận chiến
+[730] Tái nạp \n (bộ binh tuyến)
+[731] Tái nạp \n (bộ binh tuyến)
+[732] Tái nạp \n (bộ binh tuyến)
+[733] Tăng Đạn Dược. \n \n Avatar của bạn và đội cận vệ mang thêm 20 mũi tên. \n \n Yêu cầu kỹ năng Enable Bow. \n
+[734] Tăng Đạn Dược. \n \n Avatar của bạn và đội cận vệ mang thêm 20 mũi tên. \n \n Yêu cầu kỹ năng Enable Bow. \n
+[735] Tăng Khả năng Kháng Mệt Mỏi. \n \n Giảm tốc độ mà đơn vị trở nên mệt mỏi. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[736] Tăng Khả năng Kháng Mệt Mỏi. \n \n Giảm tốc độ mà đơn vị trở nên mệt mỏi. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[737] Tăng Khả năng Kháng Mệt Mỏi Rất Lớn. \n \n Giảm tốc độ mà đơn vị trở nên mệt mỏi. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[738] Độ Chính Xác Tinh Nhuệ. \n \n Đơn vị bắn chính xác hơn. \n \n Yêu cầu 10 clan tokens.
+[739] Tăng Độ Chính Xác Rất Lớn. \n \n Đơn vị bắn chính xác hơn. \n \n Yêu cầu 10 clan tokens.
+[740] Đạn Dược Bổ Sung
+[741] Tăng Độ Chính Xác Rất Lớn. \n \n Đơn vị bắn chính xác hơn. \n \n Yêu cầu 10 clan tokens.
+[742] Đạn Dược Bổ Sung
+[743] Kháng Mệt Mỏi
+[744] Kháng Mệt Mỏi
+[745] Kháng Mệt Mỏi
+[746] Tăng Tầm Bắn. \n \n Tầm bắn được tăng. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[747] Tăng Tầm Bắn. \n \n Tầm bắn được tăng. \n \n Yêu cầu 10 clan tokens.
+[748] Mũi Tên Lửa
+[749] Mũi Tên Lửa
+[750] Xuyên Giáp
+[751] Xuyên Giáp
+[752] Tăng Thưởng Xung phong Rất Lớn. \n \n Tăng bonus cận chiến khi đơn vị Xung phong vào kẻ địch.
+[753] Tăng Thưởng Xung phong. \n \n Tăng bonus cận chiến khi đơn vị Xung phong vào kẻ địch.
+[754] Tăng Thưởng Xung phong. \n \n Tăng bonus cận chiến khi đơn vị Xung phong vào kẻ địch.
+[755] Tái nạp \n (kỵ binh)
+[756] Tái nạp \n (kỵ binh)
+[757] Tái nạp \n (kỵ binh)
+[758] Tăng mạnh tốc độ tái nạp pháo của tất cả đơn vị hải quân. \n \n Yêu cầu: 1 điểm vào Tái nạp (hải quân).
+[759] Tăng tốc độ tái nạp pháo của tất cả đơn vị hải quân. \n \n Yêu cầu: Enable Gun.
+[760] Tăng tốc độ tái nạp pháo của tất cả đơn vị hải quân. \n \n Yêu cầu: Enable Gun.
+[761] Tăng Quy Mô Đội Cận Vệ
+[762] Tăng Quy Mô Đội Cận Vệ
+[763] Tấn công Cận chiến
+[764] Tấn công Cận chiến
+[765] Tốc độ
+[766] Tốc độ
+[767] Tốc độ
+[768] Tấn công Cận chiến
+[769] Độ Chính Xác \n (kỵ binh)
+[770] Tấn công Cận chiến
+[771] Tấn công Cận chiến
+[772] Độ Chính Xác \n (kỵ binh)
+[773] Tấn công Cận chiến
+[774] Độ Chính Xác \n (kỵ binh)
+[775] Sát Thương Tên Đạn
+[776] Sát Thương Tên Đạn
+[777] Lựu Đạn Làm Mù
+[778] Lựu Đạn Làm Mù
+[779] Đạn Dược Bổ Sung
+[780] Đạn Dược Bổ Sung
+[781] Tăng Rất Lớn Sát Thương Bom Lửa. \n \n Lượng sát thương do đạn của đơn vị này gây ra được tăng. \n \n Yêu cầu 10 clan tokens.
+[782] Tăng Rất Lớn Sát Thương Bom Lửa. \n \n Lượng sát thương do đạn của đơn vị này gây ra được tăng. \n \n Yêu cầu 1 điểm Sát Thương Tên Đạn cơ bản. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[783] Tốc độ tái nạp
+[784] Tốc độ tái nạp
+[785] Tốc độ tái nạp
+[786] Tăng Sĩ Khí Rất Lớn. \n \n Đơn vị có sĩ khí cao sẽ ít có khả năng tháo chạy trong trận chiến. \n \n Yêu cầu 10 clan tokens.
+[787] Tăng Sĩ Khí Rất Lớn. \n \n Đơn vị có sĩ khí cao sẽ ít có khả năng tháo chạy trong trận chiến. \n \n Yêu cầu 1 điểm Sĩ khí cơ bản. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[788] Tăng Rất Lớn Khả năng Phát Hiện Kẻ Địch. \n \n Tầm phát hiện kẻ địch ẩn của đơn vị được tăng. \n \n Yêu cầu 1 điểm Phát Hiện Kẻ Địch cơ bản. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[789] Tăng Rất Lớn Khả năng Phát Hiện Kẻ Địch. \n \n Tầm phát hiện kẻ địch ẩn của đơn vị được tăng. \n \n Yêu cầu 10 clan tokens.
+[790] Tốc độ tái nạp Tinh Nhuệ. \n \n Tăng tốc độ chuẩn bị và ném bom lửa của đơn vị. \n \n Yêu cầu 10 clan tokens.
+[791] Tốc độ tái nạp Tinh Nhuệ. \n \n Tăng tốc độ chuẩn bị và ném bom lửa của đơn vị. \n \n Yêu cầu 2 điểm Tốc độ tái nạp cơ bản. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[792] Tốc độ tái nạp Huyền Thoại. \n \n Tăng tốc độ chuẩn bị và ném bom lửa của đơn vị. \n \n Yêu cầu 10 clan tokens.
+[793] Tăng Sĩ Khí Rất Lớn. \n \n Đơn vị có sĩ khí cao sẽ ít có khả năng tháo chạy trong trận chiến. \n \n Yêu cầu 10 clan tokens.
+[794] Tăng Sĩ Khí Rất Lớn. \n \n Đơn vị có sĩ khí cao sẽ ít có khả năng tháo chạy trong trận chiến. \n \n Yêu cầu 1 điểm Sĩ khí cơ bản. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[795] Tốc độ tái nạp
+[796] Tốc độ tái nạp
+[797] Tốc độ tái nạp
+[798] Phát Hiện Kẻ Địch Huyền Thoại. \n \n Tăng tầm phát hiện kẻ địch ẩn của đơn vị. \n \n Yêu cầu 3 điểm Spot Enemies cơ bản. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[799] Phát Hiện Kẻ Địch Huyền Thoại. \n \n Tăng tầm phát hiện kẻ địch ẩn của đơn vị. \n \n Yêu cầu 10 clan tokens.

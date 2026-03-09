@@ -1,2 +1,100 @@
-# Dán response từ Gemini chat vào đây (xóa dòng này)
-# File: avatar_skills.loc.tsv — Chunk 7/21
+[600] Kích hoạt Mũi Tên Lửa. \n \n Khi kích hoạt, mũi tên lửa làm tăng sát thương của phát bắn và có thể thiêu cháy các công trình bằng gỗ. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[601] Độ Chính Xác Huyền Thoại. \n \n Đơn vị bắn chính xác hơn. \n \n Yêu cầu 10 clan tokens.
+[602] Độ Chính Xác Huyền Thoại. \n \n Đơn vị bắn chính xác hơn. \n \n Yêu cầu 3 điểm Độ Chính Xác cơ bản. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[603] Khả năng Truyền Cảm Hứng. \n \n Khi kích hoạt, cho phép đơn vị tăng sĩ khí, tấn công cận chiến và độ chính xác của một đơn vị. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 clan tokens, 8 kỹ năng khác đã chọn và thuộc clan chuyên môn kiếm.
+[604] Khả năng Truyền Cảm Hứng. \n \n Khi kích hoạt, cho phép đơn vị tăng sĩ khí, tấn công cận chiến và độ chính xác của một đơn vị. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 clan tokens, 8 kỹ năng khác đã chọn và thuộc clan chuyên môn kiếm.
+[605] Thưởng Điểm Máu
+[606] Thưởng Điểm Máu
+[607] Tăng Tầm Bắn
+[608] Tăng Tầm Bắn
+[609] Tốc độ Hải quân
+[610] Tốc độ Hải quân
+[611] Tốc độ Hải quân
+[612] Tăng Tốc độ. \n \n Tăng tốc độ di chuyển của đơn vị.
+[613] Tăng Tốc độ. \n \n Tăng tốc độ di chuyển của đơn vị.
+[614] Tăng Tốc độ Rất Lớn. \n \n Tăng tốc độ di chuyển của đơn vị.
+[615] Thưởng Chống Kỵ Binh
+[616] Thưởng Chống Kỵ Binh
+[617] Thưởng Chống Kỵ Binh
+[618] Tăng Tấn Công Cận Chiến. \n \n Tăng kỹ năng tấn công cận chiến của đơn vị.
+[619] Tăng Tấn Công Cận Chiến. \n \n Tăng kỹ năng tấn công cận chiến của đơn vị.
+[620] Tăng Tấn Công Cận Chiến Rất Lớn. \n \n Tăng kỹ năng tấn công cận chiến của đơn vị.
+[621] Độ Chính Xác
+[622] Độ Chính Xác
+[623] Độ Chính Xác
+[624] Kháng Mệt Mỏi
+[625] Kháng Mệt Mỏi
+[626] Kháng Mệt Mỏi
+[627] Đứng Vững và Chiến Đấu
+[628] Kháng Mệt Mỏi
+[629] Đứng Vững và Chiến Đấu
+[630] Sĩ khí
+[631] Sĩ khí
+[632] Tấn Công Cận Chiến Tinh Nhuệ. \n \n Tăng kỹ năng tấn công cận chiến của đơn vị. \n \n Yêu cầu 2 điểm Tấn Công Cận Chiến cơ bản. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[633] Tấn Công Cận Chiến Tinh Nhuệ. \n \n Tăng kỹ năng tấn công cận chiến của đơn vị. \n \n Yêu cầu 10 clan tokens.
+[634] Tấn Công Cận Chiến Huyền Thoại. \n \n Tăng kỹ năng tấn công cận chiến của đơn vị. \n \n Yêu cầu 10 clan tokens.
+[635] Tốc độ tái nạp Tinh Nhuệ. \n \n Tăng tốc độ bắn của đơn vị. \n \n Yêu cầu 10 clan tokens.
+[636] Tốc độ tái nạp Tinh Nhuệ. \n \n Tăng tốc độ bắn của đơn vị. \n \n Yêu cầu 2 điểm Tốc độ tái nạp cơ bản. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[637] Tốc độ
+[638] Tốc độ
+[639] Sát Thương Cung Tinh Nhuệ \n \n Sát thương từ đạn của đơn vị được tăng. \n \n Yêu cầu cấp 9. \n \n Yêu cầu 1 điểm Bow Damage nâng cao, 20 clan tokens, 8 kỹ năng khác và clan chuyên môn cung.
+[640] Sát Thương Cung Tinh Nhuệ \n \n Sát thương từ đạn của đơn vị được tăng. \n \n Yêu cầu cấp 9. \n \n Yêu cầu 1 điểm Bow Damage nâng cao, 20 clan tokens, 8 kỹ năng khác và clan chuyên môn cung.
+[641] Tốc độ tái nạp
+[642] Tốc độ tái nạp
+[643] Tốc độ Tinh Nhuệ. \n \n Tăng tốc độ di chuyển của đơn vị.
+[644] Tốc độ Tinh Nhuệ. \n \n Tăng tốc độ di chuyển của đơn vị.
+[645] Kháng Mệt Mỏi
+[646] Kháng Mệt Mỏi
+[647] Kháng Mệt Mỏi
+[648] Sát Thương Cung
+[649] Kháng Mệt Mỏi
+[650] Sát Thương Cung
+[651] Kháng Mệt Mỏi
+[652] Đạn Dược Bổ Sung
+[653] Đạn Dược Bổ Sung
+[654] Trinh Sát
+[655] Trinh Sát
+[656] Trinh Sát
+[657] Trinh Sát
+[658] Trinh Sát
+[659] Tăng Tầm Bắn. \n \n Tầm bắn tăng. \n \n Đơn vị phải cấp 9 và có 8 kỹ năng khác. \n \n Phải thuộc clan chuyên môn Shogunate. \n \n Yêu cầu 20 clan tokens.
+[660] Tăng Tầm Bắn. \n \n Tầm bắn tăng. \n \n Yêu cầu 20 clan tokens.
+[661] Phát Hiện Kẻ Địch
+[662] Phát Hiện Kẻ Địch
+[663] Hỏa Lực Áp Chế
+[664] Hỏa Lực Áp Chế
+[665] Tấn Công Cận Chiến
+[666] Tấn Công Cận Chiến
+[667] Tốc độ Tinh Nhuệ. \n \n Tăng tốc độ di chuyển. \n \n Yêu cầu 10 clan tokens.
+[668] Tốc độ Tinh Nhuệ. \n \n Tăng tốc độ di chuyển. \n \n Yêu cầu 2 điểm Tốc độ cơ bản. \n \n Đơn vị cấp 5 và 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[669] Tăng độ chính xác Avatar. \n \n Avatar và đội cận vệ bắn súng chính xác hơn.
+[670] Tăng đạn dược Avatar. \n \n Avatar và đội cận vệ mang thêm đạn. \n \n Yêu cầu: Firing Drill (avatar)
+[671] Tăng độ chính xác Avatar. \n \n Avatar và đội cận vệ bắn súng chính xác hơn. \n \n Yêu cầu: Enable Gun
+[672] Tăng đạn dược Avatar. \n \n Avatar và đội cận vệ mang thêm đạn. \n \n Yêu cầu: Enable Gun
+[673] Tăng mạnh độ chính xác Avatar. \n \n Avatar và đội cận vệ bắn súng chính xác hơn. \n \n Yêu cầu: Accuracy
+[674] Tăng mạnh đạn dược Avatar. \n \n Avatar và đội cận vệ mang thêm đạn. \n \n Yêu cầu: Extra Ammunition
+[675] Độ Chính Xác
+[676] Độ Chính Xác
+[677] Độ Chính Xác
+[678] Kháng Mệt Mỏi Huyền Thoại. \n \n Giảm tốc độ đơn vị bị mệt. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu. \n \n Yêu cầu 10 clan tokens.
+[679] Kháng Mệt Mỏi Huyền Thoại. \n \n Giảm tốc độ đơn vị bị mệt. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu. \n \n Yêu cầu Elite Fatigue Resistance. \n \n Đơn vị cấp 5 và 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[680] Đứng Vững và Chiến Đấu
+[681] Đứng Vững và Chiến Đấu
+[682] Tăng Giáp. \n \n Tăng phòng thủ trước tấn công cận chiến và tầm xa. \n \n Yêu cầu cấp 9. \n \n Yêu cầu 20 clan tokens, 8 kỹ năng khác và clan chuyên môn cung.
+[683] Tăng Giáp. \n \n Tăng phòng thủ trước tấn công cận chiến và tầm xa. \n \n Yêu cầu cấp 9. \n \n Yêu cầu 20 clan tokens, 8 kỹ năng khác và clan chuyên môn cung.
+[684] Tăng Sát Thương Cung
+[685] Tăng Sát Thương Cung
+[686] Kháng Mệt Mỏi
+[687] Kháng Mệt Mỏi
+[688] Bổ Sung Quân Sau Trận. \n \n Thương vong từ trận trước sẽ được hồi phục trước trận tiếp theo. \n \n Đơn vị cấp 5 và 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[689] Bổ Sung Quân Sau Trận. \n \n Thương vong từ trận trước sẽ được hồi phục trước trận tiếp theo. \n \n Yêu cầu 10 clan tokens.
+[690] Tăng Tầm Bắn. \n \n Tầm bắn tăng. \n \n Đơn vị cấp 5 và 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[691] Tăng Tầm Bắn. \n \n Tầm bắn tăng. \n \n Yêu cầu 10 clan tokens.
+[692] Tăng Tầm Bắn Rất Lớn. \n \n Tầm bắn tăng. \n \n Yêu cầu 10 clan tokens.
+[693] Tầm Bắn Tinh Nhuệ. \n \n Tầm bắn tăng. \n \n Yêu cầu 10 clan tokens.
+[694] Bổ Sung Quân Sau Trận. \n \n Thương vong từ trận trước sẽ được hồi phục trước trận tiếp theo. \n \n Đơn vị cấp 5 và 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[695] Bổ Sung Quân Sau Trận. \n \n Thương vong từ trận trước sẽ được hồi phục trước trận tiếp theo. \n \n Yêu cầu 10 clan tokens.
+[696] Kháng Mệt Mỏi
+[697] Kháng Mệt Mỏi
+[698] Kháng Mệt Mỏi
+[699] Tăng mạnh Tốc độ tái nạp. \n \n Tăng tốc độ bắn của đơn vị.

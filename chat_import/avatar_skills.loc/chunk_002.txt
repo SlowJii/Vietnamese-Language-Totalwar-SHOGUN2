@@ -1,2 +1,100 @@
-# Dán response từ Gemini chat vào đây (xóa dòng này)
-# File: avatar_skills.loc.tsv — Chunk 2/21
+[100] Ẩn nấp
+[101] Ẩn nấp
+[102] Tăng tốc độ chiếm các công trình trọng yếu trong hải chiến. \n \n Yêu cầu: Naval Speed \n
+[103] Tăng tốc độ chiếm các công trình trọng yếu trong hải chiến. \n \n Yêu cầu: Naval Speed \n
+[104] Tăng mạnh tốc độ chiếm các công trình trọng yếu trong hải chiến. \n \n Yêu cầu: 1 điểm Rapid Capture (naval) \n
+[105] Độ chính xác
+[106] Độ chính xác
+[107] Độ chính xác
+[108] Sát thương cung tăng. \n \n Lượng sát thương do đạn của đơn vị này gây ra được tăng lên.
+[109] Sát thương cung tăng \n \n Lượng sát thương do đạn của đơn vị này gây ra được tăng lên.
+[110] Tốc độ tăng mạnh. \n \n Tăng tốc độ di chuyển của đơn vị.
+[111] Tốc độ cải thiện. \n \n Tăng tốc độ di chuyển của đơn vị.
+[112] Tốc độ cải thiện. \n \n Tăng tốc độ di chuyển của đơn vị.
+[113] Thêm đạn dược
+[114] Thêm đạn dược
+[115] Huấn luyện Kisho
+[116] Huấn luyện Kisho
+[117] Kháng mệt mỏi tinh nhuệ. \n \n Giảm tốc độ tích lũy mệt mỏi của đơn vị. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu. \n \n Cần 10 thẻ tộc.
+[118] Kháng mệt mỏi tinh nhuệ. \n \n Giảm tốc độ tích lũy mệt mỏi của đơn vị. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu. \n \n Yêu cầu 2 điểm Kháng Mệt Mỏi cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Cần 10 thẻ tộc.
+[119] Giữ Vững
+[120] Giữ Vững
+[121] Thêm đạn dược
+[122] Thêm đạn dược
+[123] Cho phép Hóa thân và đội cận vệ bắn súng khi cưỡi ngựa. \n
+[124] Cho phép Hóa thân và đội cận vệ bắn súng khi cưỡi ngựa. \n
+[125] Bật Cung
+[126] Bật Cung
+[127] Tăng đạn dược. \n \n Binh sĩ của đơn vị này mang nhiều hỏa cầu hơn đáng kể so với bình thường. \n \n Cần 10 thẻ tộc.
+[128] Tăng đạn dược. \n \n Binh sĩ của đơn vị này mang nhiều hỏa cầu hơn đáng kể so với bình thường. \n \n Yêu cầu 1 điểm Thêm Đạn Dược cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Cần 10 thẻ tộc.
+[129] Sĩ khí
+[130] Sĩ khí
+[131] Sĩ khí cải thiện. \n \n Đơn vị có sĩ khí cao sẽ ít bị tan vỡ trong trận đánh. \n \n Cần 20 thẻ tộc.
+[132] Sĩ khí cải thiện. \n \n Đơn vị có sĩ khí cao sẽ ít bị tan vỡ trong trận đánh. \n \n Đơn vị phải đạt cấp 9 và đã học 8 kỹ năng khác. \n \n Phải là thành viên của gia tộc chuyên môn Hoàng Gia. \n \n Cần 20 thẻ tộc.
+[133] Kháng mệt mỏi
+[134] Kháng mệt mỏi
+[135] Kháng mệt mỏi
+[136] Kháng mệt mỏi
+[137] Độ chính xác
+[138] Độ chính xác
+[139] Độ chính xác \n (hải chiến)
+[140] Độ chính xác \n (hải chiến)
+[141] Độ chính xác \n (hải chiến)
+[142] Toàn bộ đơn vị không dùng hỏa khí của bạn nhận thưởng sĩ khí. \n
+[143] Toàn bộ đơn vị không dùng hỏa khí của bạn nhận thưởng sĩ khí. \n
+[144] Phát hiện địch cải thiện. \n \n Tăng khoảng cách mà đơn vị này có thể phát hiện kẻ địch ẩn nấp.
+[145] Phát hiện địch cải thiện. \n \n Tăng khoảng cách mà đơn vị này có thể phát hiện kẻ địch ẩn nấp.
+[146] Thưởng xung phong
+[147] Thưởng xung phong
+[148] Thưởng xung phong
+[149] Giáp
+[150] Giáp
+[151] Tăng tầm bắn
+[152] Tăng tầm bắn
+[153] Hiệu triệu
+[154] Hiệu triệu
+[155] Tốc độ tăng mạnh. \n \n Tăng tốc độ di chuyển của đơn vị.
+[156] Tốc độ cải thiện. \n \n Tăng tốc độ di chuyển của đơn vị.
+[157] Tốc độ cải thiện. \n \n Tăng tốc độ di chuyển của đơn vị.
+[158] Tăng bán kính hào quang của mọi đơn vị tinh nhuệ. \n \n Yêu cầu: Rally \n
+[159] Tăng bán kính hào quang của mọi đơn vị tinh nhuệ. \n \n Yêu cầu: Rally \n
+[160] Tăng sức mạnh của hào quang từ mọi đơn vị tinh nhuệ. \n \n Yêu cầu: Rally \n
+[161] Phó tướng
+[162] Phó tướng
+[163] Phó tướng
+[164] Bổ sung đơn vị
+[165] Bổ sung đơn vị
+[166] Kỹ năng Truyền Cảm Hứng
+[167] Kỹ năng Truyền Cảm Hứng
+[168] Tốc độ nạp đạn huyền thoại. \n \n Tăng tốc độ khai hỏa của đơn vị. \n\n Cần 20 thẻ tộc.
+[169] Tốc độ nạp đạn huyền thoại. \n \n Tăng tốc độ khai hỏa của đơn vị. \n \n Đơn vị phải đạt cấp 9 và đã học 8 kỹ năng khác. \n \n Cần 20 thẻ tộc.
+[170] Thêm đạn dược
+[171] Thêm đạn dược
+[172] Chiếm giữ bằng kỵ binh
+[173] Chiếm giữ bằng kỵ binh
+[174] Lựu đạn gây mù
+[175] Lựu đạn gây mù
+[176] Hồi sức
+[177] Hồi sức
+[178] Tăng tầm bắn. \n \n Tầm bắn được tăng lên.
+[179] Tăng tầm bắn. \n \n Tầm bắn được tăng lên.
+[180] Độ chính xác
+[181] Thêm đạn dược
+[182] Độ chính xác
+[183] Thêm đạn dược
+[184] Độ chính xác
+[185] Thêm đạn dược
+[186] Huấn luyện viên bắn súng
+[187] Huấn luyện viên bắn súng
+[188] Phát hiện địch cải thiện. \n \n Tăng khoảng cách mà đơn vị này có thể phát hiện kẻ địch ẩn nấp.
+[189] Phát hiện địch cải thiện. \n \n Tăng khoảng cách mà đơn vị này có thể phát hiện kẻ địch ẩn nấp.
+[190] Kỹ năng Hỏa Lực Áp Chế. \n Mở khóa kỹ năng Hỏa Lực Áp Chế.
+[191] Kỹ năng Hỏa Lực Áp Chế. \n Mở khóa kỹ năng Hỏa Lực Áp Chế.
+[192] Tốc độ
+[193] Tốc độ
+[194] Không bị bất lợi trước Trường Thương
+[195] Không bị bất lợi trước Trường Thương
+[196] Tốc độ
+[197] Tốc độ
+[198] Tốc độ
+[199] Tăng đạn dược. \n \n Binh sĩ của đơn vị này mang nhiều mũi tên hơn đáng kể so với bình thường.

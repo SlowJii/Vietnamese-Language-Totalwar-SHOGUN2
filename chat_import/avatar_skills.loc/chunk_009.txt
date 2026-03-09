@@ -1,2 +1,100 @@
-# Dán response từ Gemini chat vào đây (xóa dòng này)
-# File: avatar_skills.loc.tsv — Chunk 9/21
+[800] Kháng Mệt Mỏi Tinh Nhuệ. \n \n Giảm tốc độ mà đơn vị trở nên mệt mỏi. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu. \n \n Yêu cầu 10 clan tokens.
+[801] Kháng Mệt Mỏi Tinh Nhuệ. \n \n Giảm tốc độ mà đơn vị trở nên mệt mỏi. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu. \n \n Yêu cầu 2 điểm Kháng Mệt Mỏi cơ bản. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[802] Tăng Sĩ khí. \n \n Đơn vị có sĩ khí cao sẽ ít có khả năng tháo chạy trong trận chiến. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[803] Tăng Sĩ khí. \n \n Đơn vị có sĩ khí cao sẽ ít có khả năng tháo chạy trong trận chiến. \n \n Yêu cầu 10 clan tokens.
+[804] Tốc độ
+[805] Tốc độ
+[806] Tốc độ
+[807] Sát thương tên đạn
+[808] Phát Hiện Kẻ Địch
+[809] Sát thương tên đạn
+[810] Phát Hiện Kẻ Địch
+[811] Kháng Mệt Mỏi
+[812] Kháng Mệt Mỏi
+[813] Sĩ khí
+[814] Sĩ khí
+[815] Sĩ khí
+[816] Sĩ khí
+[817] Kích hoạt khả năng Bắn Tỉa. \n \n Nếu đang ẩn nấp, avatar của bạn và đội cận vệ có thể bắn mà không làm lộ vị trí. \n \n Chỉ hoạt động khi đứng yên. \n \n Yêu cầu 2 điểm kỹ năng Tăng Tầm Bắn.
+[818] Kích hoạt khả năng Bắn Tỉa. \n \n Nếu đang ẩn nấp, avatar của bạn và đội cận vệ có thể bắn mà không làm lộ vị trí. \n \n Chỉ hoạt động khi đứng yên. \n \n Yêu cầu 2 điểm kỹ năng Tăng Tầm Bắn.
+[819] Tăng mạnh Tốc độ. \n \n Tăng tốc độ di chuyển của avatar và đội cận vệ. \n \n Yêu cầu: 1 điểm Tốc độ.
+[820] Tăng Tốc độ. \n \n Tăng tốc độ di chuyển của avatar và đội cận vệ. \n \n Yêu cầu: Xung phong.
+[821] Tăng Tốc độ. \n \n Tăng tốc độ di chuyển của avatar và đội cận vệ. \n \n Yêu cầu: Xung phong.
+[822] Hào Quang Kháng Mệt Mỏi Tăng Cường \n \n Các đơn vị trong phạm vi hào quang của avatar sẽ mệt chậm hơn và hồi phục nhanh hơn.
+[823] Hào Quang Kháng Mệt Mỏi Tăng Cường Rất Lớn \n \n Các đơn vị trong phạm vi hào quang của avatar sẽ mệt chậm hơn và hồi phục nhanh hơn.
+[824] Hào Quang Kháng Mệt Mỏi \n \n Các đơn vị trong phạm vi hào quang của avatar sẽ mệt chậm hơn và hồi phục nhanh hơn.
+[825] Hào Quang Kháng Mệt Mỏi \n \n Các đơn vị trong phạm vi hào quang của avatar sẽ mệt chậm hơn và hồi phục nhanh hơn.
+[826] Phòng thủ Cận chiến
+[827] Phòng thủ Cận chiến
+[828] Phòng thủ Cận chiến
+[829] Phòng thủ Cận chiến
+[830] Tăng mạnh Phòng thủ Cận chiến. \n \n Tăng kỹ năng phòng thủ trước các đòn tấn công cận chiến. \n \n Yêu cầu 1 điểm Phòng thủ Cận chiến cơ bản. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[831] Tăng mạnh Phòng thủ Cận chiến. \n \n Tăng kỹ năng phòng thủ trước các đòn tấn công cận chiến. \n \n Yêu cầu 10 clan tokens.
+[832] Bắn Tỉa
+[833] Bổ Sung Quân
+[834] Bắn Tỉa
+[835] Bổ Sung Quân
+[836] Tốc độ
+[837] Tốc độ
+[838] Tốc độ
+[839] Tốc độ tái nạp
+[840] Tốc độ tái nạp
+[841] Tốc độ tái nạp
+[842] Giảm Thời Gian Hồi Chiêu Khả Năng Rally. \n \n Khi kích hoạt, khả năng Rally sẽ đưa các đơn vị đang tháo chạy trong phạm vi hào quang của avatar trở lại trật tự (đơn vị bị phá vỡ hoàn toàn sẽ không bị ảnh hưởng). \n \n Các đơn vị trong phạm vi chưa tháo chạy sẽ nhận bonus sĩ khí khi Rally đang hoạt động.
+[843] Tăng mạnh Tầm Bắn Cung. \n \n Tầm bắn của avatar và đội cận vệ được tăng.
+[844] Giảm Thời Gian Hồi Chiêu Khả Năng Rally. \n \n Khi kích hoạt, khả năng Rally sẽ đưa các đơn vị đang tháo chạy trong phạm vi hào quang của avatar trở lại trật tự (đơn vị bị phá vỡ hoàn toàn sẽ không bị ảnh hưởng). \n \n Các đơn vị trong phạm vi chưa tháo chạy sẽ nhận bonus sĩ khí khi Rally đang hoạt động.
+[845] Giảm Thêm Thời Gian Hồi Chiêu Khả Năng Rally. \n \n Khi kích hoạt, khả năng Rally sẽ đưa các đơn vị đang tháo chạy trong phạm vi hào quang của avatar trở lại trật tự. \n \n Các đơn vị trong phạm vi chưa tháo chạy sẽ nhận bonus sĩ khí khi Rally đang hoạt động.
+[846] Tăng Tầm Bắn Cung. \n \n Tầm bắn của avatar và đội cận vệ được tăng.
+[847] Giảm Rất Lớn Thời Gian Hồi Chiêu Khả Năng Rally. \n \n Khi kích hoạt, khả năng Rally sẽ đưa các đơn vị đang tháo chạy trong phạm vi hào quang của avatar trở lại trật tự. \n \n Các đơn vị trong phạm vi chưa tháo chạy sẽ nhận bonus sĩ khí khi Rally đang hoạt động.
+[848] Tăng Tầm Bắn Cung. \n \n Tầm bắn của avatar và đội cận vệ được tăng.
+[849] Rally
+[850] Tăng Tầm Bắn
+[851] Rally
+[852] Tăng Tầm Bắn
+[853] Rally
+[854] Rally
+[855] Tăng Tầm Bắn
+[856] Bắn Quỳ
+[857] Bắn Quỳ
+[858] Làm Sợ Hãi Kẻ Địch
+[859] Làm Sợ Hãi Kẻ Địch
+[860] Độ Chính Xác Tinh Nhuệ. \n \n Đơn vị bắn chính xác hơn. \n \n Yêu cầu 10 clan tokens.
+[861] Độ Chính Xác Tinh Nhuệ. \n \n Đơn vị bắn chính xác hơn. \n \n Yêu cầu 2 điểm Độ Chính Xác cơ bản. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[862] Tấn công Cận chiến
+[863] Tấn công Cận chiến
+[864] Độ Chính Xác
+[865] Độ Chính Xác
+[866] Độ Chính Xác
+[867] Tấn Công Anh Hùng
+[868] Tấn Công Anh Hùng
+[869] Mũi Tên Xuyên Giáp. \n \n Avatar và đội cận vệ bắn loại mũi tên bodkin được thiết kế để xuyên giáp. \n \n Yêu cầu 3 điểm kỹ năng Bow Damage.
+[870] Mũi Tên Xuyên Giáp. \n \n Avatar và đội cận vệ bắn loại mũi tên bodkin được thiết kế để xuyên giáp. \n \n Yêu cầu 3 điểm kỹ năng Bow Damage.
+[871] Chiếm Mục Tiêu Nhanh \n (hải quân)
+[872] Chiếm Mục Tiêu Nhanh \n (hải quân)
+[873] Chiếm Mục Tiêu Nhanh \n (trên bộ)
+[874] Huấn Luyện Súng. \n \n Cho phép avatar mở khóa các kỹ năng Tái nạp (bộ binh tuyến), Đạn dược bổ sung (bộ binh tuyến) và Độ chính xác (bộ binh nhẹ). \n \n Yêu cầu: Tái nạp \n \n Yêu cầu: Đạn dược bổ sung \n \n Yêu cầu: Độ chính xác.
+[875] Huấn Luyện Súng. \n \n Avatar trở nên thành thạo trong nghệ thuật huấn luyện và có thể truyền đạt một số kỹ năng của mình cho quân đội.
+[876] Tăng Tốc độ tái nạp. \n \n Tăng tốc độ bắn của đơn vị. \n \n Yêu cầu 10 clan tokens.
+[877] Tăng Tốc độ tái nạp. \n \n Tăng tốc độ bắn của đơn vị. \n \n Yêu cầu 2 điểm Tốc độ tái nạp cơ bản. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[878] Tăng Tốc độ tái nạp. \n \n Tăng tốc độ bắn của đơn vị. \n \n Yêu cầu 10 clan tokens.
+[879] Tăng Đạn Dược. \n \n Binh lính của đơn vị mang nhiều đạn hơn đáng kể so với bình thường. \n \n Yêu cầu 10 clan tokens.
+[880] Tăng Đạn Dược. \n \n Binh lính của đơn vị mang nhiều đạn hơn đáng kể so với bình thường. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[881] Kháng Mệt Mỏi
+[882] Kháng Mệt Mỏi
+[883] Tốc độ tái nạp
+[884] Tốc độ tái nạp
+[885] Tốc độ tái nạp
+[886] Không Bị Phạt Khi Tấn Công Giáo. \n \n Avatar và đội cận vệ bỏ qua hình phạt mà các đơn vị kỵ binh khác phải chịu khi tấn công kẻ địch có vũ khí giáo. \n \n Yêu cầu kỹ năng Banzai và 2 điểm kỹ năng Giáp.
+[887] Không Bị Phạt Khi Tấn Công Giáo. \n \n Avatar và đội cận vệ bỏ qua hình phạt mà các đơn vị kỵ binh khác phải chịu khi tấn công kẻ địch có vũ khí giáo. \n \n Yêu cầu kỹ năng Banzai và 2 điểm kỹ năng Giáp.
+[888] Đơn vị kỵ binh cận chiến có thể chiếm công trình mục tiêu mà không cần xuống ngựa. \n \n Yêu cầu: Double Time (kỵ binh).
+[889] Đơn vị kỵ binh cận chiến có thể chiếm công trình mục tiêu mà không cần xuống ngựa. \n \n Yêu cầu: Double Time (kỵ binh).
+[890] Tăng mạnh Kháng Mệt Mỏi. \n \n Giảm tốc độ mà đơn vị trở nên mệt mỏi. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[891] Tăng Kháng Mệt Mỏi. \n \n Giảm tốc độ mà đơn vị trở nên mệt mỏi. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[892] Tăng Kháng Mệt Mỏi. \n \n Giảm tốc độ mà đơn vị trở nên mệt mỏi. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[893] Sĩ khí
+[894] Sĩ khí
+[895] Lựu Đạn Làm Mù. \n \n Lựu đạn làm mù khiến đơn vị mục tiêu tạm thời mất khả năng chiến đấu.
+[896] Lựu Đạn Làm Mù. \n \n Lựu đạn làm mù khiến đơn vị mục tiêu tạm thời mất khả năng chiến đấu.
+[897] Tốc độ tái nạp Tinh Nhuệ. \n \n Tăng tốc độ bắn của đơn vị. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[898] Tốc độ tái nạp Tinh Nhuệ. \n \n Tăng tốc độ bắn của đơn vị. \n \n Yêu cầu 2 điểm Tốc độ tái nạp cơ bản. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[899] Tấn công Cận chiến

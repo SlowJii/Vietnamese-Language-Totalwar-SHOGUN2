@@ -1,2 +1,100 @@
-# Dán response từ Gemini chat vào đây (xóa dòng này)
-# File: avatar_skills.loc.tsv — Chunk 6/21
+[500] Nhiều giờ huấn luyện trên mọi địa hình giúp tất cả kỵ binh cận chiến nhận thưởng tốc độ và kháng mệt mỏi. \n \n Yêu cầu: Second Wind
+[501] (giống 500)
+[502] Cải thiện độ chính xác súng của bộ binh nhẹ. \n \n Tosa Riflemen, Yugekitai & Sharpshooters bắn chính xác hơn. \n \n Yêu cầu: Huấn luyện viên súng
+[503] (giống 502)
+[504] Tăng mạnh độ chính xác súng của bộ binh nhẹ. \n \n Tosa Riflemen, Yugekitai & Sharpshooters bắn chính xác hơn. \n \n Yêu cầu: 1 điểm Độ chính xác (bộ binh nhẹ súng trường)
+[505] Bổ sung quân số đơn vị
+[506] Bổ sung quân số đơn vị
+[507] Tốc độ tái nạp
+[508] Tốc độ tái nạp
+[509] Tốc độ tái nạp
+[510] Tăng đạn. \n \n Đơn vị mang nhiều mũi tên hơn bình thường.
+[511] Tăng đạn. \n \n Đơn vị mang nhiều mũi tên hơn bình thường.
+[512] Huấn luyện viên hải quân
+[513] Huấn luyện viên hải quân
+[514] Tăng kháng mệt mỏi (mô tả chuẩn)
+[515] Tăng kháng mệt mỏi
+[516] Tăng mạnh kháng mệt mỏi
+[517] Thủy thủ đoàn được huấn luyện. \n \n Thủy thủ được huấn luyện kỹ, giảm đáng kể thời gian hồi khi đổi loại đạn. \n \n Yêu cầu: Giáp soái hạm
+[518] (giống 517)
+[519] (phiên bản yêu cầu 1 điểm Drilled Crew)
+[520] Phạm vi phát hiện
+[521] Phạm vi phát hiện
+[522] Tăng mạnh phòng thủ cận chiến
+[523] Cải thiện phòng thủ cận chiến
+[524] Cải thiện phòng thủ cận chiến
+[525] Tăng mạnh tấn công cận chiến
+[526] Cải thiện tấn công cận chiến
+[527] Cải thiện tấn công cận chiến
+[528] Độ chính xác tinh nhuệ
+[529] Tăng mạnh độ chính xác
+[530] Cải thiện độ chính xác
+[531] Cải thiện độ chính xác
+[532] Sĩ khí
+[533] Sĩ khí
+[534] Cải thiện tốc độ. \n \n Tăng tốc độ di chuyển.
+[535] Cải thiện tốc độ. \n \n Tăng tốc độ di chuyển.
+[536] Tăng đạn (yêu cầu 20 clan tokens)
+[537] Tăng đạn (bản yêu cầu cấp 9)
+[538] Tăng mạnh tốc độ. \n \n Tăng tốc độ di chuyển.
+[539] Cải thiện tốc độ tái nạp
+[540] Cải thiện tốc độ tái nạp
+[541] Tăng mạnh tốc độ tái nạp
+[542] Kỹ năng Truyền cảm hứng (nhánh kỵ binh)
+[543] Kỹ năng Truyền cảm hứng (giống trên)
+[544] Bổ sung quân số giữa các trận. \n \n Thương vong từ trận trước sẽ được hồi trước trận tiếp theo. \n \n Yêu cầu 10 clan tokens.
+[545] (phiên bản yêu cầu cấp 5)
+[546] Kháng mệt mỏi
+[547] Kháng mệt mỏi
+[548] Kháng mệt mỏi
+[549] Tốc độ tái nạp huyền thoại
+[550] Tốc độ tái nạp huyền thoại (bản Imperial)
+[551] Tăng tầm bắn
+[552] Tăng tầm bắn
+[553] Tăng sát thương cung
+[554] Tăng sát thương cung
+[555] Tốc độ tái nạp tinh nhuệ
+[556] Tốc độ tái nạp tinh nhuệ
+[557] Cải thiện độ chính xác
+[558] Cải thiện độ chính xác
+[559] Cải thiện độ chính xác
+[560] Độ chính xác
+[561] Độ chính xác
+[562] Tốc độ tái nạp
+[563] Tốc độ tái nạp
+[564] Tốc độ tái nạp tinh nhuệ
+[565] Tốc độ tái nạp tinh nhuệ
+[566] Tốc độ tái nạp huyền thoại
+[567] Tăng tầm bắn
+[568] Tăng tầm bắn
+[569] Tăng tầm bắn (yêu cầu 20 tokens)
+[570] Tăng tầm bắn (bản Imperial)
+[571] Tốc độ tái nạp
+[572] Tốc độ tái nạp
+[573] Tốc độ tái nạp
+[574] Bổ sung quân số giữa các trận (bản yêu cầu cấp 5)
+[575] Bổ sung quân số giữa các trận
+[576] Cải thiện tốc độ tái nạp
+[577] Cải thiện tốc độ tái nạp
+[578] Tăng mạnh tốc độ tái nạp
+[579] Bổ sung quân số đơn vị
+[580] Bổ sung quân số đơn vị
+[581] Tăng tầm bắn
+[582] Tăng tầm bắn
+[583] Kỹ năng Truyền cảm hứng (nhánh Mạc phủ)
+[584] Kỹ năng Truyền cảm hứng (giống trên)
+[585] Tăng mạnh tốc độ
+[586] Cải thiện tốc độ
+[587] Cải thiện tốc độ
+[588] Tăng mạnh sát thương cung (yêu cầu 10 tokens)
+[589] Tăng mạnh sát thương cung (bản yêu cầu skill)
+[590] Sát thương đạn
+[591] Sát thương đạn
+[592] Sát thương đạn
+[593] Cải thiện giáp. \n \n Tăng phòng thủ trước cả tấn công cận chiến và tầm xa. \n \n Yêu cầu cấp 5 và 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[594] Cải thiện giáp. \n \n Tăng phòng thủ trước cả tấn công cận chiến và tầm xa. \n \n Yêu cầu 10 clan tokens.
+[595] Tên lửa
+[596] Tên lửa
+[597] Tăng sát thương đạn. \n \n Tăng sát thương gây ra bởi đạn của đơn vị.
+[598] Tăng sát thương đạn. \n \n Tăng sát thương gây ra bởi đạn của đơn vị.
+[599] Kích hoạt Tên lửa. \n \n Khi kích hoạt, tên lửa làm tăng độ sát thương của phát bắn và có thể thiêu cháy công trình gỗ. \n \n Yêu cầu 10 clan tokens.

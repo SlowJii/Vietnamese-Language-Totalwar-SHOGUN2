@@ -1,2 +1,100 @@
-# Dán response từ Gemini chat vào đây (xóa dòng này)
-# File: avatar_skills.loc.tsv — Chunk 1/21
+[0] Ganbatte
+[1] Ganbatte
+[2] Kháng mệt mỏi
+[3] Kháng mệt mỏi
+[4] Kháng mệt mỏi
+[5] Bán kính hào quang của Hóa thân tăng mạnh. \n \n Các đơn vị trong phạm vi hào quang của Hóa thân nhận được thưởng sĩ khí, hiệu quả càng mạnh khi đứng càng gần Hóa thân.
+[6] Bán kính hào quang của Hóa thân tăng lên. \n \n Các đơn vị trong phạm vi hào quang của Hóa thân nhận được thưởng sĩ khí, hiệu quả càng mạnh khi đứng càng gần Hóa thân.
+[7] Bán kính hào quang của Hóa thân tăng lên. \n \n Các đơn vị trong phạm vi hào quang của Hóa thân nhận được thưởng sĩ khí, hiệu quả càng mạnh khi đứng càng gần Hóa thân.
+[8] Xuyên giáp. \n \n Đòn cận chiến có thể xuyên qua giáp. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 thẻ tộc, đã chọn 8 kỹ năng khác và phải là thành viên của gia tộc chuyên về kiếm.
+[9] Xuyên giáp. \n \n Đòn cận chiến có thể xuyên qua giáp. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 thẻ tộc, đã chọn 8 kỹ năng khác và phải là thành viên của gia tộc chuyên về kiếm.
+[10] Bật tên lửa. \n \n Khi kích hoạt, tên lửa làm tăng sát thương của Hóa thân và đội cận vệ khi bắn, đồng thời có thể thiêu cháy các công trình gỗ. \n
+[11] Bật tên lửa. \n \n Khi kích hoạt, tên lửa làm tăng sát thương của Hóa thân và đội cận vệ khi bắn, đồng thời có thể thiêu cháy các công trình gỗ. \n
+[12] Tăng tầm bắn
+[13] Tăng tầm bắn
+[14] Tăng tầm bắn
+[15] Tăng tầm bắn
+[16] Thưởng xung phong
+[17] Thưởng xung phong
+[18] Thưởng xung phong
+[19] Giáp cải tiến. \n \n Tăng phòng thủ trước cả đòn cận chiến và tấn công tầm xa. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Cần 10 thẻ tộc.
+[20] Giáp cải tiến. \n \n Tăng phòng thủ trước cả đòn cận chiến và tấn công tầm xa. \n \n Cần 10 thẻ tộc.
+[21] Tăng quy mô đội cận vệ của Hóa thân. \n \n Số quân trong đội cận vệ cá nhân của Hóa thân tăng lên. \n \n Yêu cầu kỹ năng Không Bị Bất Lợi Trước Thương. \n
+[22] Giáp
+[23] Tăng quy mô đội cận vệ của Hóa thân. \n \n Số quân trong đội cận vệ cá nhân của Hóa thân tăng lên. \n \n Yêu cầu kỹ năng Không Bị Bất Lợi Trước Thương. \n
+[24] Giáp
+[25] Bắn tỉa
+[26] Bắn tỉa
+[27] Tăng mạnh tầm bắn. \n \n Tầm bắn được tăng lên. \n \n Yêu cầu 1 điểm trong kỹ năng Tăng Tầm Bắn cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Cần 10 thẻ tộc.
+[28] Tăng mạnh tầm bắn. \n \n Tầm bắn được tăng lên. \n \n Cần 10 thẻ tộc.
+[29] Sĩ khí tăng mạnh. \n \n Đơn vị có sĩ khí cao sẽ ít bị tan vỡ trong trận đánh. \n \n Cần 10 thẻ tộc.
+[30] Sĩ khí cải thiện. \n \n Đơn vị có sĩ khí cao sẽ ít bị tan vỡ trong trận đánh. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Cần 10 thẻ tộc.
+[31] Sĩ khí cải thiện. \n \n Đơn vị có sĩ khí cao sẽ ít bị tan vỡ trong trận đánh. \n \n Cần 10 thẻ tộc.
+[32] Thêm đạn dược
+[33] Thêm đạn dược
+[34] Nhiều giờ huấn luyện trên mọi địa hình giúp toàn bộ bộ binh không dùng hỏa khí nhận thưởng tốc độ và kháng mệt mỏi. \n \n Yêu cầu: Second Wind \n
+[35] Nhiều giờ huấn luyện trên mọi địa hình giúp toàn bộ bộ binh không dùng hỏa khí nhận thưởng tốc độ và kháng mệt mỏi. \n \n Yêu cầu: Bushido Command \n \n Yêu cầu: Speed
+[36] Nhiều giờ huấn luyện trên mọi địa hình giúp toàn bộ bộ binh không dùng hỏa khí nhận thưởng tốc độ và kháng mệt mỏi. \n \n Yêu cầu: 1 điểm Second Wind \n
+[37] Sĩ khí
+[38] Sĩ khí
+[39] Tốc độ cải thiện. \n \n Tăng tốc độ di chuyển của đơn vị.
+[40] Tốc độ cải thiện. \n \n Tăng tốc độ di chuyển của đơn vị.
+[41] Tốc độ cải thiện. \n \n Tăng tốc độ di chuyển của đơn vị.
+[42] Hào quang kháng mệt mỏi
+[43] Hào quang kháng mệt mỏi
+[44] Hào quang kháng mệt mỏi
+[45] Hào quang kháng mệt mỏi
+[46] Sát thương cung tăng mạnh. \n \n Lượng sát thương do mũi tên của Hóa thân và đội cận vệ gây ra được tăng lên. \n
+[47] Sát thương cung tinh nhuệ. \n \n Lượng sát thương do mũi tên của Hóa thân và đội cận vệ gây ra được tăng lên. \n
+[48] Sát thương cung tăng. \n \n Lượng sát thương do mũi tên của Hóa thân và đội cận vệ gây ra được tăng lên. \n \n Yêu cầu kỹ năng Bật Cung. \n
+[49] Sát thương cung tăng. \n \n Lượng sát thương do mũi tên của Hóa thân và đội cận vệ gây ra được tăng lên. \n \n Yêu cầu kỹ năng Bật Cung. \n
+[50] Kháng mệt mỏi
+[51] Kháng mệt mỏi
+[52] Kháng mệt mỏi
+[53] Độ chính xác
+[54] Độ chính xác
+[55] Độ chính xác
+[56] Độ chính xác tăng mạnh. \n \n Hóa thân và đội cận vệ bắn cung chính xác hơn. \n
+[57] Độ chính xác tinh nhuệ. \n \n Hóa thân và đội cận vệ bắn cung chính xác hơn. \n
+[58] Độ chính xác cải thiện. \n \n Hóa thân và đội cận vệ bắn cung chính xác hơn. \n \n Yêu cầu kỹ năng Bật Cung. \n
+[59] Độ chính xác cải thiện. \n \n Hóa thân và đội cận vệ bắn cung chính xác hơn. \n \n Yêu cầu kỹ năng Bật Cung. \n
+[60] Độ chính xác cải thiện. \n \n Các đơn vị kỵ binh của bạn bắn súng chính xác hơn. \n \n Yêu cầu Gun Instructor. \n \n
+[61] Bổ sung đơn vị giữa các trận đánh. \n \n Mọi tổn thất trong trận trước sẽ được phục hồi trước trận tiếp theo. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Cần 10 thẻ tộc.
+[62] Độ chính xác kỵ binh cải thiện. \n \n Các đơn vị kỵ binh của bạn bắn súng chính xác hơn. \n \n Yêu cầu: Accuracy (light infantry) \n
+[63] Bổ sung đơn vị giữa các trận đánh. \n \n Mọi tổn thất trong trận trước sẽ được phục hồi trước trận tiếp theo. \n \n Cần 10 thẻ tộc.
+[64] Độ chính xác kỵ binh tăng mạnh. \n \n Các đơn vị kỵ binh của bạn bắn súng chính xác hơn. \n \n Yêu cầu: 1 điểm Accuracy (cavalry) \n
+[65] Kỹ năng Giữ Vững Trận Tuyến. \n \n Khi kích hoạt, tăng phòng thủ cận chiến của đơn vị và tối đa 3 đơn vị lân cận, đồng thời khiến họ có sĩ khí không thể tan vỡ trong thời gian ngắn. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 thẻ tộc, đã chọn 8 kỹ năng khác và phải là thành viên của gia tộc chuyên về thương.
+[66] Kỹ năng Giữ Vững Trận Tuyến. \n \n Khi kích hoạt, tăng phòng thủ cận chiến của đơn vị và tối đa 3 đơn vị lân cận, đồng thời khiến họ có sĩ khí không thể tan vỡ trong thời gian ngắn. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 thẻ tộc, đã chọn 8 kỹ năng khác và phải là thành viên của gia tộc chuyên về thương.
+[67] Tốc độ nạp đạn tinh nhuệ. \n \n Tăng tốc độ bắn của đơn vị.
+[68] Bổ sung đơn vị
+[69] Bổ sung đơn vị
+[70] Tăng đạn dược. \n \n Binh sĩ của đơn vị này mang nhiều hỏa cầu hơn đáng kể so với bình thường.
+[71] Tốc độ nạp đạn
+[72] Tăng đạn dược. \n \n Binh sĩ của đơn vị này mang nhiều hỏa cầu hơn đáng kể so với bình thường.
+[73] Giữ Vững
+[74] Giữ Vững
+[75] Tăng tầm bắn
+[76] Tăng tầm bắn
+[77] Độ chính xác
+[78] Độ chính xác
+[79] Độ chính xác
+[80] Phát hiện địch cải thiện. \n \n Tăng khoảng cách mà đơn vị này có thể phát hiện kẻ địch ẩn nấp.
+[81] Phát hiện địch cải thiện. \n \n Tăng khoảng cách mà đơn vị này có thể phát hiện kẻ địch ẩn nấp.
+[82] Độ chính xác tăng mạnh. \n \n Đơn vị bắn chính xác hơn.
+[83] Độ chính xác cải thiện. \n \n Đơn vị bắn chính xác hơn.
+[84] Độ chính xác cải thiện. \n \n Đơn vị bắn chính xác hơn.
+[85] Phát hiện địch
+[86] Phát hiện địch
+[87] Bổ sung đơn vị giữa các trận đánh. \n \n Mọi tổn thất trong trận trước sẽ được phục hồi trước trận tiếp theo. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Cần 10 thẻ tộc.
+[88] Bổ sung đơn vị giữa các trận đánh. \n \n Mọi tổn thất trong trận trước sẽ được phục hồi trước trận tiếp theo. \n \n Cần 10 thẻ tộc.
+[89] Tốc độ nạp tên tăng mạnh. \n \n Tăng tốc độ bắn tên của Hóa thân và đội cận vệ. \n
+[90] Tốc độ nạp đạn cải thiện. \n \n Tăng tốc độ bắn của đơn vị.
+[91] Tốc độ nạp tên cải thiện. \n \n Tăng tốc độ bắn tên của Hóa thân và đội cận vệ. \n \n Yêu cầu 1 điểm Accuracy và 1 điểm Speed. \n
+[92] Tốc độ nạp đạn cải thiện. \n \n Tăng tốc độ bắn của đơn vị.
+[93] Tốc độ nạp tên cải thiện. \n \n Tăng tốc độ bắn tên của Hóa thân và đội cận vệ. \n \n Yêu cầu 1 điểm Accuracy và 1 điểm Speed. \n
+[94] Tốc độ nạp đạn cải thiện. \n \n Tăng tốc độ bắn của đơn vị.
+[95] Trong thời gian ngắn, toàn quân nhận thưởng tốc độ, sĩ khí và thể lực. \n
+[96] Trong thời gian ngắn, toàn quân nhận thưởng tốc độ, sĩ khí và thể lực. \n
+[97] Độ chính xác cải thiện. \n \n Đơn vị bắn chính xác hơn.
+[98] Độ chính xác cải thiện. \n \n Đơn vị bắn chính xác hơn.
+[99] Độ chính xác tăng mạnh. \n \n Đơn vị bắn chính xác hơn.

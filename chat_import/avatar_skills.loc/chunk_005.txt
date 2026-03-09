@@ -1,2 +1,100 @@
-# Dán response từ Gemini chat vào đây (xóa dòng này)
-# File: avatar_skills.loc.tsv — Chunk 5/21
+[400] Tăng đạn cho bộ binh nhẹ \n \n Tosa Riflemen, Yugekitai & Sharpshooters của bạn mang thêm đạn. \n \n Yêu cầu: Huấn luyện viên súng \n \n
+[401] Tăng mạnh đạn cho bộ binh nhẹ \n \n Tosa Riflemen, Yugekitai & Sharpshooters của bạn mang thêm đạn. \n \n Yêu cầu: Đạn bổ sung (bộ binh nhẹ dùng súng trường) \n
+[402] Tăng mạnh khả năng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị mệt. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[403] Tăng khả năng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị mệt. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[404] Tăng khả năng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị mệt. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[405] Kỹ năng Truyền cảm hứng
+[406] Kỹ năng Truyền cảm hứng
+[407] Kỹ năng Truyền cảm hứng
+[408] Tốc độ
+[409] Tốc độ
+[410] Tốc độ
+[411] Phòng thủ cận chiến
+[412] Tăng tầm bắn
+[413] Tăng tầm bắn
+[414] Kỹ năng Truyền cảm hứng. \n \n Khi kích hoạt, đơn vị có thể tăng sĩ khí, tấn công cận chiến và độ chính xác cho một đơn vị. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 clan tokens, đã chọn 8 kỹ năng khác và thuộc gia tộc chuyên môn giáo.
+[415] Phòng thủ cận chiến
+[416] Kỹ năng Truyền cảm hứng. \n \n Khi kích hoạt, đơn vị có thể tăng sĩ khí, tấn công cận chiến và độ chính xác cho một đơn vị. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 clan tokens, đã chọn 8 kỹ năng khác và thuộc gia tộc chuyên môn giáo.
+[417] Phòng thủ cận chiến
+[418] Phòng thủ cận chiến
+[419] Phòng thủ cận chiến
+[420] Tăng tầm bắn. \n \n Tầm bắn được tăng. \n \n Yêu cầu 20 clan tokens.
+[421] Phòng thủ cận chiến huyền thoại. \n \n Tăng kỹ năng phòng thủ trước các đòn cận chiến.
+[422] Tăng tầm bắn. \n \n Tầm bắn được tăng. \n \n Đơn vị phải đạt cấp 9 và đã học 8 kỹ năng khác. \n \n Phải là thành viên gia tộc chuyên môn Mạc phủ. \n \n Yêu cầu 20 clan tokens.
+[423] Cải thiện phòng thủ cận chiến. \n \n Tăng khả năng phòng thủ cận chiến của avatar và đội cận vệ.
+[424] Tăng đạn. \n \n Đơn vị mang nhiều đạn hơn đáng kể so với bình thường. \n \n Đơn vị phải đạt cấp 9 và đã học 8 kỹ năng khác. \n \n Phải là thành viên gia tộc chuyên môn Mạc phủ. \n \n Yêu cầu 20 clan tokens.
+[425] Cải thiện phòng thủ cận chiến. \n \n Tăng khả năng phòng thủ cận chiến của avatar và đội cận vệ.
+[426] Tăng đạn. \n \n Đơn vị mang nhiều đạn hơn đáng kể so với bình thường. \n \n Yêu cầu 20 clan tokens.
+[427] Phòng thủ cận chiến tinh nhuệ. \n \n Tăng kỹ năng phòng thủ trước các đòn cận chiến.
+[428] Tăng mạnh phòng thủ cận chiến. \n \n Tăng kỹ năng phòng thủ trước các đòn cận chiến.
+[429] Tốc độ
+[430] Tốc độ
+[431] Tốc độ
+[432] Tăng mạnh sát thương cung \n \n Lượng sát thương từ tên của đơn vị tăng lên. \n \n Yêu cầu: 1 điểm Sát thương cung cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[433] Tăng mạnh sát thương cung \n \n Lượng sát thương từ tên của đơn vị tăng lên. \n \n Yêu cầu: 1 điểm Sát thương cung cơ bản. \n \n Yêu cầu 10 clan tokens.
+[434] Kỹ năng Tập hợp. \n \n Khi kích hoạt, kỹ năng này giúp các đơn vị đang tháo chạy gần đó lấy lại đội hình (không áp dụng cho đơn vị tan rã). \n \n Các đơn vị gần đó chưa tháo chạy sẽ nhận thêm sĩ khí khi kỹ năng hoạt động. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 clan tokens, 8 kỹ năng khác và gia tộc chuyên môn cung.
+[435] Kỹ năng Tập hợp. (giống trên)
+[436] Tăng tầm bắn. \n \n Tầm bắn tăng. \n \n Yêu cầu 10 clan tokens.
+[437] Tăng tầm bắn. \n \n Tầm bắn tăng. \n \n Đơn vị phải cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[438] Thưởng chống kỵ binh
+[439] Tốc độ tái nạp tinh nhuệ. \n \n Tăng tốc độ bắn. \n \n Yêu cầu 2 điểm Tốc độ tái nạp cơ bản. \n \n Đơn vị phải cấp 5 và học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[440] Thưởng chống kỵ binh
+[441] Tốc độ tái nạp tinh nhuệ. \n \n Tăng tốc độ bắn. \n \n Yêu cầu 10 clan tokens.
+[442] Thưởng chống kỵ binh
+[443] Tốc độ tái nạp
+[444] Tốc độ tái nạp
+[445] Tốc độ tái nạp huyền thoại. \n \n Tăng tốc độ bắn. \n \n Yêu cầu 10 clan tokens.
+[446] Tốc độ tái nạp tinh nhuệ. \n \n Tăng tốc độ bắn. \n \n Yêu cầu 2 điểm Tốc độ tái nạp cơ bản. \n \n Đơn vị phải cấp 5 và học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[447] Tốc độ tái nạp tinh nhuệ. \n \n Tăng tốc độ bắn. \n \n Yêu cầu 10 clan tokens.
+[448] Mũi tên huýt sáo
+[449] Mũi tên huýt sáo
+[450] Kỹ năng Bắn tỉa. \n \n Nếu đang ẩn nấp, đơn vị có thể bắn mà không lộ vị trí. \n \n Chỉ hoạt động khi đứng yên. \n \n Yêu cầu cấp 9, 20 clan tokens, 8 kỹ năng và gia tộc chuyên môn cung.
+[451] Kỹ năng Bắn tỉa (giống trên)
+[452] Tốc độ
+[453] Tốc độ
+[454] Tốc độ
+[455] Tăng mạnh khả năng phát hiện địch. \n \n Tăng phạm vi phát hiện kẻ địch ẩn nấp. \n \n Yêu cầu 1 điểm Phát hiện địch cơ bản. \n \n Đơn vị phải cấp 5 và học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 clan tokens.
+[456] Tăng mạnh khả năng phát hiện địch. \n \n Yêu cầu 10 clan tokens.
+[457] Phát hiện địch tinh nhuệ. \n \n Tăng phạm vi phát hiện kẻ địch ẩn nấp. \n \n Yêu cầu 10 clan tokens.
+[458] Tăng khả năng kháng mệt mỏi (mô tả như trên)
+[459] Tăng khả năng kháng mệt mỏi (mô tả như trên)
+[460] Kích hoạt kỹ năng Ganbatte. \n \n Khi kích hoạt, avatar khích lệ các đơn vị gần đó, tăng sĩ khí, tấn công cận chiến và tốc độ tái nạp.
+[461] Kích hoạt kỹ năng Ganbatte (giống trên)
+[462] Tăng mạnh khả năng kháng mệt mỏi (mô tả như trên)
+[463] Phạm vi phát hiện
+[464] Phạm vi phát hiện
+[465] Người sống sót cuối cùng
+[466] Người sống sót cuối cùng
+[467] Đạn bổ sung
+[468] Đạn bổ sung
+[469] Huấn luyện Kisho
+[470] Huấn luyện Kisho
+[471] Tăng tầm bắn. \n \n Tầm bắn tăng. \n \n Yêu cầu 20 clan tokens.
+[472] Tăng tầm bắn (bản yêu cầu cấp 9)
+[473] Tăng đạn (bản yêu cầu cấp 9)
+[474] Tăng đạn. \n \n Yêu cầu 20 clan tokens.
+[475] Avatar của bạn có khả năng thoát chết phi thường và sẽ luôn là người cuối cùng trong đơn vị ngã xuống. \n \n Yêu cầu: 2 điểm Giáp
+[476] Avatar của bạn có khả năng thoát chết phi thường và sẽ luôn là người cuối cùng trong đơn vị ngã xuống. \n \n Yêu cầu: Giáp
+[477] Huấn luyện Kisho. \n \n Trong giai đoạn triển khai, đơn vị có thể triển khai ngoài khu vực triển khai. \n \n Không được triển khai quá gần công trình quan trọng. \n \n Yêu cầu cấp 9, 20 clan tokens, 8 kỹ năng, gia tộc chuyên môn cung.
+[478] Huấn luyện Kisho (giống trên)
+[479] Kháng mệt mỏi
+[480] Kháng mệt mỏi
+[481] Kháng mệt mỏi
+[482] Kháng mệt mỏi
+[483] Độ chính xác huyền thoại. \n \n Đơn vị bắn chính xác hơn. \n \n Yêu cầu 10 clan tokens.
+[484] Độ chính xác tinh nhuệ. \n \n Đơn vị bắn chính xác hơn. \n \n Yêu cầu 2 điểm Độ chính xác cơ bản. \n \n Đơn vị phải cấp 5 và học 4 kỹ năng. \n \n Yêu cầu 10 clan tokens.
+[485] Độ chính xác tinh nhuệ. \n \n Đơn vị bắn chính xác hơn. \n \n Yêu cầu 10 clan tokens.
+[486] Tăng kháng mệt mỏi (mô tả như trên)
+[487] Tăng kháng mệt mỏi (mô tả như trên)
+[488] Kháng mệt mỏi tinh nhuệ (mô tả như trên)
+[489] Tăng mạnh kháng mệt mỏi (mô tả như trên)
+[490] Sát thương cung
+[491] Sát thương cung
+[492] Sát thương cung
+[493] Sát thương cung
+[494] Thưởng Xung phong
+[495] Thưởng Xung phong
+[496] Thưởng chống kỵ binh
+[497] Thưởng chống kỵ binh
+[498] Thưởng chống kỵ binh
+[499] Nhiều giờ huấn luyện trên mọi địa hình giúp tất cả kỵ binh cận chiến nhận thưởng tốc độ và kháng mệt mỏi. \n \n Yêu cầu: 1 điểm Double Time (kỵ binh)
