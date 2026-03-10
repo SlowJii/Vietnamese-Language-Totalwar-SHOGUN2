@@ -1,2 +1,100 @@
-# Dán response từ Gemini chat vào đây (xóa dòng này)
-# File: avatar_skills.loc.tsv — Chunk 10/21
+[900] Tấn công cận chiến
+[901] Tấn công cận chiến
+[902] Tấn công cận chiến
+[903] Phòng thủ cận chiến
+[904] Phòng thủ cận chiến
+[905] Phòng thủ cận chiến
+[906] Tăng tầm bắn
+[907] Tăng tầm bắn
+[908] Phòng thủ cận chiến tinh nhuệ. \n \n Gia tăng kỹ năng phòng thủ trước các đòn cận chiến của đơn vị. \n \n Yêu cầu 10 thẻ tộc.
+[909] Phòng thủ cận chiến tinh nhuệ. \n \n Gia tăng kỹ năng phòng thủ trước các đòn cận chiến của đơn vị. \n \n Yêu cầu 2 điểm Phòng thủ cận chiến cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 thẻ tộc.
+[910] Phòng thủ cận chiến huyền thoại. \n \n Gia tăng kỹ năng phòng thủ trước các đòn cận chiến của đơn vị. \n \n Yêu cầu 10 thẻ tộc.
+[911] Hạc Kích
+[912] Độ chính xác
+[913] Hạc Kích
+[914] Độ chính xác
+[915] Độ chính xác
+[916] Phát hiện kẻ địch
+[917] Phát hiện kẻ địch
+[918] Phát hiện kẻ địch
+[919] Phát hiện kẻ địch
+[920] Tốc độ nạp đạn huyền thoại. \n \n Tăng tốc độ khai hỏa của đơn vị. \n \n Yêu cầu 3 điểm Tốc độ nạp đạn cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 thẻ tộc.
+[921] Tốc độ nạp đạn huyền thoại. \n \n Tăng tốc độ khai hỏa của đơn vị. \n \n Yêu cầu 10 thẻ tộc.
+[922] Tốc độ nạp đạn được cải thiện mạnh. \n \n Tăng tốc độ nạp súng của Hóa thân và đội cận vệ. \n \n Yêu cầu: 1 điểm Nạp đạn \n
+[923] Tốc độ nạp đạn được cải thiện. \n \n Tăng tốc độ bắn của Hóa thân và đội cận vệ. \n \n Yêu cầu: Kích hoạt Súng \n
+[924] Giáp được cải thiện. \n \n Tăng khả năng phòng thủ trước cả đòn cận chiến và tấn công tầm xa. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 thẻ tộc, đã chọn 8 kỹ năng khác và thuộc gia tộc chuyên về kiếm.
+[925] Tốc độ nạp đạn được cải thiện. \n \n Tăng tốc độ nạp súng của Hóa thân và đội cận vệ. \n \n Yêu cầu: Kích hoạt Súng \n
+[926] Giáp được cải thiện. \n \n Tăng khả năng phòng thủ trước cả đòn cận chiến và tấn công tầm xa. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 thẻ tộc, đã chọn 8 kỹ năng khác và thuộc gia tộc chuyên về kiếm.
+[927] Giáp soái hạm
+[928] Giáp soái hạm
+[929] Giáp soái hạm
+[930] Giáp soái hạm
+[931] Giáp soái hạm
+[932] Kháng mệt mỏi
+[933] Kháng mệt mỏi
+[934] Kháng mệt mỏi
+[935] Tăng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[936] Tăng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[937] Tăng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[938] Bổ sung quân giữa các trận đánh. \n \n Mọi thương vong từ trận trước sẽ được phục hồi trước trận kế tiếp. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 thẻ tộc.
+[939] Bổ sung quân giữa các trận đánh. \n \n Mọi thương vong từ trận trước sẽ được phục hồi trước trận kế tiếp. \n \n Yêu cầu 10 thẻ tộc.
+[940] Tấn công cận chiến
+[941] Tấn công cận chiến
+[942] Tấn công cận chiến
+[943] Tăng hào quang chỉ huy
+[944] Tăng hào quang chỉ huy
+[945] Tăng hào quang chỉ huy
+[946] Tăng hào quang chỉ huy
+[947] Kích hoạt Súng
+[948] Kích hoạt Súng
+[949] Phòng thủ cận chiến được cải thiện. \n \n Gia tăng kỹ năng phòng thủ trước các đòn cận chiến của đơn vị.
+[950] Phòng thủ cận chiến được cải thiện. \n \n Gia tăng kỹ năng phòng thủ trước các đòn cận chiến của đơn vị.
+[951] Đạn dược bổ sung
+[952] Đạn dược bổ sung
+[953] Phát hiện kẻ địch được cải thiện. \n \n Tăng phạm vi phát hiện kẻ địch ẩn nấp của đơn vị này.
+[954] Phát hiện kẻ địch được cải thiện. \n \n Tăng phạm vi phát hiện kẻ địch ẩn nấp của đơn vị này.
+[955] Khả năng Banzai
+[956] Khả năng Banzai
+[957] Tăng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[958] Tăng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[959] Kháng mệt mỏi tăng mạnh. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[960] Kháng mệt mỏi tinh nhuệ. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[961] Sĩ khí được cải thiện. \n \n Đơn vị có sĩ khí cao ít khi tháo chạy trong trận chiến.
+[962] Sĩ khí được cải thiện. \n \n Đơn vị có sĩ khí cao ít khi tháo chạy trong trận chiến.
+[963] Cải thiện mạnh độ chính xác pháo binh cho mọi đơn vị hải quân. \n \n Yêu cầu: 1 điểm Độ chính xác (hải quân) \n
+[964] Cải thiện độ chính xác pháo binh cho mọi đơn vị hải quân. \n \n Yêu cầu: Độ chính xác \n
+[965] Cải thiện độ chính xác pháo binh cho mọi đơn vị hải quân. \n \n Yêu cầu: Kích hoạt Súng \n
+[966] Tốc độ được cải thiện. \n \n Tăng tốc độ di chuyển của Hóa thân và đội cận vệ. \n
+[967] Tốc độ được cải thiện. \n \n Tăng tốc độ di chuyển của Hóa thân và đội cận vệ. \n
+[968] Thưởng xung phong tinh nhuệ. \n \n Gia tăng sức mạnh cận chiến khi đơn vị xung phong vào kẻ địch. \n \n Yêu cầu 2 điểm Thưởng xung phong cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 thẻ tộc.
+[969] Thưởng xung phong tinh nhuệ. \n \n Gia tăng sức mạnh cận chiến khi đơn vị xung phong vào kẻ địch. \n \n Yêu cầu 10 thẻ tộc.
+[970] Thưởng xung phong huyền thoại. \n \n Gia tăng sức mạnh cận chiến khi đơn vị xung phong vào kẻ địch. \n \n Yêu cầu 10 thẻ tộc.
+[971] Bổ sung quân
+[972] Bổ sung quân
+[973] Tốc độ nạp đạn
+[974] Tốc độ nạp đạn
+[975] Tốc độ nạp đạn
+[976] Tốc độ nạp đạn
+[977] Tốc độ nạp đạn
+[978] Tốc độ nạp đạn
+[979] Khả năng Ẩn thân. \n \n Khi kích hoạt, đơn vị có thể giữ trạng thái ẩn khi chạy trong thời gian ngắn. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 thẻ tộc, đã chọn 8 kỹ năng khác và thuộc gia tộc chuyên về cung.
+[980] Khả năng Ẩn thân. \n \n Khi kích hoạt, đơn vị có thể giữ trạng thái ẩn khi chạy trong thời gian ngắn. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 thẻ tộc, đã chọn 8 kỹ năng khác và thuộc gia tộc chuyên về cung.
+[981] Phòng thủ cận chiến
+[982] Phòng thủ cận chiến
+[983] Phòng thủ cận chiến
+[984] Tốc độ tăng mạnh. \n \n Gia tăng tốc độ di chuyển của đơn vị.
+[985] Tốc độ được cải thiện. \n \n Gia tăng tốc độ di chuyển của đơn vị.
+[986] Tốc độ được cải thiện. \n \n Gia tăng tốc độ di chuyển của đơn vị.
+[987] Hành quân thần tốc
+[988] Hành quân thần tốc
+[989] Hành quân thần tốc
+[990] Sát thương cung
+[991] Sát thương cung
+[992] Phát hiện kẻ địch được cải thiện. \n \n Tăng phạm vi phát hiện kẻ địch ẩn nấp của đơn vị này.
+[993] Phát hiện kẻ địch được cải thiện. \n \n Tăng phạm vi phát hiện kẻ địch ẩn nấp của đơn vị này.
+[994] Huấn luyện Kisho. \n \n Trong giai đoạn triển khai, đơn vị có thể triển khai ngoài khu vực bố trí. \n \n Không thể triển khai quá gần công trình trọng yếu. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 thẻ tộc, đã chọn 8 kỹ năng khác và thuộc gia tộc chuyên về cung.
+[995] Huấn luyện Kisho. \n \n Trong giai đoạn triển khai, đơn vị có thể triển khai ngoài khu vực bố trí. \n \n Không thể triển khai quá gần công trình trọng yếu. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 thẻ tộc, đã chọn 8 kỹ năng khác và thuộc gia tộc chuyên về cung.
+[996] Giáp
+[997] Giáp
+[998] Giáp
+[999] Khả năng Giữ Vững Trận Tuyến. \n \n Khi kích hoạt, tăng phòng thủ cận chiến cho đơn vị và tối đa 3 đơn vị lân cận, đồng thời cho họ sĩ khí không thể bị phá vỡ trong thời gian ngắn. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 thẻ tộc, đã chọn 8 kỹ năng khác và thuộc gia tộc chuyên về kỵ binh.

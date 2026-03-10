@@ -1,2 +1,100 @@
-# Dán response từ Gemini chat vào đây (xóa dòng này)
-# File: avatar_skills.loc.tsv — Chunk 15/21
+[1400] Tốc độ
+[1401] Tốc độ
+[1402] Cải thiện tấn công cận chiến. \n \n Tăng kỹ năng tấn công cận chiến của đơn vị.
+[1403] Sát thương cung
+[1404] Cải thiện tấn công cận chiến. \n \n Tăng kỹ năng tấn công cận chiến của đơn vị.
+[1405] Sát thương cung
+[1406] Khả năng Banzai. \n \n Khi kích hoạt, tăng mạnh tấn công cận chiến và thưởng xung phong của đơn vị, đồng thời ban cho họ sĩ khí bất khuất trong thời gian ngắn. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 Clan Token, đã chọn 8 kỹ năng khác và phải thuộc gia tộc chuyên môn giáo.
+[1407] Khả năng Banzai. \n \n Khi kích hoạt, tăng mạnh tấn công cận chiến và thưởng xung phong của đơn vị, đồng thời ban cho họ sĩ khí bất khuất trong thời gian ngắn. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 Clan Token, đã chọn 8 kỹ năng khác và phải thuộc gia tộc chuyên môn giáo.
+[1408] Tăng mạnh sát thương đạn bắn \n \n Lượng sát thương do vũ khí tầm xa của đơn vị gây ra được tăng lên.
+[1409] Tăng sát thương đạn bắn \n \n Lượng sát thương do vũ khí tầm xa của đơn vị gây ra được tăng lên.
+[1410] Tăng sát thương đạn bắn \n \n Lượng sát thương do vũ khí tầm xa của đơn vị gây ra được tăng lên.
+[1411] Bổ sung quân
+[1412] Bổ sung quân
+[1413] Kháng mệt mỏi tinh nhuệ. \n \n Giảm tốc độ đơn vị bị mệt mỏi. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu. \n \n Yêu cầu 2 điểm trong Kháng Mệt Mỏi cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 Clan Token.
+[1414] Kháng mệt mỏi tinh nhuệ. \n \n Giảm tốc độ đơn vị bị mệt mỏi. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu. \n \n Yêu cầu 10 Clan Token.
+[1415] Kháng mệt mỏi huyền thoại. \n \n Giảm tốc độ đơn vị bị mệt mỏi. \n \n Mệt mỏi làm giảm tốc độ, sĩ khí và khả năng chiến đấu. \n \n Yêu cầu 10 Clan Token.
+[1416] Tốc độ nạp đạn tinh nhuệ. \n \n Tăng tốc độ khai hỏa của đơn vị. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 Clan Token.
+[1417] Tốc độ nạp đạn tinh nhuệ. \n \n Tăng tốc độ khai hỏa của đơn vị. \n \n Yêu cầu 2 điểm trong Tốc Độ Nạp Đạn cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 Clan Token.
+[1418] Tốc độ nạp đạn
+[1419] Tốc độ nạp đạn
+[1420] Tốc độ nạp đạn
+[1421] Tốc độ
+[1422] Kháng mệt mỏi
+[1423] Tốc độ
+[1424] Tốc độ
+[1425] Kháng mệt mỏi
+[1426] Tốc độ
+[1427] Kháng mệt mỏi
+[1428] Sát thương cung
+[1429] Sát thương cung
+[1430] Kích hoạt khả năng Banzai. \n \n Khi kích hoạt, tăng tấn công cận chiến và thưởng xung phong cho hóa thân và đội cận vệ, đồng thời ban sĩ khí bất khuất trong thời gian ngắn. \n \n Yêu cầu 2 điểm trong kỹ năng Xung Phong. \n
+[1431] Kích hoạt khả năng Banzai. \n \n Khi kích hoạt, tăng tấn công cận chiến và thưởng xung phong cho hóa thân và đội cận vệ, đồng thời ban sĩ khí bất khuất trong thời gian ngắn. \n \n Yêu cầu 2 điểm trong kỹ năng Xung Phong. \n
+[1432] Tốc độ nạp đạn
+[1433] Tốc độ nạp đạn
+[1434] Khả năng Bắn Nhanh. \n \n Khi kích hoạt, tăng mạnh tốc độ nạp đạn trong thời gian ngắn. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 Clan Token.
+[1435] Khả năng Bắn Nhanh. \n \n Khi kích hoạt, tăng mạnh tốc độ nạp đạn trong thời gian ngắn. \n \n Yêu cầu 10 Clan Token.
+[1436] Tốc độ nạp đạn huyền thoại. \n \n Tăng tốc độ khai hỏa của đơn vị. \n\n Yêu cầu 20 Clan Token.
+[1437] Tốc độ nạp đạn huyền thoại. \n \n Tăng tốc độ khai hỏa của đơn vị. \n \n Đơn vị phải đạt cấp 9 và đã học 8 kỹ năng khác. \n \n Yêu cầu 20 Clan Token.
+[1438] Tăng mạnh giáp. \n \n Tăng phòng thủ cho hóa thân và đội cận vệ trước cả tấn công cận chiến và tấn công tầm xa. \n
+[1439] Cải thiện giáp. \n \n Tăng phòng thủ cho hóa thân và đội cận vệ trước cả tấn công cận chiến và tấn công tầm xa. \n \n Yêu cầu 1 điểm trong Phòng Thủ Cận Chiến \n
+[1440] Cải thiện giáp. \n \n Tăng phòng thủ cho hóa thân và đội cận vệ trước cả tấn công cận chiến và tấn công tầm xa. \n \n Yêu cầu 1 điểm trong Phòng Thủ Cận Chiến. \n
+[1441] Mũi tên huýt sáo. \n \n Khi kích hoạt, mũi tên huýt sáo sẽ làm giảm sĩ khí, tấn công cận chiến và tốc độ nạp đạn của đơn vị địch bị nhắm tới.
+[1442] Mũi tên huýt sáo. \n \n Khi kích hoạt, mũi tên huýt sáo sẽ làm giảm sĩ khí, tấn công cận chiến và tốc độ nạp đạn của đơn vị địch bị nhắm tới.
+[1443] Độ chính xác
+[1444] Độ chính xác
+[1445] Độ chính xác
+[1446] Độ chính xác
+[1447] Tấn công cận chiến
+[1448] Tấn công cận chiến
+[1449] Tấn công cận chiến
+[1450] Sĩ khí
+[1451] Sĩ khí
+[1452] Mũi tên huýt sáo
+[1453] Mũi tên huýt sáo
+[1454] Cải thiện độ chính xác. \n \n Đơn vị bắn chính xác hơn.
+[1455] Cải thiện độ chính xác \n \n Đơn vị bắn chính xác hơn.
+[1456] Tăng mạnh độ chính xác \n \n Đơn vị bắn chính xác hơn.
+[1457] Cải thiện sĩ khí. \n \n Đơn vị có sĩ khí cao sẽ ít bỏ chạy trong trận đánh.
+[1458] Cải thiện sĩ khí. \n \n Đơn vị có sĩ khí cao sẽ ít bỏ chạy trong trận đánh.
+[1459] Cải thiện tốc độ. \n \n Tăng tốc độ di chuyển của đơn vị.
+[1460] Cải thiện tốc độ. \n \n Tăng tốc độ di chuyển của đơn vị.
+[1461] Tăng mạnh tốc độ. \n \n Tăng tốc độ di chuyển của đơn vị.
+[1462] Tăng tốc độ chiếm các công trình trọng yếu trong trận đánh trên bộ. \n \n Yêu cầu: Hành Quân Nhanh \n
+[1463] Tăng tốc độ chiếm các công trình trọng yếu trong trận đánh trên bộ. \n \n Yêu cầu: Hành Quân Nhanh \n
+[1464] Tăng mạnh tốc độ chiếm các công trình trọng yếu trong trận đánh trên bộ. \n \n Yêu cầu: 1 điểm trong Chiếm Nhanh \n
+[1465] Chiếm nhanh \n (trên bộ)
+[1466] Chiếm nhanh \n (trên bộ)
+[1467] Chiếm nhanh \n (trên bộ)
+[1468] Cải thiện thưởng xung phong. \n \n Tăng thưởng cận chiến khi đơn vị xung phong vào kẻ địch.
+[1469] Cải thiện thưởng xung phong. \n \n Tăng thưởng cận chiến khi đơn vị xung phong vào kẻ địch.
+[1470] Kháng mệt mỏi
+[1471] Kháng mệt mỏi
+[1472] Kháng mệt mỏi
+[1473] Sĩ khí
+[1474] Sĩ khí
+[1475] Sĩ khí
+[1476] Độ chính xác \n (bộ binh súng trường nhẹ)
+[1477] Độ chính xác \n (bộ binh súng trường nhẹ)
+[1478] Độ chính xác \n (bộ binh súng trường nhẹ)
+[1479] Cải thiện sĩ khí. \n \n Đơn vị có sĩ khí cao sẽ ít bỏ chạy trong trận đánh.
+[1480] Cải thiện sĩ khí. \n \n Đơn vị có sĩ khí cao sẽ ít bỏ chạy trong trận đánh.
+[1481] Tăng mạnh sĩ khí. \n \n Đơn vị có sĩ khí cao sẽ ít bỏ chạy trong trận đánh.
+[1482] Tấn công cận chiến
+[1483] Tấn công cận chiến
+[1484] Tấn công cận chiến
+[1485] Bổ sung quân giữa các trận đánh. \n \n Mọi thương vong từ trận trước sẽ được phục hồi trước trận tiếp theo. \n \n Yêu cầu 10 Clan Token.
+[1486] Bổ sung quân giữa các trận đánh. \n \n Mọi thương vong từ trận trước sẽ được phục hồi trước trận tiếp theo. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 Clan Token.
+[1487] Tăng mạnh tốc độ nạp đạn. \n \n Tăng tốc độ khai hỏa của đơn vị.
+[1488] Cải thiện tốc độ nạp đạn. \n \n Tăng tốc độ khai hỏa của đơn vị.
+[1489] Cải thiện tốc độ nạp đạn. \n \n Tăng tốc độ khai hỏa của đơn vị.
+[1490] Cho phép hóa thân huấn luyện đơn vị hải quân. \n
+[1491] Cho phép hóa thân huấn luyện đơn vị hải quân. \n
+[1492] Cải thiện tốc độ nạp đạn. \n \n Tăng tốc độ khai hỏa của đơn vị.
+[1493] Cải thiện tốc độ nạp đạn. \n \n Tăng tốc độ khai hỏa của đơn vị.
+[1494] Tăng mạnh tốc độ nạp đạn. \n \n Tăng tốc độ khai hỏa của đơn vị.
+[1495] Tốc độ nạp đạn
+[1496] Tốc độ nạp đạn
+[1497] Tốc độ nạp đạn
+[1498] Tăng mạnh phòng thủ cận chiến. \n \n Tăng khả năng phòng thủ cận chiến cho hóa thân và đội cận vệ.
+[1499] Phòng thủ cận chiến tinh nhuệ. \n \n Tăng khả năng phòng thủ cận chiến cho hóa thân và đội cận vệ.

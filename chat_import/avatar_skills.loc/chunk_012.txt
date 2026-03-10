@@ -1,2 +1,100 @@
-# Dán response từ Gemini chat vào đây (xóa dòng này)
-# File: avatar_skills.loc.tsv — Chunk 12/21
+[1100] Độ chính xác
+[1101] Tốc độ
+[1102] Độ chính xác
+[1103] Hơi thở thứ hai
+[1104] Độ chính xác
+[1105] Hơi thở thứ hai
+[1106] Tốc độ
+[1107] Độ chính xác
+[1108] Độ chính xác
+[1109] Độ chính xác
+[1110] Hù dọa kẻ địch
+[1111] Hù dọa kẻ địch
+[1112] Tấn công cận chiến tinh nhuệ. \n \n Gia tăng kỹ năng tấn công cận chiến của đơn vị. \n \n Yêu cầu 2 điểm Tấn công cận chiến cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 thẻ tộc.
+[1113] Tấn công cận chiến tinh nhuệ. \n \n Gia tăng kỹ năng tấn công cận chiến của đơn vị. \n \n Yêu cầu 10 thẻ tộc.
+[1114] Tấn công cận chiến huyền thoại. \n \n Gia tăng kỹ năng tấn công cận chiến của đơn vị. \n \n Yêu cầu 10 thẻ tộc.
+[1115] Tăng tầm bắn
+[1116] Tăng tầm bắn
+[1117] Tốc độ nạp đạn được cải thiện. \n \n Tăng tốc độ khai hỏa của đơn vị.
+[1118] Tốc độ nạp đạn được cải thiện. \n \n Tăng tốc độ khai hỏa của đơn vị.
+[1119] Tốc độ nạp đạn tăng mạnh. \n \n Tăng tốc độ khai hỏa của đơn vị.
+[1120] Thưởng xung phong
+[1121] Thưởng xung phong
+[1122] Tăng sĩ khí toàn quân
+[1123] Tăng sĩ khí toàn quân
+[1124] Tăng sĩ khí toàn quân
+[1125] Oanh kích
+[1126] Oanh kích
+[1127] Đạn dược bổ sung
+[1128] Đạn dược bổ sung
+[1129] Hành quân gấp \n (bộ binh)
+[1130] Hành quân gấp (bộ binh)
+[1131] Hành quân gấp \n (bộ binh)
+[1132] Giảm mạnh thời gian hồi của khả năng Rally. \n \n Khi kích hoạt, Rally sẽ khôi phục trật tự cho các đơn vị đang tháo chạy trong phạm vi hào quang của Hóa thân (đơn vị tan rã không bị ảnh hưởng). \n \n Các đơn vị trong phạm vi nhưng chưa tháo chạy sẽ nhận thưởng sĩ khí khi Rally đang hoạt động. \n \n Yêu cầu: 1 điểm Rally \n
+[1133] Giảm mạnh thời gian hồi của khả năng Rally. \n \n Khi kích hoạt, Rally sẽ khôi phục trật tự cho các đơn vị đang tháo chạy trong phạm vi hào quang của Hóa thân (đơn vị tan rã không bị ảnh hưởng). \n \n Các đơn vị trong phạm vi nhưng chưa tháo chạy sẽ nhận thưởng sĩ khí khi Rally đang hoạt động. \n \n Yêu cầu: 2 điểm Rally \n
+[1134] Giảm thời gian hồi của khả năng Rally. \n \n Khi kích hoạt, Rally sẽ khôi phục trật tự cho các đơn vị đang tháo chạy trong phạm vi hào quang của Hóa thân (đơn vị tan rã không bị ảnh hưởng). \n \n Các đơn vị trong phạm vi nhưng chưa tháo chạy sẽ nhận thưởng sĩ khí khi Rally đang hoạt động. \n \n Yêu cầu: Cải thiện hào quang.
+[1135] Giảm thời gian hồi của khả năng Rally. \n \n Khi kích hoạt, Rally sẽ khôi phục trật tự cho các đơn vị đang tháo chạy trong phạm vi hào quang của Hóa thân (đơn vị tan rã không bị ảnh hưởng). \n \n Các đơn vị trong phạm vi nhưng chưa tháo chạy sẽ nhận thưởng sĩ khí khi Rally đang hoạt động. \n \n Yêu cầu: Cải thiện hào quang.
+[1136] Tăng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[1137] Tăng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[1138] Kháng mệt mỏi tăng mạnh. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[1139] Rally
+[1140] Rally
+[1141] Rally
+[1142] Rally
+[1143] Kháng mệt mỏi tăng mạnh. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[1144] Tăng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[1145] Tăng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[1146] Phát hiện kẻ địch
+[1147] Phát hiện kẻ địch
+[1148] Phát hiện kẻ địch
+[1149] Tăng mạnh phạm vi trinh sát của toàn quân. \n Yêu cầu: 2 điểm Trinh sát \n
+[1150] Tăng mạnh phạm vi trinh sát của toàn quân. \n Yêu cầu: 1 điểm Trinh sát \n
+[1151] Tăng phạm vi trinh sát của toàn quân. \n
+[1152] Tăng phạm vi trinh sát của toàn quân. \n
+[1153] Tăng mạnh phạm vi trinh sát của toàn quân. \n Yêu cầu: 3 điểm Trinh sát \n
+[1154] Tốc độ tinh nhuệ. \n \n Gia tăng tốc độ di chuyển của đơn vị. \n \n Yêu cầu 10 thẻ tộc.
+[1155] Tốc độ tinh nhuệ. \n \n Gia tăng tốc độ di chuyển của đơn vị. \n \n Yêu cầu 2 điểm Tốc độ cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 thẻ tộc.
+[1156] Tăng tầm bắn
+[1157] Tăng tầm bắn
+[1158] Tấn công cận chiến được cải thiện. \n \n Gia tăng kỹ năng tấn công cận chiến của đơn vị.
+[1159] Tấn công cận chiến được cải thiện. \n \n Gia tăng kỹ năng tấn công cận chiến của đơn vị.
+[1160] Xuyên giáp
+[1161] Xuyên giáp
+[1162] Tấn công cận chiến được cải thiện. \n \n Gia tăng kỹ năng tấn công cận chiến của đơn vị.
+[1163] Tấn công cận chiến được cải thiện. \n \n Gia tăng kỹ năng tấn công cận chiến của đơn vị. \n \n Yêu cầu 10 thẻ tộc.
+[1164] Độ chính xác tăng mạnh. \n \n Đơn vị ném hỏa cầu chính xác hơn.
+[1165] Độ chính xác được cải thiện. \n \n Đơn vị ném hỏa cầu chính xác hơn.
+[1166] Độ chính xác được cải thiện. \n \n Đơn vị ném hỏa cầu chính xác hơn.
+[1167] Tấn công cận chiến tăng mạnh. \n \n Gia tăng kỹ năng tấn công cận chiến của đơn vị.
+[1168] Tấn công cận chiến được cải thiện. \n \n Gia tăng kỹ năng tấn công cận chiến của đơn vị.
+[1169] Tấn công cận chiến được cải thiện. \n \n Gia tăng kỹ năng tấn công cận chiến của đơn vị.
+[1170] Tất cả đơn vị không dùng thuốc súng của bạn nhận thưởng xung phong. \n
+[1171] Tất cả đơn vị không dùng thuốc súng của bạn nhận thưởng xung phong. \n
+[1172] Tấn công cận chiến
+[1173] Tấn công cận chiến
+[1174] Khả năng Kneel Fire. \n \n Mở khóa kỹ năng Kneel Fire, giúp tăng mạnh tốc độ bắn của đơn vị. \n \n Đơn vị phải đạt cấp 9 và đã học 8 kỹ năng khác. \n \n Phải thuộc gia tộc chuyên môn Mạc phủ. \n \n Yêu cầu 20 thẻ tộc.
+[1175] Khả năng Kneel Fire. \n \n Mở khóa kỹ năng Kneel Fire, giúp tăng mạnh tốc độ bắn của đơn vị. \n \n Đơn vị phải đạt cấp 9 và đã học 8 kỹ năng khác. \n \n Phải thuộc gia tộc chuyên môn Mạc phủ. \n \n Yêu cầu 20 thẻ tộc.
+[1176] Tấn công cận chiến
+[1177] Tấn công cận chiến
+[1178] Tấn công cận chiến
+[1179] Tấn công cận chiến
+[1180] Tấn công cận chiến
+[1181] Tấn công cận chiến
+[1182] Tấn công cận chiến
+[1183] Kháng mệt mỏi huyền thoại. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[1184] Kháng mệt mỏi tăng mạnh. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[1185] Kháng mệt mỏi tinh nhuệ. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[1186] Tăng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[1187] Tăng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[1188] Phạm vi trinh sát
+[1189] Phạm vi trinh sát
+[1190] Phạm vi trinh sát
+[1191] Tăng thưởng chống kỵ binh. \n \n Gia tăng kỹ năng cận chiến của đơn vị khi đối đầu kỵ binh.
+[1192] Tăng thưởng chống kỵ binh. \n \n Gia tăng kỹ năng cận chiến của đơn vị khi đối đầu kỵ binh.
+[1193] Tăng mạnh thưởng chống kỵ binh. \n \n Gia tăng kỹ năng cận chiến của đơn vị khi đối đầu kỵ binh.
+[1194] Phạm vi trinh sát tăng mạnh. \n \n Tăng khoảng cách phát hiện kẻ địch ẩn nấp của đơn vị này.
+[1195] Phạm vi trinh sát được cải thiện. \n \n Tăng khoảng cách phát hiện kẻ địch ẩn nấp của đơn vị này.
+[1196] Phạm vi trinh sát được cải thiện. \n \n Tăng khoảng cách phát hiện kẻ địch ẩn nấp của đơn vị này.
+[1197] Giáp soái hạm huyền thoại. \n \n Thân tàu soái hạm của Hóa thân được gia cố để tăng khả năng bảo vệ. \n \n Yêu cầu: 3 điểm Giáp soái hạm \n
+[1198] Giáp soái hạm được cải thiện. \n \n Thân tàu soái hạm của Hóa thân được gia cố để tăng khả năng bảo vệ. \n
+[1199] Giáp soái hạm được cải thiện. \n \n Thân tàu soái hạm của Hóa thân được gia cố để tăng khả năng bảo vệ. \n

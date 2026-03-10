@@ -1,2 +1,100 @@
-# Dán response từ Gemini chat vào đây (xóa dòng này)
-# File: avatar_skills.loc.tsv — Chunk 13/21
+[1200] Giáp soái hạm được cải thiện vượt bậc. \n \n Thân tàu soái hạm của hóa thân được gia cố nhằm tăng cường khả năng phòng hộ. \n \n Yêu cầu: 1 điểm trong Giáp Soái Hạm \n
+[1201] Giáp soái hạm tinh nhuệ. \n \n Thân tàu soái hạm của hóa thân được gia cố nhằm tăng cường khả năng phòng hộ. \n \n Yêu cầu: 2 điểm trong Giáp Soái Hạm \n
+[1202] Khả năng Banzai
+[1203] Khả năng Banzai
+[1204] Tăng sĩ khí toàn quân
+[1205] Tăng sĩ khí toàn quân
+[1206] Gây khiếp sợ kẻ địch
+[1207] Gây khiếp sợ kẻ địch
+[1208] Tăng sĩ khí toàn quân. \n \n Danh tiếng của hóa thân truyền cảm hứng cho toàn quân, gia tăng sĩ khí cho mọi đơn vị. \n
+[1209] Tăng sĩ khí toàn quân. \n \n Danh tiếng của hóa thân truyền cảm hứng cho toàn quân, gia tăng sĩ khí cho mọi đơn vị. \n
+[1210] Khả năng Banzai. \n \n Khi kích hoạt, tăng mạnh tấn công cận chiến và thưởng xung phong của đơn vị, đồng thời ban cho họ sĩ khí bất khuất trong thời gian ngắn. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 Clan Token, đã chọn 8 kỹ năng khác và phải thuộc gia tộc chuyên môn kiếm.
+[1211] Khả năng Banzai. \n \n Khi kích hoạt, tăng mạnh tấn công cận chiến và thưởng xung phong của đơn vị, đồng thời ban cho họ sĩ khí bất khuất trong thời gian ngắn. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 Clan Token, đã chọn 8 kỹ năng khác và phải thuộc gia tộc chuyên môn kiếm.
+[1212] Tốc độ nạp đạn
+[1213] Tốc độ nạp đạn
+[1214] Nạp đạn
+[1215] Nạp đạn
+[1216] Nạp đạn
+[1217] Giáp
+[1218] Giáp
+[1219] Cải thiện độ chính xác. \n \n Đơn vị bắn chính xác hơn.
+[1220] Cải thiện độ chính xác \n \n Đơn vị bắn chính xác hơn.
+[1221] Khả năng Hạc Lượn. \n \n Khi kích hoạt, đơn vị sẽ di chuyển theo vòng tròn và duy trì hỏa lực liên tục vào mục tiêu.
+[1222] Tăng mạnh độ chính xác \n \n Đơn vị bắn chính xác hơn.
+[1223] Khả năng Hạc Lượn. \n \n Khi kích hoạt, đơn vị sẽ di chuyển theo vòng tròn và duy trì hỏa lực liên tục vào mục tiêu.
+[1224] Xung phong
+[1225] Xung phong
+[1226] Xung phong
+[1227] Cải thiện giáp. \n \n Tăng phòng thủ trước cả tấn công cận chiến và tấn công tầm xa. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 Clan Token.
+[1228] Cải thiện giáp. \n \n Tăng phòng thủ trước cả tấn công cận chiến và tấn công tầm xa. \n \n Yêu cầu 10 Clan Token.
+[1229] Trinh sát địch tinh nhuệ. \n \n Tăng phạm vi phát hiện kẻ địch ẩn nấp.
+[1230] Tăng mạnh khả năng trinh sát địch. \n \n Tăng phạm vi phát hiện kẻ địch ẩn nấp.
+[1231] Tăng mạnh thưởng xung phong. \n \n Tăng thưởng cận chiến khi đơn vị xung phong vào kẻ địch.
+[1232] Cải thiện trinh sát địch. \n \n Tăng phạm vi phát hiện kẻ địch ẩn nấp.
+[1233] Cải thiện thưởng xung phong. \n \n Tăng thưởng cận chiến khi đơn vị xung phong vào kẻ địch.
+[1234] Cải thiện trinh sát địch. \n \n Tăng phạm vi phát hiện kẻ địch ẩn nấp.
+[1235] Cải thiện thưởng xung phong. \n \n Tăng thưởng cận chiến khi đơn vị xung phong vào kẻ địch.
+[1236] Bổ sung quân
+[1237] Bổ sung quân
+[1238] Cải thiện tốc độ. \n \n Tăng tốc độ di chuyển của đơn vị.
+[1239] Cải thiện tốc độ. \n \n Tăng tốc độ di chuyển của đơn vị.
+[1240] Tăng mạnh tốc độ. \n \n Tăng tốc độ di chuyển của đơn vị.
+[1241] Tăng tầm bắn
+[1242] Tăng tầm bắn
+[1243] Tăng tầm bắn
+[1244] Tầm bắn
+[1245] Kích hoạt khả năng Khích Lệ. \n \n Khi kích hoạt, hóa thân có thể tăng sĩ khí, tấn công cận chiến và độ chính xác cho một đơn vị. \n
+[1246] Kích hoạt khả năng Khích Lệ. \n \n Khi kích hoạt, hóa thân có thể tăng sĩ khí, tấn công cận chiến và độ chính xác cho một đơn vị. \n
+[1247] Giảm thời gian hồi của khả năng Khích Lệ. \n \n Khi kích hoạt, hóa thân có thể tăng sĩ khí, tấn công cận chiến và độ chính xác cho một đơn vị. \n
+[1248] Bổ sung quân
+[1249] Bổ sung quân
+[1250] Bổ sung quân giữa các trận đánh. \n \n Mọi thương vong từ trận trước sẽ được phục hồi trước trận tiếp theo. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 Clan Token.
+[1251] Bổ sung quân giữa các trận đánh. \n \n Mọi thương vong từ trận trước sẽ được phục hồi trước trận tiếp theo. \n \n Yêu cầu 10 Clan Token.
+[1252] Tăng mạnh sĩ khí. \n \n Đơn vị có sĩ khí cao sẽ ít bỏ chạy trong trận đánh.
+[1253] Sĩ khí tinh nhuệ. \n \n Đơn vị có sĩ khí cao sẽ ít bỏ chạy trong trận đánh.
+[1254] Cải thiện sĩ khí. \n \n Đơn vị có sĩ khí cao sẽ ít bỏ chạy trong trận đánh.
+[1255] Cải thiện sĩ khí. \n \n Đơn vị có sĩ khí cao sẽ ít bỏ chạy trong trận đánh.
+[1256] Kháng mệt mỏi
+[1257] Kháng mệt mỏi
+[1258] Kháng mệt mỏi
+[1259] Cải thiện phòng thủ cận chiến. \n \n Tăng khả năng phòng thủ cận chiến cho hóa thân và đội cận vệ. \n \n Yêu cầu: Xung phong \n
+[1260] Cải thiện phòng thủ cận chiến. \n \n Tăng khả năng phòng thủ cận chiến cho hóa thân và đội cận vệ. \n \n Yêu cầu: Xung phong \n
+[1261] Tăng mạnh phòng thủ cận chiến. \n \n Tăng khả năng phòng thủ cận chiến cho hóa thân và đội cận vệ. \n \n Yêu cầu: 1 điểm trong Phòng Thủ Cận Chiến \n
+[1262] Phòng thủ cận chiến tinh nhuệ. \n \n Tăng khả năng phòng thủ cận chiến cho hóa thân và đội cận vệ. \n \n Yêu cầu: 2 điểm trong Phòng Thủ Cận Chiến \n
+[1263] Tốc độ
+[1264] Tốc độ
+[1265] Đạn dược bổ sung
+[1266] Đạn dược bổ sung
+[1267] Tốc độ
+[1268] Phòng thủ cận chiến
+[1269] Phòng thủ cận chiến
+[1270] Phòng thủ cận chiến
+[1271] Phòng thủ cận chiến
+[1272] Nạp đạn \n (hải quân)
+[1273] Nạp đạn \n (hải quân)
+[1274] Nạp đạn \n (hải quân)
+[1275] Khả năng Banzai
+[1276] Khả năng Banzai
+[1277] Trinh sát địch
+[1278] Trinh sát địch
+[1279] Trinh sát địch
+[1280] Tăng mạnh tốc độ nạp đạn kỵ binh. \n \n Tăng tốc độ nạp súng cho các đơn vị kỵ binh của bạn. \n \n Yêu cầu: 1 điểm trong Nạp Đạn (kỵ binh) \n
+[1281] Cải thiện tốc độ nạp đạn kỵ binh. \n \n Tăng tốc độ nạp súng cho các đơn vị kỵ binh của bạn. \n \n Yêu cầu: Huấn luyện viên súng \n
+[1282] Cải thiện tốc độ nạp đạn kỵ binh. \n \n Tăng tốc độ nạp súng cho các đơn vị kỵ binh của bạn. \n \n Yêu cầu: Nạp Đạn (bộ binh tuyến) \n
+[1283] Khả năng Banzai. \n \n Khi kích hoạt, tăng mạnh tấn công cận chiến và thưởng xung phong của đơn vị, đồng thời ban cho họ sĩ khí bất khuất trong thời gian ngắn. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 Clan Token, đã chọn 8 kỹ năng khác và phải thuộc gia tộc chuyên môn kỵ binh.
+[1284] Khả năng Banzai. \n \n Khi kích hoạt, tăng mạnh tấn công cận chiến và thưởng xung phong của đơn vị, đồng thời ban cho họ sĩ khí bất khuất trong thời gian ngắn. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Cần 20 Clan Token, đã chọn 8 kỹ năng khác và phải thuộc gia tộc chuyên môn kỵ binh.
+[1285] Độ chính xác huyền thoại. \n \n Đơn vị bắn chính xác hơn. \n \n Yêu cầu 2 điểm trong Độ Chính Xác cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 Clan Token.
+[1286] Độ chính xác huyền thoại. \n \n Đơn vị bắn chính xác hơn. \n \n Yêu cầu 10 Clan Token.
+[1287] Giáp
+[1288] Giáp
+[1289] Kháng mệt mỏi
+[1290] Kháng mệt mỏi
+[1291] Kháng mệt mỏi
+[1292] Giáp
+[1293] Giáp
+[1294] Xung phong
+[1295] Xung phong
+[1296] Xung phong
+[1297] Xung phong
+[1298] Xung phong
+[1299] Đội ngũ tinh luyện

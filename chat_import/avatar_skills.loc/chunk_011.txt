@@ -1,2 +1,100 @@
-# Dán response từ Gemini chat vào đây (xóa dòng này)
-# File: avatar_skills.loc.tsv — Chunk 11/21
+[1000] Khả năng Giữ Vững Trận Tuyến. \n \n Khi kích hoạt, tăng phòng thủ cận chiến cho đơn vị và tối đa 3 đơn vị lân cận, đồng thời cho họ sĩ khí không thể bị phá vỡ trong thời gian ngắn. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 thẻ tộc, đã chọn 8 kỹ năng khác và thuộc gia tộc chuyên về kỵ binh.
+[1001] Tăng đạn dược. \n \n Binh sĩ của đơn vị này mang theo lượng đạn dược nhiều hơn đáng kể so với thông thường. \n \n Đơn vị phải đạt cấp 9 và đã học 8 kỹ năng khác. \n \n Phải thuộc gia tộc chuyên môn Hoàng Gia. \n \n Yêu cầu 20 thẻ tộc.
+[1002] Tăng đạn dược. \n \n Binh sĩ của đơn vị này mang theo lượng đạn dược nhiều hơn đáng kể so với thông thường. \n \n Yêu cầu 20 thẻ tộc.
+[1003] Tốc độ nạp đạn
+[1004] Tốc độ nạp đạn
+[1005] Khả năng Banzai
+[1006] Khả năng Banzai
+[1007] Tốc độ nạp đạn
+[1008] Tốc độ nạp đạn
+[1009] Tốc độ nạp đạn tinh nhuệ. \n \n Tăng tốc độ khai hỏa của đơn vị. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 thẻ tộc.
+[1010] Tốc độ nạp đạn tinh nhuệ. \n \n Tăng tốc độ khai hỏa của đơn vị. \n \n Yêu cầu 2 điểm Tốc độ nạp đạn cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 thẻ tộc.
+[1011] Đạn dược bổ sung
+[1012] Đạn dược bổ sung
+[1013] Tốc độ
+[1014] Tốc độ
+[1015] Tốc độ
+[1016] Tốc độ
+[1017] Tốc độ
+[1018] Thưởng xung phong được cải thiện. \n \n Gia tăng sức mạnh cận chiến khi đơn vị xung phong vào kẻ địch.
+[1019] Thưởng xung phong được cải thiện. \n \n Gia tăng sức mạnh cận chiến khi đơn vị xung phong vào kẻ địch.
+[1020] Xung phong
+[1021] Xung phong
+[1022] Xung phong
+[1023] Sĩ khí tăng mạnh. \n \n Đơn vị có sĩ khí cao ít khi tháo chạy trong trận chiến. \n \n Yêu cầu 10 thẻ tộc.
+[1024] Sĩ khí tăng mạnh. \n \n Đơn vị có sĩ khí cao ít khi tháo chạy trong trận chiến. \n \n Yêu cầu 1 điểm Sĩ khí cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 thẻ tộc.
+[1025] Sĩ khí tinh nhuệ. \n \n Đơn vị có sĩ khí cao ít khi tháo chạy trong trận chiến. \n \n Yêu cầu 10 thẻ tộc.
+[1026] Sĩ khí Bushido
+[1027] Sĩ khí Bushido
+[1028] Tốc độ được cải thiện. \n \n Gia tăng tốc độ di chuyển của đơn vị.
+[1029] Tốc độ được cải thiện. \n \n Gia tăng tốc độ di chuyển của đơn vị.
+[1030] Tốc độ tăng mạnh. \n \n Gia tăng tốc độ di chuyển của đơn vị.
+[1031] Phát hiện kẻ địch
+[1032] Phát hiện kẻ địch
+[1033] Thưởng xung phong huyền thoại. \n \n Gia tăng sức mạnh cận chiến khi đơn vị xung phong vào kẻ địch. \n \n Yêu cầu 10 thẻ tộc.
+[1034] Thưởng xung phong tinh nhuệ. \n \n Gia tăng sức mạnh cận chiến khi đơn vị xung phong vào kẻ địch. \n \n Yêu cầu 2 điểm Thưởng xung phong cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 thẻ tộc.
+[1035] Thưởng xung phong tinh nhuệ. \n \n Gia tăng sức mạnh cận chiến khi đơn vị xung phong vào kẻ địch. \n \n Yêu cầu 10 thẻ tộc.
+[1036] Tăng tầm bắn
+[1037] Tăng tầm bắn
+[1038] Bổ sung quân giữa các trận đánh. \n \n Mọi thương vong từ trận trước sẽ được phục hồi trước trận kế tiếp. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 thẻ tộc.
+[1039] Bổ sung quân giữa các trận đánh. \n \n Mọi thương vong từ trận trước sẽ được phục hồi trước trận kế tiếp. \n \n Yêu cầu 10 thẻ tộc.
+[1040] Bắn tỉa
+[1041] Bắn tỉa
+[1042] Tăng tầm bắn súng của Hóa thân. \n \n Tầm bắn của Hóa thân và đội cận vệ được gia tăng. \n
+[1043] Tăng tầm bắn súng của Hóa thân. \n \n Tầm bắn của Hóa thân và đội cận vệ được gia tăng. \n \n
+[1044] Tăng mạnh tầm bắn súng của Hóa thân. \n \n Tầm bắn của Hóa thân và đội cận vệ được gia tăng. \n \n Yêu cầu: 1 điểm Tầm bắn \n
+[1045] Độ chính xác
+[1046] Độ chính xác
+[1047] Độ chính xác
+[1048] Tốc độ huyền thoại. \n \n Gia tăng tốc độ di chuyển của Hóa thân và đội cận vệ. \n
+[1049] Tốc độ được cải thiện. \n \n Gia tăng tốc độ di chuyển của Hóa thân và đội cận vệ. \n
+[1050] Tốc độ được cải thiện. \n \n Gia tăng tốc độ di chuyển của Hóa thân và đội cận vệ. \n
+[1051] Tốc độ tinh nhuệ. \n \n Gia tăng tốc độ di chuyển của Hóa thân và đội cận vệ. \n
+[1052] Tốc độ tăng mạnh. \n \n Gia tăng tốc độ di chuyển của Hóa thân và đội cận vệ. \n
+[1053] Độ chính xác được cải thiện. \n \n Đơn vị bắn chính xác hơn.
+[1054] Độ chính xác được cải thiện. \n \n Đơn vị bắn chính xác hơn.
+[1055] Độ chính xác tăng mạnh. \n \n Đơn vị bắn chính xác hơn.
+[1056] Độ chính xác tinh nhuệ. \n \n Đơn vị bắn chính xác hơn.
+[1057] Giáp được cải thiện. \n \n Tăng khả năng phòng thủ trước cả đòn cận chiến và tấn công tầm xa. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 thẻ tộc.
+[1058] Giáp được cải thiện. \n \n Tăng khả năng phòng thủ trước cả đòn cận chiến và tấn công tầm xa. \n \n Yêu cầu 10 thẻ tộc.
+[1059] Tốc độ
+[1060] Tốc độ
+[1061] Tốc độ
+[1062] Tốc độ
+[1063] Tốc độ
+[1064] Tăng tầm bắn
+[1065] Tăng tầm bắn
+[1066] Sĩ khí
+[1067] Sĩ khí
+[1068] Sĩ khí
+[1069] Giáp
+[1070] Giáp
+[1071] Giáp
+[1072] Khả năng Banzai. \n \n Khi kích hoạt, tăng tấn công cận chiến và thưởng xung phong của đơn vị, đồng thời cho họ sĩ khí không thể bị phá vỡ trong thời gian ngắn. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 thẻ tộc, đã chọn 8 kỹ năng khác và thuộc gia tộc chuyên về kỵ binh.
+[1073] Khả năng Banzai. \n \n Khi kích hoạt, tăng tấn công cận chiến và thưởng xung phong của đơn vị, đồng thời cho họ sĩ khí không thể bị phá vỡ trong thời gian ngắn. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 thẻ tộc, đã chọn 8 kỹ năng khác và thuộc gia tộc chuyên về kỵ binh.
+[1074] Cải thiện hào quang chỉ huy
+[1075] Cải thiện hào quang chỉ huy
+[1076] Cải thiện hào quang chỉ huy
+[1077] Khả năng Banzai
+[1078] Khả năng Banzai
+[1079] Tăng tầm bắn. \n \n Tầm bắn được gia tăng. \n \n Yêu cầu 20 thẻ tộc.
+[1080] Tăng tầm bắn. \n \n Tầm bắn được gia tăng. \n \n Đơn vị phải đạt cấp 9 và đã học 8 kỹ năng khác. \n \n Phải thuộc gia tộc chuyên môn Hoàng Gia. \n\n Yêu cầu 20 thẻ tộc.
+[1081] Bắn loạt thần tốc
+[1082] Bắn loạt thần tốc
+[1083] Cho phép nhìn thấy quân địch trong giai đoạn triển khai. \n \n Yêu cầu: Trinh sát. \n
+[1084] Cho phép nhìn thấy quân địch trong giai đoạn triển khai. \n \n Yêu cầu: 4 điểm Trinh sát \n
+[1085] Tốc độ được cải thiện. \n \n Gia tăng tốc độ di chuyển của đơn vị.
+[1086] Tăng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[1087] Tốc độ được cải thiện. \n \n Gia tăng tốc độ di chuyển của đơn vị.
+[1088] Tăng kháng mệt mỏi. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[1089] Tốc độ được cải thiện. \n \n Gia tăng tốc độ di chuyển của đơn vị.
+[1090] Kháng mệt mỏi tăng mạnh. \n \n Giảm tốc độ đơn vị bị kiệt sức. \n \n Kiệt sức làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu.
+[1091] Tốc độ được cải thiện. \n \n Gia tăng tốc độ di chuyển của đơn vị.
+[1092] Trinh sát
+[1093] Trinh sát
+[1094] Tốc độ nạp đạn
+[1095] Tốc độ nạp đạn
+[1096] Hóa thân và đội cận vệ nhận thêm thưởng xung phong \n
+[1097] Hóa thân và đội cận vệ nhận thêm thưởng xung phong \n
+[1098] Độ chính xác
+[1099] Tốc độ

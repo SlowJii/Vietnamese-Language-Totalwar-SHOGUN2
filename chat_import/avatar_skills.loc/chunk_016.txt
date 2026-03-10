@@ -1,2 +1,100 @@
-# Dán response từ Gemini chat vào đây (xóa dòng này)
-# File: avatar_skills.loc.tsv — Chunk 16/21
+[1500] Cải thiện Phòng thủ Cận chiến. \n \n Tăng khả năng phòng thủ trước các đòn cận chiến của hóa thân và đội cận vệ. \n
+[1501] Cải thiện Phòng thủ Cận chiến. \n \n Tăng khả năng phòng thủ trước các đòn cận chiến của hóa thân và đội cận vệ. \n
+[1502] Bổ sung quân
+[1503] Bổ sung quân
+[1504] Tăng mạnh Thưởng Xung Phong. \n \n Gia tăng đáng kể thưởng cận chiến khi đơn vị xung phong vào kẻ địch. \n \n Yêu cầu 1 điểm trong kỹ năng Thưởng Xung Phong cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 Thẻ tộc.
+[1505] Tăng mạnh Thưởng Xung Phong. \n \n Gia tăng đáng kể thưởng cận chiến khi đơn vị xung phong vào kẻ địch. \n \n Yêu cầu 10 Thẻ tộc.
+[1506] Tăng Tầm Bắn. \n \n Tầm bắn được gia tăng. \n \n Yêu cầu 10 Thẻ tộc.
+[1507] Tăng Tầm Bắn. \n \n Tầm bắn được gia tăng. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 Thẻ tộc.
+[1508] Phòng thủ Cận chiến
+[1509] Phòng thủ Cận chiến
+[1510] Phòng thủ Cận chiến
+[1511] Phòng thủ Cận chiến
+[1512] Tốc độ Nạp đạn
+[1513] Tốc độ Nạp đạn
+[1514] Tốc độ Nạp đạn
+[1515] Tấn công Cận chiến
+[1516] Tấn công Cận chiến
+[1517] Tấn công Cận chiến
+[1518] Sát thương Bắn xa
+[1519] Sát thương Bắn xa
+[1520] Tối đa ba đơn vị trong phạm vi của công trình trọng yếu sẽ phối hợp để tăng tốc độ chiếm giữ. \n \n Yêu cầu: Double Time (infantry)
+[1521] Tối đa ba đơn vị trong phạm vi của công trình trọng yếu sẽ phối hợp để tăng tốc độ chiếm giữ. \n \n Yêu cầu: Double Time (infantry)
+[1522] Giáp
+[1523] Giáp
+[1524] Chiếm Giữ Phối Hợp
+[1525] Chiếm Giữ Phối Hợp
+[1526] Khiếp Sợ Kẻ Địch Lân Cận. \n \n Kẻ địch ở gần đơn vị sẽ bị giảm sĩ khí. \n \n Hiệu ứng này luôn hoạt động. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 Thẻ tộc, đã chọn 8 kỹ năng khác và thuộc gia tộc chuyên về kiếm.
+[1527] Khiếp Sợ Kẻ Địch Lân Cận. \n \n Kẻ địch ở gần đơn vị sẽ bị giảm sĩ khí. \n \n Hiệu ứng này luôn hoạt động. \n \n Yêu cầu cấp đơn vị: cấp 9. \n \n Yêu cầu 20 Thẻ tộc, đã chọn 8 kỹ năng khác và thuộc gia tộc chuyên về kiếm.
+[1528] Khiếp Sợ Kẻ Địch Lân Cận. \n \n Kẻ địch ở gần hóa thân của bạn sẽ bị giảm sĩ khí. \n \n Hiệu ứng này luôn hoạt động. \n
+[1529] Khiếp Sợ Kẻ Địch Lân Cận. \n \n Kẻ địch ở gần hóa thân của bạn sẽ bị giảm sĩ khí. \n \n Hiệu ứng này luôn hoạt động. \n
+[1530] Khiếp Sợ Kẻ Địch Lân Cận. \n \n Kẻ địch ở gần hóa thân của bạn sẽ bị giảm sĩ khí nhiều hơn. \n \n Hiệu ứng này luôn hoạt động. \n
+[1531] Tăng mạnh Giáp. \n \n Gia tăng phòng thủ của hóa thân và đội cận vệ trước cả đòn cận chiến lẫn bắn xa. \n \n Yêu cầu: 1 điểm trong Giáp \n
+[1532] Cải thiện Giáp. \n \n Gia tăng phòng thủ của hóa thân và đội cận vệ trước cả đòn cận chiến lẫn bắn xa. \n \n Yêu cầu: 2 điểm trong Phòng thủ Cận chiến \n
+[1533] Cải thiện Giáp. \n \n Gia tăng phòng thủ của hóa thân và đội cận vệ trước cả đòn cận chiến lẫn bắn xa. \n \n Yêu cầu: 2 điểm trong Phòng thủ Cận chiến \n
+[1534] Khiếp Sợ Kẻ Địch
+[1535] Khiếp Sợ Kẻ Địch
+[1536] Khiếp Sợ Kẻ Địch
+[1537] Cải thiện Thưởng Xung Phong. \n \n Gia tăng thưởng cận chiến khi đơn vị xung phong vào kẻ địch.
+[1538] Cải thiện Thưởng Xung Phong. \n \n Gia tăng thưởng cận chiến khi đơn vị xung phong vào kẻ địch.
+[1539] Phát Hiện Kẻ Địch
+[1540] Phát Hiện Kẻ Địch
+[1541] Tốc độ
+[1542] Kháng Mệt Mỏi
+[1543] Tốc độ
+[1544] Kháng Mệt Mỏi
+[1545] Kháng Mệt Mỏi
+[1546] Sĩ khí
+[1547] Sĩ khí
+[1548] Hiệu Lệnh Tập Hợp
+[1549] Hiệu Lệnh Tập Hợp
+[1550] Cải thiện Sĩ khí. \n \n Đơn vị có sĩ khí cao sẽ ít bị tan vỡ trong trận đánh.
+[1551] Cải thiện Sĩ khí. \n \n Đơn vị có sĩ khí cao sẽ ít bị tan vỡ trong trận đánh.
+[1552] Tăng mạnh Phòng thủ Cận chiến. \n \n Gia tăng khả năng phòng thủ trước các đòn cận chiến của đơn vị.
+[1553] Cải thiện Phòng thủ Cận chiến. \n \n Gia tăng khả năng phòng thủ trước các đòn cận chiến của đơn vị.
+[1554] Cải thiện Phòng thủ Cận chiến. \n \n Gia tăng khả năng phòng thủ trước các đòn cận chiến của đơn vị.
+[1555] Tăng mạnh Tốc độ Nạp đạn. \n \n Gia tăng tốc độ khai hỏa của đơn vị.
+[1556] Cải thiện Tốc độ Nạp đạn. \n \n Gia tăng tốc độ khai hỏa của đơn vị.
+[1557] Cải thiện Tốc độ Nạp đạn. \n \n Gia tăng tốc độ khai hỏa của đơn vị.
+[1558] Xung Phong
+[1559] Xung Phong
+[1560] Xung Phong
+[1561] Tăng mạnh Kháng Mệt Mỏi. \n \n Giảm tốc độ mệt mỏi của hóa thân và đội cận vệ. \n \n Mệt mỏi làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu. \n
+[1562] Kích hoạt khả năng Stand & Fight. \n \n Khi kích hoạt, hóa thân sẽ xuống ngựa để cổ vũ các đơn vị xung quanh, gia tăng sĩ khí, tấn công cận chiến và tốc độ nạp đạn của họ. \n \n Khả năng sẽ duy trì cho đến khi bị hủy. \n \n Hóa thân không thể di chuyển khi Stand & Fight đang hoạt động. \n
+[1563] Kháng Mệt Mỏi Tinh Nhuệ. \n \n Giảm tốc độ mệt mỏi của hóa thân và đội cận vệ. \n \n Mệt mỏi làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu. \n
+[1564] Kích hoạt khả năng Stand & Fight. \n \n Khi kích hoạt, hóa thân sẽ xuống ngựa để cổ vũ các đơn vị xung quanh, gia tăng sĩ khí, tấn công cận chiến và tốc độ nạp đạn của họ. \n \n Khả năng sẽ duy trì cho đến khi bị hủy. \n \n Hóa thân không thể di chuyển khi Stand & Fight đang hoạt động. \n
+[1565] Tăng Kháng Mệt Mỏi. \n \n Giảm tốc độ mệt mỏi của hóa thân và đội cận vệ. \n \n Mệt mỏi làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu. \n \n Yêu cầu 1 điểm trong kỹ năng Tốc độ. \n
+[1566] Tăng Kháng Mệt Mỏi. \n \n Giảm tốc độ mệt mỏi của hóa thân và đội cận vệ. \n \n Mệt mỏi làm suy giảm tốc độ, sĩ khí và khả năng chiến đấu. \n \n Yêu cầu 1 điểm trong kỹ năng Tốc độ. \n
+[1567] Sát thương Bắn xa
+[1568] Sát thương Bắn xa
+[1569] Khả năng Kneel Fire. \n \n Mở khóa khả năng Kneel Fire, giúp gia tăng đáng kể tốc độ khai hỏa của đơn vị. \n \n Đơn vị phải đạt cấp 9 và đã học 8 kỹ năng khác. \n \n Phải là thành viên của gia tộc chuyên về Imperial. \n \n Yêu cầu 20 Thẻ tộc.
+[1570] Khả năng Kneel Fire. \n \n Mở khóa khả năng Kneel Fire, giúp gia tăng đáng kể tốc độ khai hỏa của đơn vị. \n \n Đơn vị phải đạt cấp 9 và đã học 8 kỹ năng khác. \n \n Phải là thành viên của gia tộc chuyên về Imperial. \n \n Yêu cầu 20 Thẻ tộc.
+[1571] Hóa thân nhận được khả năng Banzai. Khi sử dụng, khả năng này giúp đội cận vệ của hóa thân tăng sĩ khí và tấn công trong 20 giây. \n \n Yêu cầu: 2 điểm trong Tấn công Cận chiến \n
+[1572] Hóa thân nhận được khả năng Banzai. Khi sử dụng, khả năng này giúp đội cận vệ của hóa thân tăng sĩ khí và tấn công trong 20 giây. \n \n Yêu cầu: 2 điểm trong Tấn công Cận chiến \n
+[1573] Kneel Fire
+[1574] Kneel Fire
+[1575] Tốc độ Nạp đạn
+[1576] Tốc độ Nạp đạn
+[1577] Tốc độ Nạp đạn
+[1578] Phòng thủ Cận chiến
+[1579] Phòng thủ Cận chiến
+[1580] Cải thiện Phòng thủ Cận chiến. \n \n Gia tăng khả năng phòng thủ trước các đòn cận chiến của đơn vị.
+[1581] Cải thiện Phòng thủ Cận chiến. \n \n Gia tăng khả năng phòng thủ trước các đòn cận chiến của đơn vị.
+[1582] Sát thương từ Cung
+[1583] Sát thương từ Cung
+[1584] Chính Xác Tinh Nhuệ \n \n Đơn vị bắn chính xác hơn. \n \n Yêu cầu 2 điểm trong Chính Xác cơ bản. \n \n Đơn vị phải đạt cấp 5 và đã học 4 kỹ năng cơ bản. \n \n Yêu cầu 10 Thẻ tộc.
+[1585] Chính Xác Tinh Nhuệ \n \n Đơn vị bắn chính xác hơn. \n \n Yêu cầu 10 Thẻ tộc.
+[1586] Tốc độ Nạp đạn
+[1587] Tốc độ Nạp đạn
+[1588] Tốc độ Nạp đạn
+[1589] Sĩ khí
+[1590] Sĩ khí
+[1591] Sĩ khí
+[1592] Kích hoạt Whistling Arrows. \n \n Khi kích hoạt, Whistling Arrows sẽ làm giảm sĩ khí, tấn công cận chiến và tốc độ nạp đạn của các đơn vị địch bị nhắm tới. \n
+[1593] Kích hoạt Whistling Arrows. \n \n Khi kích hoạt, Whistling Arrows sẽ làm giảm sĩ khí, tấn công cận chiến và tốc độ nạp đạn của các đơn vị địch bị nhắm tới. \n
+[1594] Tốc độ
+[1595] Tốc độ
+[1596] Tốc độ
+[1597] Sát thương từ Cung
+[1598] Sát thương từ Cung
+[1599] Kích hoạt khả năng Stand and Fight. \n \n Khi kích hoạt, hóa thân sẽ xuống ngựa để cổ vũ các đơn vị xung quanh, gia tăng sĩ khí, tấn công cận chiến và tốc độ nạp đạn của họ. \n \n Khả năng sẽ duy trì cho đến khi bị hủy. \n \n Hóa thân không thể di chuyển khi Stand and Fight đang hoạt động. \n \n Yêu cầu 2 điểm trong kỹ năng Inspire. \n
